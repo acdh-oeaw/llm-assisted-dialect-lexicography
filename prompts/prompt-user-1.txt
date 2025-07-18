@@ -1,0 +1,4 @@
+In unserem folgenden Projekt verfolgen wir das Ziel, Wörterbuchartikel für ein wissenschaftliches Dialektwörterbuch zu bairischen Dialekten in Österreich zu erstellen.
+Die Grundlage dafür bilden Belege, die die notwendigen Informationen für jedes Lemma enthalten.
+Bitte analysiere den bereitgestellten Glossar und die Belege Schritt für Schritt im Detail und extrahiere die Informationen insbesondere im Hinblick auf ihre lexikographische Verwertbarkeit.
+Verwende den Glossar um die Kategorien der Belege besser einordnen zu können.

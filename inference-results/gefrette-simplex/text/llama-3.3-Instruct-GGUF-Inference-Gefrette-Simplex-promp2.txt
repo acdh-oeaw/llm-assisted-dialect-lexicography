@@ -1,0 +1,37 @@
+Nach der Analyse der Belege und unter Berücksichtigung der angegebenen Reihenfolge (Bedeutung der Lautung, Bedeutung des Kontexts, Belegsatz, Fragebogennummer) sowie weiterer relevanter Informationen, können die Bedeutungen des Lemmas "(Ge)frette" wie folgt extrahiert und gruppiert werden:
+
+1. **Mühe/Plage**:
+   - Bedeutung: Mühsame Arbeit, Plage, Schwierigkeit.
+   - Großregionen: 3.4 MStmk., 6.4 Weinv., 5.4 Mühlv., 6.5 Wien, 3.1 sbair.ObStmk., 6.3 Waldv., 1A.2 mSTir.
+   - Belegsatz: "is dės ə gfrėt [n]; das is a Gfret n" (Beleg ID: f283_qdb-d1e1807, Bedeutung: das ist ein Übel).
+   - Belegsatz: "si hōd a Gfrėitt mid ia'n Buam'; si hod a Gfreitt mid ian Buam" (Beleg ID: f283_qdb-d1e2194, Bedeutung: zwangvolle Lage, peinliche Lage, drückendes Elend).
+
+2. **Unheil/Übel**:
+   - Bedeutung: Unheil, Übel, Schaden.
+   - Großregionen: 3.4 MStmk., 6.5 Wien, 1C.3 öNTir.
+   - Belegsatz: "dẹ̄s īs ɒ̃ gfrẹtt [n]   !; des is a gfrett n !" (Beleg ID: f283_qdb-d1e2864, Bedeutung: Gefrette).
+   - Belegsatz: "Das is'a Gfret'!; Das isa Gfret!" (Beleg ID: f283_qdb-d1e1754, Bedeutung: DAS IST EIN Elend!).
+
+3. **Stümperei/Armseliges Bemühen**:
+   - Bedeutung: Stümperei, armseliges Bemühen, unsolide Arbeit.
+   - Großregionen: 6.5 Wien, 3.3 WStmk., 5.2 Hausrv.
+   - Belegsatz: "dar Kronawötter stönkt: "A so a Gfröt„; dar Kronawötter stönkt: A so a Gfröt„" (Beleg ID: f283_qdb-d1e2687, Bedeutung: keine direkte Bedeutung, aber Kontext von Stümperei).
+   - Kein direkter Belegsatz, aber der Kontext von Stümperei und armseligem Bemühen ist relevant.
+
+4. **Schwierigkeit/Schererei**:
+   - Bedeutung: Schwierigkeit, Schererei, Verlegenheit.
+   - Großregionen: 6.5 Wien, 5.4 Mühlv., 3.2 mbair.ObStmk.
+   - Belegsatz: "Ner mit'n Wasser habn s' Gfrett. Mei'an Brunn grabn, das kostert hübsch was; Ner mitn Wasser habn s Gfrett. Meian Brunn grabn, das kostert hübsch was" (Beleg ID: f283_qdb-d1e1587, Bedeutung: Schwierigkeit mit Wasser).
+   - Belegsatz: "da hob' i' an Gfrett g'håbt!; da hob i an Gfrett ghabt!" (Beleg ID: f283_qdb-d1e1729, Bedeutung: Schwierigkeit oder Übel).
+
+5. **Mißgeschick/Mißverständnis**:
+   - Bedeutung: Mißgeschick, Mißverständnis, unglückliche Situation.
+   - Großregionen: 6.2 Industriev., 1C.3 öNTir.
+   - Kein direkter Belegsatz, aber der Kontext von Mißgeschick und unglücklichen Situationen ist relevant.
+
+6. **Fehlerhafte Arbeit/Glasgefäß**:
+   - Bedeutung: Fehlerhafte Arbeit, besonders im Kontext von Glasgefäßen.
+   - Großregionen: 3.3 WStmk.
+   - Belegsatz: Kein direkter Belegsatz, aber die Bedeutung ist spezifisch für Glasgefäße.
+
+Es ist wichtig zu beachten, dass einige Belegsätze mehrere Bedeutungen abdecken können und die Kategorisierung je nach Interpretation variieren kann. Die angegebenen Großregionen sind nicht erschöpfend, da nicht alle Belege eine explizite regionale Zuordnung enthalten. Die Bedeutungen und Belegsätze wurden sorgfältig ausgewählt, um die Vielfalt der Verwendungen des Lemmas "(Ge)frette" in den bairischen Dialekten Österreichs zu veranschaulichen.

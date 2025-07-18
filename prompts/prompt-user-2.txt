@@ -1,0 +1,11 @@
+Bitte extrahiere die Bedeutungen des Lemmas und gruppiere sie zu sinnvollen semantischen Kategorien.
+Konsultiere dafür bitte die im Text enthaltenen Belege in der folgenden Reihenfolge:
+    1. Bedeutung der Lautung
+    2. Bedeutung des Kontexts
+    3. Belegsatz
+    4. Fragebogennummer
+
+Falls du noch weitere relevante Informationen zur Bedeutungsklassifikation in anderen Kategorien findest, kannst du diese auch noch benutzen. 
+Bitte gib auch zu jeder von dir generierten Einzelbedeutung an, in welchen Großregionen diese belegt ist.
+Falls es aussagekräftige Belegsätze zu den Einzelbedeutungen gibt (Kategorie „Belegsatz“), füge diese bitte den Bedeutungen zur Illustration hinzu. Verwende aber ausschließlich Belegsätze, die in den Belegen enthalten sind.
+Falls es zu einer Bedeutung keinen aussagekräftigen Belegsatz gibt, dann füge keinen hinzu.

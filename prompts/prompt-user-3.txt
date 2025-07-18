@@ -1,0 +1,20 @@
+Bitte ordne die Bedeutungen zu einem Wörterbuchartikel nach dem folgendem exemplarischen Schema an.
+Das Schema enthält die metasprachlichen Beschreibungen der Artikelpositionen und Inhalte.
+Bitte verzichte auf die Angaben von Siglen-Nummern der Regionen sowie auf Übersetzungen von Belegsätzen.
+Füge ebenfalls die relevanten Beleg IDs hinzu.
+Bitte gib auch nicht die metasprachlichen Beschreibungen, sondern nur die entsprechenden Inhalte. Und verwende ausschließlich Informationen aus dem bereitgestellten Belegen.
+Bitte verwende ausschließlich Deutsch als Sprache.
+
+Schema:
+Lemma
+Wortart (gegebenenfalls mit grammatischen Informationen zu Genus oder Flexionsklasse)
+
+Bedeutung
+I.1. Bedeutung I.1 – Großregion(en), in denen die Bedeutung belegt ist – ggfs. Belegsatz mit Angabe des Herkunftsortes, Beleg-IDs
+I.2. Bedeutung I.2 – Großregion(en), in denen die Bedeutung belegt ist – ggfs. Belegsatz mit Angabe des Herkunftsortes, Beleg-IDs
+… 
+II. Bedeutung II – Großregion(en), in denen die Bedeutung belegt ist – ggfs. Belegsatz mit Angabe des Herkunftsortes, Beleg-IDs
+III.1.a) Bedeutung III.1.a) – Großregion(en), in denen die Bedeutung belegt ist – ggfs. Belegsatz mit Angabe des Herkunftsortes, Beleg-IDs
+III.1.b) Bedeutung III.1.b) – Großregion(en), in denen die Bedeutung belegt ist – ggfs. Belegsatz mit Angabe des Herkunftsortes, Beleg-IDs
+…
+III.2 Bedeutung III.2 – Großregion(en), in denen die Bedeutung belegt ist – ggfs. Belegsatz mit Angabe des Herkunftsortes, Beleg-IDs

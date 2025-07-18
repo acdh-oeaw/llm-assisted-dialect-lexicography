@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-df0817dc-6c31-463c-992a-42a5adcfdc81",
+    "object": "chat.completion",
+    "created": 1752649609,
+    "model": "/users/daniel.elsner/.cache/huggingface/hub/models--lmstudio-community--Llama-3.3-70B-Instruct-GGUF/snapshots/3a489fd247ce24848d8d8a3fadd707088665681f/./Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "(Ge)frette\nSubstantiv\n\nBedeutung\nI.1. M\u00fche, Plage, Schwierigkeit \u2013 3.4 MStmk., 6.4 Weinv., 5.4 M\u00fchlv., 6.5 Wien, 3.1 sbair.ObStmk., 6.3 Waldv., 1A.2 mSTir. \u2013 is d\u0117s \u0259 gfr\u0117t [n]; das is a Gfret n, f283_qdb-d1e1807, si h\u014dd a Gfr\u0117itt mid ia'n Buam'; si hod a Gfreitt mid ian Buam, f283_qdb-d1e2194\nI.2. Unheil, \u00dcbel \u2013 3.4 MStmk., 6.5 Wien, 1C.3 \u00f6NTir. \u2013 d\u1eb9\u0304s \u012bs \u0252\u0303 gfr\u1eb9tt [n]   !; des is a gfrett n !, f283_qdb-d1e2864, Das is'a Gfret'!; Das isa Gfret!, f283_qdb-d1e1754\nII. St\u00fcmperei, armseliges Bem\u00fchen \u2013 6.5 Wien, 3.3 WStmk., 5.2 Hausrv. \u2013 dar Kronaw\u00f6tter st\u00f6nkt: \"A so a Gfr\u00f6t\u201e; dar Kronaw\u00f6tter st\u00f6nkt: A so a Gfr\u00f6t\u201e, f283_qdb-d1e2687\nIII.1.a) Schwierigkeit, Schererei \u2013 6.5 Wien, 5.4 M\u00fchlv., 3.2 mbair.ObStmk. \u2013 Ner mit'n Wasser habn s' Gfrett. Mei'an Brunn grabn, das kostert h\u00fcbsch was; Ner mitn Wasser habn s Gfrett. Meian Brunn grabn, das kostert h\u00fcbsch was, f283_qdb-d1e1587\nIII.1.b) Mi\u00dfgeschick, ungl\u00fcckliche Situation \u2013 6.2 Industriev., 1C.3 \u00f6NTir. \u2013 f283_qdb-d1e821, f283_qdb-d1e2711\nIII.2. Fehlerhafte Arbeit, besonders im Kontext von Glasgef\u00e4\u00dfen \u2013 3.3 WStmk. \u2013 f283_qdb-d1e4024"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 11654,
+        "completion_tokens": 536,
+        "total_tokens": 12190
+    },
+    "elapsed_time": 924.4406678676605
+}

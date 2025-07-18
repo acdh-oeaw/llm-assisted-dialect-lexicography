@@ -1,0 +1,35 @@
+Um die Belege für das wissenschaftliche Dialektwörterbuch zu analysieren und die notwendigen Informationen zu extrahieren, werde ich Schritt für Schritt vorgehen und den Glossar als Referenz verwenden.
+
+**Schritt 1: Übersicht über die Belege**
+
+Die bereitgestellten Belege haben alle ein bestimmtes Format, das folgende Informationen enthält:
+- Beleg ID: Eine eindeutige Identifikationsnummer für jeden Beleg.
+- Hauptlemma: Das zugeordnete Lemma, in diesem Fall "(Ge)frette" oder "Gefrette".
+- Part of Speech: Die Wortart des Belegs, die in allen Fällen "Substantiv" ist.
+- Bedeutung der Lautung: Eine Beschreibung der Bedeutung des Belegs, oft mit mehreren möglichen Bedeutungen.
+- Großregion: Die geografische Zuordnung des Belegs zu einer bestimmten Region in Österreich.
+- Weitere Felder wie Belegsatz 1 und 2, Bedeutung des Belegsatzes, Fragebogennummer und Diverses enthalten zusätzliche Informationen zu Kontext, Bedeutung und spezifischen Anmerkungen.
+
+**Schritt 2: Analyse der Belegstruktur und Inhalte**
+
+- **Hauptlemma und Part of Speech**: Alle Belege sind dem Hauptlemma "(Ge)frette" oder "Gefrette" zugeordnet und gehören zur Wortart "Substantiv". Dies gibt Aufschluss über die grammatische Kategorie und die Grundbedeutung des Lemmas.
+- **Bedeutung der Lautung**: Die Bedeutungen variieren von "Unheil", "mühseliges Arbeiten", "Gefrett", "Mühe", "Plage", "Verlegenheit", "Schwierigkeit" bis hin zu "Stümperei" und "armseliges Bemühen". Diese Vielfalt an Bedeutungen zeigt, dass das Lemma "(Ge)frette" in verschiedenen Kontexten und Regionen unterschiedlich verwendet wird.
+- **Großregion**: Die Belege stammen aus verschiedenen Großregionen Österreichs, wie z.B. "3.4 MStmk.", "6.4 Weinv.", "5.4 Mühlv.", was die geografische Verbreitung des Lemmas und mögliche regionale Bedeutungsunterschiede aufzeigt.
+- **Belegsatz 1 und 2**: Diese Felder enthalten BeispielSätze oder Redewendungen, die den Beleg in einem bestimmten Kontext verwenden. Sie helfen dabei, die Bedeutung und den Gebrauch des Lemmas in der Praxis zu verstehen.
+- **Bedeutung des Belegsatzes**: Hier werden die Bedeutungen der Belegsätze erklärt, was wertvolle Einblicke in die semantische Breite des Lemmas gibt.
+- **Fragebogennummer**: Einige Belege sind bestimmten Fragebögen zugeordnet, was darauf hindeutet, dass sie im Rahmen systematischer Erhebungen gesammelt wurden.
+- **Diverses**: Dieses Feld enthält manchmal zusätzliche Anmerkungen oder Erläuterungen, die für das Verständnis des Belegs oder seiner Bedeutung nützlich sein können.
+
+**Schritt 3: Extraktion lexikographisch relevanter Informationen**
+
+Für die Erstellung von Wörterbuchartikeln sind insbesondere die folgenden Informationen relevant:
+- **Lemma**: "(Ge)frette" oder "Gefrette" als Hauptlemma.
+- **Wortart**: Substantiv.
+- **Bedeutungen**: Die Vielzahl an Bedeutungen, die in den Belegen genannt werden, einschließlich "Unheil", "mühseliges Arbeiten", "Mühe", "Plage", "Verlegenheit", "Schwierigkeit", "Stümperei", "armseliges Bemühen" usw.
+- **Beispiele und Kontext**: Die Belegsätze und ihre Bedeutungen liefern wertvolle Beispiele für die Verwendung des Lemmas in verschiedenen Kontexten.
+- **Geografische Verbreitung**: Die Großregionen, in denen das Lemma verwendet wird, was Aufschluss über seine regionale Distribution gibt.
+- **Fragebogennummern und Diverses**: Diese Informationen können für die Bewertung der Quellen und die tiefergehende Analyse des Lemmas in bestimmten Kontexten nützlich sein.
+
+**Schritt 4: Zusammenfassung und Vorbereitung für die Wörterbuchartikel**
+
+Basierend auf der Analyse der Belege und unter Verwendung des Glossars als Referenz, können die notwendigen Informationen für die Erstellung von Wörterbuchartikeln zu "(Ge)frette" oder "Gefrette" extrahiert werden. Dies umfasst die Lemma-Form, die Wortart, die verschiedenen Bedeutungen, Beispiele und den geografischen Verbreitungsbereich. Diese Informationen werden dann strukturiert und in einem Wörterbuchartikel präsentiert, um eine umfassende und detaillierte Darstellung des Lemmas in bairischen Dialekten zu bieten.
