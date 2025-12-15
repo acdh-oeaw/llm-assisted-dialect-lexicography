@@ -1,0 +1,53 @@
+Nach der Analyse der Belege habe ich die Bedeutungen des Lemmas "grob" in semantische Kategorien gruppiert. Hier sind die Ergebnisse:
+
+1. **Geizig, knauserig**:
+   - Bedeutung: Geizig, knauserig, sparsam
+   - Großregionen: 5.1 Innv., 5.2 Hausrv., 6.1 Mostv.
+   - Belegsatz: "du bist jǫ ǫ̃ɒ́̃mo­e ts grōb [P]   !" (Beleg ID: g347_qdb-d1e7733)
+
+2. **Hässlich, unschön**:
+   - Bedeutung: Hässlich, unschön, unangenehm
+   - Großregionen: 1C.3 öNTir., 5.1 Innv., 6.5 Wien
+   - Belegsatz: "Dös sagt ma nöt, dōs is grob [P];" (Beleg ID: g347_qdb-d1e4903)
+
+3. **Schmutzig, un Reinlich**:
+   - Bedeutung: Schmutzig, un Reinlich, unsauber
+   - Großregionen: 1C.3 öNTir., 5.1 Innv., 6.2 Industriev.
+   - Belegsatz: "a grōbs [P,fl]   Gs.; a grobs P,fl Gs." (Beleg ID: g347_qdb-d1e16723)
+
+4. **Stark, kräftig**:
+   - Bedeutung: Stark, kräftig, robust
+   - Großregionen: 5.1 Innv., 6.1 Mostv., 6.3 Waldv.
+   - Belegsatz: "grōb [P]   sei; grob P sein" (Beleg ID: g347_qdb-d1e9197)
+
+5. **Grob, derb (von Menschen)**:
+   - Bedeutung: Grob, derb, unfein (in Bezug auf Menschen)
+   - Großregionen: 5.1 Innv., 6.1 Mostv., 6.5 Wien
+   - Belegsatz: "Der Doktor is awər grob [P]   , der håd mi ordntli g'rissn" (Beleg ID: g347_qdb-d1e15315)
+
+6. **Schlecht, unangenehm (Wetter)**:
+   - Bedeutung: Schlecht, unangenehm (in Bezug auf das Wetter)
+   - Großregionen: 5.1 Innv., 5.2 Hausrv., 6.1 Mostv.
+   - Belegsatz: "haėⁿd iss grōb [P]; haend iss grob P" (Beleg ID: g347_qdb-d1e3620)
+
+7. **Rauh, ungeschliffen**:
+   - Bedeutung: Rauh, ungeschliffen, ungehobelt
+   - Großregionen: 1C.3 öNTir., 5.1 Innv., 6.3 Waldv.
+   - Belegsatz: "a grōwė [P,fl]   Hånd; a growe P,fl Hand" (Beleg ID: g347_qdb-d1e1542)
+
+8. **Unsanft, unwirsch**:
+   - Bedeutung: Unsanft, unwirsch, unhöflich
+   - Großregionen: 5.1 Innv., 6.1 Mostv., 6.4 Weinv.
+   - Kein aussagekräftiger Belegsatz vorhanden
+
+9. **Groß, stark (von Dingen)**:
+   - Bedeutung: Groß, stark, imposant (in Bezug auf Dinge)
+   - Großregionen: 5.1 Innv., 6.1 Mostv., 6.3 Waldv.
+   - Belegsatz: "growi [P,fl]   Hoaʳ; growi P,fl Hoar" (Beleg ID: g347_qdb-d1e6145)
+
+10. **Schwer, beschwerlich**:
+    - Bedeutung: Schwer, beschwerlich, mühsam
+    - Großregionen: 1C.3 öNTir., 5.1 Innv., 6.2 Industriev.
+    - Kein aussagekräftiger Belegsatz vorhanden
+
+Bitte beachten Sie, dass die Kategorisierung und die Zuweisung von Bedeutungen zu Großregionen auf der Grundlage der bereitgestellten Belege erfolgt und möglicherweise nicht vollständig oder eindeutig ist. Weitere Belege oder Kontextinformationen könnten zu einer Feinverteilung oder Korrektur der Bedeutungen und Großregionen führen.

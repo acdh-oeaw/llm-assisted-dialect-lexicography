@@ -1,0 +1,19 @@
+Nach der Analyse der Belege habe ich die Bedeutungen des Lemmas "Köder" extrahiert und sie in sinnvolle semantische Kategorien gruppiert. Hier sind die Ergebnisse:
+
+1. **Lockspeise**: Köder als Lockmittel für Fische oder andere Tiere.
+ * Belegt in: 1C.1 wNTir., 1C.2 mNTir., 1C.3 öNTir., 2.2 MKtn., 3.1 sbair.ObStmk., 3.2 mbair.ObStmk., 3.3 WStmk., 4.2 Pinzg., 5.1 Innv., 5.2 Hausrv., 5.3 Traunv., 5.4 Mühlv., 6.1 Mostv., 6.2 Industriev., 6.3 Waldv., 6.5 Wien, 7.1 NBgl.
+ * Belegsatz: "håsch ęs kęadr [sg4]   scho aichn gitun?" (Beleg ID: k502_qdb-d1e83708)
+2. **Teil eines Schuhs**: Köder als Teil eines Schuhs, insbesondere als Lederfleck zwischen Sohle und Oberleder.
+ * Belegt in: 1C.2 mNTir., 1C.3 öNTir., 6.4 Weinv.
+ * Belegsatz: "rings an den Seiten der Brandsohle werden Lederflecklen aufgenagelt, das sind die 'Köder'" (Beleg ID: k502_qdb-d1e82084)
+3. **Brot**: Köder als umgangssprachliche Bezeichnung für Brot.
+ * Belegt in: 6.5 Wien
+ * Kein aussagekräftiger Belegsatz vorhanden
+4. **Weibliche Person**: Köder als umgangssprachliche Bezeichnung für eine weibliche Person, insbesondere eine attraktive Frau.
+ * Belegt in: 1A.4 öSTir.
+ * Belegsatz: "Köder (weil sie gern anbeißen läßt) geile Frau" (Beleg ID: k502_qdb-d1e80683)
+5. **Fischköder**: Köder als spezielles Lockmittel für Fische.
+ * Belegt in: 3.5 OStmk., 5.3 Traunv., 6.1 Mostv.
+ * Belegsatz: "Fischköder verwendet werden: Fliegen, Grundelfisch, Reggenwürmer, auch Schnecken" (Beleg ID: k502_qdb-d1e82663)
+
+Es ist zu beachten, dass einige Belege mehrere Bedeutungen aufweisen können, insbesondere wenn sie in verschiedenen Kontexten verwendet werden. Die obige Kategorisierung ist jedoch eine sinnvolle Gruppierung der Bedeutungen des Lemmas "Köder".

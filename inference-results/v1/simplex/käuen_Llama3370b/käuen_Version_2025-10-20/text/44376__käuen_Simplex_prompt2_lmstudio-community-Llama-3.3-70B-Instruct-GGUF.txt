@@ -1,0 +1,22 @@
+Nach der Analyse der Belege habe ich die folgenden Bedeutungen des Lemmas "käuen" extrahiert und gruppiert:
+
+1. **Kauen, beißen**: Diese Bedeutung bezieht sich auf die Handlung des Kauens oder Beißens von etwas.
+ * Belegt in den Großregionen: 1A.1 wSTir., 1A.2 mSTir., 1A.4 öSTir., 1B.0 OTir., 1C.1 wNTir., 1C.2 mNTir., 1C.3 öNTir., 2.1 ObKtn., 2.2 MKtn., 3.1 sbair.ObStmk., 3.2 mbair.ObStmk., 3.3 WStmk., 3.4 MStmk., 3.5 OStmk., 4.1 Lung., 4.2 Pinzg., 4.3 Pong., 4.5 Flachg., 5.2 Hausrv., 5.3 Traunv., 5.4 Mühlv., 6.1 Mostv., 6.2 Industriev., 6.3 Waldv., 6.4 Weinv., 6.5 Wien
+ * Belegsatz: "Nägl kau'n [I]; Nägl kaun I" (Beleg ID: k480_qdb-d1e35841)
+2. **Tabak kauen**: Diese Bedeutung bezieht sich auf die Handlung des Kauens von Tabak.
+ * Belegt in den Großregionen: 1C.1 wNTir., 1C.3 öNTir., 2.2 MKtn., 3.1 sbair.ObStmk., 3.2 mbair.ObStmk., 3.4 MStmk., 6.1 Mostv., 6.3 Waldv., 6.4 Weinv., 6.5 Wien
+ * Belegsatz: "Tabak kauen [I]; Tabak kauen I" (Beleg ID: k480_qdb-d1e40053)
+3. **Wiederkäuen**: Diese Bedeutung bezieht sich auf die Handlung des Wiederkäens von etwas, insbesondere von Nahrung.
+ * Belegt in den Großregionen: 1A.4 öSTir., 1C.1 wNTir., 1C.2 mNTir., 3.4 MStmk., 3.5 OStmk., 6.1 Mostv.
+ * Belegsatz: "wiederkäuen; wiederkäuen" (Beleg ID: k480_qdb-d1e31997)
+4. **Kauen an Nägeln**: Diese Bedeutung bezieht sich auf die Handlung des Kauens an Nägeln, insbesondere als nervöse Angewohnheit.
+ * Belegt in den Großregionen: 1A.1 wSTir., 1C.1 wNTir., 1C.2 mNTir., 6.3 Waldv., 6.5 Wien
+ * Belegsatz: "an di Nögl kuiən [I]; an di Nögl kuien I" (Beleg ID: k480_qdb-d1e36076)
+5. **Kauen als Teil des Verdauungsprozesses**: Diese Bedeutung bezieht sich auf die Handlung des Kauens als Teil des Verdauungsprozesses.
+ * Belegt in den Großregionen: 2.2 MKtn., 3.2 mbair.ObStmk., 5.2 Hausrv.
+ * Belegsatz: "ιͅs nįt zan Keinan̨ [P/1,sg3]; ιs nit zan Keinan P/1,sg3" (Beleg ID: k480_qdb-d1e33454)
+6. **Kauen als metaphorische Bedeutung**: Diese Bedeutung bezieht sich auf die Handlung des Kauens als metaphorische Bedeutung, insbesondere in Redewendungen oder Idiomen.
+ * Belegt in den Großregionen: 1A.4 öSTir., 3.5 OStmk.
+ * Kein aussagekräftiger Belegsatz vorhanden
+
+Bitte beachten Sie, dass die Kategorisierung der Bedeutungen nicht immer eindeutig ist und dass es Überschneidungen zwischen den Kategorien geben kann.

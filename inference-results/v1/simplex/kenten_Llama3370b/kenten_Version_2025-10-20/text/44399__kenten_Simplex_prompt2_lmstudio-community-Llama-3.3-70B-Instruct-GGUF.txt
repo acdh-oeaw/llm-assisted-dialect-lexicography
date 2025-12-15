@@ -1,0 +1,35 @@
+Ich werde die Bedeutungen des Lemmas "kenten" extrahieren und gruppiere sie zu sinnvollen semantischen Kategorien.
+
+**Bedeutungskategorien:**
+
+1. **Heizen**
+ * Bedeutung: Heizen, einheizen
+ * Belege:
+ + k474_qdb-d1e60468 (Bedeutung der Lautung: heizen; einheizen; leuchten; Licht machen = zünden; heizen einheizen leuchten Licht machen = zünden)
+ + k474_qdb-d1e57857 (Bedeutung der Lautung: einheizen)
+ + k474_qdb-d1e57396 (Bedeutung der Lautung: heizen)
+ * Großregionen: 1C.1 wNTir., 1C.2 mNTir., 4.2 Pinzg., 5.3 Traunv.
+ * Belegsatz: Kein aussagekräftiger Belegsatz vorhanden
+2. **Zünden**
+ * Bedeutung: Zünden, anzünden
+ * Belege:
+ + k474_qdb-d1e57581 (Bedeutung der Lautung: zünden; anfeuern; zünden anfeuern)
+ + k474_qdb-d1e58087 (Bedeutung der Lautung: zünden; zünden)
+ + k474_qdb-d1e58357 (Bedeutung der Lautung: zünden; zünden)
+ * Großregionen: 3.1 sbair.ObStmk., 3.2 mbair.ObStmk., 4.5 Flachg., 5.1 Innv., 5.2 Hausrv., 5.3 Traunv., 5.4 Mühlv.
+ * Belegsatz: i hon kχentət [P2] (k474_qdb-d1e58302)
+3. **Feuer machen**
+ * Bedeutung: Feuer machen, Feuer anzünden
+ * Belege:
+ + k474_qdb-d1e58226 (Bedeutung der Lautung: Feuer machen; Feuer anzünden; einheizen; Feuer machen Feuer anzünden einheizen)
+ + k474_qdb-d1e60344 (Bedeutung der Lautung: Feuer machen; anzünden; Feuer machen anzünden)
+ * Großregionen: 3.1 sbair.ObStmk., 3.2 mbair.ObStmk., 5.4 Mühlv.
+ * Belegsatz: Kein aussagekräftiger Belegsatz vorhanden
+4. **Zündeln**
+ * Bedeutung: Zündeln, mit dem Feuer spielen
+ * Belege:
+ + k474_qdb-d1e57095 (Bedeutung der Lautung: zündeln; mit dem Feuer spielen; zündeln mit dem Feuer spielen)
+ * Großregionen: Keine Großregion angegeben
+ * Belegsatz: Kein aussagekräftiger Belegsatz vorhanden
+
+Es ist zu beachten, dass einige Belege mehrere Bedeutungen haben, aber ich habe sie nur einmal in der entsprechenden Kategorie aufgeführt. Außerdem gibt es einige Belege, die keine aussagekräftigen Belegsätze haben, daher habe ich keine Belegsätze hinzugefügt.

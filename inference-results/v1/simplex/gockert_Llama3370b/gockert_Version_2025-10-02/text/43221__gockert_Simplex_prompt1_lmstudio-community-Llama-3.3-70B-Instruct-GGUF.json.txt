@@ -1,0 +1,52 @@
+Um die Belege für das wissenschaftliche Dialektwörterbuch zu analysieren und die notwendigen Informationen zu extrahieren, werde ich die Schritte wie folgt durchführen:
+
+1. **Überblick über den Glossar**: Der Glossar enthält eine Liste von Begriffen, die für die lexikographische Arbeit relevant sind. Dazu gehören unter anderem:
+ * Hauptlemma: Das Hauptlemma ist der Oberbegriff, unter dem alle Varianten eines Wortes zusammengefasst werden.
+ * Nebenlemma: Ein Nebenlemma ist ein Lemma, das einem Hauptlemma zugeordnet ist, aber in bestimmten Aspekten abweicht.
+ * Part of Speech: Die Wortart (z.B. Substantiv, Verb, Adjektiv) eines Belegs.
+ * Bedeutung der Lautung: Die Bedeutung der lautlichen Transkription eines Belegs.
+ * Belegsatz: Ein Belegsatz ist ein Beispiel für die Verwendung eines Wortes in einem Satz.
+ * Großregion: Die regionale Zuordnung eines Belegs.
+
+2. **Analyse der Belege**: Die Belege sind die Grundlage für die Erstellung der Wörterbuchartikel. Jeder Beleg enthält Informationen wie:
+ * Beleg ID: Eine eindeutige Identifikationsnummer für jeden Beleg.
+ * Fragebogennummer: Die Nummer des Fragebogens, aus dem der Beleg stammt.
+ * Hauptlemma: Das Hauptlemma, dem der Beleg zugeordnet ist.
+ * Part of Speech: Die Wortart des Belegs.
+ * Belegsatz: Ein Beispiel für die Verwendung des Wortes in einem Satz.
+ * Bedeutung des Belegsatzes: Die Bedeutung des Belegsatzes in standardsprachlicher Übersetzung.
+ * Bedeutung der Lautung: Die Bedeutung der lautlichen Transkription des Belegs.
+ * Großregion: Die regionale Zuordnung des Belegs.
+
+3. **Extraktion der Informationen**: Um die Informationen aus den Belegen zu extrahieren, werde ich die folgenden Schritte durchführen:
+ * Identifizierung des Hauptlemmas und der zugehörigen Belege.
+ * Bestimmung der Wortart (Part of Speech) jedes Belegs.
+ * Analyse der Belegsätze und ihrer Bedeutungen.
+ * Extraktion der Bedeutungen der lautlichen Transkriptionen.
+ * Zuordnung der Belege zu ihrer jeweiligen Großregion.
+
+4. **Lexikographische Verwertbarkeit**: Um die Belege für das wissenschaftliche Dialektwörterbuch zu verwerten, müssen sie in eine geeignete Form gebracht werden. Dazu gehören:
+ * Die Erstellung von Wörterbuchartikeln für jedes Hauptlemma.
+ * Die Darstellung der verschiedenen Bedeutungen und Verwendungen eines Wortes.
+ * Die Angabe der regionalen Verbreitung eines Wortes.
+ * Die Dokumentation der lautlichen Transkriptionen und ihrer Bedeutungen.
+
+Durch diese Schritte kann ich die Belege analysieren und die notwendigen Informationen für die Erstellung von Wörterbuchartikeln extrahieren. Im nächsten Schritt werde ich die Belege im Detail analysieren und die Informationen extrahieren.
+
+Beispiel für die Analyse eines Belegs:
+Beleg ID: g335_qdb-d1e4792
+Fragebogennummer: 26P32 (2)
+Hauptlemma: gockecht
+Part of Speech: Adjektiv
+Belegsatz 1: s Moidele war schu recht, wen̄s la nöt sȯvl gȯgget [P]   war - O de Gȯggn vrgiehn̨ schuⁿ widr;
+Bedeutung des Belegsatzes: Schade, daß die Marie so voll Goggen ist - O die vergehen schon wieder
+Großregion: 1A.2 mSTir.
+
+Aus diesem Beleg kann ich die folgenden Informationen extrahieren:
+* Das Hauptlemma ist "gockecht".
+* Der Beleg ist ein Adjektiv.
+* Der Belegsatz gibt ein Beispiel für die Verwendung des Wortes in einem Satz.
+* Die Bedeutung des Belegsatzes ist "Schade, daß die Marie so voll Goggen ist - O die vergehen schon wieder".
+* Der Beleg stammt aus der Großregion 1A.2 mSTir.
+
+Diese Informationen können dann für die Erstellung eines Wörterbuchartikels für das Lemma "gockecht" verwendet werden.

@@ -1,0 +1,83 @@
+Anhang: Beleg-IDs
+
+I.1. üppig, wässerig
+* g311_qdb-d1e82856
+* g311_qdb-d1e48270
+
+I.2. geil, üppig gewachsen (von Pflanzen)
+* g311_qdb-d1e83019
+* g311_qdb-d1e82833
+* g297_qdb-d1e72980
+* g311_qdb-d1e48783
+* g311_qdb-d1e48018
+* g311_qdb-d1e48341
+
+I.3. fett, kräftig, gut gedüngt
+* g311_qdb-d1e48436
+* g311_qdb-d1e47540
+* g311_qdb-d1e47422
+* g311_qdb-d1e47704
+
+I.4. faulig, schlüpfrig
+* g311_qdb-d1e46955
+
+I.5. schleimig
+* g311_qdb-d1e46905
+
+II. zu fett, üppig (Essen)
+* g311_qdb-d1e48497
+* g311_qdb-d1e47632
+* g311_qdb-d1e47680
+* g311_qdb-d1e47792
+
+III.1.a) fettreich, geil, üppig
+* g311_qdb-d1e38039
+
+III.1.b) fruchtbar
+* g311_qdb-d1e39352
+
+III.2. widerlich fett, geil
+* g311_qdb-d1e47365
+* g311_qdb-d1e47863
+* g311_qdb-d1e47884
+
+IV.1. überfett, widerstehend
+* g311_qdb-d1e48524
+* g311_qdb-d1e47907
+* g311_qdb-d1e47963
+
+IV.2. fleischig, weich, zart
+* g311_qdb-d1e47186
+* g311_qdb-d1e48841
+* g311_qdb-d1e47112
+
+IV.3. geil, rasch sättigend, allzu fett (v. Speisen)
+* g311_qdb-d1e47632
+* g311_qdb-d1e47792
+
+V. bitter, herb
+* g311_qdb-d1e47813
+
+VI. überfruchtbar
+* g311_qdb-d1e48472
+
+VII. fettstrotzend, strotzend, vollsäftig (v. Lebewesen)
+* g311_qdb-d1e47963
+* g311_qdb-d1e48220
+
+VIII.1. a) fett
+* g311_qdb-d1e47209
+* g311_qdb-d1e47399
+
+VIII.1. b) geil
+* g311_qdb-d1e48783
+* g311_qdb-d1e47588
+* g311_qdb-d1e47655
+* g311_qdb-d1e47842
+
+VIII.2. weich, zart, alt
+* g311_qdb-d1e47234
+* g311_qdb-d1e47186
+* g311_qdb-d1e47112
+
+Es wurden insgesamt 66 Beleg-IDs verwendet.

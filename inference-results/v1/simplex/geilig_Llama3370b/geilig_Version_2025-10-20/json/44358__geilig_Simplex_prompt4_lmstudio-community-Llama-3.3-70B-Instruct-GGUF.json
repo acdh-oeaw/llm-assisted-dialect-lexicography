@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-076be1d8-5378-4d57-9c20-b6cdbbbaace6",
+    "object": "chat.completion",
+    "created": 1760019058,
+    "model": "/users/daniel.elsner/.cache/huggingface/hub/models--lmstudio-community--Llama-3.3-70B-Instruct-GGUF/snapshots/3a489fd247ce24848d8d8a3fadd707088665681f/./Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Anhang: Beleg-IDs\n\nI.1. \u00fcppig, w\u00e4sserig\n* g311_qdb-d1e82856\n* g311_qdb-d1e48270\n\nI.2. geil, \u00fcppig gewachsen (von Pflanzen)\n* g311_qdb-d1e83019\n* g311_qdb-d1e82833\n* g297_qdb-d1e72980\n* g311_qdb-d1e48783\n* g311_qdb-d1e48018\n* g311_qdb-d1e48341\n\nI.3. fett, kr\u00e4ftig, gut ged\u00fcngt\n* g311_qdb-d1e48436\n* g311_qdb-d1e47540\n* g311_qdb-d1e47422\n* g311_qdb-d1e47704\n\nI.4. faulig, schl\u00fcpfrig\n* g311_qdb-d1e46955\n\nI.5. schleimig\n* g311_qdb-d1e46905\n\nII. zu fett, \u00fcppig (Essen)\n* g311_qdb-d1e48497\n* g311_qdb-d1e47632\n* g311_qdb-d1e47680\n* g311_qdb-d1e47792\n\nIII.1.a) fettreich, geil, \u00fcppig\n* g311_qdb-d1e38039\n\nIII.1.b) fruchtbar\n* g311_qdb-d1e39352\n\nIII.2. widerlich fett, geil\n* g311_qdb-d1e47365\n* g311_qdb-d1e47863\n* g311_qdb-d1e47884\n\nIV.1. \u00fcberfett, widerstehend\n* g311_qdb-d1e48524\n* g311_qdb-d1e47907\n* g311_qdb-d1e47963\n\nIV.2. fleischig, weich, zart\n* g311_qdb-d1e47186\n* g311_qdb-d1e48841\n* g311_qdb-d1e47112\n\nIV.3. geil, rasch s\u00e4ttigend, allzu fett (v. Speisen)\n* g311_qdb-d1e47632\n* g311_qdb-d1e47792\n\nV. bitter, herb\n* g311_qdb-d1e47813\n\nVI. \u00fcberfruchtbar\n* g311_qdb-d1e48472\n\nVII. fettstrotzend, strotzend, volls\u00e4ftig (v. Lebewesen)\n* g311_qdb-d1e47963\n* g311_qdb-d1e48220\n\nVIII.1. a) fett\n* g311_qdb-d1e47209\n* g311_qdb-d1e47399\n\nVIII.1. b) geil\n* g311_qdb-d1e48783\n* g311_qdb-d1e47588\n* g311_qdb-d1e47655\n* g311_qdb-d1e47842\n\nVIII.2. weich, zart, alt\n* g311_qdb-d1e47234\n* g311_qdb-d1e47186\n* g311_qdb-d1e47112\n\nEs wurden insgesamt 66 Beleg-IDs verwendet."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 11417,
+        "completion_tokens": 742,
+        "total_tokens": 12159
+    },
+    "elapsed_time": 41557.12036322802
+}

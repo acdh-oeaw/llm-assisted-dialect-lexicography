@@ -1,0 +1,76 @@
+Ich werde den Glossar und die Belege Schritt für Schritt analysieren und die Informationen extrahieren.
+
+**Schritt 1: Analyse des Glossars**
+
+Der Glossar enthält eine Liste von Begriffen, die für die lexikographische Arbeit relevant sind. Ich werde jeden Begriff kurz erläutern:
+
+* Hauptlemma: Bezeichnet das zentrale Lemma, dem alle anderen Lemmata zugeordnet werden.
+* Nebenlemma: Ein Lemma, das einem Hauptlemma zugeordnet ist, aber in bestimmten Aspekten abweicht.
+* Fragebogennummer: Eine Nummer, die einem bestimmten Fragebogen zugeordnet ist.
+* Part of Speech: Die Wortart des Lemmas (z.B. Verb, Substantiv, Adjektiv).
+* Bedeutung der Lautung: Die Bedeutung der Lautungsangabe eines Belegs.
+* Bedeutung des Belegsatzes: Die Bedeutung eines Belegsatzes, der die Bedeutung des Lemmas verdeutlicht.
+* Belegsatz: Ein Satz oder eine Redewendung, die die Bedeutung des Lemmas exemplarisch darstellt.
+* Sammlung: Eine Gruppe von Belegen, die nach lexikographisch sinnvollen Gesichtspunkten zusammengefasst sind.
+* Lautung: Die lautliche Transkription eines Belegs.
+* Anmerkung: Eine zusätzliche Anmerkung zu einem Beleg.
+* Diverses: Eine undefinierte Anmerkung zu einem Beleg.
+* Substantiv, Verb, Adjektiv, Adverb, Präposition, Konjunktion, Pronomen, Interjektion, Partikel: Die Wortarten, die in den Belegen vorkommen.
+* Geschlecht: Das grammatische Geschlecht eines Substantivs.
+* Bedeutung: Die semantische Bedeutung eines Lemmas.
+* Beispielsatz: Ein Satz, der die Bedeutung eines Lemmas exemplarisch darstellt.
+* Wortvarianten: Unterschiedliche Varianten eines Wortes.
+* Wörterbuchartikel: Eine strukturierte Beschreibung eines Lemmas.
+* Quelle Datenbank: Die Quelle, aus der die Belege stammen.
+* CollectionCat: Eine Software-Applikation, die zum Kategorisieren und Zusammenfassen von Belegen verwendet wird.
+* Simplex: Ein einfaches Wort oder Lexem.
+* Kompositum: Ein aus bereits vorhandenen Wörtern zusammengesetztes komplexes Wort.
+* Derivation: Ein Wort, das durch Anhängen eines Affixes gebildet wird.
+* Großregion: Eine regionale Einheit, die mehrere Bundesländer umfasst.
+
+**Schritt 2: Analyse der Belege**
+
+Die Belege sind nach dem Lemma "kardätschen" geordnet. Ich werde jeden Beleg analysieren und die relevanten Informationen extrahieren:
+
+* Beleg ID: k459_qdbn-d16e28052
+ + Hauptlemma: kartä́tschen; kartätschen
+ + Part of Speech: Verb
+ + Bedeutung der Lautung: Wolle zausen; Wolle lockern; Wolle zausen Wolle lockern
+* Beleg ID: k459_qdbn-d16e28923
+ + Fragebogennummer: 102F17
+ + Hauptlemma: kartä́tschen; kartätschen
+ + Part of Speech: Verb
+ + Großregion: 2.2 MKtn.
+* ...
+* Beleg ID: k459_qdbn-d16e30427
+ + Fragebogennummer: 70G27
+ + Hauptlemma: kartä́tschen; kartätschen
+ + Part of Speech: Verb
+ + Belegsatz 1: Woɫ tatschn; Wol tatschn
+ + Großregion: 1C.3 öNTir.
+
+Ich werde die Analyse fortsetzen und die Informationen in einer strukturierten Form zusammenfassen.
+
+**Schritt 3: Zusammenfassung der Informationen**
+
+Ich werde die Informationen aus den Belegen in einer Tabelle zusammenfassen:
+
+| Beleg ID | Hauptlemma | Part of Speech | Bedeutung der Lautung | Fragebogennummer | Großregion | Belegsatz |
+| --- | --- | --- | --- | --- | --- | --- |
+| k459_qdbn-d16e28052 | kartä́tschen; kartätschen | Verb | Wolle zausen; Wolle lockern; Wolle zausen Wolle lockern |  |  |  |
+| k459_qdbn-d16e28923 | kartä́tschen; kartätschen | Verb |  | 102F17 | 2.2 MKtn. |  |
+| ... | ... | ... | ... | ... | ... | ... |
+| k459_qdbn-d16e30427 | kartä́tschen; kartätschen | Verb |  | 70G27 | 1C.3 öNTir. | Woɫ tatschn; Wol tatschn |
+
+Ich werde die Tabelle vervollständigen und dann die lexikographische Verwertbarkeit der Informationen analysieren.
+
+**Schritt 4: Lexikographische Verwertbarkeit**
+
+Ich werde die Informationen aus der Tabelle analysieren und ihre lexikographische Verwertbarkeit bewerten:
+
+* Die Belege enthalten eine Vielzahl von Informationen, die für die Erstellung eines Wörterbuchartikels relevant sind, wie z.B. die Bedeutung der Lautung, die Part of Speech, die Fragebogennummer und die Großregion.
+* Die Belege zeigen, dass das Lemma "kardätschen" in verschiedenen Kontexten verwendet wird, wie z.B. im Zusammenhang mit der Wolle, der Schafwolle und der Pferdebürste.
+* Die Belege enthalten auch verschiedene Belegsätze, die die Bedeutung des Lemmas exemplarisch darstellen.
+* Die Informationen aus den Belegen können verwendet werden, um einen Wörterbuchartikel zu erstellen, der die Bedeutung, die Verwendung und die Varianten des Lemmas "kardätschen" beschreibt.
+
+Ich werde die Analyse fortsetzen und die Ergebnisse in einer strukturierten Form präsentieren.

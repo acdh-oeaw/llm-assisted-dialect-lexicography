@@ -1,0 +1,89 @@
+Ich werde den Glossar und die Belege Schritt für Schritt analysieren und die Informationen extrahieren.
+
+**Schritt 1: Analyse des Glossars**
+
+Der Glossar enthält eine Liste von Begriffen, die für die lexikographische Arbeit relevant sind. Ich werde jeden Begriff kurz erläutern:
+
+* Hauptlemma: Bezeichnet das zentrale Lemma, dem alle anderen Lemmata zugeordnet werden.
+* Nebenlemma: Ein Lemma, das einem Hauptlemma zugeordnet ist, aber in anderer Hinsicht (z.B. Schreibung, Lautung) abweichen kann.
+* Part of Speech: Gibt die Wortart des Lemmas an (z.B. Verb, Substantiv, Adjektiv).
+* Bedeutung der Lautung: Beschreibt die Bedeutung der Lautungsangabe auf dem Beleg.
+* Belegsatz: Ein Satz, der die Bedeutung des Belegs exemplarisch darstellt.
+* Sammlung: Eine Gruppe von Belegen, die nach lexikographisch sinnvollen Gesichtspunkten zusammengefasst werden.
+* Lautung: Die lautliche Transkription des Belegs.
+* Anmerkung: Zusätzliche Anmerkung über den Beleg.
+* Diverses: Undefinierte Anmerkung über den Beleg.
+
+**Schritt 2: Analyse der Belege**
+
+Die Belege sind in einer Liste aufgeführt, jede mit einer eindeutigen ID. Ich werde die Belege nach ihren Attributen analysieren:
+
+* Hauptlemma: Alle Belege haben das Hauptlemma "kenten".
+* Part of Speech: Alle Belege sind Verben.
+* Bedeutung der Lautung: Die Bedeutungen der Lautung variieren, z.B. "heizen", "zünden", "einheizen", "anzünden".
+* Belegsatz: Einige Belege haben einen Belegsatz, der die Bedeutung des Belegs exemplarisch darstellt.
+* Großregion: Die Großregionen, in denen die Belege gesammelt wurden, variieren.
+
+**Schritt 3: Extraktion von Informationen**
+
+Ich werde die Informationen aus den Belegen extrahieren, die für die lexikographische Verwertbarkeit relevant sind:
+
+* Lemma: "kenten"
+* Part of Speech: Verb
+* Bedeutungen:
+ + heizen
+ + zünden
+ + einheizen
+ + anzünden
+ + Feuer machen
+* Belegsätze:
+ + i hon kχentət [P2]
+ + i hon kchentet P2
+* Großregionen:
+ + 1C.1 wNTir.
+ + 1C.2 mNTir.
+ + 1C.3 öNTir.
+ + 3.1 sbair.ObStmk.
+ + 3.2 mbair.ObStmk.
+ + 3.5 OStmk.
+ + 4.2 Pinzg.
+ + 4.3 Pong.
+ + 4.5 Flachg.
+ + 5.1 Innv.
+ + 5.2 Hausrv.
+ + 5.3 Traunv.
+ + 5.4 Mühlv.
+ + 6.1 Mostv.
+
+**Schritt 4: Einordnung in die lexikographische Struktur**
+
+Ich werde die extrahierten Informationen in die lexikographische Struktur einordnen:
+
+* Lemma: "kenten"
+* Part of Speech: Verb
+* Bedeutungen:
+ + heizen
+ + zünden
+ + einheizen
+ + anzünden
+ + Feuer machen
+* Belegsätze:
+ + i hon kχentət [P2]
+ + i hon kchentet P2
+* Großregionen:
+ + 1C.1 wNTir.
+ + 1C.2 mNTir.
+ + 1C.3 öNTir.
+ + 3.1 sbair.ObStmk.
+ + 3.2 mbair.ObStmk.
+ + 3.5 OStmk.
+ + 4.2 Pinzg.
+ + 4.3 Pong.
+ + 4.5 Flachg.
+ + 5.1 Innv.
+ + 5.2 Hausrv.
+ + 5.3 Traunv.
+ + 5.4 Mühlv.
+ + 6.1 Mostv.
+
+Die Informationen sind jetzt in einer lexikographisch verwertbaren Form aufbereitet. Es fehlen jedoch noch einige Informationen, wie z.B. die Lautung und die Anmerkungen, die in den Belegen enthalten sind. Diese Informationen sollten ebenfalls extrahiert und in die lexikographische Struktur einordnet werden.

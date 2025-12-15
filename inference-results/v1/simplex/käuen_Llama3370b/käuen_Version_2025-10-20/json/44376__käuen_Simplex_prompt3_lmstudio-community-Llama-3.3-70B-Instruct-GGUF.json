@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-1b9e5fc4-84a5-4358-8774-b05b7f516e61",
+    "object": "chat.completion",
+    "created": 1760954870,
+    "model": "/users/daniel.elsner/.cache/huggingface/hub/models--lmstudio-community--Llama-3.3-70B-Instruct-GGUF/snapshots/3a489fd247ce24848d8d8a3fadd707088665681f/./Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "k\u00e4uen\nVerb\n\nBedeutung\nI.1. Kauen, bei\u00dfen \u2013 1A.1 wSTir., 1A.2 mSTir., 1A.4 \u00f6STir., 1B.0 OTir., 1C.1 wNTir., 1C.2 mNTir., 1C.3 \u00f6NTir., 2.1 ObKtn., 2.2 MKtn., 3.1 sbair.ObStmk., 3.2 mbair.ObStmk., 3.3 WStmk., 3.4 MStmk., 3.5 OStmk., 4.1 Lung., 4.2 Pinzg., 4.3 Pong., 4.5 Flachg., 5.2 Hausrv., 5.3 Traunv., 5.4 M\u00fchlv., 6.1 Mostv., 6.2 Industriev., 6.3 Waldv., 6.4 Weinv., 6.5 Wien \u2013 N\u00e4gl kau'n, k480_qdb-d1e35841, k480_qdb-d1e36076\nI.2. Tabak kauen \u2013 1C.1 wNTir., 1C.3 \u00f6NTir., 2.2 MKtn., 3.1 sbair.ObStmk., 3.2 mbair.ObStmk., 3.4 MStmk., 6.1 Mostv., 6.3 Waldv., 6.4 Weinv., 6.5 Wien \u2013 Tabak kauen, k480_qdb-d1e40053, k480_qdb-d1e40168, k480_qdb-d1e40265, k480_qdb-d1e40356\nII. Wiederk\u00e4uen \u2013 1A.4 \u00f6STir., 1C.1 wNTir., 1C.2 mNTir., 3.4 MStmk., 3.5 OStmk., 6.1 Mostv. \u2013 wiederk\u00e4uen, k480_qdb-d1e31997, k480_qdb-d1e39432, k480_qdb-d1e39455\nIII.1.a) Kauen an N\u00e4geln \u2013 1A.1 wSTir., 1C.1 wNTir., 1C.2 mNTir., 6.3 Waldv., 6.5 Wien \u2013 an di N\u00f6gl kui\u0259n, k480_qdb-d1e36076, k480_qdb-d1e35841\nIII.1.b) Kauen als Teil des Verdauungsprozesses \u2013 2.2 MKtn., 3.2 mbair.ObStmk., 5.2 Hausrv. \u2013 \u03b9\u0345s n\u012ft zan Keinan\u0328, k480_qdb-d1e33454\nIII.2. Kauen als metaphorische Bedeutung \u2013 1A.4 \u00f6STir., 3.5 OStmk. \u2013 k480_qdb-d1e34681, k480_qdb-d1e39872"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21584,
+        "completion_tokens": 690,
+        "total_tokens": 22274
+    },
+    "elapsed_time": 48888.42330197804
+}

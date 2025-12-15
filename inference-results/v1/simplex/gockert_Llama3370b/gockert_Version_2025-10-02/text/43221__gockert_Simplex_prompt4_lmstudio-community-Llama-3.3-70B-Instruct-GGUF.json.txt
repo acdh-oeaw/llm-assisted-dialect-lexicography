@@ -1,0 +1,44 @@
+Anhang: Beleg-IDs
+
+I.1. Voll Goggen sein
+* g335_qdb-d1e4792
+* g335_qdb-d1e5037
+* g335_qdb-d1e4767
+* g335_qdb-d1e5014
+* g335_qdb-d1e4822
+* g335_qdb-d1e4932
+* g335_qdb-d1e4991
+* g335_qdb-d1e4690
+* g335_qdb-d1e4717
+* g335_qdb-d1e4610
+
+I.2. Mit kleinen Geschwüren versehen
+* g335_qdb-d1e4336
+
+II. Wimmerig sein
+* g335_qdb-d1e4437
+* g335_qdb-d1e17790
+* g335_qdb-d1e4479
+* g335_qdb-d1e4587
+* g335_qdb-d1e5062
+
+III.1. Voll Pusteln sein
+* g335_qdb-d1e4557
+* g335_qdb-d1e4504
+* g335_qdb-d1e4529
+* g335_qdb-d1e14773
+* g335_qdb-d1e14826
+
+III.2. Mit Eiterknötchen behaftet
+* g335_qdb-d1e4955
+* g335_qdb-d1e4717
+* g335_qdb-d1e4640
+* g335_qdb-d1e4846
+* g335_qdb-d1e5087
+
+IV. Geschwürig sein
+* g335_qdb-d1e4640
+* g335_qdb-d1e4846
+* g335_qdb-d1e5154
+* g335_qdb-d1e5215
+* g335_qdb-d1e4902

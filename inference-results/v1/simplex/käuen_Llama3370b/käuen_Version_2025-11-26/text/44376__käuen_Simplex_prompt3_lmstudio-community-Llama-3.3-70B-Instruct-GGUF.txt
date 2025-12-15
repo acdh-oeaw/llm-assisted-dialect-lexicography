@@ -1,0 +1,10 @@
+käuen
+Verb
+
+Bedeutung
+I.1. Kauen allgemein – 1A.1 wSTir., 1A.2 mSTir., 1A.4 öSTir., 2.1 ObKtn., 2.2 MKtn., 3.1 sbair.ObStmk., 3.2 mbair.ObStmk., 3.3 WStmk., 3.4 MStmk., 3.5 OStmk., 4.1 Lung., 4.2 Pinzg., 4.3 Pong., 4.5 Flachg., 5.2 Hausrv., 5.3 Traunv., 5.4 Mühlv., 6.1 Mostv., 6.2 Industriev., 6.3 Waldv., 6.4 Weinv., 6.5 Wien – Boaner kuien, k480_qdb-d1e32029
+I.2. Beißen an Nägeln – 1A.1 wSTir., 1C.1 wNTir., 1C.2 mNTir., 6.3 Waldv., 6.5 Wien – Nägl kau'n, k480_qdb-d1e35841
+II. Tabak kauen – 2.2 MKtn., 3.1 sbair.ObStmk., 3.2 mbair.ObStmk., 3.4 MStmk., 6.1 Mostv., 6.3 Waldv., 6.4 Weinv., 6.5 Wien – Tabak kauen, k480_qdb-d1e40053
+III.1.a) Wiederkäuen – 1C.1 wNTir., 3.4 MStmk., 3.5 OStmk. – wiederkäuen, k480_qdb-d1e31953
+III.1.b) Kauen von Brot – 2.2 MKtn., 3.2 mbair.ObStmk., 5.3 Traunv. – kuits Brot, e215_qdb-d1e89739
+III.2. Kauen von anderen Nahrungsmitteln – 1C.3 öNTir., 2.1 ObKtn., 3.2 mbair.ObStmk. – Kuinböch kuin, k480_qdb-d1e34955

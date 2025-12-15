@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-57bf3943-20d5-447d-92fc-87c932272a2c",
+    "object": "chat.completion",
+    "created": 1760955878,
+    "model": "/users/daniel.elsner/.cache/huggingface/hub/models--lmstudio-community--Llama-3.3-70B-Instruct-GGUF/snapshots/3a489fd247ce24848d8d8a3fadd707088665681f/./Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "kart\u00e4tschen\nVerb\n\nBedeutung\nI.1. Wolle zausen oder lockern \u2013 1C.1 wNTir., 1C.2 mNTir., 1C.3 \u00f6NTir., 2.2 MKtn., k459_qdbn-d16e28052, k459_qdbn-d16e28923, k459_qdbn-d16e30601\nI.2. Wolle hecheln oder k\u00e4mmen \u2013 1C.2 mNTir., 1C.3 \u00f6NTir., k459_qdb-d1e36442, k459_qdb-d1e36632\nII. Schafwolle kr\u00e4mpeln oder putzen \u2013 1C.3 \u00f6NTir., 4.3 Pong., k459_qdbn-d16e31122, k459_qdb-d1e35859\nIII.1.a) Wolle durch die Kard\u00e4tsche schlagen oder streichen \u2013 1C.2 mNTir., 1C.3 \u00f6NTir., Woll' t\u0101tschn, k459_qdb-d1e36632, k459_qdbn-d16e31037\nIII.1.b) Wolle krempeln \u2013 1A.4 \u00f6STir., 2.2 MKtn., Woln kartatschn, k459_qdb-d1e36063, k459_qdbn-d16e30910\nIII.2. Wolle mit der T\u00e4tsche rupfen \u2013 1C.3 \u00f6NTir., k459_qdb-d1e35859, k459_qdbn-d16e29963"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 7011,
+        "completion_tokens": 361,
+        "total_tokens": 7372
+    },
+    "elapsed_time": 20680.02947792411
+}

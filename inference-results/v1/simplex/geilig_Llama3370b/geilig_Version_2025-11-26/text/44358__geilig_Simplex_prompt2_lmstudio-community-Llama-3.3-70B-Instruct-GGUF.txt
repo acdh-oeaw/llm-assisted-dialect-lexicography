@@ -1,0 +1,44 @@
+Nach der Analyse der Belege habe ich die Bedeutungen des Lemmas "geilig" extrahiert und sie in sinnvolle semantische Kategorien gruppiert. Hier sind die Ergebnisse:
+
+1. **Üppig, wässerig**
+ * Bedeutung: üppig, wässerig, üppig wässerig
+ * Großregionen: 6.4 Weinv., 1C.2 mNTir.
+ * Belegsatz: Kein aussagekräftiger Belegsatz vorhanden
+2. **Geil, üppig gewachsen (von Pflanzen)**
+ * Bedeutung: geil, üppig gewachsen (von Pflanzen)
+ * Großregionen: 6.4 Weinv., 5.1 Innv.
+ * Belegsatz: Kein aussagekräftiger Belegsatz vorhanden
+3. **Fett, kräftig, gut gedüngt**
+ * Bedeutung: fett, kräftig, gut gedüngt
+ * Großregionen: 5.2 Hausrv., 2.2 MKtn.
+ * Belegsatz: "a gāligr [P,fl]   ǫκxr; a galigr P,fl okchr" (Beleg ID: g311_qdb-d1e47540)
+4. **Schleimig, faulig, schlüpfrig**
+ * Bedeutung: schleimig, faulig, schlüpfrig
+ * Großregionen: 1C.2 mNTir., 6.2 Industriev.
+ * Belegsatz: Kein aussagekräftiger Belegsatz vorhanden
+5. **Zu fett, üppig (Essen)**
+ * Bedeutung: zu fett, üppig (Essen)
+ * Großregionen: 5.1 Innv., 6.3 Waldv.
+ * Belegsatz: Kein aussagekräftiger Belegsatz vorhanden
+6. **Geil, wollüstig**
+ * Bedeutung: geil, wollüstig
+ * Großregionen: 6.5 Wien, 5.2 Hausrv.
+ * Belegsatz: "d' ə́sch'n wo̰xt go̰əlė ["galig"]; d eschn wocht goele galig" (Beleg ID: g297_qdb-d1e85206)
+7. **Fett, kräftig, gesund**
+ * Bedeutung: fett, kräftig, gesund
+ * Großregionen: 5.2 Hausrv., 6.1 Mostv.
+ * Belegsatz: "die Speise ist gāli [P]; die Speise ist gali P" (Beleg ID: g311_qdb-d1e48108)
+8. **Überfett, widerstehend**
+ * Bedeutung: überfett, widerstehend
+ * Großregionen: 5.1 Innv., 6.2 Industriev.
+ * Belegsatz: Kein aussagekräftiger Belegsatz vorhanden
+9. **Fettstrotzend, strotzend, vollsäftig (v. Lebewesen)**
+ * Bedeutung: fettstrotzend, strotzend, vollsäftig (v. Lebewesen)
+ * Großregionen: 5.2 Hausrv., 6.3 Waldv.
+ * Belegsatz: Kein aussagekräftiger Belegsatz vorhanden
+10. **Geil, rasch sättigend, allzu fett (v. Speisen)**
+ * Bedeutung: geil, rasch sättigend, allzu fett (v. Speisen)
+ * Großregionen: 6.4 Weinv., 5.1 Innv.
+ * Belegsatz: Kein aussagekräftiger Belegsatz vorhanden
+
+Es ist zu beachten, dass einige Bedeutungen nur in bestimmten Großregionen belegt sind, was auf regionale Unterschiede in der Verwendung des Lemmas "geilig" hindeutet.

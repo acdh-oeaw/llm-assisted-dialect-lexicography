@@ -1,0 +1,51 @@
+Anhang: Beleg-IDs nach Bedeutungen
+
+I.1. Geizig, knauserig, sparsam
+- g347_qdb-d1e7733
+- g347_qdb-d1e404
+- g347_qdb-d1e482
+
+I.2. Hässlich, unschön, unangenehm
+- g347_qdb-d1e4903
+- g347_qdb-d1e4992
+- g347_qdb-d1e936
+
+II. Schmutzig, un Reinlich, unsauber
+- g347_qdb-d1e16723
+- g347_qdb-d1e1785
+- g347_qdb-d1e13483
+
+III.1.a) Stark, kräftig, robust
+- g347_qdb-d1e9197
+- g347_qdb-d1e10221
+- g347_qdb-d1e11342
+
+III.1.b) Grob, derb, unfein (von Menschen)
+- g347_qdb-d1e15315
+- g347_qdb-d1e3234
+- g347_qdb-d1e6417
+
+III.2. Schlecht, unangenehm (Wetter)
+- g347_qdb-d1e3620
+- g347_qdb-d1e4238
+- g347_qdb-d1e1448
+
+IV. Rauh, ungeschliffen, ungehobelt
+- g347_qdb-d1e1542
+- g347_qdb-d1e13777
+- g347_qdb-d1e3380
+
+V. Unsanft, unwirsch, unhöflich
+- g347_qdb-d1e11964
+- g347_qdb-d1e5748
+- g347_qdb-d1e814
+
+VI. Groß, stark (von Dingen)
+- g347_qdb-d1e6145
+- g347_qdb-d1e2396
+- g347_qdb-d1e44939
+
+VII. Schwer, beschwerlich, mühsam
+- g347_qdb-d1e7794
+- g347_qdb-d1e2880
+- g347_qdb-d1e16057

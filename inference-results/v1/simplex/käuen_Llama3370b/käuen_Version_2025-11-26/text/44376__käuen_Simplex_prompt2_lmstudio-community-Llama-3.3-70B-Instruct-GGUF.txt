@@ -1,0 +1,28 @@
+Nach der Analyse der Belege habe ich die folgenden Bedeutungen des Lemmas "käuen" extrahiert und gruppiert:
+
+1. **Kauen** (allgemein)
+ * Bedeutung: Das Verb "käuen" bezeichnet das Zerkleinern oder Zerbrechen von Nahrungsmitteln mit den Zähnen.
+ * Großregionen: 1A.1 wSTir., 1A.2 mSTir., 1A.4 öSTir., 2.1 ObKtn., 2.2 MKtn., 3.1 sbair.ObStmk., 3.2 mbair.ObStmk., 3.3 WStmk., 3.4 MStmk., 3.5 OStmk., 4.1 Lung., 4.2 Pinzg., 4.3 Pong., 4.5 Flachg., 5.2 Hausrv., 5.3 Traunv., 5.4 Mühlv., 6.1 Mostv., 6.2 Industriev., 6.3 Waldv., 6.4 Weinv., 6.5 Wien
+ * Belegsatz: "Boaner kuien" (Beleg ID: k480_qdb-d1e32029)
+2. **Beißen** (im Kontext von Nägeln)
+ * Bedeutung: Das Verb "käuen" bezeichnet das Beißen oder Kauen an Nägeln.
+ * Großregionen: 1A.1 wSTir., 1C.1 wNTir., 1C.2 mNTir., 6.3 Waldv., 6.5 Wien
+ * Belegsatz: "Nägl kau'n" (Beleg ID: k480_qdb-d1e35841)
+3. **Tabak kauen**
+ * Bedeutung: Das Verb "käuen" bezeichnet das Kauen von Tabak.
+ * Großregionen: 2.2 MKtn., 3.1 sbair.ObStmk., 3.2 mbair.ObStmk., 3.4 MStmk., 6.1 Mostv., 6.3 Waldv., 6.4 Weinv., 6.5 Wien
+ * Belegsatz: "Tabak kauen" (Beleg ID: k480_qdb-d1e40053)
+4. **Wiederkäuen** (im Kontext von Tieren)
+ * Bedeutung: Das Verb "käuen" bezeichnet das Wiederkäuen von Nahrungsmitteln bei Tieren.
+ * Großregionen: 1C.1 wNTir., 3.4 MStmk., 3.5 OStmk.
+ * Belegsatz: "wiederkäuen" (Beleg ID: k480_qdb-d1e31953)
+5. **Kauen** (im Kontext von Brot)
+ * Bedeutung: Das Verb "käuen" bezeichnet das Kauen von Brot.
+ * Großregionen: 2.2 MKtn., 3.2 mbair.ObStmk., 5.3 Traunv.
+ * Belegsatz: "kuits Brot" (Beleg ID: e215_qdb-d1e89739)
+6. **Kauen** (im Kontext von anderen Nahrungsmitteln)
+ * Bedeutung: Das Verb "käuen" bezeichnet das Kauen von anderen Nahrungsmitteln, wie z.B. Kaupech.
+ * Großregionen: 1C.3 öNTir., 2.1 ObKtn., 3.2 mbair.ObStmk.
+ * Belegsatz: "Kuinböch kuin" (Beleg ID: k480_qdb-d1e34955)
+
+Es gibt auch einige Belege, die keine klare Bedeutung oder keinen aussagekräftigen Belegsatz haben. Diese wurden nicht in die obige Liste aufgenommen.

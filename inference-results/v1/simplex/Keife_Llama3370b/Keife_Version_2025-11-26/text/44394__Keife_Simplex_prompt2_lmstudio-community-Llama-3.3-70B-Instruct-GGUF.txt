@@ -1,0 +1,28 @@
+Nach der Analyse der Belege habe ich die Bedeutungen des Lemmas "Keife" wie folgt gruppiert:
+
+1. **Hündin**:
+ * Bedeutung: Hündin, weiblicher Hund
+ * Belegt in Großregionen: 2.1 ObKtn., 2.2 MKtn., 3.1 sbair.ObStmk., 3.2 mbair.ObStmk., 6.1 Mostv., 6.4 Weinv.
+ * Belegsatz: Keine aussagekräftigen Belegsätze gefunden.
+2. **Minderwertiger Hund**:
+ * Bedeutung: Minderwertiger Hund, schäbiger Hund
+ * Belegt in Großregionen: 2.2 MKtn., 3.3 WStmk.
+ * Belegsatz: Keine aussagekräftigen Belegsätze gefunden.
+3. **Schimpfwort für Hündin**:
+ * Bedeutung: Schimpfwort für Hündin
+ * Belegt in Großregionen: 2.2 MKtn., 6.4 Weinv.
+ * Belegsatz: "So eine fade Keifen [f] ! Kein Wunder, daß der arme Kerl nicht heimgehen will„ (Beleg ID: k467_qdb-d1e36054)
+4. **Schimpfwort für Menschen**:
+ * Bedeutung: Schimpfwort für Menschen, z.B. zanksüchtige Weiber
+ * Belegt in Großregionen: 2.2 MKtn., 5.4 Mühlv., 6.4 Weinv.
+ * Belegsatz: "die ålte Keifen" (Beleg ID: k467_qdb-d1e37130)
+5. **Lästig keifender Hund**:
+ * Bedeutung: Lästig keifender Hund
+ * Belegt in Großregionen: 3.3 WStmk.
+ * Belegsatz: Keine aussagekräftigen Belegsätze gefunden.
+6. **Abfällige Bezeichnung für Hunde**:
+ * Bedeutung: Abfällige Bezeichnung für Hunde, z.B. "Hunde jeder Art"
+ * Belegt in Großregionen: 2.2 MKtn.
+ * Belegsatz: Keine aussagekräftigen Belegsätze gefunden.
+
+Es ist zu beachten, dass einige Belege mehrere Bedeutungen aufweisen, aber ich habe versucht, die Bedeutungen so genau wie möglich zu trennen und zu gruppieren.

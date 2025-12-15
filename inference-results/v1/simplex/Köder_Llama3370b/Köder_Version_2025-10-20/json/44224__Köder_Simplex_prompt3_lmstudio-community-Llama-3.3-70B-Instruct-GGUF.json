@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-57a546a8-4b29-4351-8156-55ad310cd263",
+    "object": "chat.completion",
+    "created": 1760955303,
+    "model": "/users/daniel.elsner/.cache/huggingface/hub/models--lmstudio-community--Llama-3.3-70B-Instruct-GGUF/snapshots/3a489fd247ce24848d8d8a3fadd707088665681f/./Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "K\u00f6der\nSubstantiv, m\u00e4nnlich\n\nBedeutung\nI. Lockspeise \u2013 1C.1 wNTir., 1C.2 mNTir., 1C.3 \u00f6NTir., 2.2 MKtn., 3.1 sbair.ObStmk., 3.2 mbair.ObStmk., 3.3 WStmk., 4.2 Pinzg., 5.1 Innv., 5.2 Hausrv., 5.3 Traunv., 5.4 M\u00fchlv., 6.1 Mostv., 6.2 Industriev., 6.3 Waldv., 6.5 Wien, 7.1 NBgl. \u2013 h\u00e5sch \u0119s k\u0119adr [sg4]   scho aichn gitun?, k502_qdb-d1e83708, k502_qdb-d1e82807, k502_qdb-d1e82663, k502_qdb-d1e82712\nII. Teil eines Schuhs \u2013 1C.2 mNTir., 1C.3 \u00f6NTir., 6.4 Weinv. \u2013 rings an den Seiten der Brandsohle werden Lederflecklen aufgenagelt, das sind die \"K\u00f6der\", k502_qdb-d1e82084, k502_qdb-d1e81079\nIII.1. Brot \u2013 6.5 Wien, k502_qdb-d1e82453\nIII.2. Weibliche Person \u2013 1A.4 \u00f6STir. \u2013 K\u00f6der (weil sie gern anbei\u00dfen l\u00e4\u00dft) geile Frau, k502_qdb-d1e80683\nIV. Fischk\u00f6der \u2013 3.5 OStmk., 5.3 Traunv., 6.1 Mostv. \u2013 Fischk\u00f6der verwendet werden: Fliegen, Grundelfisch, Reggenw\u00fcrmer, auch Schnecken, k502_qdb-d1e82663, k502_qdb-d1e82807, k502_qdb-d1e82712"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 12802,
+        "completion_tokens": 458,
+        "total_tokens": 13260
+    },
+    "elapsed_time": 27738.738182000816
+}

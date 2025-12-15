@@ -1,0 +1,36 @@
+Um die Belege für das wissenschaftliche Dialektwörterbuch zu analysieren und die notwendigen Informationen zu extrahieren, werde ich die Schritte wie folgt durchführen:
+
+1. **Überblick über den Glossar**: Der Glossar enthält eine Liste von Begriffen, die für die lexikographische Arbeit relevant sind. Dazu gehören unter anderem "Hauptlemma", "Nebenlemma", "Fragebogennummer", "Part of Speech", "Bedeutung der Lautung", "Belegsatz" und "Großregion".
+
+2. **Analyse der Belege**: Die Belege sind die Grundlage für die Erstellung der Wörterbuchartikel. Jeder Beleg enthält verschiedene Informationen wie Beleg ID, Fragebogennummer, Hauptlemma, Part of Speech, Bedeutung der Lautung, Belegsatz und Großregion.
+
+3. **Einordnung der Belege**: Mit Hilfe des Glossars kann ich die Belege besser einordnen. Zum Beispiel kann ich anhand der "Part of Speech" erkennen, ob ein Beleg ein Adjektiv, ein Verb, ein Substantiv oder ein anderes Wort ist.
+
+4. **Extraktion von Informationen**: Für jeden Beleg werde ich die relevanten Informationen extrahieren. Dazu gehören:
+   - **Hauptlemma**: Das Hauptlemma, dem der Beleg zugeordnet ist.
+   - **Part of Speech**: Die Wortart des Belegs (z.B. Adjektiv, Verb, Substantiv).
+   - **Bedeutung der Lautung**: Die Bedeutung der Lautungsangabe, wenn vorhanden.
+   - **Belegsatz**: Der Belegsatz oder die Redewendung, die den Beleg exemplarisch darstellt.
+   - **Großregion**: Die regionale Zuordnung des Belegs.
+
+5. **Lexikographische Verwertbarkeit**: Die extrahierten Informationen werden dann im Hinblick auf ihre lexikographische Verwertbarkeit ausgewertet. Dazu gehört die Frage, ob der Beleg für die Erstellung eines Wörterbuchartikels relevant ist, ob er neue Informationen liefert oder ob er bereits bekannte Informationen bestätigt.
+
+6. **Kategorisierung**: Die Belege können nach verschiedenen Kriterien kategorisiert werden, wie z.B. nach ihrer regionalen Zuordnung (Großregion), nach ihrer Wortart (Part of Speech) oder nach ihrem Hauptlemma.
+
+Um dies anhand der bereitgestellten Belege zu demonstrieren, werde ich einige Beispiele auswählen und detailliert analysieren.
+
+**Beispiel 1: Beleg ID k483_qdbn-d16e36105**
+- **Hauptlemma**: kindisch
+- **Part of Speech**: Adjektiv
+- **Bedeutung der Lautung**: kindisch
+- **Großregion**: 1C.1 wNTir.
+- **Relevanz**: Dieser Beleg ist für die Erstellung eines Wörterbuchartikels zum Lemma "kindisch" relevant, da er die Bedeutung und die regionale Verbreitung des Adjektivs "kindisch" in der Großregion 1C.1 wNTir. dokumentiert.
+
+**Beispiel 2: Beleg ID k483_qdbn-d16e36323**
+- **Hauptlemma**: kindisch
+- **Part of Speech**: Adjektiv
+- **Belegsatz 1**: Duɒ nėd so Khindėšš!
+- **Großregion**: 5.1 Innv.
+- **Relevanz**: Dieser Beleg liefert eine konkrete Redewendung oder einen Belegsatz, der die Verwendung des Adjektivs "kindisch" in der Großregion 5.1 Innv. exemplarisch darstellt.
+
+Durch diese detaillierte Analyse und Kategorisierung der Belege können wir die notwendigen Informationen für die Erstellung von Wörterbuchartikeln für ein wissenschaftliches Dialektwörterbuch zu bairischen Dialekten in Österreich gewinnen.

@@ -1,0 +1,30 @@
+Um die Belege für das wissenschaftliche Dialektwörterbuch zu analysieren und die Informationen zu extrahieren, werde ich Schritt für Schritt vorgehen und dabei den Glossar als Referenz verwenden.
+
+**Schritt 1: Identifizierung des Lemmas**
+Das Lemma, um das es geht, ist "Köder". Dieses Wort wird in verschiedenen Kontexten und mit unterschiedlichen Bedeutungen verwendet, wie die Belege zeigen.
+
+**Schritt 2: Kategorisierung der Belege**
+Mithilfe des Glossars können die Belege in verschiedene Kategorien eingeteilt werden:
+- **Part of Speech (Wortart)**: Die meisten Belege klassifizieren "Köder" als Substantiv.
+- **Bedeutung der Lautung**: Hier gibt es verschiedene Angaben, z.B. "Köder", "Lockspeise", "Fischköder", "Teil zwischen Schuhsohle und Oberleder" oder sogar "geile Frau" in einem spezifischen Kontext.
+- **Belegsatz**: Einige Belege enthalten Beispielsätze, die die Verwendung von "Köder" in einem Satzkontext verdeutlichen, z.B. "Hast du den Köder schon hinein getan?" oder "Der Hecht geht das K. an".
+- **Großregion**: Die Belege stammen aus verschiedenen Großregionen Österreichs, was die geographische Verbreitung des Wortes und möglicher Bedeutungsvarianten zeigt.
+- **Fragebogennummer**: Viele Belege sind bestimmten Fragebögen zugeordnet, was auf ihre ursprüngliche Quelle hinweist, z.B. 58K110, 61E38, 84A13.
+
+**Schritt 3: Analyse der Bedeutungen**
+Die Bedeutungen von "Köder" sind vielfältig:
+- **Lockspeise**: In vielen Belegen bezieht sich "Köder" auf eine Lockspeise, insbesondere im Fischfang.
+- **Teil zwischen Schuhsohle und Oberleder**: Einige Belege deuten darauf hin, dass "Köder" auch ein Teil des Schuhs sein kann, der zwischen Sohle und Oberleder liegt.
+- **Übertragene Bedeutungen**: In einem spezifischen Kontext wird "Köder" auch für eine "geile Frau" verwendet, was auf eine übertragene Bedeutung hinweist.
+
+**Schritt 4: Berücksichtigung der Diverses-Anmerkungen**
+Einige Belege enthalten zusätzliche Anmerkungen unter "Diverses", die weitere Informationen liefern, z.B. über die Art der Köder (Regenwürmer, Heuschrecken) oder spezifische Präparationsmethoden (Cotus mit Bleihut als Kopf).
+
+**Schritt 5: Auswertung für das Wörterbuch**
+Für das wissenschaftliche Dialektwörterbuch sollten alle identifizierten Bedeutungen und Verwendungen von "Köder" berücksichtigt werden. Dazu gehören:
+- Die verschiedenen Bedeutungen (Lockspeise, Teil des Schuhs, übertragene Bedeutungen).
+- Die geographische Verbreitung basierend auf den Großregionen.
+- Die Beispielsätze, um die Verwendung in Kontexten zu verdeutlichen.
+- Die zusätzlichen Anmerkungen, um ein umfassendes Bild der Verwendung und Bedeutung von "Köder" in den bairischen Dialekten zu erhalten.
+
+Durch diese detaillierte Analyse können die Belege für "Köder" effektiv für das Wörterbuch aufbereitet werden, um ein genaueres und umfassendes Bild der lexikographischen Verhältnisse in den bairischen Dialekten Österreichs zu liefern.

@@ -1,0 +1,24 @@
+Nach der Analyse der Belege habe ich die Bedeutungen des Lemmas "gockert" extrahiert und zu sinnvollen semantischen Kategorien gruppiert. Hier sind die Ergebnisse:
+
+1. **Voll von Goggen/Eiterkernen sein**
+ * Bedeutung: voll von Goggen oder Eiterkernen sein
+ * Belegt in: 1A.2 mSTir, 1C.3 öNTir, 2.1 ObKtn
+ * Belegsatz: "s Moidele war schu recht, wen̄s la nöt sȯvl gȯgget [P]   war - O de Gȯggn vrgiehn̨ schuⁿ widr"
+2. **Mit kleinen Geschüren/Pusteln behaftet sein**
+ * Bedeutung: mit kleinen Geschüren oder Pusteln behaftet sein
+ * Belegt in: 1C.3 öNTir, 1A.4 öSTir
+ * Belegsatz: "a goggats [P,n,fl]   Gsicht; a goggets P,n,fl Gsicht" (Beleg ID: g335_qdb-d1e4557)
+3. **Wimmerig sein**
+ * Bedeutung: wimmerig sein
+ * Belegt in: 1C.3 öNTir, 1A.2 mSTir
+ * Belegsatz: "Na ist der Bua asoᵘ gȯggėt [P]   !; Na ist der Bua asou gogget P !" (Beleg ID: g335_qdb-d1e4437)
+4. **Mit Eiterknötchen behaftet sein**
+ * Bedeutung: mit Eiterknötchen behaftet sein
+ * Belegt in: 1A.1 wSTir
+ * Belegsatz: "S wĭard gŏggăd [P]; S wiard googgad P" (Beleg ID: g335_qdb-d1e4955)
+5. **Geschwürig sein**
+ * Bedeutung: geschwürig sein
+ * Belegt in: 1C.3 öNTir
+ * Kein aussagekräftiger Belegsatz vorhanden
+
+Die Bedeutungen wurden anhand der Kategorien "Bedeutung der Lautung", "Bedeutung des Kontexts", "Belegsatz" und "Fragebogennummer" extrahiert. Es wurden auch andere relevante Informationen wie die "Großregion" und die "Part of Speech" berücksichtigt. Die Belegsätze wurden nur dann hinzugefügt, wenn sie aussagekräftig und relevant für die jeweilige Bedeutung waren.

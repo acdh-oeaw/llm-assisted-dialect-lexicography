@@ -1,0 +1,19 @@
+Nach der Analyse der Belege habe ich die Bedeutungen des Lemmas "Köder" in sinnvolle semantische Kategorien gruppiert. Hier sind die Ergebnisse:
+
+1. **Lockspeise/Fischköder**: Diese Bedeutung bezieht sich auf eine Substanz oder ein Objekt, das verwendet wird, um Fische oder andere Tiere anzulocken.
+	* Belegt in Großregionen: 1C.1 wNTir., 1C.2 mNTir., 1C.3 öNTir., 2.2 MKtn., 3.1 sbair.ObStmk., 3.2 mbair.ObStmk., 3.3 WStmk., 3.5 OStmk., 4.2 Pinzg., 5.1 Innv., 5.2 Hausrv., 5.3 Traunv., 5.4 Mühlv., 6.1 Mostv., 6.2 Industriev., 6.3 Waldv., 6.5 Wien, 7.1 NBgl.
+	* Belegsatz: "Hast du den Köder schon hinein getan?" (k502_qdb-d1e83708)
+2. **Teil zwischen Schuhsohle und Oberleder**: Diese Bedeutung bezieht sich auf einen Teil des Schuhs, der zwischen der Sohle und dem Oberleder liegt.
+	* Belegt in Großregionen: 1C.2 mNTir., 1C.3 öNTir., 6.4 Weinv.
+	* Belegsatz: Kein aussagekräftiger Belegsatz vorhanden.
+3. **Übertragene Bedeutung (geile Frau)**: Diese Bedeutung bezieht sich auf eine übertragene Bedeutung von "Köder", bei der es sich um eine Person bezieht, die als verführerisch oder attraktiv angesehen wird.
+	* Belegt in Großregionen: 1A.4 öSTir.
+	* Belegsatz: Kein aussagekräftiger Belegsatz vorhanden.
+4. **Brot**: Diese Bedeutung bezieht sich auf eine scherzhafte Bezeichnung für Brot.
+	* Belegt in Großregionen: 6.5 Wien
+	* Belegsatz: Kein aussagekräftiger Belegsatz vorhanden.
+5. **Luder/Köder (Jagd)**: Diese Bedeutung bezieht sich auf eine Substanz oder ein Objekt, das verwendet wird, um Wild zu jagen.
+	* Belegt in Großregionen: 1C.1 wNTir.
+	* Belegsatz: Kein aussagekräftiger Belegsatz vorhanden.
+
+Es ist zu beachten, dass einige Belege mehrere Bedeutungen aufweisen oder unsicher sind, was die Klassifizierung erschwert. Die obige Gruppierung versucht, die Bedeutungen sinnvoll zu kategorisieren, aber es kann sein, dass einige Belege nicht eindeutig zugeordnet werden können.

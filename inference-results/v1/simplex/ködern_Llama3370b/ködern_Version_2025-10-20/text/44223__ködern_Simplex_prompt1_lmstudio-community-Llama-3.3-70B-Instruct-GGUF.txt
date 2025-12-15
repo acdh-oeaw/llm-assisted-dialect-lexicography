@@ -1,0 +1,42 @@
+Ich werde den Glossar und die Belege Schritt für Schritt analysieren und die Informationen extrahieren, um ihre lexikographische Verwertbarkeit zu bewerten.
+
+**Schritt 1: Analyse des Glossars**
+
+Der Glossar enthält eine Liste von Begriffen, die für die lexikographische Arbeit relevant sind. Ich werde jeden Begriff kurz erläutern:
+
+* Hauptlemma: Bezeichnet das zentrale Lemma, dem alle anderen Lemmata zugeordnet werden können.
+* Nebenlemma: Ein Lemma, das einem Hauptlemma zugeordnet ist, aber in anderer Hinsicht (z.B. Schreibung, Lautung) abweichen kann.
+* Part of Speech: Gibt die Wortart des Belegs an (z.B. Substantiv, Verb, Adjektiv).
+* Bedeutung der Lautung: Beschreibt die Bedeutung der Lautungsangabe auf dem Beleg.
+* Belegsatz: Ein Satz, der die Bedeutung des Belegs exemplarisch darstellt.
+* Großregion: Gibt die geographische Zuordnung des Belegs an (z.B. Bundesland, Region).
+* Sammlung: Eine Gruppe von Belegen, die nach lexikographisch sinnvollen Gesichtspunkten zusammengefasst sind.
+
+**Schritt 2: Analyse der Belege**
+
+Ich werde die Belege analysieren und die relevanten Informationen extrahieren:
+
+* Jeder Beleg enthält eine eindeutige ID (Beleg ID) und eine Fragebogennummer.
+* Der Hauptlemma des Belegs ist "ködern" oder "Köder".
+* Die Part of Speech ist in den meisten Fällen "Verb", aber es gibt auch Belege mit anderen Wortarten (z.B. Substantiv).
+* Die Belegsätze geben die Bedeutung des Belegs exemplarisch wieder (z.B. "mit Gäd hom sn kedaschd" bedeutet "mit Geld haben sie ihn geködert").
+* Die Großregion gibt die geographische Zuordnung des Belegs an (z.B. "1C.3 öNTir." bedeutet "Nordtirol, Region 3").
+* Einige Belege enthalten zusätzliche Informationen, wie z.B. "Diverses" oder "Anmerkung".
+
+**Schritt 3: Einordnung der Belege**
+
+Ich werde die Belege nach lexikographisch sinnvollen Gesichtspunkten einordnen:
+
+* Die Belege können nach ihrer Part of Speech eingeteilt werden (z.B. Verben, Substantive, Adjektive).
+* Die Belege können nach ihrer geographischen Zuordnung eingeteilt werden (z.B. nach Bundesland oder Region).
+* Die Belege können nach ihrer Bedeutung eingeteilt werden (z.B. nach ihrer semantischen Bedeutung oder nach ihrer pragmatischen Funktion).
+
+**Schritt 4: Bewertung der lexikographischen Verwertbarkeit**
+
+Ich werde die Belege hinsichtlich ihrer lexikographischen Verwertbarkeit bewerten:
+
+* Die Belege enthalten wertvolle Informationen über die Bedeutung und Verwendung von Wörtern in bairischen Dialekten.
+* Die Belege können verwendet werden, um die semantische und pragmatische Bedeutung von Wörtern zu beschreiben.
+* Die Belege können verwendet werden, um die geographische Verbreitung von Wörtern und Ausdrücken zu dokumentieren.
+
+Insgesamt bietet der Glossar und die Belege eine wertvolle Grundlage für die Erstellung von Wörterbuchartikeln für ein wissenschaftliches Dialektwörterbuch zu bairischen Dialekten in Österreich. Durch die sorgfältige Analyse und Einordnung der Belege können wir eine umfassende und genaue Beschreibung der bairischen Dialekte erstellen.

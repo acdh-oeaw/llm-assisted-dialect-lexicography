@@ -1,0 +1,24 @@
+Nach der Analyse der Belege habe ich die Bedeutungen des Lemmas "ködern" extrahiert und gruppiert. Hier sind die Ergebnisse:
+
+1. **Anlocken, Köder auslegen**: Diese Bedeutung ist belegt durch:
+ * Bedeutung der Lautung: "ködern; ködern" (Beleg ID: k502_qdb-d1e86746)
+ * Bedeutung des Kontexts: "mit dem Köder fangen" (Beleg ID: k502_qdb-d1e86470)
+ * Belegsatz: "mit Gäd hom sn kedaschd" (Beleg ID: k502_qdb-d1e86683)
+ * Großregionen: 1C.3 öNTir., 4.2 Pinzg., 6.3 Waldv., 5.4 Mühlv.
+2. **Überlisten, täuschen**: Diese Bedeutung ist belegt durch:
+ * Bedeutung der Lautung: "ködern; ködern" (Beleg ID: k502_qdb-d1e86717)
+ * Bedeutung des Kontexts: "einen mit schönen Reden ködern" (Beleg ID: k502_qdb-d1e86717)
+ * Belegsatz: "õan mit schö̃nö̃ Röᵈn kedarn" (Beleg ID: k502_qdb-d1e86717)
+ * Großregionen: 1C.3 öNTir., 6.1 Mostv.
+3. **Locken, anziehen**: Diese Bedeutung ist belegt durch:
+ * Bedeutung der Lautung: "ködern; ködern" (Beleg ID: k502_qdb-d1e86352)
+ * Bedeutung des Kontexts: "ködern, anlocken" (Beleg ID: k502_qdb-d1e86352)
+ * Belegsatz: Kein aussagekräftiger Belegsatz vorhanden
+ * Großregionen: 2.2 MKtn., 5.4 Mühlv.
+4. **Ein bestimmtes Gerät oder eine Vorrichtung bedienen**: Diese Bedeutung ist belegt durch:
+ * Bedeutung der Lautung: "ködern; ködern" (Beleg ID: k502_qdb-d1e86633)
+ * Bedeutung des Kontexts: "Den Plfug durch einen eine Hackerlvorrichtung am Gestell mehr auf eine Seite lenken" (Beleg ID: k502_qdb-d1e86633)
+ * Belegsatz: "Pfuag keden" (Beleg ID: k502_qdb-d1e86633)
+ * Großregionen: 5.2 Hausrv.
+
+Es ist zu beachten, dass einige Belege mehrere Bedeutungen aufweisen können, aber ich habe mich bemüht, die Bedeutungen so genau wie möglich zu klassifizieren.

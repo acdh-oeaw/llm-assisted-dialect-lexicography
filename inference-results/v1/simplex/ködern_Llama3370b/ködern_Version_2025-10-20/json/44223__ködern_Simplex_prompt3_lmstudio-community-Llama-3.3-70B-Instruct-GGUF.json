@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-92e52e77-06a3-4d70-9248-fa4e94007707",
+    "object": "chat.completion",
+    "created": 1760955613,
+    "model": "/users/daniel.elsner/.cache/huggingface/hub/models--lmstudio-community--Llama-3.3-70B-Instruct-GGUF/snapshots/3a489fd247ce24848d8d8a3fadd707088665681f/./Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "k\u00f6dern\nVerb\n\nBedeutung\nI.1. Anlocken, K\u00f6der auslegen \u2013 1C.3 \u00f6NTir., 4.2 Pinzg., 6.3 Waldv., 5.4 M\u00fchlv. \u2013 mit G\u00e4d hom sn kedaschd, k502_qdb-d1e86683, k502_qdb-d1e86746, k502_qdb-d1e86470\nI.2. \u00dcberlisten, t\u00e4uschen \u2013 1C.3 \u00f6NTir., 6.1 Mostv. \u2013 \u00f5an mit sch\u00f6\u0303n\u00f6\u0303 R\u00f6\u1d48n kedarn, k502_qdb-d1e86717\nII. Locken, anziehen \u2013 2.2 MKtn., 5.4 M\u00fchlv. \u2013 k502_qdb-d1e86352\nIII. Ein bestimmtes Ger\u00e4t oder eine Vorrichtung bedienen \u2013 5.2 Hausrv. \u2013 Pfuag keden, k502_qdb-d1e86633"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 5849,
+        "completion_tokens": 227,
+        "total_tokens": 6076
+    },
+    "elapsed_time": 12469.689949881285
+}

@@ -1,0 +1,29 @@
+Anhang: Beleg-IDs
+
+I.1. Anlocken, Köder auslegen
+* k502_qdb-d1e86683
+* k502_qdb-d1e86746
+* k502_qdb-d1e86470
+* k502_qdb-d1e86775
+* k502_qdb-d1e86893
+* k502_qdb-d1e86495
+* k502_qdb-d1e86867
+* k502_qdb-d1e86939
+* k502_qdb-d1e86578
+* k502_qdb-d1e86543
+* k502_qdb-d1e86660
+
+I.2. Überlisten, täuschen
+* k502_qdb-d1e86717
+* k502_qdb-d1e86416
+* k502_qdb-d1e86443
+* k502_qdb-d1e86965
+
+II. Locken, anziehen
+* k502_qdb-d1e86352
+* k502_qdb-d1e86377
+
+III. Ein bestimmtes Gerät oder eine Vorrichtung bedienen
+* k502_qdb-d1e86633
+* k502_qdb-d1e83870
+* k502_qdb-d1e86916

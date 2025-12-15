@@ -1,0 +1,89 @@
+Anhang: Beleg-IDs nach Bedeutungen
+
+I.1. Lockspeise/Fischköder
+- k502_qdb-d1e83708
+- k502_qdb-d1e82807
+- k502_qdb-d1e82663
+- k502_qdb-d1e82712
+- k502_qdb-d1e83740
+- k502_qdb-d1e83047
+- k502_qdb-d1e82894
+- k502_qdb-d1e82999
+- k502_qdb-d1e83154
+- k502_qdb-d1e83228
+- k502_qdb-d1e83459
+- k502_qdb-d1e83485
+- k502_qdb-d1e83583
+- k502_qdb-d1e83633
+- k502_qdb-d1e83764
+- k502_qdb-d1e83814
+- k502_qdb-d1e83895
+- k502_qdb-d1e83920
+- k502_qdb-d1e79966
+- k502_qdb-d1e80185
+- k502_qdb-d1e80370
+- k502_qdb-d1e80728
+- k502_qdb-d1e80752
+- k502_qdb-d1e80779
+- k502_qdb-d1e81438
+- k502_qdb-d1e81976
+- k502_qdb-d1e82061
+- k502_qdb-d1e82480
+- k502_qdb-d1e82503
+- k502_qdb-d1e82761
+- k502_qdb-d1e82163
+- k502_qdb-d1e82188
+- k502_qdb-d1e82345
+- k502_qdb-d1e82528
+- k502_qdb-d1e82553
+- k502_qdb-d1e82615
+- k502_qdb-d1e82638
+- k502_qdb-d1e82663
+- k502_qdb-d1e82712
+- k502_qdb-d1e82832
+- k502_qdb-d1e82868
+- k502_qdb-d1e83024
+- k502_qdb-d1e83070
+- k502_qdb-d1e83380
+- k502_qdb-d1e83407
+- k502_qdb-d1e83432
+- k502_qdb-d1e83789
+- k502_qdb-d1e80210
+- k502_qdb-d1e80295
+- k502_qdb-d1e80345
+- k502_qdb-d1e80454
+- k502_qdb-d1e80608
+- k502_qdb-d1e80804
+- k502_qdb-d1e81149
+- k502_qdb-d1e81246
+- k502_qdb-d1e81296
+- k502_qdb-d1e81713
+- k502_qdb-d1e82136
+- k502_qdb-d1e82393
+- k502_qdb-d1e82587
+- k502_qdb-d1e83283
+- k502_qdb-d1e83407
+- k502_qdb-d1e84671
+- k502_qdb-d1e84698
+
+I.2. Teil zwischen Schuhsohle und Oberleder
+- k502_qdb-d1e82084
+- k502_qdb-d1e81079
+- k502_qdb-d1e80994
+- k502_qdb-d1e80240
+- k502_qdb-d1e82393
+
+II. übertragene Bedeutung (geile Frau)
+- k502_qdb-d1e80683
+- k502_qdb-d1e80658
+- k502_qdb-d1e80633
+- k502_qdb-d1e80480
+- k502_qdb-d1e81738
+- k502_qdb-d1e81820
+
+III.1.a) Brot
+- k502_qdb-d1e82453
+
+III.1.b) Luder/Köder (Jagd)
+- k502_qdb-d1e83180
+- k502_qdb-d1e83120

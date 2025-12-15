@@ -1,0 +1,78 @@
+Anhang: Beleg-IDs
+
+I.1. üppig, wässerig
+* g311_qdb-d1e82856
+* g311_qdb-d1e82833
+* g311_qdb-d1e48270
+
+I.2. geil, üppig gewachsen (von Pflanzen)
+* g311_qdb-d1e83019
+* g311_qdb-d1e82833
+* g311_qdb-d1e48018
+* g311_qdb-d1e48783
+* g311_qdb-d1e48341
+
+I.3. fett, kräftig, gut gedüngt
+* g311_qdb-d1e47540
+* g311_qdb-d1e47422
+* g311_qdb-d1e47446
+* g311_qdb-d1e48733
+
+II. schleimig, faulig, schlüpfrig
+* g311_qdb-d1e46955
+* g311_qdb-d1e47365
+* g311_qdb-d1e47399
+
+III.1.a) zu fett, üppig (Essen)
+* g311_qdb-d1e48497
+* g311_qdb-d1e47632
+* g311_qdb-d1e47792
+
+III.1.b) geil, wollüstig
+* g311_qdb-d1e47588
+* g311_qdb-d1e47842
+* g311_qdb-d1e48609
+
+III.2. fett, kräftig, gesund
+* g311_qdb-d1e48108
+* g311_qdb-d1e47186
+* g311_qdb-d1e48841
+
+IV.1. überfett, widerstehend
+* g311_qdb-d1e48524
+* g311_qdb-d1e47963
+* g311_qdb-d1e47863
+
+IV.2. fettstrotzend, strotzend, vollsäftig (v. Lebewesen)
+* g311_qdb-d1e47611
+* g311_qdb-d1e48841
+
+V. geil, rasch sättigend, allzu fett (v. Speisen)
+* g311_qdb-d1e47632
+* g311_qdb-d1e47792
+
+VI.1. fettreich, geil, üppig
+* g311_qdb-d1e38039
+
+VI.2. fruchtbar
+* g311_qdb-d1e39352
+
+VII. fad schmeckend, nicht süß u. nicht sauer
+* g311_qdb-d1e39537
+
+VIII. weich, zart
+* g311_qdb-d1e47112
+* g311_qdb-d1e47209
+* g311_qdb-d1e47234
+
+IX. bitter, herb
+* g311_qdb-d1e47813
+
+X. zu weich gewachsen
+* g298_qdb-d1e22121
+
+XI. überfruchtbar
+* g311_qdb-d1e48472
+
+XII. geil schmeckend
+* g311_qdb-d1e48809

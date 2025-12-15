@@ -1,0 +1,36 @@
+Anhang: Beleg-IDs
+
+I. Heizen, einheizen
+* k474_qdb-d1e60468
+* k474_qdb-d1e57857
+* k474_qdb-d1e57396
+* k474_qdb-d1e57830
+* k474_qdb-d1e57939
+* k474_qdb-d1e58382
+* k474_qdb-d1e57428
+* k474_qdb-d1e57803
+* h395_qdbn-d16e71832
+
+II. Zünden, anzünden
+* k474_qdb-d1e57581
+* k474_qdb-d1e58087
+* k474_qdb-d1e58357
+* k474_qdb-d1e57964
+* k474_qdb-d1e58249
+* k474_qdb-d1e58110
+* k474_qdb-d1e58205
+* k474_qdb-d1e58302
+* k474_qdb-d1e75425
+* k474_qdb-d1e57645
+* k474_qdb-d1e62689
+* k474_qdb-d1e65274
+* k474_qdb-d1e75614
+
+III. Feuer machen
+III.1. Feuer machen, Feuer anzünden
+* k474_qdb-d1e58226
+* k474_qdb-d1e60344
+III.2. Zündeln, mit dem Feuer spielen
+* k474_qdb-d1e57095
+
+Hinweis: Die Beleg-IDs sind nach den Bedeutungen des Wörterbuchartikels strukturiert und enthalten alle IDs, die während der Erstellung des Artikels verwendet wurden.

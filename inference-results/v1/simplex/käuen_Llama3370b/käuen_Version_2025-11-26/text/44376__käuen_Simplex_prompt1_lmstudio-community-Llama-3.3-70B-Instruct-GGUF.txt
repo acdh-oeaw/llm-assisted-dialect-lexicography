@@ -1,0 +1,53 @@
+Ich werde den Glossar und die Belege Schritt für Schritt analysieren und die Informationen extrahieren.
+
+**Schritt 1: Glossar-Analyse**
+
+Der Glossar enthält eine Liste von Begriffen, die für die Erstellung von Wörterbuchartikeln für ein wissenschaftliches Dialektwörterbuch relevant sind. Die Begriffe sind in verschiedene Kategorien unterteilt, wie z.B. "Hauptlemma", "Nebenlemma", "Fragebogennummer", "Part of Speech" usw.
+
+**Schritt 2: Belege-Analyse**
+
+Die Belege sind eine Sammlung von Einträgen, die Informationen über das Lemma "käuen" enthalten. Jeder Beleg enthält eine eindeutige ID, eine Fragebogennummer, ein Hauptlemma, eine Part of Speech (Wortart), eine Bedeutung der Lautung, eine Bedeutung des Belegsatzes, eine Großregion und weitere Informationen.
+
+**Schritt 3: Extraktion von Informationen**
+
+Ich werde die Belege analysieren und die folgenden Informationen extrahieren:
+
+* Hauptlemma: "keuen"
+* Part of Speech: Verb
+* Bedeutung der Lautung: kauen, beißen, käuen usw.
+* Bedeutung des Belegsatzes: gekaut, gekautes Brot, Tabak kauen usw.
+* Großregion: 1A.1 wSTir., 1A.2 mSTir., 1A.4 öSTir. usw.
+* Fragebogennummer: 22E3a, 4L5, 97A21 usw.
+* Belegsatz: Boaner kuien, toll kχ., Nägl kau'n usw.
+
+**Schritt 4: Kategorisierung der Belege**
+
+Ich werde die Belege nach ihrer Part of Speech (Wortart) und ihrer Bedeutung der Lautung kategorisieren.
+
+* Verb: Belege, die das Verb "keuen" enthalten
+* Bedeutung der Lautung: Belege, die die Bedeutung "kauen" oder "beißen" enthalten
+
+**Schritt 5: Analyse der Belegsätze**
+
+Ich werde die Belegsätze analysieren und ihre Bedeutung und Kontext extrahieren.
+
+* Boaner kuien: gekaut, kann gekaut werden
+* toll kχ.: fest kauen
+* Nägl kau'n: an den Nägeln kauen
+
+**Schritt 6: Analyse der Großregionen**
+
+Ich werde die Großregionen analysieren und ihre geografische Verteilung extrahieren.
+
+* 1A.1 wSTir.: Westtirol
+* 1A.2 mSTir.: Mitteltirol
+* 1A.4 öSTir.: Osttirol
+
+**Schritt 7: Analyse der Fragebogennummern**
+
+Ich werde die Fragebogennummern analysieren und ihre Bedeutung extrahieren.
+
+* 22E3a: Bein "Knochen" (als Obj.) m. Vb. (sieden,)
+* 4L5: beißen; Bed.; Füg.; Komp.
+
+Ich hoffe, diese Analyse hilft bei der Erstellung von Wörterbuchartikeln für ein wissenschaftliches Dialektwörterbuch. Wenn du weitere Fragen hast, stehe ich gerne zur Verfügung.

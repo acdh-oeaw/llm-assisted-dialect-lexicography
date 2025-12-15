@@ -1,0 +1,40 @@
+Um die Belege für das wissenschaftliche Dialektwörterbuch zu analysieren, werde ich die Informationen Schritt für Schritt aufbereiten und dabei den Glossar als Referenz verwenden.
+
+**Schritt 1: Überblick über die Belege**
+
+Die bereitgestellten Belege haben alle das Hauptlemma "kartä́tschen" oder "kartätschen", was auf ein gemeinsames Konzept oder eine gemeinsame Bedeutung hindeutet. Die Belege enthalten verschiedene Informationen wie Part of Speech (Wortart), Bedeutung der Lautung, Belegsatz, Großregion und weitere Angaben.
+
+**Schritt 2: Kategorisierung nach Part of Speech**
+
+Laut den Belegen handelt es sich bei "kartä́tschen" um ein Verb, da in allen Belegen "Part of Speech: Verb" angegeben ist. Dies ist ein wichtiger Aspekt für die lexikographische Verwertbarkeit, da die Wortart die grammatische Funktion des Wortes bestimmt.
+
+**Schritt 3: Analyse der Bedeutung der Lautung**
+
+Die Bedeutung der Lautung variiert in den Belegen, aber es gibt einige häufige Themen:
+- Wolle zausen oder lockern
+- Wolle hecheln oder kämmen
+- Schafwolle krämpeln oder putzen
+- Wolle durch die Kardätsche schlagen oder streichen
+
+Diese Bedeutungen deuten darauf hin, dass "kartä́tschen" im Zusammenhang mit der Verarbeitung oder Pflege von Wolle steht, insbesondere im Kontext der Schafwolle.
+
+**Schritt 4: Belegsätze und ihre Bedeutung**
+
+Die Belegsätze liefern weitere Kontextinformationen zur Verwendung von "kartä́tschen". Beispiele:
+- "Woll' tātschn" (Wolle tätschen)
+- "Woïn datschn" (Wolle datschen)
+- "di woll tātšn" (die Wolle tätschen)
+
+Diese Belegsätze unterstützen die Annahme, dass "kartä́tschen" mit der Bearbeitung oder Pflege von Wolle zu tun hat, und liefern spezifische Ausdrucksweisen aus verschiedenen Regionen.
+
+**Schritt 5: Geographische Verteilung**
+
+Die Großregionen, in denen die Belege gesammelt wurden, umfassen verschiedene Teile Österreichs, wie z.B. Nordtirol (1C), Kärnten (2), Salzburg (4) und andere. Dies zeigt, dass "kartä́tschen" in unterschiedlichen Regionen mit ähnlichen Bedeutungen verwendet wird, was für die Erstellung eines Dialektwörterbuchs relevant ist.
+
+**Schritt 6: Weitere Aspekte**
+
+Andere Aspekte, wie die Fragebogennummern (z.B. 70G25, 76E14, 96A4), die sich auf spezifische Themen beziehen, und die Diverses-Notizen, liefern zusätzliche Kontextinformationen, die bei der Erstellung des Wörterbucheintrags berücksichtigt werden sollten.
+
+**Zusammenfassung**
+
+Die Analyse der Belege und des Glossars zeigt, dass "kartä́tschen" ein Verb ist, das im Zusammenhang mit der Verarbeitung oder Pflege von Wolle, insbesondere Schafwolle, steht. Die Bedeutungen umfassen das Zausen, Lockern, Hecheln, Kämmen und Krämpeln von Wolle. Die geographische Verteilung der Belege umfasst verschiedene Regionen Österreichs, was die Relevanz für ein wissenschaftliches Dialektwörterbuch zu bairischen Dialekten unterstreicht. Die Informationen aus den Belegsätzen, der Bedeutung der Lautung und den geographischen Angaben werden für die Erstellung eines umfassenden Wörterbucheintrags benötigt.

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-323a4da8-4499-4627-bdbb-bb29a5f2f8de",
+    "object": "chat.completion",
+    "created": 1760955628,
+    "model": "/users/daniel.elsner/.cache/huggingface/hub/models--lmstudio-community--Llama-3.3-70B-Instruct-GGUF/snapshots/3a489fd247ce24848d8d8a3fadd707088665681f/./Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Anhang: Beleg-IDs\n\nI.1. Anlocken, K\u00f6der auslegen\n* k502_qdb-d1e86683\n* k502_qdb-d1e86746\n* k502_qdb-d1e86470\n* k502_qdb-d1e86775\n* k502_qdb-d1e86893\n* k502_qdb-d1e86495\n* k502_qdb-d1e86867\n* k502_qdb-d1e86939\n* k502_qdb-d1e86578\n* k502_qdb-d1e86543\n* k502_qdb-d1e86660\n\nI.2. \u00dcberlisten, t\u00e4uschen\n* k502_qdb-d1e86717\n* k502_qdb-d1e86416\n* k502_qdb-d1e86443\n* k502_qdb-d1e86965\n\nII. Locken, anziehen\n* k502_qdb-d1e86352\n* k502_qdb-d1e86377\n\nIII. Ein bestimmtes Ger\u00e4t oder eine Vorrichtung bedienen\n* k502_qdb-d1e86633\n* k502_qdb-d1e83870\n* k502_qdb-d1e86916"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 6183,
+        "completion_tokens": 275,
+        "total_tokens": 6458
+    },
+    "elapsed_time": 14071.187482913956
+}

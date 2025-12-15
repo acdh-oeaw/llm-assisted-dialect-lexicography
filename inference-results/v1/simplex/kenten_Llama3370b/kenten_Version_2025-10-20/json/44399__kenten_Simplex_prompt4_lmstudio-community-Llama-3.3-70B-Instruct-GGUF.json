@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-986d14e8-6777-413c-b11d-2d2467ecf7f7",
+    "object": "chat.completion",
+    "created": 1760956178,
+    "model": "/users/daniel.elsner/.cache/huggingface/hub/models--lmstudio-community--Llama-3.3-70B-Instruct-GGUF/snapshots/3a489fd247ce24848d8d8a3fadd707088665681f/./Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Anhang: Beleg-IDs\n\nI. Heizen, einheizen\n* k474_qdb-d1e60468\n* k474_qdb-d1e57857\n* k474_qdb-d1e57396\n* k474_qdb-d1e57830\n* k474_qdb-d1e57939\n* k474_qdb-d1e58382\n* k474_qdb-d1e57428\n* k474_qdb-d1e57803\n* h395_qdbn-d16e71832\n\nII. Z\u00fcnden, anz\u00fcnden\n* k474_qdb-d1e57581\n* k474_qdb-d1e58087\n* k474_qdb-d1e58357\n* k474_qdb-d1e57964\n* k474_qdb-d1e58249\n* k474_qdb-d1e58110\n* k474_qdb-d1e58205\n* k474_qdb-d1e58302\n* k474_qdb-d1e75425\n* k474_qdb-d1e57645\n* k474_qdb-d1e62689\n* k474_qdb-d1e65274\n* k474_qdb-d1e75614\n\nIII. Feuer machen\nIII.1. Feuer machen, Feuer anz\u00fcnden\n* k474_qdb-d1e58226\n* k474_qdb-d1e60344\nIII.2. Z\u00fcndeln, mit dem Feuer spielen\n* k474_qdb-d1e57095\n\nHinweis: Die Beleg-IDs sind nach den Bedeutungen des W\u00f6rterbuchartikels strukturiert und enthalten alle IDs, die w\u00e4hrend der Erstellung des Artikels verwendet wurden."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 6790,
+        "completion_tokens": 379,
+        "total_tokens": 7169
+    },
+    "elapsed_time": 19603.35398791358
+}

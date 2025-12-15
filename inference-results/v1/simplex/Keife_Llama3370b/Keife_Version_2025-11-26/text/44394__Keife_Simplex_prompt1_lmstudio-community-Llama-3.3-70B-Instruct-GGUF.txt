@@ -1,0 +1,25 @@
+Um die Belege zu analysieren und die Informationen für die Erstellung von Wörterbuchartikeln zu extrahieren, werde ich die Schritte wie folgt durchführen:
+
+1. **Überblick über den Glossar**: Der Glossar enthält eine Liste von Begriffen, die für die lexikographische Arbeit relevant sind. Hier sind einige wichtige Kategorien:
+ * Hauptlemma: Bezeichnung für ein Lemma, das alle Einträge (einschließlich Komposita und Wortbildungsvarianten) umfasst.
+ * Nebenlemma: Ein Lemma, das einem Hauptlemma zugeordnet ist und in anderer Hinsicht (z.B. Schreibung, Lautung) abweichen kann.
+ * Part of Speech: Wortart des jeweiligen Belegs (z.B. Substantiv, Verb, Adjektiv).
+ * Bedeutung der Lautung: Beschreibung der Bedeutung der Lautungsangabe auf dem Beleg.
+ * Bedeutung des Belegsatzes: Beschreibung der Bedeutung des in Spalte "Belegsatz 1", "Belegsatz 2" etc. angegebenen Belegsatzes.
+2. **Analyse der Belege**: Die Belege enthalten Informationen über das Lemma "Keife" und seine Varianten. Hier sind einige Beobachtungen:
+ * Die meisten Belege haben "Keife" oder "Geife" als Hauptlemma.
+ * Die Part of Speech ist in den meisten Fällen Substantiv.
+ * Die Bedeutung der Lautung variiert zwischen "Hündin", "weiblicher Hund", "minderwertiger Hund" und "Schimpfwort für Hündin".
+ * Es gibt auch Belege, die "Keife" als Schimpfwort für Menschen verwenden (z.B. "zanksüchtige Weiber").
+3. **Extraktion von Informationen**: Für die Erstellung von Wörterbuchartikeln können wir die folgenden Informationen extrahieren:
+ * Lemma: Keife (und seine Varianten Geife)
+ * Part of Speech: Substantiv
+ * Bedeutung: Hündin, weiblicher Hund, minderwertiger Hund, Schimpfwort für Hündin und Menschen
+ * Lautung: Die Lautung variiert zwischen den Belegen, aber es gibt keine einheitliche Lautung für alle Belege.
+ * Belegsatz: Es gibt einige Belegsätze, die die Bedeutung von "Keife" illustrieren, wie z.B. "die alte Keifen" oder "So eine fade Keifen [f] !".
+4. **Lexikographische Verwertbarkeit**: Die extrahierten Informationen können wie folgt für die Erstellung von Wörterbuchartikeln verwendet werden:
+ * Lemma-Artikel: Ein Artikel für das Lemma "Keife" kann erstellt werden, der die verschiedenen Bedeutungen und Lautungen auflistet.
+ * Bedeutungsangaben: Die Bedeutungen von "Keife" können in einem Wörterbuchartikel aufgelistet werden, um die verschiedenen Verwendungen des Wortes zu illustrieren.
+ * Belegsätze: Die Belegsätze können verwendet werden, um die Bedeutung von "Keife" zu illustrieren und den Lesern zu zeigen, wie das Wort in verschiedenen Kontexten verwendet wird.
+
+Insgesamt bieten die Belege eine umfassende Grundlage für die Erstellung von Wörterbuchartikeln zu bairischen Dialekten in Österreich. Durch die Analyse der Belege und die Extraktion von Informationen können wir ein detailliertes Bild von den Lemmata und ihren Verwendungen in den Dialekten erhalten.

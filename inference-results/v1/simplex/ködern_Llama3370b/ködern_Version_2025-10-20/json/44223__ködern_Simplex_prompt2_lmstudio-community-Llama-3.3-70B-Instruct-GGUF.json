@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-499df28a-cffa-4682-abf6-b0bf56dc7176",
+    "object": "chat.completion",
+    "created": 1760955577,
+    "model": "/users/daniel.elsner/.cache/huggingface/hub/models--lmstudio-community--Llama-3.3-70B-Instruct-GGUF/snapshots/3a489fd247ce24848d8d8a3fadd707088665681f/./Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nach der Analyse der Belege habe ich die Bedeutungen des Lemmas \"k\u00f6dern\" extrahiert und gruppiert. Hier sind die Ergebnisse:\n\n1. **Anlocken, K\u00f6der auslegen**: Diese Bedeutung ist belegt durch:\n * Bedeutung der Lautung: \"k\u00f6dern; k\u00f6dern\" (Beleg ID: k502_qdb-d1e86746)\n * Bedeutung des Kontexts: \"mit dem K\u00f6der fangen\" (Beleg ID: k502_qdb-d1e86470)\n * Belegsatz: \"mit G\u00e4d hom sn kedaschd\" (Beleg ID: k502_qdb-d1e86683)\n * Gro\u00dfregionen: 1C.3 \u00f6NTir., 4.2 Pinzg., 6.3 Waldv., 5.4 M\u00fchlv.\n2. **\u00dcberlisten, t\u00e4uschen**: Diese Bedeutung ist belegt durch:\n * Bedeutung der Lautung: \"k\u00f6dern; k\u00f6dern\" (Beleg ID: k502_qdb-d1e86717)\n * Bedeutung des Kontexts: \"einen mit sch\u00f6nen Reden k\u00f6dern\" (Beleg ID: k502_qdb-d1e86717)\n * Belegsatz: \"\u00f5an mit sch\u00f6\u0303n\u00f6\u0303 R\u00f6\u1d48n kedarn\" (Beleg ID: k502_qdb-d1e86717)\n * Gro\u00dfregionen: 1C.3 \u00f6NTir., 6.1 Mostv.\n3. **Locken, anziehen**: Diese Bedeutung ist belegt durch:\n * Bedeutung der Lautung: \"k\u00f6dern; k\u00f6dern\" (Beleg ID: k502_qdb-d1e86352)\n * Bedeutung des Kontexts: \"k\u00f6dern, anlocken\" (Beleg ID: k502_qdb-d1e86352)\n * Belegsatz: Kein aussagekr\u00e4ftiger Belegsatz vorhanden\n * Gro\u00dfregionen: 2.2 MKtn., 5.4 M\u00fchlv.\n4. **Ein bestimmtes Ger\u00e4t oder eine Vorrichtung bedienen**: Diese Bedeutung ist belegt durch:\n * Bedeutung der Lautung: \"k\u00f6dern; k\u00f6dern\" (Beleg ID: k502_qdb-d1e86633)\n * Bedeutung des Kontexts: \"Den Plfug durch einen eine Hackerlvorrichtung am Gestell mehr auf eine Seite lenken\" (Beleg ID: k502_qdb-d1e86633)\n * Belegsatz: \"Pfuag keden\" (Beleg ID: k502_qdb-d1e86633)\n * Gro\u00dfregionen: 5.2 Hausrv.\n\nEs ist zu beachten, dass einige Belege mehrere Bedeutungen aufweisen k\u00f6nnen, aber ich habe mich bem\u00fcht, die Bedeutungen so genau wie m\u00f6glich zu klassifizieren."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4733,
+        "completion_tokens": 651,
+        "total_tokens": 5384
+    },
+    "elapsed_time": 32478.85194909759
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-511cf42d-f317-4907-9710-ba8ec54e6fbf",
+    "object": "chat.completion",
+    "created": 1760956399,
+    "model": "/users/daniel.elsner/.cache/huggingface/hub/models--lmstudio-community--Llama-3.3-70B-Instruct-GGUF/snapshots/3a489fd247ce24848d8d8a3fadd707088665681f/./Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nach der Analyse der Belege habe ich die Bedeutungen des Lemmas \"Keife\" und \"Geife\" extrahiert und gruppiert. Hier sind die Ergebnisse:\n\n1. **H\u00fcndin**:\n * Bedeutung: H\u00fcndin, weiblicher Hund\n * Gro\u00dfregionen: 2.1 ObKtn., 2.2 MKtn., 3.1 sbair.ObStmk., 3.2 mbair.ObStmk., 3.3 WStmk., 6.1 Mostv., 6.4 Weinv., 6.5 Wien\n * Belegsatz: Keine aussagekr\u00e4ftigen Belegs\u00e4tze gefunden\n2. **Schimpfwort f\u00fcr H\u00fcndin**:\n * Bedeutung: Schimpfwort f\u00fcr H\u00fcndin, abf\u00e4llige Bezeichnung f\u00fcr eine H\u00fcndin\n * Gro\u00dfregionen: 2.2 MKtn., 6.4 Weinv.\n * Belegsatz: Keine aussagekr\u00e4ftigen Belegs\u00e4tze gefunden\n3. **Schimpfwort f\u00fcr Frau**:\n * Bedeutung: Schimpfwort f\u00fcr eine Frau, zanks\u00fcchtige oder l\u00e4stige Frau\n * Gro\u00dfregionen: 2.2 MKtn., 3.3 WStmk., 5.4 M\u00fchlv.\n * Belegsatz: \"So eine fade Keifen [f] ! Kein Wunder, da\u00df der arme Kerl nicht heimgehen will\u201e (Beleg ID: k467_qdb-d1e36054)\n4. **Minderwertiger Hund**:\n * Bedeutung: Minderwertiger Hund, sch\u00e4biger oder m\u00fcrrischer Hund\n * Gro\u00dfregionen: 2.2 MKtn., 3.3 WStmk.\n * Belegsatz: Keine aussagekr\u00e4ftigen Belegs\u00e4tze gefunden\n5. **L\u00e4stig keifender Hund**:\n * Bedeutung: L\u00e4stig keifender Hund, Hund, der viel bellt\n * Gro\u00dfregionen: 3.3 WStmk.\n * Belegsatz: Keine aussagekr\u00e4ftigen Belegs\u00e4tze gefunden\n6. **K\u00f6ter**:\n * Bedeutung: K\u00f6ter, minderwertiger Hund\n * Gro\u00dfregionen: 2.2 MKtn.\n * Belegsatz: Keine aussagekr\u00e4ftigen Belegs\u00e4tze gefunden\n7. **Alter, abgen\u00fctzter Hut**:\n * Bedeutung: Alter, abgen\u00fctzter Hut (nur bei \"Geife\" belegt)\n * Gro\u00dfregionen: 6.5 Wien\n * Belegsatz: Keine aussagekr\u00e4ftigen Belegs\u00e4tze gefunden\n\nEs ist zu beachten, dass einige Belege mehrere Bedeutungen aufweisen, aber ich habe versucht, die Bedeutungen so genau wie m\u00f6glich zu trennen. Es ist auch m\u00f6glich, dass einige Bedeutungen nicht vollst\u00e4ndig erfasst sind, da die Belege nicht immer ausreichend sind, um eine umfassende Bedeutungsklassifikation zu erm\u00f6glichen."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 8017,
+        "completion_tokens": 674,
+        "total_tokens": 8691
+    },
+    "elapsed_time": 36009.15319705382
+}

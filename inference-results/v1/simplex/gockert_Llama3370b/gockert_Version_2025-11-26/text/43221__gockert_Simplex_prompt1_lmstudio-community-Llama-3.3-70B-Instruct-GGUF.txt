@@ -1,0 +1,36 @@
+Ich werde den Glossar und die Belege Schritt für Schritt analysieren und die Informationen extrahieren.
+
+**Schritt 1: Analyse des Glossars**
+
+Der Glossar enthält eine Liste von Begriffen, die für die Erstellung von Wörterbuchartikeln für ein wissenschaftliches Dialektwörterbuch relevant sind. Die Begriffe sind in folgende Kategorien unterteilt:
+
+* Hauptlemma: Bezeichnet das Lemma, dem alle Einträge (inklusive Komposita und Wortbildungsvarianten) zugeordnet werden können.
+* Nebenlemma: Ein Nebenlemma ist einem Hauptlemma zugeordnet und teilt sich mit diesem den historisch-etymologischen Lemmaansatz, kann jedoch in anderer Hinsicht (z.B. Schreibung, Lautung) vom Hauptlemma abweichen.
+* Part of Speech: Benennt die Wortart des jeweiligen Belegs (z.B. Substantiv, Adjektiv, Verb).
+* Bedeutung der Lautung: Beschreibt die Bedeutung der Lautungsangabe auf dem Beleg.
+* Belegsatz: Ein Belegsatz gibt einen Belegsatz, eine Redewendung oder eine Paraphrase wieder, um die Bedeutung des Belegs exemplarisch darzustellen.
+* Großregion: Die größte regionale Einheit, die das Bearbeitungsgebiet des Wörterbuchs untergliedert.
+* Weitere Kategorien: Es gibt noch weitere Kategorien wie z.B. "Anmerkung", "Diverses", "Geschlecht", "Bedeutung" und "Wortvarianten".
+
+**Schritt 2: Analyse der Belege**
+
+Die Belege sind in einer Liste aufgeführt und enthalten verschiedene Informationen. Ich werde die Belege nach den Kategorien des Glossars analysieren.
+
+* **Hauptlemma**: Das Lemma "gockert" ist das Hauptlemma, dem alle Belege zugeordnet sind.
+* **Part of Speech**: Die meisten Belege sind Adjektive, einige sind Substantive.
+* **Bedeutung der Lautung**: Die Bedeutung der Lautungsangabe variiert je nach Beleg, z.B. "voll Goggen sein", "mit kleinen Geschüren versehen", "wimmerig" usw.
+* **Belegsatz**: Viele Belege enthalten einen Belegsatz, der die Bedeutung des Belegs exemplarisch darstellt, z.B. "s Moidele war schu recht, wen̄s la nöt sȯvl gȯgget [P]   war - O de Gȯggn vrgiehn̨ schuⁿ widr".
+* **Großregion**: Die Belege stammen aus verschiedenen Großregionen, z.B. 1A.2 mSTir, 1C.3 öNTir, 2.1 ObKtn usw.
+
+**Schritt 3: Extraktion der Informationen**
+
+Ich werde die Informationen aus den Belegen extrahieren und in einer strukturierten Form darstellen.
+
+* **Lemma**: gockert
+* **Part of Speech**: Adjektiv, Substantiv
+* **Bedeutung**: voll Goggen sein, mit kleinen Geschüren versehen, wimmerig usw.
+* **Belegsatz**: s Moidele war schu recht, wen̄s la nöt sȯvl gȯgget [P]   war - O de Gȯggn vrgiehn̨ schuⁿ widr usw.
+* **Großregion**: 1A.2 mSTir, 1C.3 öNTir, 2.1 ObKtn usw.
+* **Wortvarianten**: gogget, goggig, goggat usw.
+
+Die extrahierten Informationen können nun für die Erstellung von Wörterbuchartikeln für ein wissenschaftliches Dialektwörterbuch verwendet werden. Es ist jedoch zu beachten, dass die Informationen noch weiter analysiert und verfeinert werden müssen, um eine genaue und umfassende Darstellung des Lemmas "gockert" zu erhalten.

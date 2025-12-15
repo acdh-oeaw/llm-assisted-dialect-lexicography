@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-2dcce915-da9f-4485-943d-b6b1ce5f4b29",
+    "object": "chat.completion",
+    "created": 1760019419,
+    "model": "/users/daniel.elsner/.cache/huggingface/hub/models--lmstudio-community--Llama-3.3-70B-Instruct-GGUF/snapshots/3a489fd247ce24848d8d8a3fadd707088665681f/./Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Anhang: Beleg-IDs nach Bedeutungen\n\nI.1. Voll von Goggen/Eiterkernen sein\n- g335_qdb-d1e4792\n- g335_qdb-d1e5037\n- g335_qdb-d1e4742\n- g335_qdb-d1e4767\n- g335_qdb-d1e4822\n- g335_qdb-d1e4932\n- g335_qdb-d1e4991\n- g335_qdb-d1e5014\n- g335_qdb-d1e4479\n- g335_qdb-d1e17790\n- g335_qdb-d1e4610\n- g335_qdb-d1e4690\n- g335_qdb-d1e4846\n- g335_qdb-d1e5087\n- g335_qdb-d1e14773\n- g335_qdb-d1e14826\n\nI.2. Voll von Pusteln sein\n- g335_qdb-d1e4557\n- g335_qdb-d1e4529\n- g335_qdb-d1e4504\n\nII. Wimmerig sein\n- g335_qdb-d1e4437\n- g335_qdb-d1e17790\n- g335_qdb-d1e4587\n- g335_qdb-d1e5062\n\nIII.1.a) Mit kleinen Geschw\u00fcren behaftet sein\n- g335_qdb-d1e4336\n\nIII.1.b) Mit Eiterkn\u00f6tchen behaftet sein\n- g335_qdb-d1e4717\n- g335_qdb-d1e4955\n\nIII.2. Gesicht mit Goggen/Pusteln\n- g335_qdb-d1e4557\n- g335_qdb-d1e4529\n- g335_qdb-d1e5123\n- g335_qdb-d1e5154\n- g335_qdb-d1e5215\n- g335_qdb-d1e4902"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 8396,
+        "completion_tokens": 442,
+        "total_tokens": 8838
+    },
+    "elapsed_time": 23627.17666802928
+}

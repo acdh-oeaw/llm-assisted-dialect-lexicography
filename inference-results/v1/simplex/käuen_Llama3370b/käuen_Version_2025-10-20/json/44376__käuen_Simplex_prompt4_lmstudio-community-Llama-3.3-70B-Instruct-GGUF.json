@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-3a32e519-ecd5-482c-a727-ad31e194f243",
+    "object": "chat.completion",
+    "created": 1760954922,
+    "model": "/users/daniel.elsner/.cache/huggingface/hub/models--lmstudio-community--Llama-3.3-70B-Instruct-GGUF/snapshots/3a489fd247ce24848d8d8a3fadd707088665681f/./Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Anhang: Beleg-IDs\n\nI.1. Kauen, bei\u00dfen\n* k480_qdb-d1e35841\n* k480_qdb-d1e36076\n* k480_qdb-d1e30730\n* k480_qdb-d1e30804\n* k480_qdb-d1e38919\n* k480_qdb-d1e37037\n* k480_qdb-d1e38358\n* k480_qdb-d1e31292\n* k480_qdb-d1e35348\n* k480_qdb-d1e31752\n* k480_qdb-d1e39322\n* k480_qdb-d1e32656\n* k480_qdb-d1e31193\n* k480_qdb-d1e37979\n* k480_qdb-d1e38006\n* k480_qdb-d1e30608\n* k480_qdb-d1e30680\n* k480_qdb-d1e30705\n* k480_qdb-d1e30832\n* k480_qdb-d1e35139\n* k480_qdb-d1e35200\n* k480_qdb-d1e35228\n* k480_qdb-d1e35255\n* k480_qdb-d1e31083\n* k480_qdb-d1e31110\n* k480_qdb-d1e31347\n* k480_qdb-d1e31433\n* k480_qdb-d1e31458\n* k480_qdb-d1e31813\n* k480_qdb-d1e31953\n* k480_qdb-d1e31997\n* k480_qdb-d1e32151\n* k480_qdb-d1e32366\n* k480_qdb-d1e32527\n* k480_qdb-d1e32727\n* k480_qdb-d1e32757\n* k480_qdb-d1e32907\n* k480_qdb-d1e32959\n* k480_qdb-d1e33433\n* k480_qdb-d1e33707\n* k480_qdb-d1e34013\n* k480_qdb-d1e34283\n* k480_qdb-d1e34428\n* k480_qdb-d1e17573\n* k480_qdb-d1e34447\n* k480_qdb-d1e37157\n* k480_qdb-d1e38574\n* k480_qdb-d1e34474\n* k480_qdb-d1e34930\n* k480_qdb-d1e35397\n* k480_qdb-d1e35420\n* k480_qdb-d1e35443\n* k480_qdb-d1e35631\n* k480_qdb-d1e35841\n* k480_qdb-d1e36162\n* k480_qdb-d1e36312\n* k480_qdb-d1e34555\n* k480_qdb-d1e34578\n* k480_qdb-d1e36387\n* k480_qdb-d1e36792\n* k480_qdb-d1e36901\n* k480_qdb-d1e36979\n* k480_qdb-d1e37202\n* k480_qdb-d1e37253\n* k480_qdb-d1e37355\n* k480_qdb-d1e37550\n* k480_qdb-d1e37624\n* k480_qdb-d1e37679\n* k480_qdb-d1e38033\n* k480_qdb-d1e38333\n* k480_qdb-d1e39180\n* k480_qdb-d1e39204\n* k480_qdb-d1e39369\n* k480_qdb-d1e39432\n* k480_qdb-d1e39455\n* k480_qdb-d1e39901\n* k480_qdb-d1e40053\n* k480_qdb-d1e40168\n* k480_qdb-d1e46281\n* k480_qdb-d1e47831\n* k480_qdb-d1e36625\n* k480_qdb-d1e9674\n* k480_qdb-d1e22750\n* k480_qdb-d1e31139\n* k480_qdb-d1e31408\n* k480_qdb-d1e31546\n* k480_qdb-d1e11609\n* k480_qdb-d1e31700\n* k480_qdb-d1e31927\n* k480_qdb-d1e32058\n* k480_qdb-d1e32081\n* k480_qdb-d1e32104\n* k480_qdb-d1e32127\n* k480_qdb-d1e32171\n* k480_qdb-d1e32631\n* k480_qdb-d1e32932\n* k480_qdb-d1e43068\n* k480_qdb-d1e33137\n* k480_qdb-d1e37406\n* k480_qdb-d1e33164\n* k480_qdb-d1e33189\n* k480_qdb-d1e33277\n* k480_qdb-d1e33302\n* k480_qdb-d1e34625\n* k480_qdb-d1e33327\n* k480_qdb-d1e33410\n* k480_qdb-d1e33623\n* k480_qdb-d1e34037\n* k480_qdb-d1e34085\n* k480_qdb-d1e34335\n* k480_qdb-d1e34516\n* k480_qdb-d1e34534\n* k480_qdb-d1e34706\n* k480_qdb-d1e34733\n* k480_qdb-d1e34879\n* k480_qdb-d1e34905\n* k480_qdb-d1e35282\n* k480_qdb-d1e40007\n* k480_qdb-d1e42988\n* k480_qdb-d1e35316\n* k480_qdb-d1e35484\n* k480_qdb-d1e35583\n* k480_qdb-d1e35654\n* k480_qdb-d1e35677\n* k480_qdb-d1e35748\n* k480_qdb-d1e35777\n* k480_qdb-d1e35801\n* k480_qdb-d1e35169\n* k480_qdb-d1e35991\n* k480_qdb-d1e36878\n* k480_qdb-d1e37004\n* k480_qdb-d1e37132\n* k480_qdb-d1e37304\n* k480_qdb-d1e37431\n* k480_qdb-d1e37463\n* k480_qdb-d1e37573\n* k480_qdb-d1e37647\n* k480_qdb-d1e33243\n* k480_qdb-d1e32447\n* k480_qdb-d1e33881\n* k480_qdb-d1e46331\n* k480_qdb-d1e38056\n* k480_qdb-d1e38139\n* k480_qdb-d1e40082\n* k480_qdb-d1e31656\n* k480_qdb-d1e40144\n* k480_qdb-d1e46213\n* k480_qdb-d1e36569\n* k480_qdb-d1e35001\n* k480_qdb-d1e38811\n* k480_qdb-d1e32853\n* k480_qdb-d1e35533\n* k480_qdb-d1e38942\n* k480_qdb-d1e31572\n* k480_qdb-d1e37954\n* k480_qdb-d1e38969\n* k480_qdb-d1e38784\n* k480_qdb-d1e38896\n* k480_qdb-d1e39295\n* k480_qdb-d1e38603\n* k480_qdb-d1e38759\n* k480_qdb-d1e38836\n* k480_qdb-d1e33740\n* k480_qdb-d1e40299\n* k480_qdb-d1e40330\n* k480_qdb-d1e30778\n* k480_qdb-d1e35085\n* k480_qdb-d1e35112\n* k480_qdb-d1e382"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 22381,
+        "completion_tokens": 1875,
+        "total_tokens": 24256
+    },
+    "elapsed_time": 133412.36595995724
+}

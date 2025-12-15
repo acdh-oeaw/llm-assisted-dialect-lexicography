@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-ad7afc0d-dc08-4f79-b098-80d0d41db517",
+    "object": "chat.completion",
+    "created": 1760955334,
+    "model": "/users/daniel.elsner/.cache/huggingface/hub/models--lmstudio-community--Llama-3.3-70B-Instruct-GGUF/snapshots/3a489fd247ce24848d8d8a3fadd707088665681f/./Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Anhang: Beleg-IDs\n\nI. Lockspeise\n* k502_qdb-d1e83708\n* k502_qdb-d1e82807\n* k502_qdb-d1e82663\n* k502_qdb-d1e82712\n* k502_qdb-d1e83740\n* k502_qdb-d1e83945\n* k502_qdb-d1e83047\n* k502_qdb-d1e82894\n* k502_qdb-d1e82999\n* k502_qdb-d1e83154\n* k502_qdb-d1e83228\n* k502_qdb-d1e83380\n* k502_qdb-d1e83459\n* k502_qdb-d1e83485\n* k502_qdb-d1e83583\n* k502_qdb-d1e83633\n* k502_qdb-d1e80210\n* k502_qdb-d1e80295\n* k502_qdb-d1e80345\n* k502_qdb-d1e80454\n* k502_qdb-d1e80608\n* k502_qdb-d1e80804\n* k502_qdb-d1e81149\n* k502_qdb-d1e81246\n* k502_qdb-d1e81296\n* k502_qdb-d1e81713\n* k502_qdb-d1e82136\n* k502_qdb-d1e82393\n* k502_qdb-d1e82428\n* k502_qdb-d1e82587\n* k502_qdb-d1e82615\n* k502_qdb-d1e82784\n* k502_qdb-d1e82974\n* k502_qdb-d1e83095\n* k502_qdb-d1e83120\n* k502_qdb-d1e83283\n* k502_qdb-d1e83407\n* k502_qdb-d1e83432\n* k502_qdb-d1e83764\n* k502_qdb-d1e83789\n* k502_qdb-d1e83814\n* k502_qdb-d1e83895\n* k502_qdb-d1e84671\n* k502_qdb-d1e84698\n\nII. Teil eines Schuhs\n* k502_qdb-d1e82084\n* k502_qdb-d1e81079\n* k502_qdb-d1e80994\n* k502_qdb-d1e82393\n\nIII.1. Brot\n* k502_qdb-d1e82453\n* k502_qdb-d1e80399\n* k502_qdb-d1e80426\n* k502_qdb-d1e80580\n\nIII.2. Weibliche Person\n* k502_qdb-d1e80683\n* k502_qdb-d1e80658\n* k502_qdb-d1e80633\n* k502_qdb-d1e80480\n* k502_qdb-d1e81738\n* k502_qdb-d1e81820\n* k502_qdb-d1e83981\n\nIV. Fischk\u00f6der\n* k502_qdb-d1e82807\n* k502_qdb-d1e82663\n* k502_qdb-d1e82712\n* k502_qdb-d1e84549\n* k502_qdb-d1e82528\n* k502_qdb-d1e82553\n* k502_qdb-d1e82638\n* k502_qdb-d1e82761\n* k502_qdb-d1e82832\n* k502_qdb-d1e83024\n* k502_qdb-d1e83070\n* k502_qdb-d1e83180\n* k502_qdb-d1e83407\n* k502_qdb-d1e83764\n* k502_qdb-d1e84671\n* k502_qdb-d1e84698"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 13367,
+        "completion_tokens": 869,
+        "total_tokens": 14236
+    },
+    "elapsed_time": 50731.070657027885
+}

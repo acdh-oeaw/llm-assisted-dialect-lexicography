@@ -1,0 +1,43 @@
+Ich werde den Glossar und die Belege Schritt für Schritt analysieren und die Informationen extrahieren.
+
+**Schritt 1: Analyse des Glossars**
+
+Der Glossar enthält eine Liste von Begriffen, die für die Erstellung von Wörterbuchartikeln für ein wissenschaftliches Dialektwörterbuch zu bairischen Dialekten in Österreich relevant sind. Die Begriffe umfassen unter anderem:
+
+* Hauptlemma: Die grundlegende Einheit eines Lemmas, die alle Varianten und Komposita umfasst.
+* Nebenlemma: Ein Lemma, das einem Hauptlemma zugeordnet ist und sich in bestimmten Aspekten von diesem unterscheidet.
+* Part of Speech: Die Wortart eines Belegs (z.B. Verb, Substantiv, Adjektiv etc.).
+* Bedeutung der Lautung: Die Bedeutung der Lautungsangabe auf einem Beleg.
+* Belegsatz: Ein Satz, der die Bedeutung eines Belegs exemplarisch darstellt.
+* Sammlung: Eine Gruppe von Belegen, die nach lexikographisch sinnvollen Gesichtspunkten zusammengefasst sind.
+
+**Schritt 2: Analyse der Belege**
+
+Die Belege sind eine Sammlung von Einträgen, die Informationen über das Lemma "kenten" enthalten. Jeder Beleg hat eine eindeutige ID und enthält verschiedene Informationen, wie z.B.:
+
+* Hauptlemma: kenten
+* Part of Speech: Verb
+* Bedeutung der Lautung: heizen, einheizen, leuchten, Licht machen, zünden etc.
+* Belegsatz: In einigen Belegen ist ein Belegsatz vorhanden, der die Bedeutung des Belegs exemplarisch darstellt.
+* Großregion: Die geographische Zuordnung des Belegs, die durch eine Sigle und eine hierarchische Gliederung dargestellt wird.
+
+**Schritt 3: Extraktion von Informationen**
+
+Basierend auf der Analyse des Glossars und der Belege können wir folgende Informationen extrahieren:
+
+* Das Hauptlemma "kenten" hat die Bedeutungen "heizen", "einheizen", "leuchten", "Licht machen" und "zünden".
+* Die Part of Speech von "kenten" ist Verb.
+* Die Belege stammen aus verschiedenen Großregionen in Österreich, wie z.B. 1C.1 wNTir, 3.1 sbair.ObStmk, 5.3 Traunv. etc.
+* Einige Belege enthalten Belegätze, die die Bedeutung des Belegs exemplarisch darstellen.
+* Die Belege haben unterschiedliche Lautungen, wie z.B. "heizen", "einheizen", "leuchten", "Licht machen" und "zünden".
+
+**Schritt 4: Lexikographische Verwertbarkeit**
+
+Die extrahierten Informationen können für die Erstellung von Wörterbuchartikeln für ein wissenschaftliches Dialektwörterbuch zu bairischen Dialekten in Österreich verwendet werden. Die Informationen können wie folgt genutzt werden:
+
+* Die Bedeutungen von "kenten" können in einem Wörterbuchartikel aufgelistet werden.
+* Die Part of Speech von "kenten" kann als Verb angegeben werden.
+* Die geographische Zuordnung der Belege kann verwendet werden, um die Verbreitung des Lemmas "kenten" in Österreich darzustellen.
+* Die Belegätze können verwendet werden, um die Bedeutung des Belegs exemplarisch darzustellen.
+
+Insgesamt können die extrahierten Informationen verwendet werden, um einen umfassenden Wörterbuchartikel für das Lemma "kenten" zu erstellen, der die Bedeutungen, die Part of Speech, die geographische Zuordnung und die Belegätze enthält.

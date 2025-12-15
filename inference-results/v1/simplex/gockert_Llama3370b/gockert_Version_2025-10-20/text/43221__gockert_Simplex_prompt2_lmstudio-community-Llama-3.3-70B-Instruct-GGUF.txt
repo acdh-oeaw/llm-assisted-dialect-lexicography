@@ -1,0 +1,40 @@
+Nach der Analyse der Belege habe ich die Bedeutungen des Lemmas "gockert" in sinnvolle semantische Kategorien gruppiert. Hier sind die Ergebnisse:
+
+1. **Voll von Goggen/Eiterkernen sein**:
+   - Bedeutung der Lautung: "voll Goggen sein", "gogget"
+   - Bedeutung des Kontexts: Beschreibt einen Zustand, bei dem jemand oder etwas mit Goggen oder Eiterkernen behaftet ist.
+   - Belegsatz: "s Moidele war schu recht, wen̄s la nöt sȯvl gȯgget [P]   war - O de Gȯggn vrgiehn̨ schuⁿ widr"
+   - Fragebogennummer: 26P32 (2)
+   - Großregionen: 1A.2 mSTir, 1A.1 wSTir, 1C.3 öNTir
+2. **Voll von Pusteln sein**:
+   - Bedeutung der Lautung: "voll Pusteln", "gogget"
+   - Bedeutung des Kontexts: Beschreibt einen Zustand, bei dem jemand oder etwas mit Pusteln behaftet ist.
+   - Belegsatz: "a goggəts [P,n,fl]   Gsicht; a goggets P,n,fl Gsicht"
+   - Fragebogennummer: 1G24
+   - Großregionen: 1C.3 öNTir, 1C.1 wNTir
+3. **Wimmerig sein**:
+   - Bedeutung der Lautung: "wimmerig", "gogget"
+   - Bedeutung des Kontexts: Beschreibt einen Zustand, bei dem jemand oder etwas wimmerig ist.
+   - Belegsatz: "Na ist der Bua asoᵘ gȯggėt [P]   !"
+   - Fragebogennummer: 25N13 (1)
+   - Großregionen: 1A.2 mSTir, 1C.3 öNTir
+4. **Mit kleinen Geschwüren behaftet sein**:
+   - Bedeutung der Lautung: "mit kleinen Geschwüren versehen"
+   - Bedeutung des Kontexts: Beschreibt einen Zustand, bei dem jemand oder etwas mit kleinen Geschwüren behaftet ist.
+   - Kein aussagekräftiger Belegsatz vorhanden.
+   - Fragebogennummer: Keine spezifische
+   - Großregionen: 1C.1 wNTir
+5. **Mit Eiterknötchen behaftet sein**:
+   - Bedeutung der Lautung: "mit Eiterknötchen behaftet"
+   - Bedeutung des Kontexts: Beschreibt einen Zustand, bei dem jemand oder etwas mit Eiterknötchen behaftet ist.
+   - Belegsatz: "S wĭard gŏggăd [P]; S wiard googgad P"
+   - Fragebogennummer: 26P32
+   - Großregionen: 1A.1 wSTir, 6.2 Industriev
+6. **Gesicht mit Goggen/Pusteln**:
+   - Bedeutung der Lautung: "Gesicht mit Goggen", "Gesicht mit Pusteln"
+   - Bedeutung des Kontexts: Beschreibt einen Zustand, bei dem das Gesicht mit Goggen oder Pusteln behaftet ist.
+   - Belegsatz: "a goggăts [P,n,fl]   Gsicht; a goggets P,n,fl Gsicht"
+   - Fragebogennummer: 1G24
+   - Großregionen: 1C.3 öNTir, 2.1 ObKtn
+
+Es ist zu beachten, dass einige Bedeutungen möglicherweise nicht eindeutig voneinander zu trennen sind oder dass es Überschneidungen zwischen den Kategorien gibt. Die Zuordnung der Bedeutungen zu den Großregionen kann helfen, die geografische Verteilung der Bedeutungen innerhalb der bairischen Dialekte besser zu verstehen.

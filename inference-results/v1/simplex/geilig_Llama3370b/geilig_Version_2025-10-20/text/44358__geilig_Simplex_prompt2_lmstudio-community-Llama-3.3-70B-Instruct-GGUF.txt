@@ -1,0 +1,64 @@
+Nach der Analyse der Belege habe ich die Bedeutungen des Lemmas "geilig" extrahiert und sie zu sinnvollen semantischen Kategorien gruppiert. Hier sind die Ergebnisse:
+
+1. **Üppig, wässerig**
+ * Bedeutung: üppig, wässerig, üppig wässerig
+ * Belegt in: 6.4 Weinv. (g311_qdb-d1e82856), 6.4 Weinv. (g311_qdb-d1e48270)
+ * Belegsatz: kein aussagekräftiger Belegsatz vorhanden
+2. **Geil, üppig gewachsen (von Pflanzen)**
+ * Bedeutung: geil, üppig gewachsen (von Pflanzen)
+ * Belegt in: 6.4 Weinv. (g311_qdb-d1e83019), 6.4 Weinv. (g311_qdb-d1e82833), 5.1 Innv. (g297_qdb-d1e72980)
+ * Belegsatz: "Der Steinpilz ist dem Bauerngeschmack zu ... g­äulü [P]" (g311_qdb-d1e48783)
+3. **Fett, kräftig, gut gedüngt**
+ * Bedeutung: fett, kräftig, gut gedüngt
+ * Belegt in: 5.1 Innv. (g311_qdb-d1e48436), 2.2 MKtn. (g311_qdb-d1e47540)
+ * Belegsatz: "a gāligr [P,fl]   ǫκxr; a galigr P,fl okchr" (g311_qdb-d1e47540)
+4. **Faulig, schlüpfrig**
+ * Bedeutung: faulig, schlüpfrig
+ * Belegt in: 1C.2 mNTir. (g311_qdb-d1e46955)
+ * Belegsatz: kein aussagekräftiger Belegsatz vorhanden
+5. **Schleimig**
+ * Bedeutung: schleimig
+ * Belegt in: 1C.2 mNTir. (g311_qdb-d1e46905)
+ * Belegsatz: kein aussagekräftiger Belegsatz vorhanden
+6. **Zu fett, üppig (Essen)**
+ * Bedeutung: zu fett, üppig (Essen)
+ * Belegt in: 5.1 Innv. (g311_qdb-d1e48497)
+ * Belegsatz: kein aussagekräftiger Belegsatz vorhanden
+7. **Fettreich, geil, üppig**
+ * Bedeutung: fettreich, geil, üppig
+ * Belegt in: 2.2 MKtn. (g311_qdb-d1e38039)
+ * Belegsatz: kein aussagekräftiger Belegsatz vorhanden
+8. **Fruchtbar**
+ * Bedeutung: fruchtbar
+ * Belegt in: 2.1 ObKtn. (g311_qdb-d1e39352)
+ * Belegsatz: kein aussagekräftiger Belegsatz vorhanden
+9. **Widerlich fett, geil**
+ * Bedeutung: widerlich fett, geil
+ * Belegt in: 6.3 Waldv. (g311_qdb-d1e47365), 6.5 Wien (g311_qdb-d1e47863)
+ * Belegsatz: kein aussagekräftiger Belegsatz vorhanden
+10. **Überfett, widerstehend**
+ * Bedeutung: überfett, widerstehend
+ * Belegt in: 5.1 Innv. (g311_qdb-d1e48524)
+ * Belegsatz: kein aussagekräftiger Belegsatz vorhanden
+11. **Fleischig, weich, zart**
+ * Bedeutung: fleischig, weich, zart
+ * Belegt in: 5.2 Hausrv. (g311_qdb-d1e47186), 5.3 Traunv. (g311_qdb-d1e48841)
+ * Belegsatz: "ɒ κaölėκσ [P,fl]   φla̩e̩š; a kaöleks P,fl flaes" (g311_qdb-d1e47186)
+12. **Geil, rasch sättigend, allzu fett (v. Speisen)**
+ * Bedeutung: geil, rasch sättigend, allzu fett (v. Speisen)
+ * Belegt in: 6.4 Weinv. (g311_qdb-d1e47632)
+ * Belegsatz: kein aussagekräftiger Belegsatz vorhanden
+13. **Bitter, herb**
+ * Bedeutung: bitter, herb
+ * Belegt in: 6.2 Industriev. (g311_qdb-d1e47813)
+ * Belegsatz: kein aussagekräftiger Belegsatz vorhanden
+14. **Überfruchtbar**
+ * Bedeutung: überfruchtbar
+ * Belegt in: 5.1 Innv. (g311_qdb-d1e48472)
+ * Belegsatz: kein aussagekräftiger Belegsatz vorhanden
+15. **Fettstrotzend, strotzend, vollsäftig (v. Lebewesen)**
+ * Bedeutung: fettstrotzend, strotzend, vollsäftig (v. Lebewesen)
+ * Belegt in: 6.2 Industriev. (g311_qdb-d1e47963)
+ * Belegsatz: kein aussagekräftiger Belegsatz vorhanden
+
+Es ist zu beachten, dass einige Bedeutungen nur in einer einzigen Großregion belegt sind, während andere in mehreren Großregionen vorkommen. Es ist auch möglich, dass einige Bedeutungen nicht vollständig oder genau erfasst sind, da die Belege nicht immer eindeutig oder vollständig sind.

@@ -1,0 +1,48 @@
+Anhang: Beleg-IDs nach Bedeutungen
+
+I.1. Hündin
+* k467_qdb-d1e36941
+* k467_qdb-d1e36761
+* k467_qdb-d1e36786
+* k467_qdb-d1e36250
+* k467_qdb-d1e36979
+* g311_qdb-d1e10814
+* g311_qdb-d1e11315
+* k467_qdb-d1e36686
+* k467_qdb-d1e36736
+* k467_qdb-d1e36322
+* k467_qdb-d1e36423
+* k467_qdb-d1e36468
+* k467_qdb-d1e36601
+* k493_qdbn-d16e8636
+* k467_qdb-d1e36155
+* k467_qdb-d1e36836
+* k467_qdb-d1e36881
+* k467_qdb-d1e36180
+* k467_qdb-d1e36347
+* k467_qdb-d1e36549
+* k467_qdb-d1e36105
+
+I.2. Schimpfwort für Hündin
+* k467_qdb-d1e36941
+* k467_qdb-d1e36979
+
+II. Schimpfwort für Frau
+* k467_qdb-d1e36054
+* k467_qdb-d1e36979
+* k467_qdb-d1e35983
+
+III.1.a) Minderwertiger Hund
+* k467_qdb-d1e36941
+* g311_qdb-d1e10925
+
+III.1.b) Lästig keifender Hund
+* g311_qdb-d1e11342
+* g311_qdb-d1e11375
+
+III.2. Köter
+* g311_qdb-d1e11110
+* g311_qdb-d1e11246
+
+IV. Alter, abgenützter Hut
+* g311_qdb-d1e10963

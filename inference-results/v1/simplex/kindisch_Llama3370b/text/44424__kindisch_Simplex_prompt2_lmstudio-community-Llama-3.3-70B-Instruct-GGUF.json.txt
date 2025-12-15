@@ -1,0 +1,38 @@
+Nach der Analyse der Belege habe ich die Bedeutungen des Lemmas "kindisch" wie folgt extrahiert und gruppiert:
+
+1. **Kindisch im Sinne von "ungeschickt" oder "unreif"**
+   - Bedeutung der Lautung: kindisch
+   - Bedeutung des Kontexts: Der Beleg ID k483_qdbn-d16e35119 erwähnt "kindisch; ungeschickt; kindisch ungeschickt", was darauf hindeutet, dass "kindisch" auch mit "ungeschickt" assoziiert wird.
+   - Belegsatz: Kein aussagekräftiger Belegsatz vorhanden.
+   - Fragebogennummer: 87G8
+   - Großregionen: 1C.1 wNTir., 3.1 sbair.ObStmk., 6.1 Mostv.
+   
+2. **Kindisch im Sinne von "greisenhaft" oder "altklug"**
+   - Bedeutung der Lautung: Keine spezifische Lautungsangabe.
+   - Bedeutung des Kontexts: Der Beleg ID k483_qdbn-d16e36582 erwähnt "aᵒlt und kindisch" mit der Bedeutung "greisenhaft".
+   - Belegsatz: "aᵒlt und kindisch" (Beleg ID k483_qdbn-d16e36582).
+   - Fragebogennummer: 87K18
+   - Großregionen: 1C.1 wNTir., 4.2 Pinzg., 5.1 Innv.
+   
+3. **Kindisch im Sinne von "unvernünftig" oder "dumm"**
+   - Bedeutung der Lautung: kindisch
+   - Bedeutung des Kontexts: Der Beleg ID k483_qdbn-d16e35904 erwähnt "sai nid soͧ khindisch!", was darauf hindeutet, dass "kindisch" auch mit "unvernünftig" assoziiert wird.
+   - Belegsatz: "sai nid soͧ khindisch!" (Beleg ID k483_qdbn-d16e35904).
+   - Fragebogennummer: 87G8
+   - Großregionen: 6.1 Mostv., 6.2 Industriev.
+   
+4. **Kindisch im Sinne von "jung" oder "jugendlich"**
+   - Bedeutung der Lautung: Keine spezifische Lautungsangabe.
+   - Bedeutung des Kontexts: Der Beleg ID k483_qdb-d1e41173 erwähnt "kindisch, kindlich", was darauf hindeutet, dass "kindisch" auch mit "jugendlich" assoziiert wird.
+   - Belegsatz: Kein aussagekräftiger Belegsatz vorhanden.
+   - Fragebogennummer: 87G8
+   - Großregionen: 2.2 MKtn.
+   
+5. **Kindisch im Sinne von "albern" oder "dumm"**
+   - Bedeutung der Lautung: kindisch
+   - Bedeutung des Kontexts: Der Beleg ID k483_qdbn-d16e36344 erwähnt "kindisᶜʰi [fl]   Sȧchan", was mit "kindischem Tun" oder "alberner Sache" übersetzt werden kann.
+   - Belegsatz: "kindisᶜʰi [fl]   Sȧchan" (Beleg ID k483_qdbn-d16e36344).
+   - Fragebogennummer: 87G10
+   - Großregionen: 6.1 Mostv.
+
+Es ist wichtig zu beachten, dass diese Kategorisierung nicht immer eindeutig ist und dass sich die Bedeutungen in den verschiedenen Kontexten und Großregionen überschneiden können. Die Belegsätze wurden nur dann hinzugefügt, wenn sie direkt im Text erwähnt wurden und die Bedeutung illustrieren.

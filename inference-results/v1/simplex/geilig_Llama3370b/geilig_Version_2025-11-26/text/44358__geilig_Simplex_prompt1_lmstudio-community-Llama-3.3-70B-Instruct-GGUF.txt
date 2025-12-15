@@ -1,0 +1,52 @@
+Um die Belege für das wissenschaftliche Dialektwörterbuch zu analysieren und die lexikographisch verwertbaren Informationen zu extrahieren, werde ich Schritt für Schritt vorgehen.
+
+**Schritt 1: Verständnis des Glossars**
+
+Der Glossar enthält eine Liste von Begriffen, die für die lexikographische Arbeit relevant sind. Hier sind die wichtigsten Punkte:
+
+* **Hauptlemma**: Bezeichnet das Lemma, dem alle anderen Einträge (Komposita, Wortbildungsvarianten) zugeordnet werden.
+* **Nebenlemma**: Ein Nebenlemma ist einem Hauptlemma zugeordnet und teilt sich mit diesem den historisch-etymologischen Lemmaansatz, kann jedoch in anderer Hinsicht (z.B. Schreibung, Lautung) abweichen.
+* **Part of Speech**: Gibt die Wortart des Belegs an (z.B. Adjektiv, Substantiv, Verb).
+* **Bedeutung der Lautung**: Beschreibt die Bedeutung der Lautungsangabe auf dem Beleg.
+* **Belegsatz**: Ein Belegsatz ist ein Beispiel für die Verwendung des Belegs in einem Satz.
+* **Großregion**: Gibt die geographische Zuordnung des Belegs an (z.B. Bundesland, Region).
+
+**Schritt 2: Analyse der Belege**
+
+Die Belege sind nummeriert und enthalten verschiedene Informationen. Hier sind die wichtigsten Punkte:
+
+* **Beleg ID**: Eine eindeutige Identifikationsnummer für jeden Beleg.
+* **Fragebogennummer**: Die Nummer des Fragebogens, aus dem der Beleg stammt.
+* **Hauptlemma**: Das Hauptlemma, dem der Beleg zugeordnet ist.
+* **Part of Speech**: Die Wortart des Belegs.
+* **Bedeutung der Lautung**: Die Bedeutung der Lautungsangabe auf dem Beleg.
+* **Belegsatz**: Ein Beispiel für die Verwendung des Belegs in einem Satz.
+* **Großregion**: Die geographische Zuordnung des Belegs.
+
+**Schritt 3: Extraktion lexikographisch verwertbarer Informationen**
+
+Um die lexikographisch verwertbaren Informationen zu extrahieren, müssen wir die Belege analysieren und die relevanten Informationen herausziehen. Hier sind einige Beispiele:
+
+* **Bedeutungen**: Die Belege enthalten verschiedene Bedeutungen für das Lemma "geilig". Zum Beispiel:
+ + "üppig; wässerig; üppig wässerig" (Beleg ID: g311_qdb-d1e82856)
+ + "geil; üppig gewachsen (von Pflanzen)" (Beleg ID: g311_qdb-d1e83019)
+ + "fett; kräftig; gut gedüngt" (Beleg ID: g311_qdb-d1e48436)
+* **Belegsätze**: Die Belegsätze bieten Beispiele für die Verwendung des Lemmas in einem Satz. Zum Beispiel:
+ + "a gāligr [P,fl]   ǫκxr; a galigr P,fl okchr" (Beleg ID: g311_qdb-d1e47540)
+ + "dər ɒ̊khər is går zə gālė [P]; der akher is gar ze gale P" (Beleg ID: g311_qdb-d1e47422)
+* **Großregionen**: Die Großregionen geben Auskunft über die geographische Verbreitung des Lemmas. Zum Beispiel:
+ + "6.4 Weinv." (Beleg ID: g311_qdb-d1e82856)
+ + "2.2 MKtn." (Beleg ID: g311_qdb-d1e47540)
+
+**Schritt 4: Kategorisierung der Belege**
+
+Um die Belege besser einordnen zu können, können wir sie in Kategorien einteilen. Hier sind einige Beispiele:
+
+* **Bedeutungskategorien**: Wir können die Belege nach ihren Bedeutungen kategorisieren. Zum Beispiel:
+ + "üppig; wässerig; üppig wässerig" (Beleg ID: g311_qdb-d1e82856)
+ + "geil; üppig gewachsen (von Pflanzen)" (Beleg ID: g311_qdb-d1e83019)
+* **Großregionen**: Wir können die Belege nach ihren Großregionen kategorisieren. Zum Beispiel:
+ + "6.4 Weinv." (Beleg ID: g311_qdb-d1e82856)
+ + "2.2 MKtn." (Beleg ID: g311_qdb-d1e47540)
+
+Durch diese Schritte können wir die lexikographisch verwertbaren Informationen aus den Belegen extrahieren und sie in einem wissenschaftlichen Dialektwörterbuch verwenden.

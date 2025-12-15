@@ -1,0 +1,29 @@
+Lassen Sie uns den Glossar und die Belege Schritt für Schritt analysieren, um die notwendigen Informationen für die Erstellung von Wörterbuchartikeln für ein wissenschaftliches Dialektwörterbuch zu bairischen Dialekten in Österreich zu extrahieren.
+
+**Schritt 1: Analyse des Glossars**
+
+Der Glossar enthält eine Liste von Begriffen mit ihren Definitionen, die für die lexikographische Arbeit relevant sind. Wir finden hier Kategorien wie "Hauptlemma", "Nebenlemma", "Fragebogennummer", "Part of Speech", "Bedeutung der Lautung", "Bedeutung des Belegsatzes", "Belegsatz 1", "Belegsatz 2", "Sammlung", "Lautung 1", "Lautung 2", "Anmerkung", "Diverses" und verschiedene Wortarten wie "Substantiv", "Verb", "Adjektiv" usw.
+
+**Schritt 2: Analyse der Belege**
+
+Die Belege sind in einer Liste aufgeführt, jede mit einer eindeutigen Beleg-ID. Jeder Beleg enthält verschiedene Informationen, wie z.B. die Fragebogennummer, das Hauptlemma, die Part of Speech, den Belegsatz 1, die Bedeutung des Belegsatzes, die Großregion usw.
+
+**Schritt 3: Extraktion von Informationen**
+
+Für die Erstellung von Wörterbuchartikeln benötigen wir insbesondere die folgenden Informationen:
+
+* **Hauptlemma**: Das Hauptlemma ist der zentrale Begriff, um den sich die Belege gruppieren. In unserem Fall ist das Hauptlemma "ködern".
+* **Part of Speech**: Die Part of Speech gibt uns Auskunft über die Wortart des Belegs. In unserem Fall ist die Part of Speech immer "Verb".
+* **Bedeutung der Lautung**: Die Bedeutung der Lautung gibt uns Auskunft über die Aussprache des Belegs. In unserem Fall finden wir verschiedene Lautungen wie "ködern", "kedern" usw.
+* **Bedeutung des Belegsatzes**: Die Bedeutung des Belegsatzes gibt uns Auskunft über die Bedeutung des Belegsatzes. In unserem Fall finden wir Belegsätze wie "mit Gäd hom sn kedaschd" mit der Bedeutung "mit Geld haben sie ihn geködert".
+* **Großregion**: Die Großregion gibt uns Auskunft über die geographische Verbreitung des Belegs. In unserem Fall finden wir verschiedene Großregionen wie "1C.3 öNTir.", "4.2 Pinzg.", "6.3 Waldv." usw.
+
+**Schritt 4: Einordnung der Belege**
+
+Mit Hilfe des Glossars können wir die Belege besser einordnen. Wir können die Belege nach ihrer Part of Speech, ihrer Bedeutung der Lautung, ihrer Bedeutung des Belegsatzes und ihrer Großregion gruppieren.
+
+**Schritt 5: Erstellung von Wörterbuchartikeln**
+
+Mit den extrahierten Informationen können wir nun Wörterbuchartikel für das Lemma "ködern" erstellen. Wir können die verschiedenen Bedeutungen und Lautungen des Lemmas auflisten, sowie die geographische Verbreitung des Lemmas in den verschiedenen Großregionen.
+
+Insgesamt bietet der Glossar und die Belege eine umfassende Grundlage für die Erstellung von Wörterbuchartikeln für ein wissenschaftliches Dialektwörterbuch zu bairischen Dialekten in Österreich. Durch die sorgfältige Analyse und Extraktion der Informationen können wir ein präzises und umfassendes Bild des Lemmas "ködern" erstellen.

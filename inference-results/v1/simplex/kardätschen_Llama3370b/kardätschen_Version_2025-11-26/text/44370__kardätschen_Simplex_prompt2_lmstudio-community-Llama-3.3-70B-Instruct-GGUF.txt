@@ -1,0 +1,47 @@
+Nach der Analyse der Belege habe ich die Bedeutungen des Lemmas "kardätschen" extrahiert und gruppiert. Hier sind die Ergebnisse:
+
+**Bedeutungskategorie 1: Wolle bearbeiten**
+
+* Bedeutung: Wolle zausen, Wolle lockern, Wolle hecheln, Wolle kämmen
+* Belege:
+ + Bedeutung der Lautung: Wolle zausen; Wolle lockern; Wolle zausen Wolle lockern (k459_qdbn-d16e28052)
+ + Bedeutung des Kontexts: Wolle mit der Tätsche rupfen (k459_qdb-d1e35859)
+ + Belegsatz: Woll' tātschn; Woll tatschn (k459_qdb-d1e36632)
+ + Fragebogennummer: 70G25, 70G27, 70G28
+* Großregionen: 1C.1 wNTir., 1C.2 mNTir., 1C.3 öNTir., 2.2 MKtn.
+* Belegsatz: Woɫ tatschn; Wol tatschn (k459_qdbn-d16e30427)
+
+**Bedeutungskategorie 2: Schafwolle bearbeiten**
+
+* Bedeutung: Schafwolle entstauben, Schafwolle auflockern, Schafwolle krämpeln
+* Belege:
+ + Bedeutung der Lautung: die Schafwolle auflockern (k459_qdb-d1e36442)
+ + Bedeutung des Kontexts: Schafwolle krämpeln (k459_qdbn-d16e30910)
+ + Belegsatz: Woö dadschn; Woö dadschn (k459_qdb-d1e35909)
+ + Fragebogennummer: 70G25, 70G27, 70G28
+* Großregionen: 1C.1 wNTir., 1C.2 mNTir., 1C.3 öNTir.
+* Belegsatz: Woö dadschn; Woö dadschn (k459_qdb-d1e35909)
+
+**Bedeutungskategorie 3: Pferdebürste**
+
+* Bedeutung: Pferdebürste verwenden
+* Belege:
+ + Bedeutung der Lautung: bürsten; mit der Pferdebürste reinigen (k459_qdbn-d16e29113)
+ + Bedeutung des Kontexts: Pferdebürste verwenden (k459_qdbn-d16e29113)
+ + Belegsatz: keine aussagekräftigen Belegsätze gefunden
+ + Fragebogennummer: 76E14
+* Großregionen: 6.5 Wien
+* Keine Belegsätze gefunden
+
+**Bedeutungskategorie 4: Allgemeine Bedeutung**
+
+* Bedeutung: schlagen, streichen, tappen
+* Belege:
+ + Bedeutung der Lautung: schlagen; tappen (k459_qdbn-d16e31037)
+ + Bedeutung des Kontexts: durch die Kardätsche schlagen, streichen (k459_qdbn-d16e31037)
+ + Belegsatz: die Wolle tätschen; die Wolle tätschen (k459_qdbn-d16e31037)
+ + Fragebogennummer: keine spezifischen Fragebogennummern gefunden
+* Großregionen: 1C.1 wNTir., 1C.2 mNTir., 1C.3 öNTir.
+* Belegsatz: die Wolle tätschen; die Wolle tätschen (k459_qdbn-d16e31037)
+
+Es ist zu beachten, dass einige Belege mehrere Bedeutungen enthalten können, und dass die Kategorisierung nicht immer eindeutig ist. Es ist auch möglich, dass weitere Belege gefunden werden, die die Bedeutungen des Lemmas "kardätschen" erweitern oder verfeinern.

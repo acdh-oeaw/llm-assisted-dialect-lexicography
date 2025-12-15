@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-c9f0eed1-31be-4d46-b037-9ac1a0740c86",
+    "object": "chat.completion",
+    "created": 1760955262,
+    "model": "/users/daniel.elsner/.cache/huggingface/hub/models--lmstudio-community--Llama-3.3-70B-Instruct-GGUF/snapshots/3a489fd247ce24848d8d8a3fadd707088665681f/./Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nach der Analyse der Belege habe ich die Bedeutungen des Lemmas \"K\u00f6der\" extrahiert und sie in sinnvolle semantische Kategorien gruppiert. Hier sind die Ergebnisse:\n\n1. **Lockspeise**: K\u00f6der als Lockmittel f\u00fcr Fische oder andere Tiere.\n * Belegt in: 1C.1 wNTir., 1C.2 mNTir., 1C.3 \u00f6NTir., 2.2 MKtn., 3.1 sbair.ObStmk., 3.2 mbair.ObStmk., 3.3 WStmk., 4.2 Pinzg., 5.1 Innv., 5.2 Hausrv., 5.3 Traunv., 5.4 M\u00fchlv., 6.1 Mostv., 6.2 Industriev., 6.3 Waldv., 6.5 Wien, 7.1 NBgl.\n * Belegsatz: \"h\u00e5sch \u0119s k\u0119adr [sg4]   scho aichn gitun?\" (Beleg ID: k502_qdb-d1e83708)\n2. **Teil eines Schuhs**: K\u00f6der als Teil eines Schuhs, insbesondere als Lederfleck zwischen Sohle und Oberleder.\n * Belegt in: 1C.2 mNTir., 1C.3 \u00f6NTir., 6.4 Weinv.\n * Belegsatz: \"rings an den Seiten der Brandsohle werden Lederflecklen aufgenagelt, das sind die 'K\u00f6der'\" (Beleg ID: k502_qdb-d1e82084)\n3. **Brot**: K\u00f6der als umgangssprachliche Bezeichnung f\u00fcr Brot.\n * Belegt in: 6.5 Wien\n * Kein aussagekr\u00e4ftiger Belegsatz vorhanden\n4. **Weibliche Person**: K\u00f6der als umgangssprachliche Bezeichnung f\u00fcr eine weibliche Person, insbesondere eine attraktive Frau.\n * Belegt in: 1A.4 \u00f6STir.\n * Belegsatz: \"K\u00f6der (weil sie gern anbei\u00dfen l\u00e4\u00dft) geile Frau\" (Beleg ID: k502_qdb-d1e80683)\n5. **Fischk\u00f6der**: K\u00f6der als spezielles Lockmittel f\u00fcr Fische.\n * Belegt in: 3.5 OStmk., 5.3 Traunv., 6.1 Mostv.\n * Belegsatz: \"Fischk\u00f6der verwendet werden: Fliegen, Grundelfisch, Reggenw\u00fcrmer, auch Schnecken\" (Beleg ID: k502_qdb-d1e82663)\n\nEs ist zu beachten, dass einige Belege mehrere Bedeutungen aufweisen k\u00f6nnen, insbesondere wenn sie in verschiedenen Kontexten verwendet werden. Die obige Kategorisierung ist jedoch eine sinnvolle Gruppierung der Bedeutungen des Lemmas \"K\u00f6der\"."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 11677,
+        "completion_tokens": 660,
+        "total_tokens": 12337
+    },
+    "elapsed_time": 37687.678972957656
+}

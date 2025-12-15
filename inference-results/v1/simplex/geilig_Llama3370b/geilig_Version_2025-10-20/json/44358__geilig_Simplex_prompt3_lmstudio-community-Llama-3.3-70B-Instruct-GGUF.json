@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-0db9cb72-12a6-4217-b2f5-b4dd41992748",
+    "object": "chat.completion",
+    "created": 1760019017,
+    "model": "/users/daniel.elsner/.cache/huggingface/hub/models--lmstudio-community--Llama-3.3-70B-Instruct-GGUF/snapshots/3a489fd247ce24848d8d8a3fadd707088665681f/./Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "geilig\nAdjektiv\n\nBedeutung\nI.1. \u00fcppig, w\u00e4sserig \u2013 6.4 Weinv., g311_qdb-d1e82856, g311_qdb-d1e48270\nI.2. geil, \u00fcppig gewachsen (von Pflanzen) \u2013 6.4 Weinv., 5.1 Innv., g311_qdb-d1e83019, g311_qdb-d1e82833, g297_qdb-d1e72980\nI.3. fett, kr\u00e4ftig, gut ged\u00fcngt \u2013 5.1 Innv., 2.2 MKtn., g311_qdb-d1e48436, g311_qdb-d1e47540\nI.4. faulig, schl\u00fcpfrig \u2013 1C.2 mNTir., g311_qdb-d1e46955\nI.5. schleimig \u2013 1C.2 mNTir., g311_qdb-d1e46905\nII. zu fett, \u00fcppig (Essen) \u2013 5.1 Innv., g311_qdb-d1e48497\nIII.1.a) fettreich, geil, \u00fcppig \u2013 2.2 MKtn., g311_qdb-d1e38039\nIII.1.b) fruchtbar \u2013 2.1 ObKtn., g311_qdb-d1e39352\nIII.2. widerlich fett, geil \u2013 6.3 Waldv., 6.5 Wien, g311_qdb-d1e47365, g311_qdb-d1e47863\nIV.1. \u00fcberfett, widerstehend \u2013 5.1 Innv., g311_qdb-d1e48524\nIV.2. fleischig, weich, zart \u2013 5.2 Hausrv., 5.3 Traunv., g311_qdb-d1e47186, g311_qdb-d1e48841\nIV.3. geil, rasch s\u00e4ttigend, allzu fett (v. Speisen) \u2013 6.4 Weinv., g311_qdb-d1e47632\nV. bitter, herb \u2013 6.2 Industriev., g311_qdb-d1e47813\nVI. \u00fcberfruchtbar \u2013 5.1 Innv., g311_qdb-d1e48472\nVII. fettstrotzend, strotzend, volls\u00e4ftig (v. Lebewesen) \u2013 6.2 Industriev., g311_qdb-d1e47963\nVIII.1. a) fett \u2013 5.3 Traunv., g311_qdb-d1e47209\nVIII.1. b) geil \u2013 6.4 Weinv., g311_qdb-d1e48783\nVIII.2. weich, zart, alt \u2013 5.2 Hausrv., g311_qdb-d1e47234"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 10655,
+        "completion_tokens": 655,
+        "total_tokens": 11310
+    },
+    "elapsed_time": 37297.068369574845
+}

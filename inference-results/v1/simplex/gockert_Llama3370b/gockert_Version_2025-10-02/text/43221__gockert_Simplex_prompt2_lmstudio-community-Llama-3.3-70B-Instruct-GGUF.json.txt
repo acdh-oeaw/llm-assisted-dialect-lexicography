@@ -1,0 +1,22 @@
+Nach der Analyse der Belege habe ich die folgenden Bedeutungen des Lemmas "gockecht" extrahiert und gruppiert:
+
+1. **Voll Goggen sein**: Diese Bedeutung bezieht sich auf die Anwesenheit von Goggen (Eiterkernen) auf der Haut.
+ * Belegt in den Großregionen: 1A.2 mSTir., 1A.1 wSTir., 1C.3 öNTir., 2.1 ObKtn.
+ * Belegsatz: "s Moidele war schu recht, wen̄s la nöt sȯvl gȯgget [P]   war - O de Gȯggn vrgiehn̨ schuⁿ widr;" (Beleg ID: g335_qdb-d1e4792)
+2. **Mit kleinen Geschwüren versehen**: Diese Bedeutung bezieht sich auf die Anwesenheit von kleinen Geschwüren auf der Haut.
+ * Belegt in den Großregionen: 1C.1 wNTir.
+ * Kein aussagekräftiger Belegsatz vorhanden
+3. **Wimmerig sein**: Diese Bedeutung bezieht sich auf die Anwesenheit von Wimmerln (kleinen Hautausschlägen) auf der Haut.
+ * Belegt in den Großregionen: 1A.2 mSTir., 1C.3 öNTir.
+ * Belegsatz: "Na ist der Bua asoᵘ gȯggėt [P]   !" (Beleg ID: g335_qdb-d1e4437)
+4. **Voll Pusteln sein**: Diese Bedeutung bezieht sich auf die Anwesenheit von Pusteln auf der Haut.
+ * Belegt in den Großregionen: 1C.3 öNTir.
+ * Belegsatz: "a goggəts [P,n,fl]   Gsicht; a goggets P,n,fl Gsicht" (Beleg ID: g335_qdb-d1e4557)
+5. **Mit Eiterknötchen behaftet**: Diese Bedeutung bezieht sich auf die Anwesenheit von Eiterknötchen auf der Haut.
+ * Belegt in den Großregionen: 1A.1 wSTir.
+ * Belegsatz: "S wĭard gŏggăd [P]; S wiard googgad P" (Beleg ID: g335_qdb-d1e4955)
+6. **Geschwürig sein**: Diese Bedeutung bezieht sich auf die Anwesenheit von Geschwüren auf der Haut.
+ * Belegt in den Großregionen: 1C.3 öNTir.
+ * Kein aussagekräftiger Belegsatz vorhanden
+
+Es ist zu beachten, dass einige Belege mehrere Bedeutungen aufweisen, aber ich habe mich bemüht, jede Bedeutung nur einmal zu erfassen und sie den entsprechenden Großregionen zuzuordnen.

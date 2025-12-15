@@ -1,0 +1,86 @@
+Anhang: Beleg-IDs
+
+I. Lockspeise
+* k502_qdb-d1e83708
+* k502_qdb-d1e82807
+* k502_qdb-d1e82663
+* k502_qdb-d1e82712
+* k502_qdb-d1e83740
+* k502_qdb-d1e83945
+* k502_qdb-d1e83047
+* k502_qdb-d1e82894
+* k502_qdb-d1e82999
+* k502_qdb-d1e83154
+* k502_qdb-d1e83228
+* k502_qdb-d1e83380
+* k502_qdb-d1e83459
+* k502_qdb-d1e83485
+* k502_qdb-d1e83583
+* k502_qdb-d1e83633
+* k502_qdb-d1e80210
+* k502_qdb-d1e80295
+* k502_qdb-d1e80345
+* k502_qdb-d1e80454
+* k502_qdb-d1e80608
+* k502_qdb-d1e80804
+* k502_qdb-d1e81149
+* k502_qdb-d1e81246
+* k502_qdb-d1e81296
+* k502_qdb-d1e81713
+* k502_qdb-d1e82136
+* k502_qdb-d1e82393
+* k502_qdb-d1e82428
+* k502_qdb-d1e82587
+* k502_qdb-d1e82615
+* k502_qdb-d1e82784
+* k502_qdb-d1e82974
+* k502_qdb-d1e83095
+* k502_qdb-d1e83120
+* k502_qdb-d1e83283
+* k502_qdb-d1e83407
+* k502_qdb-d1e83432
+* k502_qdb-d1e83764
+* k502_qdb-d1e83789
+* k502_qdb-d1e83814
+* k502_qdb-d1e83895
+* k502_qdb-d1e84671
+* k502_qdb-d1e84698
+
+II. Teil eines Schuhs
+* k502_qdb-d1e82084
+* k502_qdb-d1e81079
+* k502_qdb-d1e80994
+* k502_qdb-d1e82393
+
+III.1. Brot
+* k502_qdb-d1e82453
+* k502_qdb-d1e80399
+* k502_qdb-d1e80426
+* k502_qdb-d1e80580
+
+III.2. Weibliche Person
+* k502_qdb-d1e80683
+* k502_qdb-d1e80658
+* k502_qdb-d1e80633
+* k502_qdb-d1e80480
+* k502_qdb-d1e81738
+* k502_qdb-d1e81820
+* k502_qdb-d1e83981
+
+IV. Fischköder
+* k502_qdb-d1e82807
+* k502_qdb-d1e82663
+* k502_qdb-d1e82712
+* k502_qdb-d1e84549
+* k502_qdb-d1e82528
+* k502_qdb-d1e82553
+* k502_qdb-d1e82638
+* k502_qdb-d1e82761
+* k502_qdb-d1e82832
+* k502_qdb-d1e83024
+* k502_qdb-d1e83070
+* k502_qdb-d1e83180
+* k502_qdb-d1e83407
+* k502_qdb-d1e83764
+* k502_qdb-d1e84671
+* k502_qdb-d1e84698

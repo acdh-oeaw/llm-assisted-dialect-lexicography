@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-3842c9af-139d-49b0-ac8c-58e307628300",
+    "object": "chat.completion",
+    "created": 1760956438,
+    "model": "/users/daniel.elsner/.cache/huggingface/hub/models--lmstudio-community--Llama-3.3-70B-Instruct-GGUF/snapshots/3a489fd247ce24848d8d8a3fadd707088665681f/./Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Keife\nSubstantiv, Femininum\n\nBedeutung\nI.1. H\u00fcndin \u2013 2.1 ObKtn., 2.2 MKtn., 3.1 sbair.ObStmk., 3.2 mbair.ObStmk., 3.3 WStmk., 6.1 Mostv., 6.4 Weinv., 6.5 Wien \u2013 k467_qdb-d1e36941, k467_qdb-d1e36761, k467_qdb-d1e36786, k467_qdb-d1e36250, k467_qdb-d1e36979, g311_qdb-d1e10814, g311_qdb-d1e11315\nI.2. Schimpfwort f\u00fcr H\u00fcndin \u2013 2.2 MKtn., 6.4 Weinv. \u2013 k467_qdb-d1e36941, k467_qdb-d1e36979\nII. Schimpfwort f\u00fcr Frau \u2013 2.2 MKtn., 3.3 WStmk., 5.4 M\u00fchlv. \u2013 So eine fade Keifen [f] ! Kein Wunder, da\u00df der arme Kerl nicht heimgehen will \u2013 k467_qdb-d1e36054, k467_qdb-d1e36979, k467_qdb-d1e35983\nIII.1.a) Minderwertiger Hund \u2013 2.2 MKtn., 3.3 WStmk. \u2013 k467_qdb-d1e36941, g311_qdb-d1e10925\nIII.1.b) L\u00e4stig keifender Hund \u2013 3.3 WStmk. \u2013 g311_qdb-d1e11342, g311_qdb-d1e11375\nIII.2. K\u00f6ter \u2013 2.2 MKtn. \u2013 g311_qdb-d1e11110, g311_qdb-d1e11246\nIV. Alter, abgen\u00fctzter Hut \u2013 6.5 Wien \u2013 g311_qdb-d1e10963"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9156,
+        "completion_tokens": 448,
+        "total_tokens": 9604
+    },
+    "elapsed_time": 25226.701393024996
+}

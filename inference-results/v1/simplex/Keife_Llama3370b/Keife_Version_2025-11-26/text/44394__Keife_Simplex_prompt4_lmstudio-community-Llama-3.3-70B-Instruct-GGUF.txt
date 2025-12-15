@@ -1,0 +1,65 @@
+Anhang: Beleg-IDs
+
+I.1. Hündin
+* k467_qdb-d1e36761
+* k467_qdb-d1e36786
+* k467_qdb-d1e36250
+* g311_qdb-d1e10814
+* k467_qdb-d1e36686
+* k467_qdb-d1e36736
+* k467_qdb-d1e36322
+* k467_qdb-d1e36423
+* k467_qdb-d1e36468
+* k467_qdb-d1e36601
+* g311_qdb-d1e11135
+* g311_qdb-d1e10814
+* g311_qdb-d1e10902
+* k467_qdb-d1e36836
+* k467_qdb-d1e36881
+* k467_qdb-d1e36155
+* k467_qdb-d1e36180
+* k467_qdb-d1e36347
+* k467_qdb-d1e36549
+* k467_qdb-d1e36105
+* g311_qdb-d1e11219
+
+I.2. weiblicher Hund
+* k467_qdb-d1e36601
+* k467_qdb-d1e36574
+* g311_qdb-d1e11135
+* k467_qdb-d1e36711
+* k467_qdb-d1e36861
+* k467_qdb-d1e36180
+
+II. Minderwertiger Hund
+* k467_qdb-d1e37155
+* g311_qdb-d1e10925
+* g311_qdb-d1e10877
+* g311_qdb-d1e10856
+* g311_qdb-d1e11246
+
+III.1. Schimpfwort
+III.1.a) für Hündin
+* k467_qdb-d1e36054
+* k467_qdb-d1e36979
+* k467_qdb-d1e36906
+* k467_qdb-d1e36811
+III.1.b) für Menschen
+* k467_qdb-d1e37130
+* k467_qdb-d1e35983
+* k467_qdb-d1e36979
+* k467_qdb-d1e36031
+
+III.2. Lästig keifender Hund
+* g311_qdb-d1e11342
+* g311_qdb-d1e11375
+* g311_qdb-d1e11167
+* g311_qdb-d1e11187
+* g311_qdb-d1e11315
+
+III.3. Abfällige Bezeichnung für Hunde
+* k467_qdb-d1e36906
+* k467_qdb-d1e36881
+* k467_qdb-d1e36630
+* k467_qdb-d1e36079
+* k467_qdb-d1e36661

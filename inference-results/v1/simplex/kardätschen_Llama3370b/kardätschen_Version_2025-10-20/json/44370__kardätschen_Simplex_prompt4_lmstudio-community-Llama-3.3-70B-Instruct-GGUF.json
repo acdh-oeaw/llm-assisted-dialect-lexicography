@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-b52b7bf8-0abd-4820-8230-83fa13eb9e0f",
+    "object": "chat.completion",
+    "created": 1760955902,
+    "model": "/users/daniel.elsner/.cache/huggingface/hub/models--lmstudio-community--Llama-3.3-70B-Instruct-GGUF/snapshots/3a489fd247ce24848d8d8a3fadd707088665681f/./Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Anhang: Beleg-IDs nach Bedeutungen\n\nI.1. Wolle zausen oder lockern\n- k459_qdbn-d16e28052\n- k459_qdbn-d16e28923\n- k459_qdbn-d16e30601\n- k459_qdb-d1e36442\n- k459_qdb-d1e36632\n\nI.2. Wolle hecheln oder k\u00e4mmen\n- k459_qdb-d1e36442\n- k459_qdb-d1e36632\n- k459_qdbn-d16e30617\n- k459_qdbn-d16e30990\n- k459_qdbn-d16e30663\n\nII. Schafwolle kr\u00e4mpeln oder putzen\n- k459_qdbn-d16e31122\n- k459_qdb-d1e35859\n- k459_qdbn-d16e30910\n- k459_qdbn-d16e30972\n- k459_qdb-d1e36557\n\nIII.1.a) Wolle durch die Kard\u00e4tsche schlagen oder streichen\n- k459_qdb-d1e36632\n- k459_qdbn-d16e31037\n- k459_qdbn-d16e31074\n- k459_qdb-d1e36741\n- k459_qdbn-d16e31196\n\nIII.1.b) Wolle krempeln\n- k459_qdb-d1e36063\n- k459_qdbn-d16e30910\n- k459_qdb-d1e36793\n- k459_qdbn-d16e30427\n- k459_qdb-d1e36115\n\nIII.2. Wolle mit der T\u00e4tsche rupfen\n- k459_qdb-d1e35859\n- k459_qdbn-d16e29963\n- k459_qdbn-d16e30509\n- k459_qdb-d1e36246\n- k459_qdbn-d16e30990"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 7479,
+        "completion_tokens": 446,
+        "total_tokens": 7925
+    },
+    "elapsed_time": 23349.076637998223
+}

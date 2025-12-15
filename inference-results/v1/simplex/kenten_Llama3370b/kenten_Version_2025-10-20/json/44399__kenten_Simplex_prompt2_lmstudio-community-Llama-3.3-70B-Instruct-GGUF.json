@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-184b0a67-cbcb-47ad-92b6-cbd06f3ee88a",
+    "object": "chat.completion",
+    "created": 1760956119,
+    "model": "/users/daniel.elsner/.cache/huggingface/hub/models--lmstudio-community--Llama-3.3-70B-Instruct-GGUF/snapshots/3a489fd247ce24848d8d8a3fadd707088665681f/./Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ich werde die Bedeutungen des Lemmas \"kenten\" extrahieren und gruppiere sie zu sinnvollen semantischen Kategorien.\n\n**Bedeutungskategorien:**\n\n1. **Heizen**\n * Bedeutung: Heizen, einheizen\n * Belege:\n + k474_qdb-d1e60468 (Bedeutung der Lautung: heizen; einheizen; leuchten; Licht machen = z\u00fcnden; heizen einheizen leuchten Licht machen = z\u00fcnden)\n + k474_qdb-d1e57857 (Bedeutung der Lautung: einheizen)\n + k474_qdb-d1e57396 (Bedeutung der Lautung: heizen)\n * Gro\u00dfregionen: 1C.1 wNTir., 1C.2 mNTir., 4.2 Pinzg., 5.3 Traunv.\n * Belegsatz: Kein aussagekr\u00e4ftiger Belegsatz vorhanden\n2. **Z\u00fcnden**\n * Bedeutung: Z\u00fcnden, anz\u00fcnden\n * Belege:\n + k474_qdb-d1e57581 (Bedeutung der Lautung: z\u00fcnden; anfeuern; z\u00fcnden anfeuern)\n + k474_qdb-d1e58087 (Bedeutung der Lautung: z\u00fcnden; z\u00fcnden)\n + k474_qdb-d1e58357 (Bedeutung der Lautung: z\u00fcnden; z\u00fcnden)\n * Gro\u00dfregionen: 3.1 sbair.ObStmk., 3.2 mbair.ObStmk., 4.5 Flachg., 5.1 Innv., 5.2 Hausrv., 5.3 Traunv., 5.4 M\u00fchlv.\n * Belegsatz: i hon k\u03c7ent\u0259t [P2] (k474_qdb-d1e58302)\n3. **Feuer machen**\n * Bedeutung: Feuer machen, Feuer anz\u00fcnden\n * Belege:\n + k474_qdb-d1e58226 (Bedeutung der Lautung: Feuer machen; Feuer anz\u00fcnden; einheizen; Feuer machen Feuer anz\u00fcnden einheizen)\n + k474_qdb-d1e60344 (Bedeutung der Lautung: Feuer machen; anz\u00fcnden; Feuer machen anz\u00fcnden)\n * Gro\u00dfregionen: 3.1 sbair.ObStmk., 3.2 mbair.ObStmk., 5.4 M\u00fchlv.\n * Belegsatz: Kein aussagekr\u00e4ftiger Belegsatz vorhanden\n4. **Z\u00fcndeln**\n * Bedeutung: Z\u00fcndeln, mit dem Feuer spielen\n * Belege:\n + k474_qdb-d1e57095 (Bedeutung der Lautung: z\u00fcndeln; mit dem Feuer spielen; z\u00fcndeln mit dem Feuer spielen)\n * Gro\u00dfregionen: Keine Gro\u00dfregion angegeben\n * Belegsatz: Kein aussagekr\u00e4ftiger Belegsatz vorhanden\n\nEs ist zu beachten, dass einige Belege mehrere Bedeutungen haben, aber ich habe sie nur einmal in der entsprechenden Kategorie aufgef\u00fchrt. Au\u00dferdem gibt es einige Belege, die keine aussagekr\u00e4ftigen Belegs\u00e4tze haben, daher habe ich keine Belegs\u00e4tze hinzugef\u00fcgt."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 5189,
+        "completion_tokens": 743,
+        "total_tokens": 5932
+    },
+    "elapsed_time": 37539.88051903434
+}

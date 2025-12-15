@@ -1,0 +1,32 @@
+Um die Belege für das wissenschaftliche Dialektwörterbuch zu analysieren und die notwendigen Informationen zu extrahieren, werde ich die Schritte wie folgt durchführen:
+
+1. **Überblick über den Glossar**: Der Glossar enthält eine Liste von Begriffen, die für die lexikographische Arbeit relevant sind. Dazu gehören unter anderem:
+   - **Hauptlemma**: Beinhaltet alle Einträge, die einem bestimmten Lemma zugeordnet werden können.
+   - **Nebenlemma**: Einem Hauptlemma zugeordnet, aber mit Abweichungen in Schreibung, Lautung etc.
+   - **Fragebogennummer**: Identifiziert den Beleg und enthält Informationen über die Sammlung.
+   - **Part of Speech**: Gibt die Wortart an (z.B. Substantiv, Verb, Adjektiv).
+   - **Bedeutung der Lautung**: Beschreibt die Bedeutung der Lautungsangabe.
+   - **Bedeutung des Belegsatzes**: Erläutert die Bedeutung des Belegsatzes.
+   - **Belegsatz**: Ein Satz oder Ausdruck, der die Bedeutung des Belegs verdeutlicht.
+   - Weitere Kategorien wie **Lautung**, **Großregion**, **Sammlung** usw.
+
+2. **Analyse der Belege**: Die Belege selbst enthalten eine Vielzahl von Informationen, die für die Erstellung des Wörterbuchs relevant sind. Dazu gehören:
+   - **Beleg ID**: Eine eindeutige Identifikationsnummer für jeden Beleg.
+   - **Fragebogennummer**: Verweist auf die spezifische Sammlung oder den Kontext, in dem der Beleg gesammelt wurde.
+   - **Hauptlemma**: Gibt an, welchem Lemma der Beleg zugeordnet ist.
+   - **Part of Speech**: Identifiziert die Wortart des Belegs (z.B. Adjektiv).
+   - **Belegsatz**: Ein Beispiel, das die Verwendung und Bedeutung des Belegs verdeutlicht.
+   - **Bedeutung des Belegsatzes**: Eine Erläuterung der Bedeutung des Belegsatzes.
+   - **Bedeutung der Lautung**: Beschreibt, was die Lautungsangabe bedeutet.
+   - **Großregion**: Gibt die geografische Herkunft des Belegs an.
+
+3. **Extraktion relevanter Informationen**: Für die Erstellung des Wörterbuchs sind insbesondere die folgenden Informationen relevant:
+   - Die **Hauptlemmata** und ihre **Nebenlemmata**, um die semantischen und phonologischen Variationen innerhalb der Dialekte zu erfassen.
+   - Die **Part of Speech**, um die grammatischen Eigenschaften der Wörter zu verstehen.
+   - Die **Belegsätze** und ihre **Bedeutungen**, um die Verwendung und Bedeutung der Wörter in ihrem Kontext zu illustrieren.
+   - Die **Lautungen** und ihre **Bedeutungen**, um die phonologischen Variationen und ihre semantischen Implikationen zu dokumentieren.
+   - Die **Großregionen**, um die geografische Verteilung der Dialekte und ihrer Merkmale zu kartieren.
+
+4. **Einordnung der Belege**: Mithilfe des Glossars können die Belege besser einordnen und verstanden werden. Zum Beispiel können Belege, die als **Adjektiv** klassifiziert sind, im Kontext ihrer Bedeutung und Lautung analysiert werden, um ihre spezifischen Merkmale innerhalb der bairischen Dialekte zu verstehen.
+
+Durch diese Schritte kann eine umfassende Analyse der Belege durchgeführt werden, um die notwendigen Informationen für die Erstellung des wissenschaftlichen Dialektwörterbuchs zu extrahieren. Diese Informationen werden es ermöglichen, die lexikographische Verwertbarkeit der Belege zu maximieren und ein umfassendes und genaues Bild der bairischen Dialekte in Österreich zu zeichnen.

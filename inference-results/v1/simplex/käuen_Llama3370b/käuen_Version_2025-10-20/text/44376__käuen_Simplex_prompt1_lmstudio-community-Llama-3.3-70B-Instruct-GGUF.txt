@@ -1,0 +1,31 @@
+Ich werde den Glossar und die Belege Schritt für Schritt analysieren und die Informationen extrahieren.
+
+**Schritt 1: Glossar-Analyse**
+
+Der Glossar enthält eine Liste von Begriffen, die für die Erstellung von Wörterbuchartikeln für ein wissenschaftliches Dialektwörterbuch relevant sind. Die Begriffe sind in verschiedene Kategorien unterteilt, wie z.B. "Hauptlemma", "Nebenlemma", "Fragebogennummer", "Part of Speech" usw.
+
+**Schritt 2: Belege-Analyse**
+
+Die Belege sind eine Sammlung von Einträgen, die Informationen über das Lemma "käuen" enthalten. Jeder Beleg enthält eine eindeutige ID, eine Fragebogennummer, ein Hauptlemma, eine Part of Speech, einen Belegsatz und weitere Informationen.
+
+**Schritt 3: Extraktion von Informationen**
+
+Ich werde die Belege analysieren und die folgenden Informationen extrahieren:
+
+* **Hauptlemma**: Das Lemma, das dem Beleg zugeordnet ist (in diesem Fall immer "keuen").
+* **Part of Speech**: Die Wortart des Lemmas (in diesem Fall immer "Verb").
+* **Fragebogennummer**: Die Nummer des Fragebogens, der verwendet wurde, um den Beleg zu sammeln.
+* **Belegsatz**: Ein Satz oder eine Redewendung, die das Lemma enthält und seine Bedeutung verdeutlicht.
+* **Bedeutung des Belegsatzes**: Eine kurze Beschreibung der Bedeutung des Belegsatzes.
+* **Großregion**: Die geografische Region, in der der Beleg gesammelt wurde.
+* **Bedeutung der Lautung**: Eine Beschreibung der Lautung des Lemmas.
+
+**Schritt 4: Lexikographische Verwertbarkeit**
+
+Ich werde die extrahierten Informationen analysieren und bewerten, ob sie für die Erstellung von Wörterbuchartikeln für ein wissenschaftliches Dialektwörterbuch geeignet sind. Dazu gehören insbesondere die Überprüfung der Konsistenz und Vollständigkeit der Informationen sowie die Bewertung ihrer Relevanz für die lexikographische Beschreibung des Lemmas.
+
+**Schritt 5: Kategorisierung der Belege**
+
+Ich werde die Belege anhand der im Glossar definierten Kategorien einordnen, um ihre lexikographische Verwertbarkeit besser zu verstehen. Dazu gehören insbesondere die Kategorien "Hauptlemma", "Nebenlemma", "Fragebogennummer", "Part of Speech" usw.
+
+Bitte lassen Sie mich wissen, wenn Sie weitere Fragen haben oder wenn Sie mich auffordern, mit der Analyse fortzufahren.

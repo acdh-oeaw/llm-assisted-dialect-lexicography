@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-81f3f822-5b21-40a1-89f3-c4c6c8bd6467",
+    "object": "chat.completion",
+    "created": 1760956466,
+    "model": "/users/daniel.elsner/.cache/huggingface/hub/models--lmstudio-community--Llama-3.3-70B-Instruct-GGUF/snapshots/3a489fd247ce24848d8d8a3fadd707088665681f/./Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Anhang: Beleg-IDs nach Bedeutungen\n\nI.1. H\u00fcndin\n* k467_qdb-d1e36941\n* k467_qdb-d1e36761\n* k467_qdb-d1e36786\n* k467_qdb-d1e36250\n* k467_qdb-d1e36979\n* g311_qdb-d1e10814\n* g311_qdb-d1e11315\n* k467_qdb-d1e36686\n* k467_qdb-d1e36736\n* k467_qdb-d1e36322\n* k467_qdb-d1e36423\n* k467_qdb-d1e36468\n* k467_qdb-d1e36601\n* k493_qdbn-d16e8636\n* k467_qdb-d1e36155\n* k467_qdb-d1e36836\n* k467_qdb-d1e36881\n* k467_qdb-d1e36180\n* k467_qdb-d1e36347\n* k467_qdb-d1e36549\n* k467_qdb-d1e36105\n\nI.2. Schimpfwort f\u00fcr H\u00fcndin\n* k467_qdb-d1e36941\n* k467_qdb-d1e36979\n\nII. Schimpfwort f\u00fcr Frau\n* k467_qdb-d1e36054\n* k467_qdb-d1e36979\n* k467_qdb-d1e35983\n\nIII.1.a) Minderwertiger Hund\n* k467_qdb-d1e36941\n* g311_qdb-d1e10925\n\nIII.1.b) L\u00e4stig keifender Hund\n* g311_qdb-d1e11342\n* g311_qdb-d1e11375\n\nIII.2. K\u00f6ter\n* g311_qdb-d1e11110\n* g311_qdb-d1e11246\n\nIV. Alter, abgen\u00fctzter Hut\n* g311_qdb-d1e10963"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9711,
+        "completion_tokens": 448,
+        "total_tokens": 10159
+    },
+    "elapsed_time": 24421.344183851033
+}

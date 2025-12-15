@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-f31e4e97-47da-4bed-8366-a067f28101e9",
+    "object": "chat.completion",
+    "created": 1760018941,
+    "model": "/users/daniel.elsner/.cache/huggingface/hub/models--lmstudio-community--Llama-3.3-70B-Instruct-GGUF/snapshots/3a489fd247ce24848d8d8a3fadd707088665681f/./Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nach der Analyse der Belege habe ich die Bedeutungen des Lemmas \"geilig\" extrahiert und sie zu sinnvollen semantischen Kategorien gruppiert. Hier sind die Ergebnisse:\n\n1. **\u00dcppig, w\u00e4sserig**\n * Bedeutung: \u00fcppig, w\u00e4sserig, \u00fcppig w\u00e4sserig\n * Belegt in: 6.4 Weinv. (g311_qdb-d1e82856), 6.4 Weinv. (g311_qdb-d1e48270)\n * Belegsatz: kein aussagekr\u00e4ftiger Belegsatz vorhanden\n2. **Geil, \u00fcppig gewachsen (von Pflanzen)**\n * Bedeutung: geil, \u00fcppig gewachsen (von Pflanzen)\n * Belegt in: 6.4 Weinv. (g311_qdb-d1e83019), 6.4 Weinv. (g311_qdb-d1e82833), 5.1 Innv. (g297_qdb-d1e72980)\n * Belegsatz: \"Der Steinpilz ist dem Bauerngeschmack zu ... g\u00ad\u00e4ul\u00fc [P]\" (g311_qdb-d1e48783)\n3. **Fett, kr\u00e4ftig, gut ged\u00fcngt**\n * Bedeutung: fett, kr\u00e4ftig, gut ged\u00fcngt\n * Belegt in: 5.1 Innv. (g311_qdb-d1e48436), 2.2 MKtn. (g311_qdb-d1e47540)\n * Belegsatz: \"a g\u0101ligr [P,fl]   \u01eb\u03baxr; a galigr P,fl okchr\" (g311_qdb-d1e47540)\n4. **Faulig, schl\u00fcpfrig**\n * Bedeutung: faulig, schl\u00fcpfrig\n * Belegt in: 1C.2 mNTir. (g311_qdb-d1e46955)\n * Belegsatz: kein aussagekr\u00e4ftiger Belegsatz vorhanden\n5. **Schleimig**\n * Bedeutung: schleimig\n * Belegt in: 1C.2 mNTir. (g311_qdb-d1e46905)\n * Belegsatz: kein aussagekr\u00e4ftiger Belegsatz vorhanden\n6. **Zu fett, \u00fcppig (Essen)**\n * Bedeutung: zu fett, \u00fcppig (Essen)\n * Belegt in: 5.1 Innv. (g311_qdb-d1e48497)\n * Belegsatz: kein aussagekr\u00e4ftiger Belegsatz vorhanden\n7. **Fettreich, geil, \u00fcppig**\n * Bedeutung: fettreich, geil, \u00fcppig\n * Belegt in: 2.2 MKtn. (g311_qdb-d1e38039)\n * Belegsatz: kein aussagekr\u00e4ftiger Belegsatz vorhanden\n8. **Fruchtbar**\n * Bedeutung: fruchtbar\n * Belegt in: 2.1 ObKtn. (g311_qdb-d1e39352)\n * Belegsatz: kein aussagekr\u00e4ftiger Belegsatz vorhanden\n9. **Widerlich fett, geil**\n * Bedeutung: widerlich fett, geil\n * Belegt in: 6.3 Waldv. (g311_qdb-d1e47365), 6.5 Wien (g311_qdb-d1e47863)\n * Belegsatz: kein aussagekr\u00e4ftiger Belegsatz vorhanden\n10. **\u00dcberfett, widerstehend**\n * Bedeutung: \u00fcberfett, widerstehend\n * Belegt in: 5.1 Innv. (g311_qdb-d1e48524)\n * Belegsatz: kein aussagekr\u00e4ftiger Belegsatz vorhanden\n11. **Fleischig, weich, zart**\n * Bedeutung: fleischig, weich, zart\n * Belegt in: 5.2 Hausrv. (g311_qdb-d1e47186), 5.3 Traunv. (g311_qdb-d1e48841)\n * Belegsatz: \"\u0252 \u03baa\u00f6l\u0117\u03ba\u03c3 [P,fl]   \u03c6la\u0329e\u0329\u0161; a ka\u00f6leks P,fl flaes\" (g311_qdb-d1e47186)\n12. **Geil, rasch s\u00e4ttigend, allzu fett (v. Speisen)**\n * Bedeutung: geil, rasch s\u00e4ttigend, allzu fett (v. Speisen)\n * Belegt in: 6.4 Weinv. (g311_qdb-d1e47632)\n * Belegsatz: kein aussagekr\u00e4ftiger Belegsatz vorhanden\n13. **Bitter, herb**\n * Bedeutung: bitter, herb\n * Belegt in: 6.2 Industriev. (g311_qdb-d1e47813)\n * Belegsatz: kein aussagekr\u00e4ftiger Belegsatz vorhanden\n14. **\u00dcberfruchtbar**\n * Bedeutung: \u00fcberfruchtbar\n * Belegt in: 5.1 Innv. (g311_qdb-d1e48472)\n * Belegsatz: kein aussagekr\u00e4ftiger Belegsatz vorhanden\n15. **Fettstrotzend, strotzend, volls\u00e4ftig (v. Lebewesen)**\n * Bedeutung: fettstrotzend, strotzend, volls\u00e4ftig (v. Lebewesen)\n * Belegt in: 6.2 Industriev. (g311_qdb-d1e47963)\n * Belegsatz: kein aussagekr\u00e4ftiger Belegsatz vorhanden\n\nEs ist zu beachten, dass einige Bedeutungen nur in einer einzigen Gro\u00dfregion belegt sind, w\u00e4hrend andere in mehreren Gro\u00dfregionen vorkommen. Es ist auch m\u00f6glich, dass einige Bedeutungen nicht vollst\u00e4ndig oder genau erfasst sind, da die Belege nicht immer eindeutig oder vollst\u00e4ndig sind."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 8831,
+        "completion_tokens": 1359,
+        "total_tokens": 10190
+    },
+    "elapsed_time": 73792.73034771904
+}
