@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-e4b57927-9481-4c3a-8f9e-438943c88203",
+    "object": "chat.completion",
+    "created": 1764170597,
+    "model": "/data/fs201095/de32999/huggingface/Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Keife\nSubstantiv, Femininum\n\nBedeutung\nI.1. H\u00fcndin \u2013 2.1 ObKtn., 2.2 MKtn., 3.1 sbair.ObStmk., 3.2 mbair.ObStmk., 6.1 Mostv., 6.4 Weinv. \u2013 k467_qdb-d1e36761, k467_qdb-d1e36786, k467_qdb-d1e36250, g311_qdb-d1e10814\nI.2. weiblicher Hund \u2013 2.2 MKtn., 3.3 WStmk. \u2013 k467_qdb-d1e36601, k467_qdb-d1e36574, g311_qdb-d1e11135\nII. Minderwertiger Hund \u2013 2.2 MKtn., 3.3 WStmk. \u2013 k467_qdb-d1e37155, g311_qdb-d1e10925\nIII.1. Schimpfwort\nIII.1.a) f\u00fcr H\u00fcndin \u2013 2.2 MKtn., 6.4 Weinv. \u2013 \"So eine fade Keifen [f] ! Kein Wunder, da\u00df der arme Kerl nicht heimgehen will\u201e, k467_qdb-d1e36054, k467_qdb-d1e36979\nIII.1.b) f\u00fcr Menschen \u2013 2.2 MKtn., 5.4 M\u00fchlv., 6.4 Weinv. \u2013 \"die \u00e5lte Keifen\", k467_qdb-d1e37130, k467_qdb-d1e35983\nIII.2. L\u00e4stig keifender Hund \u2013 3.3 WStmk. \u2013 g311_qdb-d1e11342, g311_qdb-d1e11375\nIII.3. Abf\u00e4llige Bezeichnung f\u00fcr Hunde \u2013 2.2 MKtn. \u2013 k467_qdb-d1e36906, k467_qdb-d1e36881"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9023,
+        "completion_tokens": 440,
+        "total_tokens": 9463
+    },
+    "elapsed_time": 15651.487671304494
+}

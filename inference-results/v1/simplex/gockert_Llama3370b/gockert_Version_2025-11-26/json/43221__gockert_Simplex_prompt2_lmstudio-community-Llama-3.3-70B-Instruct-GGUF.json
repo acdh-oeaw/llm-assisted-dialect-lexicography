@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-fcebc182-57be-435c-86ca-a9553f3d231d",
+    "object": "chat.completion",
+    "created": 1764171204,
+    "model": "/data/fs201095/de32999/huggingface/Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nach der Analyse der Belege habe ich die Bedeutungen des Lemmas \"gockert\" extrahiert und zu sinnvollen semantischen Kategorien gruppiert. Hier sind die Ergebnisse:\n\n1. **Voll von Goggen/Eiterkernen sein**\n * Bedeutung: voll von Goggen oder Eiterkernen sein\n * Belegt in: 1A.2 mSTir, 1C.3 \u00f6NTir, 2.1 ObKtn\n * Belegsatz: \"s Moidele war schu\ue034 recht, wen\u0304s la n\u00f6t s\u022fvl g\u022fgget [P]   war - O de G\u022fggn vrgiehn\u0328 schu\u207f widr\"\n2. **Mit kleinen Gesch\u00fcren/Pusteln behaftet sein**\n * Bedeutung: mit kleinen Gesch\u00fcren oder Pusteln behaftet sein\n * Belegt in: 1C.3 \u00f6NTir, 1A.4 \u00f6STir\n * Belegsatz: \"a goggats [P,n,fl]   Gsicht; a goggets P,n,fl Gsicht\" (Beleg ID: g335_qdb-d1e4557)\n3. **Wimmerig sein**\n * Bedeutung: wimmerig sein\n * Belegt in: 1C.3 \u00f6NTir, 1A.2 mSTir\n * Belegsatz: \"Na ist der Bua aso\u1d58 g\u022fgg\u0117t [P]   !; Na ist der Bua asou gogget P !\" (Beleg ID: g335_qdb-d1e4437)\n4. **Mit Eiterkn\u00f6tchen behaftet sein**\n * Bedeutung: mit Eiterkn\u00f6tchen behaftet sein\n * Belegt in: 1A.1 wSTir\n * Belegsatz: \"S w\u012dard g\u014f\ue03egg\u0103d [P]; S wiard googgad P\" (Beleg ID: g335_qdb-d1e4955)\n5. **Geschw\u00fcrig sein**\n * Bedeutung: geschw\u00fcrig sein\n * Belegt in: 1C.3 \u00f6NTir\n * Kein aussagekr\u00e4ftiger Belegsatz vorhanden\n\nDie Bedeutungen wurden anhand der Kategorien \"Bedeutung der Lautung\", \"Bedeutung des Kontexts\", \"Belegsatz\" und \"Fragebogennummer\" extrahiert. Es wurden auch andere relevante Informationen wie die \"Gro\u00dfregion\" und die \"Part of Speech\" ber\u00fccksichtigt. Die Belegs\u00e4tze wurden nur dann hinzugef\u00fcgt, wenn sie aussagekr\u00e4ftig und relevant f\u00fcr die jeweilige Bedeutung waren."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 6378,
+        "completion_tokens": 618,
+        "total_tokens": 6996
+    },
+    "elapsed_time": 20548.820956144482
+}

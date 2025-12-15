@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-002db449-c302-45b5-9675-d31312ae4e2d",
+    "object": "chat.completion",
+    "created": 1764170616,
+    "model": "/data/fs201095/de32999/huggingface/Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Anhang: Beleg-IDs\n\nI.1. H\u00fcndin\n* k467_qdb-d1e36761\n* k467_qdb-d1e36786\n* k467_qdb-d1e36250\n* g311_qdb-d1e10814\n* k467_qdb-d1e36686\n* k467_qdb-d1e36736\n* k467_qdb-d1e36322\n* k467_qdb-d1e36423\n* k467_qdb-d1e36468\n* k467_qdb-d1e36601\n* g311_qdb-d1e11135\n* g311_qdb-d1e10814\n* g311_qdb-d1e10902\n* k467_qdb-d1e36836\n* k467_qdb-d1e36881\n* k467_qdb-d1e36155\n* k467_qdb-d1e36180\n* k467_qdb-d1e36347\n* k467_qdb-d1e36549\n* k467_qdb-d1e36105\n* g311_qdb-d1e11219\n\nI.2. weiblicher Hund\n* k467_qdb-d1e36601\n* k467_qdb-d1e36574\n* g311_qdb-d1e11135\n* k467_qdb-d1e36711\n* k467_qdb-d1e36861\n* k467_qdb-d1e36180\n\nII. Minderwertiger Hund\n* k467_qdb-d1e37155\n* g311_qdb-d1e10925\n* g311_qdb-d1e10877\n* g311_qdb-d1e10856\n* g311_qdb-d1e11246\n\nIII.1. Schimpfwort\nIII.1.a) f\u00fcr H\u00fcndin\n* k467_qdb-d1e36054\n* k467_qdb-d1e36979\n* k467_qdb-d1e36906\n* k467_qdb-d1e36811\nIII.1.b) f\u00fcr Menschen\n* k467_qdb-d1e37130\n* k467_qdb-d1e35983\n* k467_qdb-d1e36979\n* k467_qdb-d1e36031\n\nIII.2. L\u00e4stig keifender Hund\n* g311_qdb-d1e11342\n* g311_qdb-d1e11375\n* g311_qdb-d1e11167\n* g311_qdb-d1e11187\n* g311_qdb-d1e11315\n\nIII.3. Abf\u00e4llige Bezeichnung f\u00fcr Hunde\n* k467_qdb-d1e36906\n* k467_qdb-d1e36881\n* k467_qdb-d1e36630\n* k467_qdb-d1e36079\n* k467_qdb-d1e36661"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9570,
+        "completion_tokens": 637,
+        "total_tokens": 10207
+    },
+    "elapsed_time": 22118.921153713018
+}

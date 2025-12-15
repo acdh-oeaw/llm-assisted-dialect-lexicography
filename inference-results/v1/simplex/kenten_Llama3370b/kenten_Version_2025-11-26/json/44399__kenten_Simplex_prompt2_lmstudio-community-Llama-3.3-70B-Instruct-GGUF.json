@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-d0d795f5-1507-4daa-89df-629626791a21",
+    "object": "chat.completion",
+    "created": 1764171098,
+    "model": "/data/fs201095/de32999/huggingface/Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nach der Analyse der Belege habe ich die Bedeutungen des Lemmas \"kenten\" extrahiert und gruppiert. Hier sind die Ergebnisse:\n\n1. **Heizen**: Diese Bedeutung umfasst die Handlungen des Heizens, Einheizens und Anheizens.\n * Belegt in den Gro\u00dfregionen: 1C.1 wNTir, 1C.2 mNTir, 3.1 sbair.ObStmk, 4.2 Pinzg, 5.3 Traunv, 6.1 Mostv.\n * Belegsatz: Kein aussagekr\u00e4ftiger Belegsatz vorhanden.\n2. **Z\u00fcnden**: Diese Bedeutung umfasst die Handlungen des Z\u00fcndens, Anz\u00fcndens und Feuer machens.\n * Belegt in den Gro\u00dfregionen: 1C.1 wNTir, 1C.3 \u00f6NTir, 3.1 sbair.ObStmk, 3.2 mbair.ObStmk, 3.5 OStmk, 4.3 Pong, 4.5 Flachg, 5.1 Innv, 5.2 Hausrv, 5.3 Traunv, 5.4 M\u00fchlv.\n * Belegsatz: \"i hon k\u03c7ent\u0259t [P2]\" (Beleg ID: k474_qdb-d1e58302)\n3. **Leuchten/Licht machen**: Diese Bedeutung umfasst die Handlungen des Leuchtens und Licht machens.\n * Belegt in den Gro\u00dfregionen: 1C.1 wNTir, 1C.2 mNTir.\n * Belegsatz: Kein aussagekr\u00e4ftiger Belegsatz vorhanden.\n4. **Z\u00fcndeln**: Diese Bedeutung umfasst die Handlung des Z\u00fcndelns, also des Spiels mit dem Feuer.\n * Belegt in den Gro\u00dfregionen: 5.3 Traunv.\n * Belegsatz: Kein aussagekr\u00e4ftiger Belegsatz vorhanden.\n5. **Feuer machen**: Diese Bedeutung umfasst die Handlung des Feuer machens, einschlie\u00dflich des Anz\u00fcndens und Einheizens.\n * Belegt in den Gro\u00dfregionen: 3.1 sbair.ObStmk, 3.2 mbair.ObStmk, 5.3 Traunv, 5.4 M\u00fchlv.\n * Belegsatz: \"i hon k\u03c7ent\u0259t [P2]\" (Beleg ID: k474_qdb-d1e58302)\n\nEs ist zu beachten, dass einige Belege mehrere Bedeutungen aufweisen, und dass die Bedeutungen nicht immer klar voneinander abgegrenzt sind. Die Klassifikation der Bedeutungen ist daher nicht immer eindeutig."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 5032,
+        "completion_tokens": 628,
+        "total_tokens": 5660
+    },
+    "elapsed_time": 20114.06286433339
+}

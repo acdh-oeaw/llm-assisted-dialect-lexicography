@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-54197ca9-b536-4ac7-b884-152a4174bbba",
+    "object": "chat.completion",
+    "created": 1764171122,
+    "model": "/data/fs201095/de32999/huggingface/Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "kenten\nVerb\n\nBedeutung\nI.1. Heizen, einheizen, anheizen \u2013 1C.1 wNTir, 1C.2 mNTir, 3.1 sbair.ObStmk, 4.2 Pinzg, 5.3 Traunv, 6.1 Mostv., k474_qdb-d1e57396, k474_qdb-d1e57830, k474_qdb-d1e58382\nI.2. Z\u00fcnden, anz\u00fcnden, Feuer machen \u2013 1C.1 wNTir, 1C.3 \u00f6NTir, 3.1 sbair.ObStmk, 3.2 mbair.ObStmk, 3.5 OStmk, 4.3 Pong, 4.5 Flachg, 5.1 Innv, 5.2 Hausrv, 5.3 Traunv, 5.4 M\u00fchlv., i hon k\u03c7ent\u0259t [P2], k474_qdb-d1e58249, k474_qdb-d1e58302, k474_qdb-d1e60344\nI.3. Leuchten, Licht machen \u2013 1C.1 wNTir, 1C.2 mNTir, k474_qdb-d1e57428\nII. Z\u00fcndeln \u2013 5.3 Traunv, k474_qdb-d1e57095"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 6125,
+        "completion_tokens": 319,
+        "total_tokens": 6444
+    },
+    "elapsed_time": 10672.178478911519
+}

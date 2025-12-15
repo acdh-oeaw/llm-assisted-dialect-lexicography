@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-c11b46e6-ce1a-48a2-a03e-cfad7223b11d",
+    "object": "chat.completion",
+    "created": 1764171247,
+    "model": "/data/fs201095/de32999/huggingface/Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Anhang: Beleg-IDs\n\nI.1. Voll von Goggen/Eiterkernen sein\n* g335_qdb-d1e4792\n* g335_qdb-d1e5037\n* g335_qdb-d1e4742\n* g335_qdb-d1e4822\n* g335_qdb-d1e4932\n* g335_qdb-d1e4991\n* g335_qdb-d1e5014\n* g335_qdb-d1e4479\n* g335_qdb-d1e4610\n* g335_qdb-d1e4690\n* g335_qdb-d1e5087\n* g335_qdb-d1e5123\n* g335_qdb-d1e5154\n* g335_qdb-d1e5215\n\nI.2. Mit kleinen Gesch\u00fcren/Pusteln behaftet sein\n* g335_qdb-d1e4557\n* g335_qdb-d1e4767\n* g335_qdb-d1e4529\n* g335_qdb-d1e4587\n* g335_qdb-d1e5062\n\nII. Wimmerig sein\n* g335_qdb-d1e4437\n* g335_qdb-d1e17790\n* g335_qdb-d1e4359\n* g335_qdb-d1e4414\n* g335_qdb-d1e4504\n\nIII.1.a) Mit Eiterkn\u00f6tchen behaftet sein\n* g335_qdb-d1e4955\n* g335_qdb-d1e4717\n* g335_qdb-d1e4902\n\nIII.1.b) Geschw\u00fcrig sein\n* g335_qdb-d1e4640\n* g335_qdb-d1e4846\n* g335_qdb-d1e14773\n* g335_qdb-d1e14826\n\nIII.2. Mit vertrockneten Kr\u00e4tzen, Pusteln behaftet sein\n* g335_qdb-d1e4991\n* g335_qdb-d1e5014\n* g335_qdb-d1e5062\n\nHinweis: Es ist m\u00f6glich, dass einige Beleg-IDs mehrfach aufgef\u00fchrt sind, wenn sie zu mehreren Bedeutungen passen. Dies ist jedoch nicht der Fall, da jede Beleg-ID nur einer Bedeutung zugeordnet wurde."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 8017,
+        "completion_tokens": 525,
+        "total_tokens": 8542
+    },
+    "elapsed_time": 17653.910955879837
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9f1da5d4-0be0-4aa4-9b01-990c2fa856cb",
+    "object": "chat.completion",
+    "created": 1764171434,
+    "model": "/data/fs201095/de32999/huggingface/Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nach der Analyse der Belege habe ich die Bedeutungen des Lemmas \"geilig\" extrahiert und sie in sinnvolle semantische Kategorien gruppiert. Hier sind die Ergebnisse:\n\n1. **\u00dcppig, w\u00e4sserig**\n * Bedeutung: \u00fcppig, w\u00e4sserig, \u00fcppig w\u00e4sserig\n * Gro\u00dfregionen: 6.4 Weinv., 1C.2 mNTir.\n * Belegsatz: Kein aussagekr\u00e4ftiger Belegsatz vorhanden\n2. **Geil, \u00fcppig gewachsen (von Pflanzen)**\n * Bedeutung: geil, \u00fcppig gewachsen (von Pflanzen)\n * Gro\u00dfregionen: 6.4 Weinv., 5.1 Innv.\n * Belegsatz: Kein aussagekr\u00e4ftiger Belegsatz vorhanden\n3. **Fett, kr\u00e4ftig, gut ged\u00fcngt**\n * Bedeutung: fett, kr\u00e4ftig, gut ged\u00fcngt\n * Gro\u00dfregionen: 5.2 Hausrv., 2.2 MKtn.\n * Belegsatz: \"a g\u0101ligr [P,fl]   \u01eb\u03baxr; a galigr P,fl okchr\" (Beleg ID: g311_qdb-d1e47540)\n4. **Schleimig, faulig, schl\u00fcpfrig**\n * Bedeutung: schleimig, faulig, schl\u00fcpfrig\n * Gro\u00dfregionen: 1C.2 mNTir., 6.2 Industriev.\n * Belegsatz: Kein aussagekr\u00e4ftiger Belegsatz vorhanden\n5. **Zu fett, \u00fcppig (Essen)**\n * Bedeutung: zu fett, \u00fcppig (Essen)\n * Gro\u00dfregionen: 5.1 Innv., 6.3 Waldv.\n * Belegsatz: Kein aussagekr\u00e4ftiger Belegsatz vorhanden\n6. **Geil, woll\u00fcstig**\n * Bedeutung: geil, woll\u00fcstig\n * Gro\u00dfregionen: 6.5 Wien, 5.2 Hausrv.\n * Belegsatz: \"d' \u0259\u0301sch'n wo\u0330xt go\u0330\u0259l\u0117 [\"galig\"]; d eschn wocht goele galig\" (Beleg ID: g297_qdb-d1e85206)\n7. **Fett, kr\u00e4ftig, gesund**\n * Bedeutung: fett, kr\u00e4ftig, gesund\n * Gro\u00dfregionen: 5.2 Hausrv., 6.1 Mostv.\n * Belegsatz: \"die Speise ist g\u0101li [P]; die Speise ist gali P\" (Beleg ID: g311_qdb-d1e48108)\n8. **\u00dcberfett, widerstehend**\n * Bedeutung: \u00fcberfett, widerstehend\n * Gro\u00dfregionen: 5.1 Innv., 6.2 Industriev.\n * Belegsatz: Kein aussagekr\u00e4ftiger Belegsatz vorhanden\n9. **Fettstrotzend, strotzend, volls\u00e4ftig (v. Lebewesen)**\n * Bedeutung: fettstrotzend, strotzend, volls\u00e4ftig (v. Lebewesen)\n * Gro\u00dfregionen: 5.2 Hausrv., 6.3 Waldv.\n * Belegsatz: Kein aussagekr\u00e4ftiger Belegsatz vorhanden\n10. **Geil, rasch s\u00e4ttigend, allzu fett (v. Speisen)**\n * Bedeutung: geil, rasch s\u00e4ttigend, allzu fett (v. Speisen)\n * Gro\u00dfregionen: 6.4 Weinv., 5.1 Innv.\n * Belegsatz: Kein aussagekr\u00e4ftiger Belegsatz vorhanden\n\nEs ist zu beachten, dass einige Bedeutungen nur in bestimmten Gro\u00dfregionen belegt sind, was auf regionale Unterschiede in der Verwendung des Lemmas \"geilig\" hindeutet."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 8944,
+        "completion_tokens": 917,
+        "total_tokens": 9861
+    },
+    "elapsed_time": 31792.78364079073
+}

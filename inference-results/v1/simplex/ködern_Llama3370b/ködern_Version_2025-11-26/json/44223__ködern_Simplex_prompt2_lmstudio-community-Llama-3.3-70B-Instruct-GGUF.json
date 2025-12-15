@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-379fd79d-ebdf-48f0-b60f-08eac12ad584",
+    "object": "chat.completion",
+    "created": 1764171318,
+    "model": "/data/fs201095/de32999/huggingface/Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nach der Analyse der Belege habe ich die Bedeutungen des Lemmas \"k\u00f6dern\" extrahiert und gruppiert. Hier sind die Ergebnisse:\n\n1. **Anlocken, verf\u00fchren**: Diese Bedeutung bezieht sich auf das Anlocken oder Verf\u00fchren von jemandem oder etwas. Belegt in den Gro\u00dfregionen: 1C.3 \u00f6NTir., 6.3 Waldv., 5.4 M\u00fchlv.\n * Belegsatz: \"mit G\u00e4d hom sn kedaschd\" (mit Geld haben sie ihn gek\u00f6dert)\n2. **Lockbissen auslegen**: Diese Bedeutung bezieht sich auf das Auslegen von Lockbissen, um Tiere oder Menschen anzulocken. Belegt in den Gro\u00dfregionen: 2.2 MKtn.\n * Kein aussagekr\u00e4ftiger Belegsatz vorhanden\n3. **Mit sch\u00f6nen Reden anlocken**: Diese Bedeutung bezieht sich auf das Anlocken von jemandem durch sch\u00f6ne Reden oder \u00dcberzeugung. Belegt in den Gro\u00dfregionen: 1C.3 \u00f6NTir.\n * Belegsatz: \"\u00f5an mit sch\u00f6\u0303n\u00f6\u0303 R\u00f6\u1d48n kedarn\" (einen mit sch\u00f6nen Reden k\u00f6dern)\n4. **Mit einem K\u00f6der fangen**: Diese Bedeutung bezieht sich auf das Fangen von Tieren mit einem K\u00f6der. Belegt in den Gro\u00dfregionen: 5.1 Innv.\n * Kein aussagekr\u00e4ftiger Belegsatz vorhanden\n5. **Gl\u00fcck anlocken**: Diese Bedeutung bezieht sich auf das Anlocken von Gl\u00fcck oder Erfolg. Belegt in den Gro\u00dfregionen: 5.2 Hausrv., 5.3 Traunv.\n * Belegsatz: \"'s Gl\u00fcck mua\u00df m\u00e1 k\u00f6d\u00e1n!\" (das Gl\u00fcck muss man k\u00f6dern)\n6. **Etwas lenken oder steuern**: Diese Bedeutung bezieht sich auf das Lenken oder Steuern von etwas, wie z.B. einem Pflug. Belegt in den Gro\u00dfregionen: 5.2 Hausrv.\n * Belegsatz: \"Pfuag keden\" (den Pflug durch einen eine Hackerlvorrichtung am Gestell mehr auf eine Seite lenken)\n\nEs ist zu beachten, dass einige Belege mehrere Bedeutungen aufweisen k\u00f6nnen, aber ich habe versucht, die Bedeutungen so genau wie m\u00f6glich zu trennen und zu klassifizieren."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4724,
+        "completion_tokens": 562,
+        "total_tokens": 5286
+    },
+    "elapsed_time": 18288.20103313774
+}

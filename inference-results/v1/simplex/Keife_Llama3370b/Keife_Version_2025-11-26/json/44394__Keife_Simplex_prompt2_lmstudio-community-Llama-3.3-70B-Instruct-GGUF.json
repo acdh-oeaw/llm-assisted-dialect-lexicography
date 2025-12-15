@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-1457068c-0be2-4bda-9577-04e37def3954",
+    "object": "chat.completion",
+    "created": 1764170575,
+    "model": "/data/fs201095/de32999/huggingface/Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nach der Analyse der Belege habe ich die Bedeutungen des Lemmas \"Keife\" wie folgt gruppiert:\n\n1. **H\u00fcndin**:\n * Bedeutung: H\u00fcndin, weiblicher Hund\n * Belegt in Gro\u00dfregionen: 2.1 ObKtn., 2.2 MKtn., 3.1 sbair.ObStmk., 3.2 mbair.ObStmk., 6.1 Mostv., 6.4 Weinv.\n * Belegsatz: Keine aussagekr\u00e4ftigen Belegs\u00e4tze gefunden.\n2. **Minderwertiger Hund**:\n * Bedeutung: Minderwertiger Hund, sch\u00e4biger Hund\n * Belegt in Gro\u00dfregionen: 2.2 MKtn., 3.3 WStmk.\n * Belegsatz: Keine aussagekr\u00e4ftigen Belegs\u00e4tze gefunden.\n3. **Schimpfwort f\u00fcr H\u00fcndin**:\n * Bedeutung: Schimpfwort f\u00fcr H\u00fcndin\n * Belegt in Gro\u00dfregionen: 2.2 MKtn., 6.4 Weinv.\n * Belegsatz: \"So eine fade Keifen [f] ! Kein Wunder, da\u00df der arme Kerl nicht heimgehen will\u201e (Beleg ID: k467_qdb-d1e36054)\n4. **Schimpfwort f\u00fcr Menschen**:\n * Bedeutung: Schimpfwort f\u00fcr Menschen, z.B. zanks\u00fcchtige Weiber\n * Belegt in Gro\u00dfregionen: 2.2 MKtn., 5.4 M\u00fchlv., 6.4 Weinv.\n * Belegsatz: \"die \u00e5lte Keifen\" (Beleg ID: k467_qdb-d1e37130)\n5. **L\u00e4stig keifender Hund**:\n * Bedeutung: L\u00e4stig keifender Hund\n * Belegt in Gro\u00dfregionen: 3.3 WStmk.\n * Belegsatz: Keine aussagekr\u00e4ftigen Belegs\u00e4tze gefunden.\n6. **Abf\u00e4llige Bezeichnung f\u00fcr Hunde**:\n * Bedeutung: Abf\u00e4llige Bezeichnung f\u00fcr Hunde, z.B. \"Hunde jeder Art\"\n * Belegt in Gro\u00dfregionen: 2.2 MKtn.\n * Belegsatz: Keine aussagekr\u00e4ftigen Belegs\u00e4tze gefunden.\n\nEs ist zu beachten, dass einige Belege mehrere Bedeutungen aufweisen, aber ich habe versucht, die Bedeutungen so genau wie m\u00f6glich zu trennen und zu gruppieren."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 7998,
+        "completion_tokens": 560,
+        "total_tokens": 8558
+    },
+    "elapsed_time": 19030.0206001848
+}

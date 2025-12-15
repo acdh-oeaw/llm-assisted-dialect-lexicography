@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-1f97056f-afa1-4db2-9d2e-19cd69fe8e41",
+    "object": "chat.completion",
+    "created": 1764170976,
+    "model": "/data/fs201095/de32999/huggingface/Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "kard\u00e4tschen\nVerb\n\nBedeutung\nI.1. Wolle zausen, Wolle lockern, Wolle hecheln, Wolle k\u00e4mmen \u2013 1C.1 wNTir., 1C.2 mNTir., 1C.3 \u00f6NTir., 2.2 MKtn. \u2013 Woll' t\u0101tschn; Woll tatschn, k459_qdbn-d16e28052, k459_qdb-d1e36632, k459_qdbn-d16e30427\nI.2. Schafwolle entstauben, Schafwolle auflockern, Schafwolle kr\u00e4mpeln \u2013 1C.1 wNTir., 1C.2 mNTir., 1C.3 \u00f6NTir. \u2013 Wo\u00f6 dadschn; Wo\u00f6 dadschn, k459_qdb-d1e35909, k459_qdbn-d16e30910\nII. Pferdeb\u00fcrste verwenden \u2013 6.5 Wien \u2013 , k459_qdbn-d16e29113\nIII.1. schlagen, streichen, tappen \u2013 1C.1 wNTir., 1C.2 mNTir., 1C.3 \u00f6NTir. \u2013 die Wolle t\u00e4tschen; die Wolle t\u00e4tschen, k459_qdbn-d16e31037, k459_qdb-d1e36741"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 7520,
+        "completion_tokens": 311,
+        "total_tokens": 7831
+    },
+    "elapsed_time": 10956.119863316417
+}

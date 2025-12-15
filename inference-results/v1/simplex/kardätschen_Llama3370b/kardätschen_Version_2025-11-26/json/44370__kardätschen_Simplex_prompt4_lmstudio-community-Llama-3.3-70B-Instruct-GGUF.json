@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8c4228c1-4096-42f1-a8d7-fa11f4962ac5",
+    "object": "chat.completion",
+    "created": 1764170990,
+    "model": "/data/fs201095/de32999/huggingface/Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Anhang: Beleg-IDs\n\nI.1. Wolle zausen, Wolle lockern, Wolle hecheln, Wolle k\u00e4mmen\n* k459_qdbn-d16e28052\n* k459_qdb-d1e36632\n* k459_qdbn-d16e30427\n* k459_qdb-d1e35859\n* k459_qdb-d1e36442\n* k459_qdbn-d16e30617\n* k459_qdbn-d16e30990\n* k459_qdbn-d16e30663\n\nI.2. Schafwolle entstauben, Schafwolle auflockern, Schafwolle kr\u00e4mpeln\n* k459_qdb-d1e35909\n* k459_qdbn-d16e30910\n* k459_qdb-d1e36490\n* k459_qdb-d1e36532\n* k459_qdbn-d16e31196\n* k459_qdb-d1e35884\n\nII. Pferdeb\u00fcrste verwenden\n* k459_qdbn-d16e29113\n\nIII.1. schlagen, streichen, tappen\n* k459_qdbn-d16e31037\n* k459_qdb-d1e36741\n* k459_qdbn-d16e31074\n* k459_qdb-d1e36793\n* k459_qdbn-d16e30972\n* k459_qdb-d1e36115\n* k459_qdbn-d16e30509"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 7938,
+        "completion_tokens": 339,
+        "total_tokens": 8277
+    },
+    "elapsed_time": 11441.734675783664
+}

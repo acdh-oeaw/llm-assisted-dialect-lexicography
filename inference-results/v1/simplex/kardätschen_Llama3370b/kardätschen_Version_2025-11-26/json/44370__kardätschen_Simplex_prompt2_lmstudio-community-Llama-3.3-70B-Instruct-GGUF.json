@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-b964d2ee-8838-40b2-ae3b-aac7503aa501",
+    "object": "chat.completion",
+    "created": 1764170943,
+    "model": "/data/fs201095/de32999/huggingface/Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nach der Analyse der Belege habe ich die Bedeutungen des Lemmas \"kard\u00e4tschen\" extrahiert und gruppiert. Hier sind die Ergebnisse:\n\n**Bedeutungskategorie 1: Wolle bearbeiten**\n\n* Bedeutung: Wolle zausen, Wolle lockern, Wolle hecheln, Wolle k\u00e4mmen\n* Belege:\n + Bedeutung der Lautung: Wolle zausen; Wolle lockern; Wolle zausen Wolle lockern (k459_qdbn-d16e28052)\n + Bedeutung des Kontexts: Wolle mit der T\u00e4tsche rupfen (k459_qdb-d1e35859)\n + Belegsatz: Woll' t\u0101tschn; Woll tatschn (k459_qdb-d1e36632)\n + Fragebogennummer: 70G25, 70G27, 70G28\n* Gro\u00dfregionen: 1C.1 wNTir., 1C.2 mNTir., 1C.3 \u00f6NTir., 2.2 MKtn.\n* Belegsatz: Wo\u026b tatschn; Wol tatschn (k459_qdbn-d16e30427)\n\n**Bedeutungskategorie 2: Schafwolle bearbeiten**\n\n* Bedeutung: Schafwolle entstauben, Schafwolle auflockern, Schafwolle kr\u00e4mpeln\n* Belege:\n + Bedeutung der Lautung: die Schafwolle auflockern (k459_qdb-d1e36442)\n + Bedeutung des Kontexts: Schafwolle kr\u00e4mpeln (k459_qdbn-d16e30910)\n + Belegsatz: Wo\u00f6 dadschn; Wo\u00f6 dadschn (k459_qdb-d1e35909)\n + Fragebogennummer: 70G25, 70G27, 70G28\n* Gro\u00dfregionen: 1C.1 wNTir., 1C.2 mNTir., 1C.3 \u00f6NTir.\n* Belegsatz: Wo\u00f6 dadschn; Wo\u00f6 dadschn (k459_qdb-d1e35909)\n\n**Bedeutungskategorie 3: Pferdeb\u00fcrste**\n\n* Bedeutung: Pferdeb\u00fcrste verwenden\n* Belege:\n + Bedeutung der Lautung: b\u00fcrsten; mit der Pferdeb\u00fcrste reinigen (k459_qdbn-d16e29113)\n + Bedeutung des Kontexts: Pferdeb\u00fcrste verwenden (k459_qdbn-d16e29113)\n + Belegsatz: keine aussagekr\u00e4ftigen Belegs\u00e4tze gefunden\n + Fragebogennummer: 76E14\n* Gro\u00dfregionen: 6.5 Wien\n* Keine Belegs\u00e4tze gefunden\n\n**Bedeutungskategorie 4: Allgemeine Bedeutung**\n\n* Bedeutung: schlagen, streichen, tappen\n* Belege:\n + Bedeutung der Lautung: schlagen; tappen (k459_qdbn-d16e31037)\n + Bedeutung des Kontexts: durch die Kard\u00e4tsche schlagen, streichen (k459_qdbn-d16e31037)\n + Belegsatz: die Wolle t\u00e4tschen; die Wolle t\u00e4tschen (k459_qdbn-d16e31037)\n + Fragebogennummer: keine spezifischen Fragebogennummern gefunden\n* Gro\u00dfregionen: 1C.1 wNTir., 1C.2 mNTir., 1C.3 \u00f6NTir.\n* Belegsatz: die Wolle t\u00e4tschen; die Wolle t\u00e4tschen (k459_qdbn-d16e31037)\n\nEs ist zu beachten, dass einige Belege mehrere Bedeutungen enthalten k\u00f6nnen, und dass die Kategorisierung nicht immer eindeutig ist. Es ist auch m\u00f6glich, dass weitere Belege gefunden werden, die die Bedeutungen des Lemmas \"kard\u00e4tschen\" erweitern oder verfeinern."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 6153,
+        "completion_tokens": 902,
+        "total_tokens": 7055
+    },
+    "elapsed_time": 29861.720812041312
+}

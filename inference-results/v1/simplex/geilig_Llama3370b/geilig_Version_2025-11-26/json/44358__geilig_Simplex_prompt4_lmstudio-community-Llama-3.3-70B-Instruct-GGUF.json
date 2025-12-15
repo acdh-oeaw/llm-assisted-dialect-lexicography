@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9f43a959-afc0-4f11-9126-288426e111da",
+    "object": "chat.completion",
+    "created": 1764171499,
+    "model": "/data/fs201095/de32999/huggingface/Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Anhang: Beleg-IDs\n\nI.1. \u00fcppig, w\u00e4sserig\n* g311_qdb-d1e82856\n* g311_qdb-d1e82833\n* g311_qdb-d1e48270\n\nI.2. geil, \u00fcppig gewachsen (von Pflanzen)\n* g311_qdb-d1e83019\n* g311_qdb-d1e82833\n* g311_qdb-d1e48018\n* g311_qdb-d1e48783\n* g311_qdb-d1e48341\n\nI.3. fett, kr\u00e4ftig, gut ged\u00fcngt\n* g311_qdb-d1e47540\n* g311_qdb-d1e47422\n* g311_qdb-d1e47446\n* g311_qdb-d1e48733\n\nII. schleimig, faulig, schl\u00fcpfrig\n* g311_qdb-d1e46955\n* g311_qdb-d1e47365\n* g311_qdb-d1e47399\n\nIII.1.a) zu fett, \u00fcppig (Essen)\n* g311_qdb-d1e48497\n* g311_qdb-d1e47632\n* g311_qdb-d1e47792\n\nIII.1.b) geil, woll\u00fcstig\n* g311_qdb-d1e47588\n* g311_qdb-d1e47842\n* g311_qdb-d1e48609\n\nIII.2. fett, kr\u00e4ftig, gesund\n* g311_qdb-d1e48108\n* g311_qdb-d1e47186\n* g311_qdb-d1e48841\n\nIV.1. \u00fcberfett, widerstehend\n* g311_qdb-d1e48524\n* g311_qdb-d1e47963\n* g311_qdb-d1e47863\n\nIV.2. fettstrotzend, strotzend, volls\u00e4ftig (v. Lebewesen)\n* g311_qdb-d1e47611\n* g311_qdb-d1e48841\n\nV. geil, rasch s\u00e4ttigend, allzu fett (v. Speisen)\n* g311_qdb-d1e47632\n* g311_qdb-d1e47792\n\nVI.1. fettreich, geil, \u00fcppig\n* g311_qdb-d1e38039\n\nVI.2. fruchtbar\n* g311_qdb-d1e39352\n\nVII. fad schmeckend, nicht s\u00fc\u00df u. nicht sauer\n* g311_qdb-d1e39537\n\nVIII. weich, zart\n* g311_qdb-d1e47112\n* g311_qdb-d1e47209\n* g311_qdb-d1e47234\n\nIX. bitter, herb\n* g311_qdb-d1e47813\n\nX. zu weich gewachsen\n* g298_qdb-d1e22121\n\nXI. \u00fcberfruchtbar\n* g311_qdb-d1e48472\n\nXII. geil schmeckend\n* g311_qdb-d1e48809"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 11192,
+        "completion_tokens": 702,
+        "total_tokens": 11894
+    },
+    "elapsed_time": 24968.34174869582
+}

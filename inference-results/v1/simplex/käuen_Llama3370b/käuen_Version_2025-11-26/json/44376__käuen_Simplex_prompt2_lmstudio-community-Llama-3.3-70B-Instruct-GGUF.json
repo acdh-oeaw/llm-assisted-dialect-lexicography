@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-c67e85d5-ab4d-4522-9c17-80b199cbc45c",
+    "object": "chat.completion",
+    "created": 1764170720,
+    "model": "/data/fs201095/de32999/huggingface/Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nach der Analyse der Belege habe ich die folgenden Bedeutungen des Lemmas \"k\u00e4uen\" extrahiert und gruppiert:\n\n1. **Kauen** (allgemein)\n * Bedeutung: Das Verb \"k\u00e4uen\" bezeichnet das Zerkleinern oder Zerbrechen von Nahrungsmitteln mit den Z\u00e4hnen.\n * Gro\u00dfregionen: 1A.1 wSTir., 1A.2 mSTir., 1A.4 \u00f6STir., 2.1 ObKtn., 2.2 MKtn., 3.1 sbair.ObStmk., 3.2 mbair.ObStmk., 3.3 WStmk., 3.4 MStmk., 3.5 OStmk., 4.1 Lung., 4.2 Pinzg., 4.3 Pong., 4.5 Flachg., 5.2 Hausrv., 5.3 Traunv., 5.4 M\u00fchlv., 6.1 Mostv., 6.2 Industriev., 6.3 Waldv., 6.4 Weinv., 6.5 Wien\n * Belegsatz: \"Boaner kuien\" (Beleg ID: k480_qdb-d1e32029)\n2. **Bei\u00dfen** (im Kontext von N\u00e4geln)\n * Bedeutung: Das Verb \"k\u00e4uen\" bezeichnet das Bei\u00dfen oder Kauen an N\u00e4geln.\n * Gro\u00dfregionen: 1A.1 wSTir., 1C.1 wNTir., 1C.2 mNTir., 6.3 Waldv., 6.5 Wien\n * Belegsatz: \"N\u00e4gl kau'n\" (Beleg ID: k480_qdb-d1e35841)\n3. **Tabak kauen**\n * Bedeutung: Das Verb \"k\u00e4uen\" bezeichnet das Kauen von Tabak.\n * Gro\u00dfregionen: 2.2 MKtn., 3.1 sbair.ObStmk., 3.2 mbair.ObStmk., 3.4 MStmk., 6.1 Mostv., 6.3 Waldv., 6.4 Weinv., 6.5 Wien\n * Belegsatz: \"Tabak kauen\" (Beleg ID: k480_qdb-d1e40053)\n4. **Wiederk\u00e4uen** (im Kontext von Tieren)\n * Bedeutung: Das Verb \"k\u00e4uen\" bezeichnet das Wiederk\u00e4uen von Nahrungsmitteln bei Tieren.\n * Gro\u00dfregionen: 1C.1 wNTir., 3.4 MStmk., 3.5 OStmk.\n * Belegsatz: \"wiederk\u00e4uen\" (Beleg ID: k480_qdb-d1e31953)\n5. **Kauen** (im Kontext von Brot)\n * Bedeutung: Das Verb \"k\u00e4uen\" bezeichnet das Kauen von Brot.\n * Gro\u00dfregionen: 2.2 MKtn., 3.2 mbair.ObStmk., 5.3 Traunv.\n * Belegsatz: \"kuits Brot\" (Beleg ID: e215_qdb-d1e89739)\n6. **Kauen** (im Kontext von anderen Nahrungsmitteln)\n * Bedeutung: Das Verb \"k\u00e4uen\" bezeichnet das Kauen von anderen Nahrungsmitteln, wie z.B. Kaupech.\n * Gro\u00dfregionen: 1C.3 \u00f6NTir., 2.1 ObKtn., 3.2 mbair.ObStmk.\n * Belegsatz: \"Kuinb\u00f6ch kuin\" (Beleg ID: k480_qdb-d1e34955)\n\nEs gibt auch einige Belege, die keine klare Bedeutung oder keinen aussagekr\u00e4ftigen Belegsatz haben. Diese wurden nicht in die obige Liste aufgenommen."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20260,
+        "completion_tokens": 877,
+        "total_tokens": 21137
+    },
+    "elapsed_time": 36445.26371313259
+}

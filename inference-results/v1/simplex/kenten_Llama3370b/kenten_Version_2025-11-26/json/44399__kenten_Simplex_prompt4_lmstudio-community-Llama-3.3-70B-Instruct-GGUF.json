@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-7f7b4109-39c5-46a1-a6ba-96bab5f39606",
+    "object": "chat.completion",
+    "created": 1764171135,
+    "model": "/data/fs201095/de32999/huggingface/Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Anhang: Beleg-IDs\n\nI.1. Heizen, einheizen, anheizen\n* k474_qdb-d1e57396\n* k474_qdb-d1e57830\n* k474_qdb-d1e58382\n* k474_qdb-d1e57428\n* k474_qdb-d1e57693\n* k474_qdb-d1e57803\n* k474_qdb-d1e58190\n* k474_qdb-d1e58226\n* k474_qdb-d1e60344\n* h395_qdbn-d16e71832\n\nI.2. Z\u00fcnden, anz\u00fcnden, Feuer machen\n* k474_qdb-d1e58249\n* k474_qdb-d1e58302\n* k474_qdb-d1e60344\n* k474_qdb-d1e57964\n* k474_qdb-d1e58205\n* k474_qdb-d1e58110\n* k474_qdb-d1e58357\n* k474_qdb-d1e58334\n* k474_qdb-d1e75425\n* k474_qdb-d1e62689\n* k474_qdb-d1e65274\n\nI.3. Leuchten, Licht machen\n* k474_qdb-d1e57428\n\nII. Z\u00fcndeln\n* k474_qdb-d1e57095"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 6551,
+        "completion_tokens": 307,
+        "total_tokens": 6858
+    },
+    "elapsed_time": 9932.097596116364
+}

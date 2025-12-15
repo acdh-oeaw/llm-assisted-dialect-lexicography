@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-3b9233a9-5eb2-4b09-8afa-631af8076ae6",
+    "object": "chat.completion",
+    "created": 1764171354,
+    "model": "/data/fs201095/de32999/huggingface/Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Anhang: Beleg-IDs\n\nI.1. Anlocken, verf\u00fchren\n* k502_qdb-d1e86683\n* k502_qdb-d1e86746\n* k502_qdb-d1e86867\n* k502_qdb-d1e86717\n* k502_qdb-d1e86578\n* k502_qdb-d1e86543\n* k502_qdb-d1e86660\n* k502_qdb-d1e86352\n* k502_qdb-d1e86939\n* k502_qdb-d1e86893\n* k502_qdb-d1e86916\n\nI.2. Lockbissen auslegen\n* k502_qdb-d1e86495\n\nII. Mit sch\u00f6nen Reden anlocken\n* k502_qdb-d1e86717\n\nIII.1. Mit einem K\u00f6der fangen \n* k502_qdb-d1e83870\n* k502_qdb-d1e86633\n\nIII.2. Gl\u00fcck anlocken\n* k502_qdb-d1e86416\n* k502_qdb-d1e86443\n* k502_qdb-d1e86965\n\nIV. Etwas lenken oder steuern\n* k502_qdb-d1e86633\n\nHinweis: Es ist m\u00f6glich, dass einige Beleg-IDs mehrfach aufgef\u00fchrt sind, da sie m\u00f6glicherweise zu mehreren Bedeutungen passen. Die obige Liste enth\u00e4lt jedoch alle Beleg-IDs, die f\u00fcr die Erstellung des W\u00f6rterbuchartikels verwendet wurden."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 6195,
+        "completion_tokens": 349,
+        "total_tokens": 6544
+    },
+    "elapsed_time": 11435.823744628578
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-d30d8217-0667-4c08-b28c-5d728ec31904",
+    "object": "chat.completion",
+    "created": 1764170462,
+    "model": "/data/fs201095/de32999/huggingface/Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Anhang: Beleg-IDs nach Bedeutungen\n\nI.1. Lockspeise/Fischk\u00f6der\n- k502_qdb-d1e83708\n- k502_qdb-d1e82807\n- k502_qdb-d1e82663\n- k502_qdb-d1e82712\n- k502_qdb-d1e83740\n- k502_qdb-d1e83047\n- k502_qdb-d1e82894\n- k502_qdb-d1e82999\n- k502_qdb-d1e83154\n- k502_qdb-d1e83228\n- k502_qdb-d1e83459\n- k502_qdb-d1e83485\n- k502_qdb-d1e83583\n- k502_qdb-d1e83633\n- k502_qdb-d1e83764\n- k502_qdb-d1e83814\n- k502_qdb-d1e83895\n- k502_qdb-d1e83920\n- k502_qdb-d1e79966\n- k502_qdb-d1e80185\n- k502_qdb-d1e80370\n- k502_qdb-d1e80728\n- k502_qdb-d1e80752\n- k502_qdb-d1e80779\n- k502_qdb-d1e81438\n- k502_qdb-d1e81976\n- k502_qdb-d1e82061\n- k502_qdb-d1e82480\n- k502_qdb-d1e82503\n- k502_qdb-d1e82761\n- k502_qdb-d1e82163\n- k502_qdb-d1e82188\n- k502_qdb-d1e82345\n- k502_qdb-d1e82528\n- k502_qdb-d1e82553\n- k502_qdb-d1e82615\n- k502_qdb-d1e82638\n- k502_qdb-d1e82663\n- k502_qdb-d1e82712\n- k502_qdb-d1e82832\n- k502_qdb-d1e82868\n- k502_qdb-d1e83024\n- k502_qdb-d1e83070\n- k502_qdb-d1e83380\n- k502_qdb-d1e83407\n- k502_qdb-d1e83432\n- k502_qdb-d1e83789\n- k502_qdb-d1e80210\n- k502_qdb-d1e80295\n- k502_qdb-d1e80345\n- k502_qdb-d1e80454\n- k502_qdb-d1e80608\n- k502_qdb-d1e80804\n- k502_qdb-d1e81149\n- k502_qdb-d1e81246\n- k502_qdb-d1e81296\n- k502_qdb-d1e81713\n- k502_qdb-d1e82136\n- k502_qdb-d1e82393\n- k502_qdb-d1e82587\n- k502_qdb-d1e83283\n- k502_qdb-d1e83407\n- k502_qdb-d1e84671\n- k502_qdb-d1e84698\n\nI.2. Teil zwischen Schuhsohle und Oberleder\n- k502_qdb-d1e82084\n- k502_qdb-d1e81079\n- k502_qdb-d1e80994\n- k502_qdb-d1e80240\n- k502_qdb-d1e82393\n\nII. \u00fcbertragene Bedeutung (geile Frau)\n- k502_qdb-d1e80683\n- k502_qdb-d1e80658\n- k502_qdb-d1e80633\n- k502_qdb-d1e80480\n- k502_qdb-d1e81738\n- k502_qdb-d1e81820\n\nIII.1.a) Brot\n- k502_qdb-d1e82453\n\nIII.1.b) Luder/K\u00f6der (Jagd)\n- k502_qdb-d1e83180\n- k502_qdb-d1e83120"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 13442,
+        "completion_tokens": 932,
+        "total_tokens": 14374
+    },
+    "elapsed_time": 34278.27277360484
+}

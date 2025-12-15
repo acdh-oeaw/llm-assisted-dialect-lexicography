@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-a41886ee-87c9-4982-b9cc-4301eeca256a",
+    "object": "chat.completion",
+    "created": 1764171469,
+    "model": "/data/fs201095/de32999/huggingface/Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "geilig\nAdjektiv\n\nBedeutung\nI.1. \u00fcppig, w\u00e4sserig \u2013 6.4 Weinv., 1C.2 mNTir., g311_qdb-d1e82856, g311_qdb-d1e82833\nI.2. geil, \u00fcppig gewachsen (von Pflanzen) \u2013 6.4 Weinv., 5.1 Innv., g311_qdb-d1e83019, g311_qdb-d1e82833\nI.3. fett, kr\u00e4ftig, gut ged\u00fcngt \u2013 5.2 Hausrv., 2.2 MKtn., g311_qdb-d1e47540, g311_qdb-d1e47422\nII. schleimig, faulig, schl\u00fcpfrig \u2013 1C.2 mNTir., 6.2 Industriev., g311_qdb-d1e46955, g311_qdb-d1e47365\nIII.1.a) zu fett, \u00fcppig (Essen) \u2013 5.1 Innv., 6.3 Waldv., g311_qdb-d1e48497, g311_qdb-d1e47632\nIII.1.b) geil, woll\u00fcstig \u2013 6.5 Wien, 5.2 Hausrv., g311_qdb-d1e47588, g311_qdb-d1e47842\nIII.2. fett, kr\u00e4ftig, gesund \u2013 5.2 Hausrv., 6.1 Mostv., g311_qdb-d1e48108, g311_qdb-d1e47186\nIV.1. \u00fcberfett, widerstehend \u2013 5.1 Innv., 6.2 Industriev., g311_qdb-d1e48524, g311_qdb-d1e47963\nIV.2. fettstrotzend, strotzend, volls\u00e4ftig (v. Lebewesen) \u2013 5.2 Hausrv., 6.3 Waldv., g311_qdb-d1e47611, g311_qdb-d1e48841\nV. geil, rasch s\u00e4ttigend, allzu fett (v. Speisen) \u2013 6.4 Weinv., 5.1 Innv., g311_qdb-d1e47632, g311_qdb-d1e47792\nVI.1. fettreich, geil, \u00fcppig \u2013 2.2 MKtn., g311_qdb-d1e38039\nVI.2. fruchtbar \u2013 2.1 ObKtn., g311_qdb-d1e39352\nVII. fad schmeckend, nicht s\u00fc\u00df u. nicht sauer \u2013 1A.2 mSTir., g311_qdb-d1e39537\nVIII. weich, zart \u2013 5.2 Hausrv., g311_qdb-d1e47112, g311_qdb-d1e47209\nIX. bitter, herb \u2013 6.2 Industriev., g311_qdb-d1e47813\nX. zu weich gewachsen \u2013 4.3 Pong., g298_qdb-d1e22121\nXI. \u00fcberfruchtbar \u2013 5.1 Innv., g311_qdb-d1e48472\nXII. geil schmeckend \u2013 5.3 Traunv., g311_qdb-d1e48809"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 10326,
+        "completion_tokens": 759,
+        "total_tokens": 11085
+    },
+    "elapsed_time": 27111.19530722499
+}

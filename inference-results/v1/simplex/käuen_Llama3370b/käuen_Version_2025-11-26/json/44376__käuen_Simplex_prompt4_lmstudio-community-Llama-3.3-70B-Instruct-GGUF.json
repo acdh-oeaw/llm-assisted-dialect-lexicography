@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-f7ee2826-48db-4e0b-85cb-2b00ffa1ff65",
+    "object": "chat.completion",
+    "created": 1764170785,
+    "model": "/data/fs201095/de32999/huggingface/Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Anhang: Beleg-IDs\n\nI.1. Kauen allgemein\n* k480_qdb-d1e32029\n* k480_qdb-d1e30730\n* k480_qdb-d1e30804\n* k480_qdb-d1e37037\n* k480_qdb-d1e38358\n* k480_qdb-d1e31292\n* k480_qdb-d1e35348\n* k480_qdb-d1e31224\n* k480_qdb-d1e31255\n* k480_qdb-d1e31752\n* k480_qdb-d1e30608\n* k480_qdb-d1e30680\n* k480_qdb-d1e30705\n* k480_qdb-d1e30832\n* k480_qdb-d1e35139\n* k480_qdb-d1e35200\n* k480_qdb-d1e35228\n* k480_qdb-d1e35255\n* k480_qdb-d1e31083\n* k480_qdb-d1e31110\n* k480_qdb-d1e31347\n* k480_qdb-d1e31433\n* k480_qdb-d1e31458\n* k480_qdb-d1e31813\n* k480_qdb-d1e31953\n* k480_qdb-d1e32151\n* k480_qdb-d1e32366\n* k480_qdb-d1e32527\n* k480_qdb-d1e32727\n* k480_qdb-d1e32757\n* k480_qdb-d1e32907\n* k480_qdb-d1e32959\n* k480_qdb-d1e33433\n* k480_qdb-d1e33707\n* k480_qdb-d1e34013\n* k480_qdb-d1e34283\n* k480_qdb-d1e34428\n* k480_qdb-d1e46154\n* k480_qdb-d1e46281\n* k480_qdb-d1e47831\n* k480_qdb-d1e36625\n* k480_qdb-d1e9674\n* k480_qdb-d1e22750\n* k480_qdb-d1e31139\n* k480_qdb-d1e31408\n* k480_qdb-d1e31546\n* k480_qdb-d1e11609\n* k480_qdb-d1e31700\n* k480_qdb-d1e31927\n* k480_qdb-d1e32058\n* k480_qdb-d1e32081\n* k480_qdb-d1e32104\n* k480_qdb-d1e32127\n* k480_qdb-d1e32171\n* k480_qdb-d1e32631\n* k480_qdb-d1e32932\n* k480_qdb-d1e43068\n* k480_qdb-d1e33137\n* k480_qdb-d1e37406\n* k480_qdb-d1e33164\n* k480_qdb-d1e33189\n* k480_qdb-d1e33277\n* k480_qdb-d1e33302\n* k480_qdb-d1e34625\n* k480_qdb-d1e33327\n* k480_qdb-d1e33410\n* k480_qdb-d1e33623\n* k480_qdb-d1e34037\n* k480_qdb-d1e34085\n* k480_qdb-d1e34335\n* k480_qdb-d1e34516\n* k480_qdb-d1e34534\n* k480_qdb-d1e34706\n* k480_qdb-d1e34733\n* k480_qdb-d1e34879\n* k480_qdb-d1e34905\n* k480_qdb-d1e35282\n* k480_qdb-d1e40007\n* k480_qdb-d1e42988\n* k480_qdb-d1e35316\n* k480_qdb-d1e35484\n* k480_qdb-d1e35583\n* k480_qdb-d1e35654\n* k480_qdb-d1e35677\n* k480_qdb-d1e35748\n* k480_qdb-d1e35777\n* k480_qdb-d1e35801\n* k480_qdb-d1e9735\n* k480_qdb-d1e11134\n* k480_qdb-d1e18524\n* k480_qdb-d1e22469\n* k480_qdb-d1e30581\n* k480_qdb-d1e30859\n* k480_qdb-d1e38868\n* k480_qdb-d1e30886\n* k480_qdb-d1e31031\n* k480_qdb-d1e31056\n* k480_qdb-d1e35508\n* k480_qdb-d1e31166\n* k480_qdb-d1e31483\n* k480_qdb-d1e33589\n* k480_qdb-d1e44044\n* k480_qdb-d1e33952\n* k480_qdb-d1e31508\n* k480_qdb-d1e31614\n* k480_qdb-d1e31639\n* k480_qdb-d1e31725\n* k480_qdb-d1e31834\n* k480_qdb-d1e31974\n* k480_qdb-d1e32782\n* k480_qdb-d1e32807\n* k480_qdb-d1e32882\n* k480_qdb-d1e33018\n* k480_qdb-d1e33350\n* k480_qdb-d1e33382\n* k480_qdb-d1e33454\n* k480_qdb-d1e33566\n* k480_qdb-d1e33682\n* k480_qdb-d1e34124\n* k480_qdb-d1e32548\n* k480_qdb-d1e32577\n* k480_qdb-d1e32602\n* k480_qdb-d1e34405\n* k480_qdb-d1e34495\n* k480_qdb-d1e34656\n* k480_qdb-d1e35029\n* k480_qdb-d1e34955\n* k480_qdb-d1e35372\n* k480_qdb-d1e35461\n* k480_qdb-d1e36042\n* k480_qdb-d1e36129\n* k480_qdb-d1e36410\n* k480_qdb-d1e36437\n* k480_qdb-d1e36462\n* k480_qdb-d1e36540\n* k480_qdb-d1e30753\n* k480_qdb-d1e36855\n* k480_qdb-d1e36933\n* k480_qdb-d1e37493\n* k480_qdb-d1e37527\n* k480_qdb-d1e14184\n* k480_qdb-d1e37599\n* k480_qdb-d1e37647\n* k480_qdb-d1e33243\n* k480_qdb-d1e32447\n* k480_qdb-d1e33881\n* k480_qdb-d1e46331\n* k480_qdb-d1e38056\n* k480_qdb-d1e38139\n* k480_qdb-d1e40082\n* k480_qdb-d1e31656\n* k480_qdb-d1e40144\n* k480_qdb-d1e46213\n* k480_qdb-d1e36569\n* k480_qdb-d1e35001\n* k480_qdb-d1e38811\n* k480_qdb-d1e32853\n* k480_qdb-d1e35533\n* k480_qdb-d1e38942\n* k480_qdb-d1e31572\n* k480_qdb-d1e37954\n* k480_qdb-d1e38969\n* k480_qdb-d1e38784\n* k480_qdb-d1e38896\n* k480_qdb-d1e39295\n* k480_qdb-d1e38603\n* k480_qdb-d1e38759\n* k480_qdb-d1e38836\n* k480_qdb-d1e33740\n* k480_qdb-d1e40299\n* k480_qdb-d1e40330\n* k480_qdb-d1e30778\n* k480_qdb-d1e35085\n* k480_qdb-d1e35112\n* k480_qdb-d1e38290\n* k480_qdb-d1e31322\n* k480_qdb-d1e37811\n* k480_qdb-d1e39069\n* k480_qdb-d1e38417\n* k480_qdb-d1e38523\n* k480_qdb-d1e38548\n* k480_qdb-d"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 22241,
+        "completion_tokens": 2015,
+        "total_tokens": 24256
+    },
+    "elapsed_time": 84143.24590517208
+}

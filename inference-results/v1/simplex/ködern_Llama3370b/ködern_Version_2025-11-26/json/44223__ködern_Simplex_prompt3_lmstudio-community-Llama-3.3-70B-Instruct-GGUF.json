@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-39b3923f-cb3f-402e-baea-361372cfcc3e",
+    "object": "chat.completion",
+    "created": 1764171340,
+    "model": "/data/fs201095/de32999/huggingface/Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "k\u00f6dern\nVerb\n\nBedeutung\nI.1. Anlocken, verf\u00fchren \u2013 1C.3 \u00f6NTir., 6.3 Waldv., 5.4 M\u00fchlv. \u2013 mit G\u00e4d hom sn kedaschd, k502_qdb-d1e86683, k502_qdb-d1e86746, k502_qdb-d1e86867\nI.2. Lockbissen auslegen \u2013 2.2 MKtn. \u2013 k502_qdb-d1e86495\nII. Mit sch\u00f6nen Reden anlocken \u2013 1C.3 \u00f6NTir. \u2013 \u00f5an mit sch\u00f6\u0303n\u00f6\u0303 R\u00f6\u1d48n kedarn, k502_qdb-d1e86717\nIII.1. Mit einem K\u00f6der fangen \nIII.1.a) Mit einem K\u00f6der fangen \u2013 5.1 Innv. \u2013 k502_qdb-d1e83870\nIII.1.b) Mit einem K\u00f6der fangen \u2013 5.2 Hausrv. \u2013 Pfuag keden, k502_qdb-d1e86633\nIII.2. Gl\u00fcck anlocken \u2013 5.2 Hausrv., 5.3 Traunv. \u2013 's Gl\u00fcck mua\u00df m\u00e1 k\u00f6d\u00e1n!, k502_qdb-d1e86416, k502_qdb-d1e86965\nIV. Etwas lenken oder steuern \u2013 5.2 Hausrv. \u2013 Pfuag keden, k502_qdb-d1e86633"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 5751,
+        "completion_tokens": 337,
+        "total_tokens": 6088
+    },
+    "elapsed_time": 11497.752354945987
+}

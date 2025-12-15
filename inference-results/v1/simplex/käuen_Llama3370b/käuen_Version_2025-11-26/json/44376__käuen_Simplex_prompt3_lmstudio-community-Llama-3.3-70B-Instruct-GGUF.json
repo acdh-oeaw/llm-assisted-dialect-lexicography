@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-6b85ce61-bda7-4751-82e8-19e162343877",
+    "object": "chat.completion",
+    "created": 1764170760,
+    "model": "/data/fs201095/de32999/huggingface/Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "k\u00e4uen\nVerb\n\nBedeutung\nI.1. Kauen allgemein \u2013 1A.1 wSTir., 1A.2 mSTir., 1A.4 \u00f6STir., 2.1 ObKtn., 2.2 MKtn., 3.1 sbair.ObStmk., 3.2 mbair.ObStmk., 3.3 WStmk., 3.4 MStmk., 3.5 OStmk., 4.1 Lung., 4.2 Pinzg., 4.3 Pong., 4.5 Flachg., 5.2 Hausrv., 5.3 Traunv., 5.4 M\u00fchlv., 6.1 Mostv., 6.2 Industriev., 6.3 Waldv., 6.4 Weinv., 6.5 Wien \u2013 Boaner kuien, k480_qdb-d1e32029\nI.2. Bei\u00dfen an N\u00e4geln \u2013 1A.1 wSTir., 1C.1 wNTir., 1C.2 mNTir., 6.3 Waldv., 6.5 Wien \u2013 N\u00e4gl kau'n, k480_qdb-d1e35841\nII. Tabak kauen \u2013 2.2 MKtn., 3.1 sbair.ObStmk., 3.2 mbair.ObStmk., 3.4 MStmk., 6.1 Mostv., 6.3 Waldv., 6.4 Weinv., 6.5 Wien \u2013 Tabak kauen, k480_qdb-d1e40053\nIII.1.a) Wiederk\u00e4uen \u2013 1C.1 wNTir., 3.4 MStmk., 3.5 OStmk. \u2013 wiederk\u00e4uen, k480_qdb-d1e31953\nIII.1.b) Kauen von Brot \u2013 2.2 MKtn., 3.2 mbair.ObStmk., 5.3 Traunv. \u2013 kuits Brot, e215_qdb-d1e89739\nIII.2. Kauen von anderen Nahrungsmitteln \u2013 1C.3 \u00f6NTir., 2.1 ObKtn., 3.2 mbair.ObStmk. \u2013 Kuinb\u00f6ch kuin, k480_qdb-d1e34955"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21602,
+        "completion_tokens": 532,
+        "total_tokens": 22134
+    },
+    "elapsed_time": 22558.95026633516
+}

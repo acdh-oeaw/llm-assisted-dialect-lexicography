@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-f00ff715-58f4-4420-80ed-2d76b6733823",
+    "object": "chat.completion",
+    "created": 1764170415,
+    "model": "/data/fs201095/de32999/huggingface/Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nach der Analyse der Belege habe ich die Bedeutungen des Lemmas \"K\u00f6der\" in sinnvolle semantische Kategorien gruppiert. Hier sind die Ergebnisse:\n\n1. **Lockspeise/Fischk\u00f6der**: Diese Bedeutung bezieht sich auf eine Substanz oder ein Objekt, das verwendet wird, um Fische oder andere Tiere anzulocken.\n\t* Belegt in Gro\u00dfregionen: 1C.1 wNTir., 1C.2 mNTir., 1C.3 \u00f6NTir., 2.2 MKtn., 3.1 sbair.ObStmk., 3.2 mbair.ObStmk., 3.3 WStmk., 3.5 OStmk., 4.2 Pinzg., 5.1 Innv., 5.2 Hausrv., 5.3 Traunv., 5.4 M\u00fchlv., 6.1 Mostv., 6.2 Industriev., 6.3 Waldv., 6.5 Wien, 7.1 NBgl.\n\t* Belegsatz: \"Hast du den K\u00f6der schon hinein getan?\" (k502_qdb-d1e83708)\n2. **Teil zwischen Schuhsohle und Oberleder**: Diese Bedeutung bezieht sich auf einen Teil des Schuhs, der zwischen der Sohle und dem Oberleder liegt.\n\t* Belegt in Gro\u00dfregionen: 1C.2 mNTir., 1C.3 \u00f6NTir., 6.4 Weinv.\n\t* Belegsatz: Kein aussagekr\u00e4ftiger Belegsatz vorhanden.\n3. **\u00dcbertragene Bedeutung (geile Frau)**: Diese Bedeutung bezieht sich auf eine \u00fcbertragene Bedeutung von \"K\u00f6der\", bei der es sich um eine Person bezieht, die als verf\u00fchrerisch oder attraktiv angesehen wird.\n\t* Belegt in Gro\u00dfregionen: 1A.4 \u00f6STir.\n\t* Belegsatz: Kein aussagekr\u00e4ftiger Belegsatz vorhanden.\n4. **Brot**: Diese Bedeutung bezieht sich auf eine scherzhafte Bezeichnung f\u00fcr Brot.\n\t* Belegt in Gro\u00dfregionen: 6.5 Wien\n\t* Belegsatz: Kein aussagekr\u00e4ftiger Belegsatz vorhanden.\n5. **Luder/K\u00f6der (Jagd)**: Diese Bedeutung bezieht sich auf eine Substanz oder ein Objekt, das verwendet wird, um Wild zu jagen.\n\t* Belegt in Gro\u00dfregionen: 1C.1 wNTir.\n\t* Belegsatz: Kein aussagekr\u00e4ftiger Belegsatz vorhanden.\n\nEs ist zu beachten, dass einige Belege mehrere Bedeutungen aufweisen oder unsicher sind, was die Klassifizierung erschwert. Die obige Gruppierung versucht, die Bedeutungen sinnvoll zu kategorisieren, aber es kann sein, dass einige Belege nicht eindeutig zugeordnet werden k\u00f6nnen."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 11738,
+        "completion_tokens": 691,
+        "total_tokens": 12429
+    },
+    "elapsed_time": 24984.084367286414
+}
