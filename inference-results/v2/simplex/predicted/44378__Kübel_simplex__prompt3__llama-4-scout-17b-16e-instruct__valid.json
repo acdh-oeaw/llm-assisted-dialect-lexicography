@@ -1,0 +1,119 @@
+{
+    "Lemma": "Kübel",
+    "POS": "Subst",
+    "Genus": "m",
+    "Kasus": "null",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Gefäß (allgemein)",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.1 wSTir.",
+                " 1C.3 öNTir.",
+                " 4.2 Pinzg.",
+                " 5.1 Innv.",
+                " 5.2 Hausrv.",
+                " 6.1 Mostv.",
+                " 6.2 Industriev."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k528_qdb-d1e16005",
+                    "Belegsatz": "Wennst nicht gleich still bist, setzt ich dir den Kübel auf",
+                    "Herkunftsort": "6.2e04 Rohr im Gebirge"
+                },
+                {
+                    "ID": "k528_qdb-d1e4010",
+                    "Belegsatz": "Kübel, Eimer",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k527_qdb-d1e51598",
+                    "Belegsatz": "Traggefäß aus Blech",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k528_qdb-d1e16005",
+                "k528_qdb-d1e4010",
+                "k528_qdb-d1e2836",
+                "k527_qdb-d1e51598",
+                "k528_qdb-d1e6246"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Butterfaß oder Rührkübel für Schmalz/Butter",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.1 wSTir.",
+                " 1A.2 mSTir.",
+                " 1B.0 OTir.",
+                " 1C.1 wNTir.",
+                " 1C.3 öNTir.",
+                " 2.1 ObKtn.",
+                " 2.2 MKtn."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k528_qdb-d1e3781",
+                    "Belegsatz": "Butterfaß",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k528_qdb-d1e5401",
+                    "Belegsatz": "Rührkübel",
+                    "Herkunftsort": "1C.3b03 Thiersee"
+                }
+            ],
+            "Belege": [
+                "k528_qdb-d1e3781",
+                "k528_qdb-d1e3897",
+                "k528_qdb-d1e4239",
+                "k528_qdb-d1e4268",
+                "k528_qdb-d1e5401"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Spitzname für eine Person oder Gruppe",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.2 mNTir.",
+                " 6.2 Industriev."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k528_qdb-d1e83446",
+                    "Belegsatz": "Haller Kübel",
+                    "Herkunftsort": "1C.2a01 Absam"
+                }
+            ],
+            "Belege": [
+                "k528_qdb-d1e83446",
+                "k528_qdb-d1e6298",
+                "k528_qdb-d1e6392"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Altes Auto (abwertend)",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "weitere Bedeutung 1",
+            "Regionen": [
+                "6.5 Wien"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k528_qdb-d1e4092",
+                    "Belegsatz": "(altes) Auton",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k528_qdb-d1e4092",
+                "k528_qdb-d1e2909"
+            ]
+        }
+    ]
+}

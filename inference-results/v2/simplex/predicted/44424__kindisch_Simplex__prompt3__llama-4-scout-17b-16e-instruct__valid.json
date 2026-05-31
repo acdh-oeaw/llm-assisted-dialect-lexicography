@@ -1,0 +1,76 @@
+{
+    "Lemma": "kindisch",
+    "POS": "Adj",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "kindlich oder unreif",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.4 öSTir.",
+                "1C.1 wNTir.",
+                "1C.3 öNTir.",
+                "2.1 ObKtn.",
+                "3.1 sbair.ObStmk.",
+                "3.2 mbair.ObStmk.",
+                "3.3 WStmk.",
+                "5.1 Innv.",
+                "5.2 Hausrv.",
+                "5.4 Mühlv.",
+                "6.1 Mostv.",
+                "6.2 Industriev.",
+                "6.3 Waldv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k483_qdbn-d16e36166",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k483_qdbn-d16e35532",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "kindisches Benehmen oder Tun",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.1 wNTir.",
+                "3.2 mbair.ObStmk.",
+                "6.1 Mostv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k483_qdbn-d16e36323",
+                    "Belegsatz": "Duɒ nėd so Khindėšš!",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "greisenhaft oder wunderlich",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.1 wNTir.",
+                "4.2 Pinzg."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k483_qdbn-d16e36582",
+                    "Belegsatz": "aᵒlt und kindisch",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        }
+    ]
+}

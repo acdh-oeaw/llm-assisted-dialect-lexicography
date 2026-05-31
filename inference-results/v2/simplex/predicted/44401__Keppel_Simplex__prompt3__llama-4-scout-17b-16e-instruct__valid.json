@@ -1,0 +1,732 @@
+{
+    "Lemma": "Këppel;Keppel;",
+    "POS": "Subst",
+    "Genus": "Femininum",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Plaudertasche; Tratschweib;",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.2 Industriev.",
+                "6.3 Waldv.",
+                "5.4 Mühlv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k474_qdb-d1e69045",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.3a18 Reingers"
+                },
+                {
+                    "ID": "k474_qdb-d1e66893",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.2h28 Warth"
+                }
+            ],
+            "Belege": [
+                "k474_qdb-d1e69045",
+                "k474_qdb-d1e66893",
+                "k474_qdb-d1e66914"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "zänkisches Weib;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.1 Innv.",
+                "3.2 mbair.ObStmk."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k474_qdb-d1e67022",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k474_qdb-d1e67155",
+                    "Belegsatz": "\"an oldi / oydi Keppüˡ [f];\"",
+                    "Herkunftsort": "3.2f02 Kapfenberg"
+                }
+            ],
+            "Belege": [
+                "k474_qdb-d1e67022",
+                "k474_qdb-d1e67155"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Schwatzhafter Mensch;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "3.2 mbair.ObStmk."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k474_qdb-d1e67242",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k474_qdb-d1e67267",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k474_qdb-d1e67242",
+                "k474_qdb-d1e67267"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Kiefer;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.3 Traunv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k474_qdb-d1e71468",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.3i08 Thalheim bei Wels"
+                },
+                {
+                    "ID": "k474_qdb-d1e66746",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.3i08 Thalheim bei Wels"
+                }
+            ],
+            "Belege": [
+                "k474_qdb-d1e71468",
+                "k474_qdb-d1e66746"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "weibliche Person, die gerne KEPPELT;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.3 Traunv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k474_qdb-d1e67076",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.3b02 Gmunden"
+                }
+            ],
+            "Belege": [
+                "k474_qdb-d1e67076"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Kepelweib;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.1 Innv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k474_qdb-d1e66970",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k474_qdb-d1e66970"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "keifendes, alles bekrittelndes Weib;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.2 Hausrv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k474_qdb-d1e67130",
+                    "Belegsatz": "\"a o̩ö̩de κhe̩wö(n) [f];\"",
+                    "Herkunftsort": "5.2b46 Weibern"
+                }
+            ],
+            "Belege": [
+                "k474_qdb-d1e67130"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Kinn;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.3 Traunv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k474_qdb-d1e72467",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "Mund/Maul;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "3.3 WStmk."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k474_qdb-d1e66697",
+                    "Belegsatz": "\"Gebel, Gepel\\ = Mund;\"",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "Kohl;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.2 mSTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k474_qdb-d1e67725",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "Kinnbacken;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.3 Traunv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k474_qdb-d1e66746",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "böses Weib;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.1 Innv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "das ist eine klatschsüchtige Frau;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.3 Traunv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "sie lost a Kēpl [sg4]   gehn;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.3 Waldv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "statt: KieferANMB: Kinnlade, Kinn, Mund;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.2 Hausrv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "Keppelweib;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "eine zanksüchtige Weibsperson;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "an oldi / oelde Khefe f;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "dės is a Kewöˡ;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "oüdi Khēfün f;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "oüdi Khefün f;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "ɒn ǫėˡde Khę̄fė f;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "Die Bäurin ist eine feindselige Kepeler (uncertain value)  (böse Zunge);",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.2 Industriev."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "\"Die Bairin is a faiⁿdsalige Kebin [f];\"",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "Deaʳ håt a guata Keppl f,sg4;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "3.3 WStmk."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "altes zänkisches Weib;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.3 Waldv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "\"oüdi Khēfün [f];\"",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "böses Weib;böses Weib;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.1 Innv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "Kepelweib;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "keifendes, alles bekrittelndes Weib;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "Kinn;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "Kinnbacken;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "Mund/Maul;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "Kohl;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "das ist eine klatschsüchtige Frau;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "sie lost a Kēpl [sg4]   gehn;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "statt: KieferANMB: Kinnlade, Kinn, Mund;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "Keppelweib;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "eine zanksüchtige Weibsperson;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "an oldi / oelde Khefe f;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "dės is a Kewöˡ;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "oüdi Khēfün f;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "oüdi Khefün f;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "ɒn ǫėˡde Khę̄fė f;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "Die Bäurin ist eine feindselige Kepeler (uncertain value)  (böse Zunge);",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "\"Die Bairin is a faiⁿdsalige Kebin [f];\"",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "Deaʳ håt a guata Keppl f,sg4;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "altes zänkisches Weib;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "\"oüdi Khēfün [f];\"",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "böses Weib;böses Weib;",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        }
+    ]
+}

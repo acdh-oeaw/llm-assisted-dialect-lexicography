@@ -1,0 +1,25 @@
+{
+  "Lemma": "Kimme",
+  "POS": "Substantiv",
+  "Genus": "Femininum, Maskulinum, Neutrum",
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "Einschitt; Kerbe; Nut (in den Fassdauben)",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1C.3 öNTir.",
+        "p2.2 MKtn.",
+        "p3.3 WStmk.",
+        "p3.4 MStmk.",
+        "p4 Sbg.",
+        "p5 OÖ",
+        "p6.1 Mostv.",
+        "p6.4 Weinv.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

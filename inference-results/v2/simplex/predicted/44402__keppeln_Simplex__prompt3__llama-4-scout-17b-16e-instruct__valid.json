@@ -1,0 +1,93 @@
+{
+    "Lemma": "këppeln;keppeln",
+    "POS": "Verb",
+    "Genus": "null",
+    "Kasus": "null",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "keifen; zanken; schelten",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.1 Innv.",
+                "5.3 Traunv.",
+                "6.1 Mostv.",
+                "6.2 Industriev.",
+                "6.3 Waldv.",
+                "6.4 Weinv.",
+                "6.5 Wien"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k474_qdb-d1e68189",
+                    "Belegsatz": "keppeln: schelten; zanken",
+                    "Herkunftsort": "6.5 Wien"
+                },
+                {
+                    "ID": "k474_qdb-d1e68776",
+                    "Belegsatz": "Keifen (von Frauen, anhaltend); schelten (von Frauen, anhaltend)",
+                    "Herkunftsort": "5.3 Traunv."
+                }
+            ],
+            "Belege": [
+                "k474_qdb-d1e68189",
+                "k474_qdb-d1e68776",
+                "k474_qdb-d1e68822",
+                "k474_qdb-d1e69072"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "viel reden; tratschen; plaudern",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "3.4 MStmk.",
+                "5.2 Hausrv.",
+                "6.1 Mostv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k474_qdb-d1e70719",
+                    "Belegsatz": "schwatzen; tratschen",
+                    "Herkunftsort": "3.4 MStmk."
+                },
+                {
+                    "ID": "f245_qdb-d1e34258",
+                    "Belegsatz": "",
+                    "Herkunftsort": "3.5 OStmk."
+                }
+            ],
+            "Belege": [
+                "k474_qdb-d1e70719",
+                "f245_qdb-d1e34258",
+                "k474_qdb-d1e68134"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "geifernd reden; nörgeln",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.4 Mühlv.",
+                "6.2 Industriev."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k474_qdb-d1e70202",
+                    "Belegsatz": "(keppeln)",
+                    "Herkunftsort": "5.4 Mühlv."
+                },
+                {
+                    "ID": "k474_qdb-d1e69628",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.2 Hausrv."
+                }
+            ],
+            "Belege": [
+                "k474_qdb-d1e70202",
+                "k474_qdb-d1e69628",
+                "k474_qdb-d1e70177"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "Lemma": "Käuschlecker",
+    "POS": "Subst",
+    "Genus": "männlich",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Kleingütler, Kleinbauer",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "2.2 MKtn.",
+                "3.1 sbair.ObStmk."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k465_qdb-d1e27856",
+                    "Belegsatz": "dęaʳ is a Khaischleckhaʳ;dear is a Khaischleckhar;",
+                    "Herkunftsort": "2.3n01 Klagenfurt"
+                }
+            ],
+            "Belege": [
+                "k465_qdb-d1e28009",
+                "k465_qdb-d1e28104",
+                "k465_qdb-d1e27856",
+                "k465_qdb-d1e28029",
+                "k465_qdb-d1e28054",
+                "k465_qdb-d1e31418"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Keuschler",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "2.2 MKtn."
+            ],
+            "Belegsaetze": [],
+            "Belege": [
+                "h402_qdb-d1e55066",
+                "k465_qdb-d1e27963",
+                "k465_qdb-d1e27940"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Kleinhäusler",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "2.2 MKtn."
+            ],
+            "Belegsaetze": [],
+            "Belege": [
+                "k465_qdb-d1e27913"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "Lemma": "kirnen/kürnen",
+    "POS": "Verb",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "sich verschlucken; sich verkutzen",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "4.3 Pongau",
+                "5.2 Hausruckviertel"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k477_qdb-d1e24653",
+                    "Belegsatz": "er hat si kirnt",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k533_qdb-d1e25102",
+                    "Belegsatz": "",
+                    "Herkunftsort": "4.3 Pongau"
+                }
+            ],
+            "Belege": [
+                "k477_qdb-d1e24653",
+                "k533_qdb-d1e25102"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Körner ansetzen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1B.0 Osttirol",
+                "1A.4 öSTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k484_qdb-d1e76397",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1B.0 OTir."
+                },
+                {
+                    "ID": "k484_qdb-d1e76372",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1A.4 öSTir.; 1B.0 OTir."
+                }
+            ],
+            "Belege": [
+                "k484_qdb-d1e76397",
+                "k484_qdb-d1e76372"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "verschluckt",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "differenzierte Bedeutung",
+            "Regionen": [
+                "4.3 Pongau"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k484_qdb-d1e76347",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k484_qdb-d1e76347"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "kürnen = ansetzen (z.B. beim Roggen)",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "differenzierte Bedeutung",
+            "Regionen": [
+                "1B.0 Osttirol"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k533_qdb-d1e25017",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1B.0a05 Sillian"
+                }
+            ],
+            "Belege": [
+                "k533_qdb-d1e25017"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "sich verkutzen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.2 Hausruckviertel"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k533_qdb-d1e24987",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.2d06 Mondsee"
+                }
+            ],
+            "Belege": [
+                "k533_qdb-d1e24987"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Verkutzen",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "weitere Bedeutung 1",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "k533_qdb-d1e25127",
+                    "Belegsatz": "iaz håni mi kīⁿt [P2]",
+                    "Herkunftsort": "4.2c01 Fusch an der Großglocknerstraße"
+                }
+            ],
+            "Belege": [
+                "k533_qdb-d1e25127"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Der Roggn kirnt",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.2 mSTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k484_qdb-d1e76464",
+                    "Belegsatz": "Der Roggn \\kirnt [sg3] \\; Der Roggn kirnt sg3",
+                    "Herkunftsort": "1A.3g06 Vahrn"
+                }
+            ],
+            "Belege": [
+                "k484_qdb-d1e76464"
+            ]
+        }
+    ]
+}

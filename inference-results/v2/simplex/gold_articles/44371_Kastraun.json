@@ -1,0 +1,84 @@
+{
+  "Lemma": "Kastraun",
+  "POS": "Substantiv",
+  "Genus": "Maskulinum",
+  "Form": {
+    "form": "Kasträundel, Kasträulein",
+    "typ": "Diminutive",
+    "genus": "Neutrum"
+  },
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "Hammel; kastrierter Widder oder Ziegenbock",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir.",
+        "p2 Ktn.",
+        "p3 Stmk.",
+        "p4 Sbg.",
+        "p5.3 Traunv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "männliches Schaf",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1C.2 mNTir.",
+        "p3 Stmk."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Schaf",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1B.0 OTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Leithammel",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1C.1 wNTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Hammelfleisch",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Kastrat",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p2 Ktn."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "dummer Mensch",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p3 Stmk.",
+        "p5.3 Traunv.",
+        "p6.1 Mostv."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

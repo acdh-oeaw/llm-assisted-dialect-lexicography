@@ -1,0 +1,48 @@
+{
+  "Lemma": "ködern",
+  "POS": "Verb",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "Lockspeisen auslegen; anlocken",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1C.1 wNTir.",
+        "p1C.3 öNTir.",
+        "p2 Ktn.",
+        "p4.2 Pinzg.",
+        "p5 OÖ",
+        "p6.1 Mostv.",
+        "p6.2 Industriev.",
+        "p6.3 Waldv.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "mit Gäd hom sn kedaschd",
+          "Herkunftsort": "Kufstein"
+        },
+        {
+          "Belegsatz": "õan mit schö̃nö̃ Röᵈn kedarn",
+          "Herkunftsort": "Kufstein"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "lenken",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p5.2 Hausrv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Pfuag keden",
+          "Herkunftsort": "Frankenburg am Hausruck"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "Lemma": "glurren gluren",
+  "POS": "Verb",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "glotzen; starren; aufmerksam schauen; spähen; lauern",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p2 Ktn.",
+        "p3 Stmk.",
+        "p5 OÖ",
+        "p6 NÖ",
+        "p6.5 Wien",
+        "p7.1 NBgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Wås glu͜aʳsd dãn a soᵘ",
+          "Herkunftsort": "Dunkelsteinerwald"
+        },
+        {
+          "Belegsatz": "gluan wia a Koda",
+          "Herkunftsort": "Langenlois"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "erstaunt sein",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "böse, kampflustig, verächtlich ansehen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p5.4 Mühlv."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

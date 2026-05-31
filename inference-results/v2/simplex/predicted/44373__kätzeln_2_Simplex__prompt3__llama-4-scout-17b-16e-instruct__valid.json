@@ -1,0 +1,100 @@
+{
+    "Lemma": "kätzeln",
+    "POS": "Verb",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Junge werfen (von der Katze); sich erbrechen; husten, räuspern",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "3.1 sbair.ObStmk.",
+                "5.2 Hausrv.",
+                "6.2 Industriev."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k463_qdb-d1e67613",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k463_qdb-d1e68472",
+                    "Belegsatz": "katzeln; brechen",
+                    "Herkunftsort": "3.1d03 Lobmingtal"
+                },
+                {
+                    "ID": "k463_qdb-d1e68609",
+                    "Belegsatz": "husten, räuspern, sich erbrechen",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k463_qdb-d1e67613",
+                "k463_qdb-d1e68472",
+                "k463_qdb-d1e68609"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "speien",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.2 Industriev."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k463_qdb-d1e67253",
+                    "Belegsatz": "speien",
+                    "Herkunftsort": "6.2h02 Aspang-Markt"
+                },
+                {
+                    "ID": "k463_qdb-d1e67303",
+                    "Belegsatz": "speien",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k463_qdb-d1e67253",
+                "k463_qdb-d1e67303"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "katzeln= brechen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "3.1 sbair.ObStmk."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k463_qdb-d1e67891",
+                    "Belegsatz": "katzeln= brechen",
+                    "Herkunftsort": "3.1d03 Lobmingtal"
+                }
+            ],
+            "Belege": [
+                "k463_qdb-d1e67891"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "vomere; šb-aim",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.2 Hausrv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k463_qdb-d1e67638",
+                    "Belegsatz": "vomere; šb-aim",
+                    "Herkunftsort": "5.2b46 Weibern"
+                }
+            ],
+            "Belege": [
+                "k463_qdb-d1e67638"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "Lemma": "gockecht",
+    "POS": "Adj.",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "mit Eiterkerne behaftet; mit kleinen Geschwüren versehen",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.2 mSTir.",
+                "1A.3b01 Sarntal",
+                "1C.1 wNTir.",
+                "1C.3 öNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g335_qdb-d1e4792",
+                    "Belegsatz": "s Moidele war schu recht, wen̄s la nöt sȯvl gȯgget [P] war - O de Gȯggn vrgiehn̨ schuⁿ widr",
+                    "Herkunftsort": "1A.3b01 Sarntal"
+                },
+                {
+                    "ID": "g335_qdb-d1e5037",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1A.1 wSTir."
+                }
+            ],
+            "Belege": [
+                "g335_qdb-d1e4792",
+                "g335_qdb-d1e5037"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "mit kleinen Geschwüren versehen; voll Wimmerln sein",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.3 öNTir.",
+                "1A.2 mSTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g335_qdb-d1e4437",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1A.3b01 Sarntal"
+                }
+            ],
+            "Belege": [
+                "g335_qdb-d1e4437"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "mit Pusteln entstellte Nase; mit Eiterkerne behaftet",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                ""
+            ],
+            "Belegsaetze": [],
+            "Belege": []
+        }
+    ]
+}

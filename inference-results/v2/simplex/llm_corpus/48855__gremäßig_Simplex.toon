@@ -1,0 +1,76 @@
+Glossar:
+  Lemma: "'Lemma' beinhaltet sämtliche Einträge (inklusive Komposita und Wortbildungsvarianten), die einem bestimmten Lemma zugeordnet werden können. Zu diesem Zweck wurden alle Handzettel beziehungsweise die Einträge der Belegdatenbank lemmatisiert und nach historisch-etymologischen Gesichtspunkten - also linguistischen Prinzipien - einem Hauptlemma zugeordnet."
+  Fragebogennummer: "Auflistung von relevanten Fragebogennummern und Beschreibungen:\n* **75A8:** Hahn in Füg./Ra. (wie e. Hahn dahersteigen,)\n* **EFb.5/49:** mißgelaunt (grantikch, grande)\n* **63A8 (F):** ScheltN für schwächliche Kinder\n* **1G19:** Grimassen machen, zucken; verzerrtes Gesicht\n"
+  Part_of_Speech: Diese Angabe benennt die Wortart des jeweiligen Belegs.
+  Bedeutung_der_Lautung: Diese Information beschreibt die Bedeutung der Lautungsangabe auf dem Beleg.
+  Bedeutung_des_Belegsatzes: "Diese Information beschreibt die Bedeutung des in Spalte \"Belegsatz 1\", \"Belegsatz 2\" etc. angegebenen Belegsatzes. Es kann sich dabei um eine direkte standardsprachliche Übersetzung, eine standardsprachliche Periphrase oder um einen metasprachlichen Kommentar handeln."
+  Belegsatz_1: "Dieser Eintrag gibt einen Belegsatz, eine Redewendung oder eine Paraphrase wider, um die Bedeutung des Belegs exemplarisch darzustellen bzw. näher zu kontextualisieren. Der Belegsatz ist in der Regel im Dialekt angegeben und in der Lautschrift Teuthonista verschriftlicht."
+  Belegsatz_2: Belegsatz 2 weist dieselbe Funktionalität auf wie Belegsatz 1.
+  Sammlung: Eine Sammlung bündelt einzelne Einträge nach lexikographisch sinnvollen Gesichtspunkten. Alle Einträge der Sammlung teilen diese Gesichtspunkte.
+  Lautung_1: "Die angegebene Information umfasst die lautliche Transkription des vorliegenden Belegs. Die Transkription wurde auf der Grundlage eines Lautschriftsystems notiert, das jenem der Teuthonista gleicht oder zumindest ähnelt. Da die Datengrundlage des WBÖ auf unterschiedlichsten Quellen basiert und die Erhebungen der Fragebögen häufig von Laien-Sammlerinnen und -sammlern durchgeführt wurden, können sich Uneinheitlichkeiten bei der Transkription ergeben."
+  Lautung_2: Lautung 2 weist dieselbe Funktionalität auf wie Lautung 1.
+  Anmerkung: Zusätzliche Anmerkung über den Beleg.
+  Diverses: Zusätzliche undefinierte Anmerkung über den Beleg.
+  Substantiv: Dieser Beleg zählt zur Wortart Substantiv.
+  Verb: Dieser Beleg zählt zur Wortart Verb.
+  Adjektiv: Dieser Beleg zählt zur Wortart Adjektiv.
+  Adverb: Dieser Beleg zählt zur Wortart Adverb.
+  Praeposition: Dieser Beleg zählt zur Wortart Präposition.
+  Konjunktion: Dieser Beleg zählt zur Wortart Konjunktion.
+  Pronomen: Dieser Beleg zählt zur Wortart Pronomen.
+  Interjektion: Dieser Beleg zählt zur Wortart Interjektion.
+  Partikel: Dieser Beleg zählt zur Wortart Partikel.
+  Geschlecht: "Das grammatische Geschlecht eines Wortes wird in der Fachsprache als Genus bezeichnet. Im Deutschen gibt es drei Genera: Maskulinum (männlich), Femininum (weiblich) und Neutrum (sächlich). Das Genus eines Substantivs wird oft durch den Artikel (der, die, das) angezeigt."
+  Bedeutung: "Semantik, auch Bedeutungslehre genannt, ist die wissenschaftliche Beschäftigung mit Bedeutung und mit den verschiedenen Beziehungen zwischen einem Zeichen und dem Bezeichneten. In den Wörterbuchartikeln gehört die Angabe der Bedeutung bzw. Bedeutungen eines Wortes zu den zentralen Inhalten."
+  Belegsatz: "Ein Belegsatz1 oder Belegsatz2  wird verwendet, um die Bedeutung des Beleg in Form eines Satzes exemplarisch zu verdeutlichen. In den Daten wird statt der Bezeichnung \"Beispielsatz\" auch die Bezeichnung \"Belegsatz\" verwendet."
+  Wortvarianten: Unterschiedliche Varianten eines Wortes.
+  Woerterbuchartikel: "Eine strukturierte Beschreibung eines Lemmas, die Angaben zu Bedeutung (bzw. Bedeutungen), Aussprache, Grammatik, Verbreitung, Etymologie sowie ggfs. Wortbildungen und Redewendungen enthält."
+  Quelle_Datenbank: "Es handelt sich hierbei um eine formalisierte Angabe der geographischen Zuordnung des Belegs. Diese Besteht aus einer Sigle sowie einer in Abkürzungen formulierten und ggfs. hierarchisch (Gemeinde, Kleinregion, Großregion, Bundesland) gegliederten Verschriftlichung der geographischen Zuordnung."
+  CollectionCat: "Die CollectionCat (Abkürzung für Collection Categorizer) ist eine Software-Applikation, die zum Kategorisieren und Zusammenfassen von Belegen im Rahmen der lexikographischen Arbeit genutzt wird."
+  Simplex: "Ein Simplex ist ein einfaches Wort oder Lexem, das weder abgeleitet noch zusammengesetzt ist."
+  Kompositum: Ein Kompositum ist ein aus bereits vorhandenen Wörtern zusammengesetztes komplexes Wort. Der zugrunde liegende Wortbildungsprozess wird Komposition genannt.
+  Derivation: "Eine Derivation ist das Ergebnis eines Wortbildungsprozesses, bei dem durch Anhängen eines Affixes (Präfix, Suffix oder Zirkumfix) aus einem Wort ein neues Wort gebildet wird."
+  Grossregion: "Das Bearbeitungsgebiet (Großregion1 und Großregion2) des WBÖ ist regional untergliedert. Jeder regionalen Einheit ist eine eindeutige Sigle zugeordnet. Die größte regionale Einheit stellt dabei das \"Bundesland\" dar, welches folgendermaßen unterteilt ist: Südtirol (Sigle 1A), Osttirol (Sigle 1B), Nordtirol (Sigle 1C), Kärnten (Sigle 2), Steiermark (Sigle 3), Salzburg (Sigle 4), Oberösterreich (Sigle 5), Niederösterreich (Sigle 6), Wien (Sigle 6.5) sowie Burgenland (Sigle 7). \nDie zweitgrößte regionale Einheit ist die \"Großregion\", welche die Bundesländer in weitere Teilbereiche untergliedert. \nDie drittgrößte regionale Einheit ist die \"Kleinregion\", welche die Großregionen in weitere Teilbereiche untergliedert.\nDie viertgrößte regionale Einheit ist die \"Gemeinde\", welche die Kleinregionen in weitere Teilbereiche untergliedert."
+  Herkunftsort: "Geographische Lokation, aus der ein Beleg stammt. Die Angabe erfolgt auf der jeweils spezifischsten verfügbaren Ebene: Ist eine Gemeinde bekannt, wird diese angegeben; andernfalls eine Kleinregion, eine Großregion oder - als letzte Möglichkeit - das Bundesland."
+Belege[41]{ID,Fragebogennummer,Lemma,POS,Bedeutung_des_Belegsatzes,Bedeutung_der_Lautung,Belegsatz1,Belegsatz2,Lautung1,Lautung2,"Großregion",Herkunftsort,Diverses,Anmerkung}:
+  g345_qdb-d1e15486,"",gremäßig;gremäßig;,Adj;,"",mißmutig; zornig;mißmutig zornig;,"","","","","","","",""
+  g345_qdb-d1e17783,"",grämßig;grämßig;,Adj;,"",erbost; zornig; leicht reizbar;erbost zornig leicht reizbar;,"","","","",5.2 Hausrv.;,5.2b28 Pichl bei Wels;,"",s.a.u. gremäßig (Pir);ANM s.a.u. gremäßig Pir;
+  g345_qdb-d1e17827,"",grämßig;grämßig;,Adj;,"ein zuwideres, altes Männlein;","","a gramßigs [P,n,fl]   Mandl;a gramßigs P,n,fl Mandl;","","","",5.3 Traunv.;,5.3a06 Obertraun;,"",""
+  g345_qdb-d1e17931,"",grämßig;grämßig;,Adj;,"",grantig;,"","","","",5.2 Hausrv.;,5.2b22 Neukirchen an der Vöckla;,"",""
+  g345_qdb-d1e17850,75A8;,grämßig;grämßig;,Adj;,"","","a grampsögəʳ [P,m,fl]   Hąⁿ;a grampsöger P,m,fl Han;","","","",5.3 Traunv.;,5.3b02 Gmunden;,"",""
+  g345_qdb-d1e17882,"",grämßig;grämßig;,Adj;,"",leicht gereizt;,"","","","",5.3 Traunv.;,"","",auch in Weibern OÖ grãmpßė;ANM auch in Weibern OÖ grampße;
+  g345_qdb-d1e17910,"",grämßig;grämßig;,Adj;,"",trotzig; keck; hochmütig;trotzig keck hochmütig;,"","","","",3.1 sbair.ObStmk.;3.2 mbair.ObStmk.;,"","",""
+  g345_qdb-d1e15137,"",gremäßig;gremäßig;,Adj;,"",grämlich; sauertöpfisch;grämlich sauertöpfisch;,"","","","",6.4 Weinv.;,"","",""
+  g345_qdb-d1e15749,EFb.5/49;,gremäßig;gremäßig;,Adj;,"",mißgelaunt;mißgelaunt;,"","","","",6.2 Industriev.;,6.2h08 Feistritz am Wechsel;,"",""
+  g345_qdb-d1e16015,"",gremäßig;gremäßig;,Adj;,"",mürrisch; zornig;mürrisch zornig;,"","","","",7.3 SBgl.;,7.3e02 Rechnitz;,"",""
+  g345_qdb-d1e15847,"",gremäßig;gremäßig;,Adj;,"","","wann á kám ganz grimássi [P]   u. sagát: mein Geld he [\"her\"]   !;wann a kam ganz grimassi P u. sagat: mein Geld he her !;","","","","","","",""
+  g345_qdb-d1e15463,"",gremäßig;gremäßig;,Adj;,"",mißmutig;mißmutig;,"","","","",5.3 Traunv.;,5.3c03 Steinbach am Ziehberg;,"",""
+  g345_qdb-d1e15635,63A8 (F);,gremäßig;gremäßig;,Adj;,"","","a kremasiga [P,m,fl]   Bui, dear ollaweul hüastlt, goar so blåß is; 's Essn tuit eām nit recht schmecka, si froistn a olli But laung und bei da kloan Oarwat a rechta Dǫdalau [\"Langweiliger Mensch\"];a kremasiga P,m,fl Bui, dear ollaweul hüastlt, goar so blaß is s Essn tuit eam nit recht schmecka, si froistn a olli But laung und bei da kloan Oarwat a rechta Dodalau Langweiliger Mensch;","","","",6.4 Weinv.;,6.4d18 Poysdorf;,"",""
+  g345_qdb-d1e15899,1G19;,gremäßig;gremäßig;,Adj;,der schneidet gerne Grimassen;,"","der is so fü [\"viel\"]   grimassi [P];der is so fü viel grimassi P;","","","",5.3 Traunv.;,5.3a05 Bad Ischl;,"",""
+  g345_qdb-d1e15185,"",gremäßig;gremäßig;,Adj;,"",kränklich;kränklich;,"","","","",6.1 Mostv.;,6.1d21 Ybbs an der Donau;,"",""
+  g345_qdb-d1e15249,"",gremäßig;gremäßig;,Adj;,"","kränklich; zwischen gesund und krankANMO: Kleinkinder sind oft so;kränklich zwischen gesund und krank ANM O: Kleinkinder sind oft so;","","","","",6.3 Waldv.;,6.3s04 Langenlois;,"",""
+  g345_qdb-d1e15323,"",gremäßig;gremäßig;,Adj;,"",kränklich;kränklich;,"","","","",5.1 Innv.;,"","",""
+  g345_qdb-d1e15507,"",gremäßig;gremäßig;,Adj;,"",mißmutig; zornig;mißmutig zornig;,"","","","","","","",""
+  g345_qdb-d1e15414,"",gremäßig;gremäßig;,Adj;,"",niedergeschlagen; schlecht aufgelegt;niedergeschlagen schlecht aufgelegt;,"","","","",6.1 Mostv.;,6.1o01 Herzogenburg;,"",""
+  g345_qdb-d1e15799,"",gremäßig;gremäßig;,Adj;,"",zuwider;,"","","","",6.1 Mostv.;,6.1s06 Sitzenberg-Reidling;,"",""
+  g345_qdb-d1e15927,1G19;,gremäßig;gremäßig;,Adj;,ein von Leiden verzerrtes Gesicht;,"","a grimássigs [P,n,fl]   gsicht;a grimassigs P,n,fl gsicht;","i bin hait gandz grímassi [P];i bin hait gandz grimassi P;","","",6.5 Wien;,"","",""
+  g345_qdb-d1e15994,1G19;,gremäßig;gremäßig;,Adj;,"","","","","","",6.2 Industriev.;,6.2b20 Pfaffstätten;,"",""
+  g345_qdb-d1e15043,"",gremäßig;gremäßig;,Adj;,"",mürrisch; voll übler Laune; brummig;mürrisch voll übler Laune brummig;,"","","","",3.1 sbair.ObStmk.;3.2 mbair.ObStmk.;,"","",""
+  g345_qdb-d1e15208,"",gremäßig;gremäßig;,Adj;,"",kränklich; abgehärmt;kränklich abgehärmt;,"","","","","","","",""
+  g345_qdb-d1e15876,"",gremäßig;gremäßig;,Adj;,"",schlecht gelaunt;,"","","","",6.3 Waldv.;,6.3a24 Waldkirchen an der Thaya;,"",""
+  g345_qdb-d1e15534,"",gremäßig;gremäßig;,Adj;,"",kränklich; hypochondrisch; griesgrämig;kränklich hypochondrisch griesgrämig;,"","","","","","","",""
+  g345_qdb-d1e15582,"",gremäßig;gremäßig;,Adj;,"","","er schaut so gremassi [P]   d'rein;er schaut so gremassi P drein;","","","",6.5 Wien;,"","",""
+  g345_qdb-d1e15611,"",gremäßig;gremäßig;,Adj;,"",mismutig;,"","","","",6.2 Industriev.;,6.2j13 Natschbach-Loipersbach;,"",""
+  g345_qdb-d1e14938,"",gremäßig;gremäßig;,Adj;,"",mißmutig; zornig;mißmutig zornig;,"","","","","","","",""
+  g345_qdb-d1e15711,"",gremäßig;gremäßig;,Adj;,"","","Er schaut heit so kremassich [P]   dreĩn!;Er schaut heit so kremassich P drein!;","","","",6.5 Wien;,"","",""
+  g345_qdb-d1e17806,"",grämßig;grämßig;,Adj;,"",mißmutig; zornig;mißmutig zornig;,"","","","","","","",""
+  g345_qdb-d1e15967,1G19;,gremäßig;gremäßig;,Adj;,Gesicht mit Grimassen;,"","grimassiᵍs [P,n,fl]   Gsicht;grimassigs P,n,fl Gsicht;","","","",6.4 Weinv.;,6.4e11 Straning-Grafenberg;,"",""
+  g345_qdb-d1e14912,"",gremäßig;gremäßig;,Adj;,"",zornig; gereizt; mürrisch;zornig gereizt mürrisch;,"","","","",5.2 Hausrv.;,5.2b46 Weibern;,"",""
+  g345_qdb-d1e15064,"",gremäßig;gremäßig;,Adj;,"",kränklich; schwächlich;kränklich schwächlich;,"","","","",6.5 Wien;,"","",""
+  g345_qdb-d1e15158,"",gremäßig;gremäßig;,Adj;,"",übel aufgelegt; kränklich;übel aufgelegt kränklich;,"","","","",6.1 Mostv.;,6.1i01 Göstling an der Ybbs;,"",""
+  g345_qdb-d1e15293,"",gremäßig;gremäßig;,Adj;,"",schlecht gelaunt;,"grę̄massigs [P,n,fl]   Kind;gremassigs P,n,fl Kind;","","","",6.1 Mostv.;,6.1p12 Türnitz;,"",""
+  g345_qdb-d1e15344,"",gremäßig;gremäßig;,Adj;,"",unpäßlich; unwohl;unpäßlich unwohl;,"","","","","","","",""
+  g345_qdb-d1e15374,"",gremäßig;gremäßig;,Adj;,"",unwohl;,"","","","",6.5 Wien;,"","",""
+  g345_qdb-d1e15772,"",gremäßig;gremäßig;,Adj;,"","kränklich; gebrechlich (bes. von alten Männern)ANMO: s. Quelle;kränklich gebrechlich bes. von alten Männern ANM O: s. Quelle;","","","","",6.3 Waldv.;,6.3a18 Reingers;,"",""
+  g345_qdb-d1e15824,"",gremäßig;gremäßig;,Adj;,"",zornig thuend;,"","","","",5.1 Innv.;5.1 Innv.;,"","",""
+  g345_qdb-d1e16038,"",gremäßig;gremäßig;,Adj;,"",verdrossen;,"","","","","","","",""

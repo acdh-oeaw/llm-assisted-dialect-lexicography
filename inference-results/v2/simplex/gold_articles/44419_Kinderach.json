@@ -1,0 +1,44 @@
+{
+  "Lemma": "Kinderach",
+  "POS": "Substantiv",
+  "Genus": "Neutrum",
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "mehrere Kinder; Sammelname für Kinder",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p2 Ktn.",
+        "p3.1 sbair.ObStmk.",
+        "p4.1 Lung.",
+        "p4.3 Pong.",
+        "p5.2 Hausrv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Kind",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p3 Stmk."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Hots da lacht a Kindrach gmaust? Hat es dir vielleicht ein Kind gestohlen?",
+          "Herkunftsort": "Graz"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "kindisches Wesen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p2 Ktn."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

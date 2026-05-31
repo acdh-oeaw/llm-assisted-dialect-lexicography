@@ -1,0 +1,118 @@
+{
+    "Lemma": "keif",
+    "POS": "Adj",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "fest; prall",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.1 wNTir.",
+                "1A.2 mSTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k467_qdb-d1e34779",
+                    "Belegsatz": "kaiffɛ [fl]   wâdl;",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k467_qdb-d1e35836",
+                    "Belegsatz": "Joᵘ, woᵘltan  kaif;",
+                    "Herkunftsort": "1A.3b01 Sarntal"
+                }
+            ],
+            "Belege": [
+                "k467_qdb-d1e34779",
+                "k467_qdb-d1e35836",
+                "k467_qdb-d1e34449",
+                "k467_qdb-d1e34704",
+                "k467_qdb-d1e34594"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "schuldig sein",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.5 Wien"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k467_qdb-d1e35737",
+                    "Belegsatz": "er is mir noch an Fetzen keif;",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k467_qdb-d1e35273",
+                    "Belegsatz": "Na, bleib's hålt keif!",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k467_qdb-d1e35737",
+                "k467_qdb-d1e35273",
+                "k467_qdb-d1e35078",
+                "k467_qdb-d1e35803"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "stark; muskulös",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.3 öNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k467_qdb-d1e34980",
+                    "Belegsatz": "Khaiffo [fl]   Wāᵈl;",
+                    "Herkunftsort": "1C.3f02 Hopfgarten im Brixental"
+                }
+            ],
+            "Belege": [
+                "k467_qdb-d1e34980",
+                "k467_qdb-d1e35657"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "fest nähen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.1 wSTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k467_qdb-d1e35049",
+                    "Belegsatz": "kaif nanən;",
+                    "Herkunftsort": "1A.1d03 Schlanders"
+                }
+            ],
+            "Belege": [
+                "k467_qdb-d1e35049"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "streng; enge",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.1 wNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k467_qdb-d1e34422",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k467_qdb-d1e34422",
+                "k467_qdb-d1e34546"
+            ]
+        }
+    ]
+}

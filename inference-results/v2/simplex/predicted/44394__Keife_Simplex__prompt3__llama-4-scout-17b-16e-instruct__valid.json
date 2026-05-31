@@ -1,0 +1,83 @@
+{
+    "Lemma": "Keife",
+    "POS": "Subst",
+    "Genus": "Femininum",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Hündin",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "2.1 ObKtn.",
+                "2.2 MKtn.",
+                "3.1 sbair.ObStmk."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k467_qdb-d1e36941",
+                    "Belegsatz": "Keife = Hündin ANM O: abfällige Bezeichnung DAFÜR;",
+                    "Herkunftsort": "2.2 MKtn."
+                },
+                {
+                    "ID": "g311_qdb-d1e11294",
+                    "Belegsatz": "weibl.Hund, Hündin;",
+                    "Herkunftsort": "3.1b01 Neumarkt in der Steiermark"
+                }
+            ],
+            "Belege": [
+                "k467_qdb-d1e36941",
+                "g311_qdb-d1e11294",
+                "k467_qdb-d1e36130"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "minderwertiger Hund",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "differenzierte Bedeutung",
+            "Regionen": [
+                "3.3 WStmk."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g311_qdb-d1e11342",
+                    "Belegsatz": "Geife = lästig keifender Hund;",
+                    "Herkunftsort": "3.3 WStmk."
+                },
+                {
+                    "ID": "k467_qdb-d1e37155",
+                    "Belegsatz": "ein schäbiger, mürrischer Hund;",
+                    "Herkunftsort": "2.2 MKtn."
+                }
+            ],
+            "Belege": [
+                "g311_qdb-d1e11342",
+                "k467_qdb-d1e37155"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Schimpfwort für Hündin oder Frau",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "differenzierte Bedeutung",
+            "Regionen": [
+                "6.4 Weinv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k467_qdb-d1e36979",
+                    "Belegsatz": "zanksüchtige WEIBERANMO: auch DIESE (leider) so geheißen;",
+                    "Herkunftsort": "6.4d18 Poysdorf"
+                },
+                {
+                    "ID": "k467_qdb-d1e36031",
+                    "Belegsatz": "Geife = böse scheltendes Weib;",
+                    "Herkunftsort": "3.3 WStmk."
+                }
+            ],
+            "Belege": [
+                "k467_qdb-d1e36979",
+                "k467_qdb-d1e36031"
+            ]
+        }
+    ]
+}

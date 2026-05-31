@@ -1,0 +1,93 @@
+{
+  "Lemma": "Gift",
+  "POS": "Substantiv",
+  "Genus": "Maskulinum, Neutrum, Femininum",
+  "Form": {
+    "form": "Giftel",
+    "typ": "Diminutive",
+    "genus": "Neutrum"
+  },
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "Substanz, die nach Eindringen in den Organismus eines Lebewesens eine schädliche, zerstörende, tödliche Wirkung hat (wenn sie in bestimmter Menge auf diesen einwirkt)",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p2.1 ObKtn.",
+        "p2.2 MKtn.",
+        "p3.2 mbair.ObStmk.",
+        "p3.3 WStmk.",
+        "p3.4 MStmk.",
+        "p4.3 Pong.",
+        "p5.1 Innv.",
+        "p5.3 Traunv.",
+        "p5.4 Mühlv.",
+        "p6 NÖ"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "tęɒʳ håt aŋ kift įn maule, assn fǫ̈llikχ tį tsęnd aussapręχŋ",
+          "Herkunftsort": "Sand in Taufers"
+        },
+        {
+          "Belegsatz": "dear haͦt Gift im Bluat",
+          "Herkunftsort": "Hall in Tirol"
+        },
+        {
+          "Belegsatz": "īs Gīfd kīmd aussa",
+          "Herkunftsort": "Pulkaut."
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Bezeichnung für stark berauschende Mittel (z. B. Alkohol, Rauschgift)",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "das weiße Gift",
+          "Herkunftsort": "Wien"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Ärger; Zorn; Wut",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p2 Ktn.",
+        "p3 Stmk.",
+        "p5 OÖ",
+        "p6 NÖ",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "af oan an Gifd h­aᵇm",
+          "Herkunftsort": "Sitzenberg-Reidling"
+        },
+        {
+          "Belegsatz": "af ouan an Gift haoum",
+          "Herkunftsort": "Kautzen"
+        },
+        {
+          "Belegsatz": "Gråd bībban (zittern, bes. auch mit den Lippen) tuit a fua lauta Gīfd!",
+          "Herkunftsort": "Poysdorf"
+        },
+        {
+          "Belegsatz": "Er hat an Gift 'kriagt",
+          "Herkunftsort": "Wien"
+        }
+      ]
+    }
+  ]
+}

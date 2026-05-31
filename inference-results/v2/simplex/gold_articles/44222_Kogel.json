@@ -1,0 +1,59 @@
+{
+  "Lemma": "Kogel",
+  "POS": "Substantiv",
+  "Genus": "Maskulinum",
+  "Form": {
+    "form": "Kögel Kögerl Kögelein",
+    "typ": "Diminutive",
+    "genus": "Neutrum"
+  },
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "Rauchmantel; Feuerhut; Schutzdach über dem offenen Herd",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1C.1 wNTir.",
+        "p2 Ktn.",
+        "p3.2 mbair.ObStmk."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "kugelförmige Erhebung",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p2.2 MKtn."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "runde (Berg-)Spitze",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1C.1 wNTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Bezeichnung für einen (kleinen) Berg, Hügel; Bezeichnung für die Bergkuppe oder -spitze",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir.",
+        "p2 Ktn.",
+        "p3 Stmk.",
+        "p4 Sbg.",
+        "p5 OÖ",
+        "p6.1 Mostv.",
+        "p6.2 Industriev.",
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

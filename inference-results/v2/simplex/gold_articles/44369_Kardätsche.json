@@ -1,0 +1,63 @@
+{
+  "Lemma": "Kardätsche",
+  "POS": "Substantiv",
+  "Genus": "Femininum",
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "Wollkamm; Wollkrempel; Vorrichtung zum Auflockern, Ausfilzen der Wolle",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir.",
+        "p2 Ktn.",
+        "p3.1 sbair.ObStmk.",
+        "p3.2 mbair.ObStmk.",
+        "p4.3 Pong.",
+        "p5.3 Traunv.",
+        "p6.1 Mostv.",
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "åltė Kartattschn",
+          "Herkunftsort": "Kötschach-Mauthen"
+        },
+        {
+          "Belegsatz": "a Pårt a wiə a Kchartatschn",
+          "Herkunftsort": "Gitschtal"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Bürste",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p3.5 OStmk.",
+        "p7.3 SBgl."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Pferdebürste; Striegel",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p2.2 MKtn.",
+        "p3 Stmk.",
+        "p4 Sbg.",
+        "p5.1 Innv.",
+        "p5.2 Hausrv.",
+        "p5.3 Traunv.",
+        "p6.3 Waldv.",
+        "p6.4 Weinv.",
+        "p6.5 Wien",
+        "p7 Bgl."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

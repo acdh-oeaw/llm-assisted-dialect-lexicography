@@ -1,0 +1,78 @@
+{
+  "Lemma": "kindeln",
+  "POS": "Verb",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "spielen oder arbeiten wie ein Kind",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "sich kindisch benehmen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1C.3 öNTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "schäkern; Zärtlichkeiten austauschen (in kindischer Art)",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1C.3 öNTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "gebären; entbinden",
+      "Typ": "Variante",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p2.3 MKtn.",
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Du håst Holz ha dʳ Wōnd bist stark , werst leicht kindln",
+          "Herkunftsort": "Gurk"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "im Wochenbett liegen",
+      "Typ": "Variante",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p2 Ktn."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "keimen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p6.3 Waldv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "S Kheandl khindlt schaou",
+          "Herkunftsort": "Kautzen"
+        }
+      ]
+    }
+  ]
+}

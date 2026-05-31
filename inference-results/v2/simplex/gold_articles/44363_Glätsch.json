@@ -1,0 +1,49 @@
+{
+  "Lemma": "Glätsch Glätsche",
+  "POS": "Substantiv",
+  "Genus": "Neutrum, Maskulinum",
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "(schmutzige) durch Regen oder Tauwetter entstandene Pfütze; Schmelzwasser",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "(schmutziger) durch Tauwetter oder Regen aufgeweichter Schneematsch",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A.2 mSTir.",
+        "p1C.1 wNTir.",
+        "p1C.2 mNTir.",
+        "p4 Sbg."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "mit Pfützen und Schlamm aufgeweichte Wege",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1C.1 wNTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "abgehackte Rinde an einem Grenzbaum",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1C.1 wNTir."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Lemma": "koramisieren",
+  "POS": "Verb",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "jemanden zur Rede stellen, zurechtweisen, maßregeln; jemandem einen Verweis erteilen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p3 Stmk.",
+        "p5.4 Mühlv.",
+        "p6.3 Waldv.",
+        "p6.4 Weinv.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "jemanden schinden, peinigen, tüchtig hernehmen",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p3 Stmk.",
+        "p5.4 Mühlv.",
+        "p6.1 Mostv.",
+        "p6.3 Waldv.",
+        "p6.4 Weinv.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

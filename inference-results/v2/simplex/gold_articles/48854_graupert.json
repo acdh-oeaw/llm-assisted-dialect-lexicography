@@ -1,0 +1,80 @@
+{
+  "Lemma": "graupert",
+  "POS": "Adjektiv",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "klein; unansehnlich",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p2.2 MKtn."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "ungekämmt; ungeordnet; wirr; zerzaust (von Haaren)",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p3.3 WStmk.",
+        "p6.3 Waldv.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "ɒ graupɒts ləttərl Lötterl",
+          "Herkunftsort": "WStmk."
+        },
+        {
+          "Belegsatz": "grauperta Hund!",
+          "Herkunftsort": "Kautzen"
+        },
+        {
+          "Belegsatz": "A so an̄ krauperte Hex, ɒ̊namirl! Anna Maria",
+          "Herkunftsort": "Wien"
+        },
+        {
+          "Belegsatz": "Bist du åba hei'nt graupᵉrt!",
+          "Herkunftsort": "Wien"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "struppig; zottig",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p4 Sbg.",
+        "p6.2 Industriev.",
+        "p6.3 Waldv.",
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "stark behaart",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p5.2 Hausrv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "aufgeregt",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p3.3 WStmk."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "deaʳ wåar gånz grappreth",
+          "Herkunftsort": "Stainz"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+Glossar:
+  Lemma: "'Lemma' beinhaltet sämtliche Einträge (inklusive Komposita und Wortbildungsvarianten), die einem bestimmten Lemma zugeordnet werden können. Zu diesem Zweck wurden alle Handzettel beziehungsweise die Einträge der Belegdatenbank lemmatisiert und nach historisch-etymologischen Gesichtspunkten - also linguistischen Prinzipien - einem Hauptlemma zugeordnet."
+  Fragebogennummer: "Auflistung von relevanten Fragebogennummern und Beschreibungen:\n* **50I18:** kratzen; Komp.; Abl. (die Kratze, kritzeln,)\n* **69H13:** Gerät z. Abgeschaben abgebrühter Schweinsborsten\n* **104I28 (1):** Geräte d. Straßeneinräumers (Straßenhammer,)\n* **107/204:** Werkzeuge v. Hutmacher/Modistin (Hutform)\n* **74H11:** kratzen, v. Katze (krällen)\n* **19F29d:** Werkzeug, um Ackererde v. Rain zurückzubringen\n* **50I18a:** reiben/scharren/kratzen, Syn. (kniffen/-eln?)\n* **19H14:** Jätwerkzeug (Jat-, Jäthaue, -krampel)\n* **12A21a:** dichtbehaarte Nasenlöcher\n* **50I18 (Nachtr.):** kratzen; Komp.; Abl. (die Kratze, kritzeln,)\n* **29B42a:** Gerät z. Auskratzen des Backtroges ()\n* **35D13:** (Finger-)Nagel m. Adj., Syn. (langer=Krempel,)\n* **28A21a:** Werkzeug z. Ausscharren der Backofenglut ()\n* **6N8:** kurzer Bart, Stoppelbart; entspr.Mensch; Charakter?\n* **84B26:** Werkzeug z. Behacken v. Erdäpfeln/Rüben (Haue,)\n* **50I18 (F2):** kratzen; Komp.; Abl. (die Kratze, kritzeln,)\n* **74H11 (F):** kratzen, v. Katze (krällen)\n"
+  Part_of_Speech: Diese Angabe benennt die Wortart des jeweiligen Belegs.
+  Bedeutung_der_Lautung: Diese Information beschreibt die Bedeutung der Lautungsangabe auf dem Beleg.
+  Bedeutung_des_Belegsatzes: "Diese Information beschreibt die Bedeutung des in Spalte \"Belegsatz 1\", \"Belegsatz 2\" etc. angegebenen Belegsatzes. Es kann sich dabei um eine direkte standardsprachliche Übersetzung, eine standardsprachliche Periphrase oder um einen metasprachlichen Kommentar handeln."
+  Belegsatz_1: "Dieser Eintrag gibt einen Belegsatz, eine Redewendung oder eine Paraphrase wider, um die Bedeutung des Belegs exemplarisch darzustellen bzw. näher zu kontextualisieren. Der Belegsatz ist in der Regel im Dialekt angegeben und in der Lautschrift Teuthonista verschriftlicht."
+  Belegsatz_2: Belegsatz 2 weist dieselbe Funktionalität auf wie Belegsatz 1.
+  Sammlung: Eine Sammlung bündelt einzelne Einträge nach lexikographisch sinnvollen Gesichtspunkten. Alle Einträge der Sammlung teilen diese Gesichtspunkte.
+  Lautung_1: "Die angegebene Information umfasst die lautliche Transkription des vorliegenden Belegs. Die Transkription wurde auf der Grundlage eines Lautschriftsystems notiert, das jenem der Teuthonista gleicht oder zumindest ähnelt. Da die Datengrundlage des WBÖ auf unterschiedlichsten Quellen basiert und die Erhebungen der Fragebögen häufig von Laien-Sammlerinnen und -sammlern durchgeführt wurden, können sich Uneinheitlichkeiten bei der Transkription ergeben."
+  Lautung_2: Lautung 2 weist dieselbe Funktionalität auf wie Lautung 1.
+  Anmerkung: Zusätzliche Anmerkung über den Beleg.
+  Diverses: Zusätzliche undefinierte Anmerkung über den Beleg.
+  Substantiv: Dieser Beleg zählt zur Wortart Substantiv.
+  Verb: Dieser Beleg zählt zur Wortart Verb.
+  Adjektiv: Dieser Beleg zählt zur Wortart Adjektiv.
+  Adverb: Dieser Beleg zählt zur Wortart Adverb.
+  Praeposition: Dieser Beleg zählt zur Wortart Präposition.
+  Konjunktion: Dieser Beleg zählt zur Wortart Konjunktion.
+  Pronomen: Dieser Beleg zählt zur Wortart Pronomen.
+  Interjektion: Dieser Beleg zählt zur Wortart Interjektion.
+  Partikel: Dieser Beleg zählt zur Wortart Partikel.
+  Geschlecht: "Das grammatische Geschlecht eines Wortes wird in der Fachsprache als Genus bezeichnet. Im Deutschen gibt es drei Genera: Maskulinum (männlich), Femininum (weiblich) und Neutrum (sächlich). Das Genus eines Substantivs wird oft durch den Artikel (der, die, das) angezeigt."
+  Bedeutung: "Semantik, auch Bedeutungslehre genannt, ist die wissenschaftliche Beschäftigung mit Bedeutung und mit den verschiedenen Beziehungen zwischen einem Zeichen und dem Bezeichneten. In den Wörterbuchartikeln gehört die Angabe der Bedeutung bzw. Bedeutungen eines Wortes zu den zentralen Inhalten."
+  Belegsatz: "Ein Belegsatz1 oder Belegsatz2  wird verwendet, um die Bedeutung des Beleg in Form eines Satzes exemplarisch zu verdeutlichen. In den Daten wird statt der Bezeichnung \"Beispielsatz\" auch die Bezeichnung \"Belegsatz\" verwendet."
+  Wortvarianten: Unterschiedliche Varianten eines Wortes.
+  Woerterbuchartikel: "Eine strukturierte Beschreibung eines Lemmas, die Angaben zu Bedeutung (bzw. Bedeutungen), Aussprache, Grammatik, Verbreitung, Etymologie sowie ggfs. Wortbildungen und Redewendungen enthält."
+  Quelle_Datenbank: "Es handelt sich hierbei um eine formalisierte Angabe der geographischen Zuordnung des Belegs. Diese Besteht aus einer Sigle sowie einer in Abkürzungen formulierten und ggfs. hierarchisch (Gemeinde, Kleinregion, Großregion, Bundesland) gegliederten Verschriftlichung der geographischen Zuordnung."
+  CollectionCat: "Die CollectionCat (Abkürzung für Collection Categorizer) ist eine Software-Applikation, die zum Kategorisieren und Zusammenfassen von Belegen im Rahmen der lexikographischen Arbeit genutzt wird."
+  Simplex: "Ein Simplex ist ein einfaches Wort oder Lexem, das weder abgeleitet noch zusammengesetzt ist."
+  Kompositum: Ein Kompositum ist ein aus bereits vorhandenen Wörtern zusammengesetztes komplexes Wort. Der zugrunde liegende Wortbildungsprozess wird Komposition genannt.
+  Derivation: "Eine Derivation ist das Ergebnis eines Wortbildungsprozesses, bei dem durch Anhängen eines Affixes (Präfix, Suffix oder Zirkumfix) aus einem Wort ein neues Wort gebildet wird."
+  Grossregion: "Das Bearbeitungsgebiet (Großregion1 und Großregion2) des WBÖ ist regional untergliedert. Jeder regionalen Einheit ist eine eindeutige Sigle zugeordnet. Die größte regionale Einheit stellt dabei das \"Bundesland\" dar, welches folgendermaßen unterteilt ist: Südtirol (Sigle 1A), Osttirol (Sigle 1B), Nordtirol (Sigle 1C), Kärnten (Sigle 2), Steiermark (Sigle 3), Salzburg (Sigle 4), Oberösterreich (Sigle 5), Niederösterreich (Sigle 6), Wien (Sigle 6.5) sowie Burgenland (Sigle 7). \nDie zweitgrößte regionale Einheit ist die \"Großregion\", welche die Bundesländer in weitere Teilbereiche untergliedert. \nDie drittgrößte regionale Einheit ist die \"Kleinregion\", welche die Großregionen in weitere Teilbereiche untergliedert.\nDie viertgrößte regionale Einheit ist die \"Gemeinde\", welche die Kleinregionen in weitere Teilbereiche untergliedert."
+  Herkunftsort: "Geographische Lokation, aus der ein Beleg stammt. Die Angabe erfolgt auf der jeweils spezifischsten verfügbaren Ebene: Ist eine Gemeinde bekannt, wird diese angegeben; andernfalls eine Kleinregion, eine Großregion oder - als letzte Möglichkeit - das Bundesland."
+Belege[65]{ID,Fragebogennummer,Lemma,POS,Bedeutung_des_Belegsatzes,Bedeutung_der_Lautung,Belegsatz1,Belegsatz2,Lautung1,Lautung2,"Großregion",Herkunftsort,Diverses,Anmerkung}:
+  k515_qdb-d1e22916,"",Kratze;,Subst;,"","Kratze = Hacke, die der Knappe zur Wegfüllarbeit verwendet;Kratze = Hacke, die der Knappe zur Wegfüllarbeit verwendet;","","","","",2.2 MKtn.;,2.2i07 Villach;,Siehe QUELLE S.159;,""
+  k515_qdb-d1e22884,"",Kratze;,Subst;,"",schlechtes Bett;,"","","","","","","",""
+  k515_qdb-d1e22596,"",Kratze;,Subst;,"","dreieckige Haue, kl.Kräuel;dreieckige Haue, kl.Kräuel;","","","","","","","",""
+  k515_qdb-d1e25657,"",Krätzel;Krätzel;,Subst;,"","der an der Oberfläche beim Aussieden (Läutern) der Butter gebildete (ausgeschiedene) bräunliche, etwas schaumige Überrest;der an der Oberfläche beim Aussieden Läutern der Butter gebildete ausgeschiedene bräunliche, etwas schaumige Überrest;","","","","",6.5 Wien;,"",auch der Bodensatz wird zusammengekratzt;,""
+  k515_qdb-d1e25680,50I18;,Krätzel;Krätzel;,Subst;,"","Kratzel, aus Reisern verfertigtes Küchengerät zum Scheuern von Geschirren;Kratzel, aus Reisern verfertigtes Küchengerät zum Scheuern von Geschirren;","","","","",2.2 MKtn.;2.2 MKtn.;2.2 MKtn.;2.2 MKtn.;,"","",""
+  k515_qdb-d1e22981,"",Kratze;,Subst;,"",Abwaschbürste;Abwaschbürste;,"","","","",2.2 MKtn.;,2.2e01 Bad Kleinkirchheim;,"",""
+  k515_qdb-d1e23993,50I18;,Kratze;,Subst;,"","Kratze, Haue;","","","","",1C.1 wNTir.;,1C.1n01 Imst;,"zum Auflockern der Ackererde, Ausgraben der Kartoffel x;ANM zum Auflockern der Ackererde, Ausgraben der Kartoffel ch;",""
+  k515_qdb-d1e25712,50I18;,Krätzel;Krätzel;,Subst;,Ist dies ein garstiger Kratzel (dürre Mannsperson);,"",Is dås a schiᵃchr Krazl!;Is das a schiachr Krazl!;,"","","",2.2 MKtn.;2.2 MKtn.;2.2 MKtn.;2.2 MKtn.;,"","",""
+  k515_qdb-d1e22521,"",Kratze;,Subst;,"","Krätzel, \"aus Reisig verfertigtes Küchengerät zum Reinigen des Geschirrs\";Krätzel, aus Reisig verfertigtes Küchengerät zum Reinigen des Geschirrs;","","","","",2.2 MKtn.;,2.2i05 Spittal an der Drau;,"",""
+  k515_qdb-d1e25738,50I18;,Krätzel;Krätzel;,Subst;,"","Kratzel, Gerät nur zum Kartoffelausgraben;Kratzel, Gerät nur zum Kartoffelausgraben;","","","","",1C.3 öNTir.;,1C.3e06 Kufstein;,"",""
+  k515_qdb-d1e22433,"",Kratze;,Subst;,"","\"Kratze\" = Ackergerät;Kratze = Ackergerät;","","","","",1A.4 öSTir.;,1A.4a01 Ahrntal;,"",""
+  k515_qdb-d1e23772,69H13;,Kratze;,Subst;,"",Kratze;,"","","","",1C.1 wNTir.;,1C.1m02 Fendels;,auch mit einem stumpfen Messer;,""
+  k515_qdb-d1e23535,104I28 (1);,Kratze;,Subst;,"","KratzeANMO: wie ein Rechen, aber ohne Zähne;Kratze ANM O: wie ein Rechen, aber ohne Zähne;","","","","",1C.1 wNTir.;,1C.1l03 Kauns;,"",""
+  k515_qdb-d1e23826,50I18;,Kratze;,Subst;,"","Kratze, Handwerkszeug;","","","","",1C.3 öNTir.;,1C.3e06 Kufstein;,"",""
+  k515_qdb-d1e24072,"",Kratze;,Subst;,"","Kratze, Spaten;","","","","",1C.1 wNTir.;,1C.1n01 Imst;,"",""
+  k515_qdb-d1e22571,"",Kratze;,Subst;,"",Werkzeug zum Kratzen;,"","","","",6.4 Weinv.;,6.4f06 Ernstbrunn;,"",""
+  k515_qdb-d1e23919,50I18;,()kratze;kratze;,Subst;,"","","","","","",1C.3 öNTir.;,1C.3e12 Schwoich;,"",""
+  k515_qdb-d1e23082,107/204;,Kratze;,Subst;,"","","","","","",3.3 WStmk.;,3.3c08 Stainz;,"",""
+  k515_qdb-d1e23508,74H11;,Kratze;,Subst;,du alte Kratzen;,"",Du o͡uüdi Grōtzn;Du ouüdi Grotzn;,"","","",6.3 Waldv.;,6.3a15 Kautzen;,"",""
+  k515_qdb-d1e26030,"",Krätzel;Krätzel;,Subst;,"","Kratzel: Geschirrkratzer;","","","","",3.3 WStmk.;,"","",""
+  k515_qdb-d1e23320,19F29d;,Kratze;,Subst;,"","","","","","",3.2 mbair.ObStmk.;,3.2b02 Kammern im Liesingtal;,"",""
+  k515_qdb-d1e23596,"",Kratze;,Subst;,"",Wachstumsspitze der Krautpflanze;,"","","","",6.3 Waldv.;,6.3s04 Langenlois;,"",""
+  k515_qdb-d1e23619,"",Kratze;,Subst;,"",Blütenrest beim Kernobst x;Blütenrest beim Kernobst ch;,"","","","",6.3 Waldv.;,6.3s04 Langenlois;,"",""
+  k515_qdb-d1e23642,"",Kratze;,Subst;,siedet nicht im mindesten;,"",kõẽ̑n kr^%-­az siêdt s (nöd)!;koen kr^­az siedt s nöd!;,"","","",5.1 Innv.;,"","",""
+  k515_qdb-d1e23942,50I18a;,Kratze;,Subst;,"",Instrument zum Kratzen;,"","","","",1C.3 öNTir.;,1C.3b03 Thiersee;,"",""
+  k515_qdb-d1e23752,"",Kratze;,Subst;,"",Gerät des Wegmachers x;Gerät des Wegmachers ch;,"","","","","","","",""
+  k515_qdb-d1e22619,"",Kratze;,Subst;,"",dünner Zweig;dünner Zweig;,"","","","",1B.0 OTir.;,"","",""
+  k515_qdb-d1e23266,19H14;,Kratze;,Subst;,"",Haue;,"","","","",1C.1 wNTir.;,1C.1n01 Imst;,dient auch zum Umhacken der Erde zum Kartoffelgraben x;ANM dient auch zum Umhacken der Erde zum Kartoffelgraben ch;,""
+  k515_qdb-d1e25571,12A21a;,Krätzel;Krätzel;,Subst;,"","dichtbehaarte Nasenlöcher;dichtbehaarte Nasenlöcher;andere stark behaarte StellenANMO: auch;","ęəʳ khån glei åwåschn mit sain Khrazl [sg3];eer khan glei awaschn mit sain Khrazl sg3;","","","",2.2 MKtn.;,2.3n01 Klagenfurt;,"",""
+  k515_qdb-d1e25871,"96B33: Kratzel aus Reisstroh f. Reinigung;",Krätzel;Krätzel;,Subst;,"","","","","","",2.2 MKtn.;,2.3e01 Steuerberg;,aus Lärchenzweigen;ANM aus Lärchenzweigen;,""
+  k515_qdb-d1e22775,50I18 (Nachtr.);,Kratze;,Subst;,"","Person, welche bei der Arbeit wenig leistet;","","","","",5.3 Traunv.;,5.3b02 Gmunden;,"",""
+  k515_qdb-d1e26078,"",Krätzel;Krätzel;,Subst;,"",kurz geschnittenes Reisigbündel zum Geschirr Reinigen;kurz geschnittenes Reisigbündel zum Geschirr Reinigen;,"","","","",2.2 MKtn.;,2.3f01 Feldkirchen in Kärnten;,"",""
+  k515_qdb-d1e23194,29B42a;,Kratze;,Subst;,"","","Eine eiserne \"Kråtzn\";Eine eiserne Kratzn;","","","",1C.3 öNTir.;,1C.3e12 Schwoich;,"",""
+  k515_qdb-d1e25842,35D13;,Krätzel;Krätzel;,Subst;,Nägel als wie der Teufel (= lange);,"","Nẹ̄gl a wiə s Khrāzəlẹ [D2];Negl a wie s Khrazele D2;","","","",2.1 ObKtn.;,2.1i01 Gitschtal;,"",""
+  k515_qdb-d1e23851,50I18;,Kratze;,Subst;,"","die Kratze, ein Werkzeug zum Bodenaufkratzen, mit zwei Zinken senkrecht zum Stiel; Bremsvorrichtung an Schlitten, hinten aufziehbar angebracht, zum Gebrauche auf vereisten fallenden (uncertain value)  Wagen;die Kratze, ein Werkzeug zum Bodenaufkratzen, mit zwei Zinken senkrecht zum Stiel Bremsvorrichtung an Schlitten, hinten aufziehbar angebracht, zum Gebrauche auf vereisten fallenden Wagen;","","","","",1C.3 öNTir.;,1C.3e12 Schwoich;,"als \"Mistkråtz \" zum Mistkratzen;ANM als Mistkratz  zum Mistkratzen;",""
+  k515_qdb-d1e25548,"",Krätzel;Krätzel;,Subst;,"",Teufel;,"","","","",2.2 MKtn.;,2.2c03 Trebesing;,"",""
+  k515_qdb-d1e26125,50I18a;,Krätzel;Krätzel;,Subst;,"","","","","","",1C.3 öNTir.;,1C.3b03 Thiersee;,insbesondere zur Kartoffelernte x;ANM insbesondere zur Kartoffelernte ch;,""
+  k515_qdb-d1e25634,"",Krätzel;Krätzel;,Subst;,"",Reisigbüschel zum Abkratzen;Reisigbüschel zum Abkratzen;,"","","","","","","",""
+  k515_qdb-d1e25925,"96B33: Kratzel aus Reisstroh f. Reinigung;",Krätzel;Krätzel;,Subst;,"",Kratzel (aus Reisstroh);Kratzel aus Reisstroh;,"","","","",3.1 sbair.ObStmk.;,3.1a05 Stadl-Predlitz;,"",""
+  k515_qdb-d1e25950,"96B33: Kratzel aus Reisstroh f. Reinigung;",Krätzel;Krätzel;,Subst;,"",Kratzel;,"","","","",3.1 sbair.ObStmk.;,3.1d03 Lobmingtal;,"aus geschälten Lärchenästchen, Schwarzbeersträuch;ANM aus geschälten Lärchenästchen, Schwarzbeersträuch;",""
+  k515_qdb-d1e23408,28A21a;,Kratze;,Subst;,"","","","","","",4.2 Pinzg.;,4.2a03 Krimml;,aus Holz;,""
+  k515_qdb-d1e25523,6N8;,Krätzel;Krätzel;,Subst;,"",Stoppelbart;,"","","","",2.2 MKtn.;,2.3f01 Feldkirchen in Kärnten;,"",""
+  k515_qdb-d1e22699,"",Kratze;,Subst;,"",Ansatz bei Pflanzensetzlingen;,"","","","",6.1 Mostv.;,6.1r02 Sieghartskirchen;,"",""
+  k515_qdb-d1e25817,"",Krätzel;Krätzel;,Subst;,"",Büschel zum Abkratzen;Büschel zum Abkratzen;,"","","","",3.1 sbair.ObStmk.;,3.1c09 Oberwölz;,"",""
+  k515_qdb-d1e23799,50I18;,Kratze;,Subst;,"",Hand mit Fingernägeln;Hand mit Fingernägeln;,"","","","",1C.3 öNTir.;,1C.3b03 Thiersee;,"",""
+  k515_qdb-d1e25898,"96B33: Kratzel aus Reisstroh f. Reinigung;",Krätzel;Krätzel;,Subst;,"","","","","","",2.1 ObKtn.;,2.1b04 Rangersdorf;,"",""
+  k515_qdb-d1e26107,"",Krätzel;Krätzel;,Subst;,"","alter Mann, Gerät zum Abwaschen des Geschirrs;alter Mann, Gerät zum Abwaschen des Geschirrs;","","","","","","","",""
+  k515_qdb-d1e22747,"",Kratze;,Subst;,"","","Wie er nur einmal hat Kratze [sg4]   und Tʀogh̊andhaben können;Wie er nur einmal hat Kratze sg4 und Troghandhaben können;","","","","","","",""
+  k515_qdb-d1e24099,"",Kratze;,Subst;,"","ein Werkzeug zum Zusammenkratzen von Straßenstaub, Mist, oder auch sonstiges;ein Werkzeug zum Zusammenkratzen von Straßenstaub, Mist, oder auch sonstiges;","","","","",2.2 MKtn.;,2.2c03 Trebesing;,"",""
+  k515_qdb-d1e22722,84B26;,Kratze;,Subst;,"",Werkzeug zum Hacken der Rüben;Werkzeug zum Hacken der Rüben;,"","","","",1C.1 wNTir.;,1C.1n01 Imst;,"",""
+  k515_qdb-d1e24172,"",Kratze;,Subst;,"",Krätze;Krätze;,"","","","",2.2 MKtn.;,2.2d02 Reichenau;,"",""
+  k515_qdb-d1e23725,96D3a;,Kratze;,Subst;,"","Kratzel, Bürsterl aus Brombeergestrauch oder aus Reisstroh, oder Lärchenzweige;Kratzel, Bürsterl aus Brombeergestrauch oder aus Reisstroh, oder Lärchenzweige;","","","","",3.1 sbair.ObStmk.;,3.1d03 Lobmingtal;,"",""
+  k515_qdb-d1e26150,50I18;,Krätzel;Krätzel;,Subst;,"","Kratzel, Bürste aus steifen Wurzeln ZUM Auskratzen der Hefen;Kratzel, Bürste aus steifen Wurzeln ZUM Auskratzen der Hefen;","","","","",3.1 sbair.ObStmk.;,3.1i01 Weißkirchen in Steiermark;,"",""
+  k515_qdb-d1e26202,"",Krätzel;Krätzel;,Subst;,"","Ballen aus Eisenspänen zur Reinigung von Kochgeschirr, ähnlich denen aus Bast;Ballen aus Eisenspänen zur Reinigung von Kochgeschirr, ähnlich denen aus Bast;","","","","",3.4 MStmk.;,3.4d01 Graz;,"",""
+  k515_qdb-d1e23164,29B42a;,Kratze;,Subst;,"",Tragkratze zum Ausputzen;,"","","","",5.3 Traunv.;,5.3a01 Ebensee;,"",""
+  k515_qdb-d1e24020,50I18;,Kratze;,Subst;,bist eine rechte Kratze;,"",bist a rechti Grōtzn;bist a rechti Grotzn;,"","","",6.3 Waldv.;,6.3a15 Kautzen;,"",""
+  k515_qdb-d1e23006,"",Kratze;,Subst;,"",Werkzeug beim Bergbau;,"","","","","","","",""
+  k515_qdb-d1e23968,50I18;,Kratze;,Subst;,"",die Kratze = der Fuß (vorderer) der Katze;die Kratze = der Fuß vorderer der Katze;,"","","","",6.2 Industriev.;,6.2h02 Aspang-Markt;,"",""
+  k515_qdb-d1e25609,"",Krätzel;Krätzel;,Subst;,"",ein Bündelchen feinen Reisigs zum Reinigen der Küchengeschirre;ein Bündelchen feinen Reisigs zum Reinigen der Küchengeschirre;,"","","","","","","",""
+  k515_qdb-d1e26055,"",Krätzel;Krätzel;,Subst;,"","ein Krätzel: eine kleine Schar;ein Krätzel: eine kleine Schar;","","","","",3.3 WStmk.;,"","",""
+  k515_qdb-d1e22857,84B26;,Kratze;,Subst;,"",eiserner Kräuel mit kurzem Steckerl zum Kartoffel Ausgraben x;eiserner Kräuel mit kurzem Steckerl zum Kartoffel Ausgraben ch;,"","","","",1C.3 öNTir.;,1C.3e06 Kufstein;,"",""
+  k515_qdb-d1e24047,"",Kratze;,Subst;,"","zum Wegräumen von Gebirge, Schutt und Steinen;zum Wegräumen von Gebirge, Schutt und Steinen;","","","","","","","",""
+  k515_qdb-d1e26175,"",Krätzel;Krätzel;,Subst;,"",Reisigbündel zum Abkratzen;Reisigbündel zum Abkratzen;,"","","","",2.2 MKtn.;,"","",""
+  k515_qdb-d1e24137,50I18 (F2);,Kratze;,Subst;,"","",in dăʳ Gratz;in dar Gratz;,"","","",6.2 Industriev.;,6.2j15 Pottendorf;,"",""
+  k515_qdb-d1e23476,74H11 (F);,Kratze;,Subst;,"",die rote Spur vom Kratzen;,"","","","",1B.0 OTir.;1B.0 OTir.;,"","",""

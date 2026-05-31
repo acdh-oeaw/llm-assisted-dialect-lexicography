@@ -1,0 +1,134 @@
+{
+    "Lemma": "glurren",
+    "POS": "Verb",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "starren, glotzen",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.1 Mostv.",
+                "6.3 Waldv.",
+                "6.4 Weinv.",
+                "6.5 Wien",
+                "3.4 MStmk."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g334_qdb-d1e42958",
+                    "Belegsatz": "Wos gluaʳsd [sg2]   dęnn?",
+                    "Herkunftsort": "6.1n02 Dunkelsteinerwald"
+                },
+                {
+                    "ID": "g334_qdb-d1e43678",
+                    "Belegsatz": "Was glurst [sg2]   denn so?",
+                    "Herkunftsort": "6.5 Wien"
+                }
+            ],
+            "Belege": [
+                "g334_qdb-d1e42958",
+                "g334_qdb-d1e43678",
+                "g334_qdb-d1e44713",
+                "g334_qdb-d1e44958",
+                "g334_qdb-d1e45130",
+                "g334_qdb-d1e45307"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "schauen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "3.4 MStmk.",
+                "6.1 Mostv.",
+                "6.4 Weinv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g334_qdb-d1e43514",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "g334_qdb-d1e44477",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.4f19 Sulz im Weinviertel"
+                }
+            ],
+            "Belege": [
+                "g334_qdb-d1e43514",
+                "g334_qdb-d1e44477",
+                "g334_qdb-d1e44541"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "knurren (im Magen)",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "7.1 NBgl."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g334_qdb-d1e36699",
+                    "Belegsatz": "",
+                    "Herkunftsort": "7.3e02 Rechnitz"
+                },
+                {
+                    "ID": "g334_qdb-d1e45284",
+                    "Belegsatz": "",
+                    "Herkunftsort": "7.1d16 Pöttsching"
+                }
+            ],
+            "Belege": [
+                "g334_qdb-d1e36699",
+                "g334_qdb-d1e45284"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "mit starrem Blick schauen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.4 Weinv.",
+                "3.4 MStmk."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g334_qdb-d1e44736",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "g334_qdb-d1e45393",
+                    "Belegsatz": "",
+                    "Herkunftsort": "3.4c39 Lebring-St. Margarethen"
+                }
+            ],
+            "Belege": [
+                "g334_qdb-d1e44736",
+                "g334_qdb-d1e45393"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "singen oder reden in kläglichen Tönen",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "weitere Bedeutung 1",
+            "Regionen": [
+                "3.2 mbair.ObStmk."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g334_qdb-d1e45856",
+                    "Belegsatz": "",
+                    "Herkunftsort": "3.2f02 Kapfenberg"
+                }
+            ],
+            "Belege": [
+                "g334_qdb-d1e45856"
+            ]
+        }
+    ]
+}

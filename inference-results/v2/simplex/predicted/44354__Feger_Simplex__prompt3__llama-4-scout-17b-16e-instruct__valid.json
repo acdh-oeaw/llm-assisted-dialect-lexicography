@@ -1,0 +1,61 @@
+{
+    "Lemma": "Fëger;Feger;",
+    "POS": "Subst",
+    "Genus": "m",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Rausch starker Art, stänkerisch, kritisch, zuwider",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.1"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "f244_qdb-d1e73090",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.1m07 Pfunds"
+                }
+            ],
+            "Belege": [
+                "f244_qdb-d1e73090"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "langsamer, lässiger Mensch",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.4",
+                "1B.0"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "f244_qdb-d1e73029",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1A.4c01 Lüsen"
+                }
+            ],
+            "Belege": [
+                "f244_qdb-d1e73029"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "kleine, wertlose Spielkarte; kleiner, schwacher Mensch",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "f244_qdb-d1e73061",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "f244_qdb-d1e73061"
+            ]
+        }
+    ]
+}

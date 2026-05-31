@@ -1,0 +1,107 @@
+Glossar:
+  Lemma: "'Lemma' beinhaltet sämtliche Einträge (inklusive Komposita und Wortbildungsvarianten), die einem bestimmten Lemma zugeordnet werden können. Zu diesem Zweck wurden alle Handzettel beziehungsweise die Einträge der Belegdatenbank lemmatisiert und nach historisch-etymologischen Gesichtspunkten - also linguistischen Prinzipien - einem Hauptlemma zugeordnet."
+  Fragebogennummer: "Auflistung von relevanten Fragebogennummern und Beschreibungen:\n* **92A11:** baufälliges Haus\n* **15D3:** kleineres Anwesen (Örtel, Selde, Ggaungge,); Bed.\n* **15D3 (f1):** kleineres Anwesen (Örtel, Selde, Ggaungge,); Bed.\n* **15D3 (f2):** kleineres Anwesen (Örtel, Selde, Ggaungge,); Bed.\n* **92A19:** Balken, aus denen d. Wände gezimmert werden\n"
+  Part_of_Speech: Diese Angabe benennt die Wortart des jeweiligen Belegs.
+  Bedeutung_der_Lautung: Diese Information beschreibt die Bedeutung der Lautungsangabe auf dem Beleg.
+  Bedeutung_des_Belegsatzes: "Diese Information beschreibt die Bedeutung des in Spalte \"Belegsatz 1\", \"Belegsatz 2\" etc. angegebenen Belegsatzes. Es kann sich dabei um eine direkte standardsprachliche Übersetzung, eine standardsprachliche Periphrase oder um einen metasprachlichen Kommentar handeln."
+  Belegsatz_1: "Dieser Eintrag gibt einen Belegsatz, eine Redewendung oder eine Paraphrase wider, um die Bedeutung des Belegs exemplarisch darzustellen bzw. näher zu kontextualisieren. Der Belegsatz ist in der Regel im Dialekt angegeben und in der Lautschrift Teuthonista verschriftlicht."
+  Belegsatz_2: Belegsatz 2 weist dieselbe Funktionalität auf wie Belegsatz 1.
+  Sammlung: Eine Sammlung bündelt einzelne Einträge nach lexikographisch sinnvollen Gesichtspunkten. Alle Einträge der Sammlung teilen diese Gesichtspunkte.
+  Lautung_1: "Die angegebene Information umfasst die lautliche Transkription des vorliegenden Belegs. Die Transkription wurde auf der Grundlage eines Lautschriftsystems notiert, das jenem der Teuthonista gleicht oder zumindest ähnelt. Da die Datengrundlage des WBÖ auf unterschiedlichsten Quellen basiert und die Erhebungen der Fragebögen häufig von Laien-Sammlerinnen und -sammlern durchgeführt wurden, können sich Uneinheitlichkeiten bei der Transkription ergeben."
+  Lautung_2: Lautung 2 weist dieselbe Funktionalität auf wie Lautung 1.
+  Anmerkung: Zusätzliche Anmerkung über den Beleg.
+  Diverses: Zusätzliche undefinierte Anmerkung über den Beleg.
+  Substantiv: Dieser Beleg zählt zur Wortart Substantiv.
+  Verb: Dieser Beleg zählt zur Wortart Verb.
+  Adjektiv: Dieser Beleg zählt zur Wortart Adjektiv.
+  Adverb: Dieser Beleg zählt zur Wortart Adverb.
+  Praeposition: Dieser Beleg zählt zur Wortart Präposition.
+  Konjunktion: Dieser Beleg zählt zur Wortart Konjunktion.
+  Pronomen: Dieser Beleg zählt zur Wortart Pronomen.
+  Interjektion: Dieser Beleg zählt zur Wortart Interjektion.
+  Partikel: Dieser Beleg zählt zur Wortart Partikel.
+  Geschlecht: "Das grammatische Geschlecht eines Wortes wird in der Fachsprache als Genus bezeichnet. Im Deutschen gibt es drei Genera: Maskulinum (männlich), Femininum (weiblich) und Neutrum (sächlich). Das Genus eines Substantivs wird oft durch den Artikel (der, die, das) angezeigt."
+  Bedeutung: "Semantik, auch Bedeutungslehre genannt, ist die wissenschaftliche Beschäftigung mit Bedeutung und mit den verschiedenen Beziehungen zwischen einem Zeichen und dem Bezeichneten. In den Wörterbuchartikeln gehört die Angabe der Bedeutung bzw. Bedeutungen eines Wortes zu den zentralen Inhalten."
+  Belegsatz: "Ein Belegsatz1 oder Belegsatz2  wird verwendet, um die Bedeutung des Beleg in Form eines Satzes exemplarisch zu verdeutlichen. In den Daten wird statt der Bezeichnung \"Beispielsatz\" auch die Bezeichnung \"Belegsatz\" verwendet."
+  Wortvarianten: Unterschiedliche Varianten eines Wortes.
+  Woerterbuchartikel: "Eine strukturierte Beschreibung eines Lemmas, die Angaben zu Bedeutung (bzw. Bedeutungen), Aussprache, Grammatik, Verbreitung, Etymologie sowie ggfs. Wortbildungen und Redewendungen enthält."
+  Quelle_Datenbank: "Es handelt sich hierbei um eine formalisierte Angabe der geographischen Zuordnung des Belegs. Diese Besteht aus einer Sigle sowie einer in Abkürzungen formulierten und ggfs. hierarchisch (Gemeinde, Kleinregion, Großregion, Bundesland) gegliederten Verschriftlichung der geographischen Zuordnung."
+  CollectionCat: "Die CollectionCat (Abkürzung für Collection Categorizer) ist eine Software-Applikation, die zum Kategorisieren und Zusammenfassen von Belegen im Rahmen der lexikographischen Arbeit genutzt wird."
+  Simplex: "Ein Simplex ist ein einfaches Wort oder Lexem, das weder abgeleitet noch zusammengesetzt ist."
+  Kompositum: Ein Kompositum ist ein aus bereits vorhandenen Wörtern zusammengesetztes komplexes Wort. Der zugrunde liegende Wortbildungsprozess wird Komposition genannt.
+  Derivation: "Eine Derivation ist das Ergebnis eines Wortbildungsprozesses, bei dem durch Anhängen eines Affixes (Präfix, Suffix oder Zirkumfix) aus einem Wort ein neues Wort gebildet wird."
+  Grossregion: "Das Bearbeitungsgebiet (Großregion1 und Großregion2) des WBÖ ist regional untergliedert. Jeder regionalen Einheit ist eine eindeutige Sigle zugeordnet. Die größte regionale Einheit stellt dabei das \"Bundesland\" dar, welches folgendermaßen unterteilt ist: Südtirol (Sigle 1A), Osttirol (Sigle 1B), Nordtirol (Sigle 1C), Kärnten (Sigle 2), Steiermark (Sigle 3), Salzburg (Sigle 4), Oberösterreich (Sigle 5), Niederösterreich (Sigle 6), Wien (Sigle 6.5) sowie Burgenland (Sigle 7). \nDie zweitgrößte regionale Einheit ist die \"Großregion\", welche die Bundesländer in weitere Teilbereiche untergliedert. \nDie drittgrößte regionale Einheit ist die \"Kleinregion\", welche die Großregionen in weitere Teilbereiche untergliedert.\nDie viertgrößte regionale Einheit ist die \"Gemeinde\", welche die Kleinregionen in weitere Teilbereiche untergliedert."
+  Herkunftsort: "Geographische Lokation, aus der ein Beleg stammt. Die Angabe erfolgt auf der jeweils spezifischsten verfügbaren Ebene: Ist eine Gemeinde bekannt, wird diese angegeben; andernfalls eine Kleinregion, eine Großregion oder - als letzte Möglichkeit - das Bundesland."
+Belege[72]{ID,Fragebogennummer,Lemma,POS,Bedeutung_des_Belegsatzes,Bedeutung_der_Lautung,Belegsatz1,Belegsatz2,Lautung1,Lautung2,"Großregion",Herkunftsort,Diverses,Anmerkung}:
+  k453_qdb-d1e49947,92A11;,Kalúppe;Kaluppe;,Subst;,"","eine Kaluppe = ein kleines, armseliges Haus;","","","","",5.2 Hausrv.;,5.2e01 Linz;,"",""
+  k453_qdb-d1e51312,"",Kalúppe;Kaluppe;,Subst;,eingesunkene Salzsäulchen einer Kaluppe mittels Schrauben heben;,"","s Kaloppal [D2]   schraufm;s Kaloppal D2 schraufm;","","","",5.2 Hausrv.;,5.2a17 Kirchberg-Thening;,"",""
+  k453_qdb-d1e48931,"",Kalúppe;Kaluppe;,Subst;,"",altes Gebäude;altes Gebäude;,"","","","",2.1 ObKtn.;,2.1a02 Heiligenblut am Großglockner;,"",""
+  k453_qdb-d1e49009,"",Kalúppe;Kaluppe;,Subst;,"",altes Gebäude;altes Gebäude;,"","","","",2.2 MKtn.;,2.2f02 Arriach;,"",""
+  k453_qdb-d1e48904,"",Kalúppe;Kaluppe;,Subst;,"","altes, baufälliges Holzgebäude; Hütte;altes, baufälliges Holzgebäude Hütte;","","","","",2.2 MKtn.;,2.2c03 Trebesing;,"",""
+  k453_qdb-d1e49488,15D3;,Kalúppe;Kaluppe;,Subst;,"",schon stark baufälligES HAUS;schon stark baufälligES HAUS;,"","","","",6.1 Mostv.;,6.1s06 Sitzenberg-Reidling;,"",""
+  k453_qdb-d1e49657,15D3;,Kalúppe;Kaluppe;,Subst;,diese Chalupe ist auch schon zum Zusammenfallen;,verfallenes Haus;,Deē Kalupbm es a scho zən zomfolln;Dee Kalupbm es a scho zen zomfolln;,"","","",3.3 WStmk.;,3.3b12 Söding-St. Johann;,"",""
+  k453_qdb-d1e49972,92A11;,Kalúppe;Kaluppe;,Subst;,"",chalupa = altes verfallenes Haus;,"","","","",5.4 Mühlv.;,5.4b13 Ulrichsberg;,"",""
+  k453_qdb-d1e49922,92A11;,Kalúppe;Kaluppe;,Subst;,"",ein baufälliges Haus;ein baufälliges Haus;,"","","","",3.2 mbair.ObStmk.;,3.2j08 Ramsau am Dachstein;,"",""
+  k453_qdb-d1e50022,"",Kalúppe;Kaluppe;,Subst;,"",baufälliges Gebäude;baufälliges Gebäude;,"","","","","","","",""
+  k453_qdb-d1e50156,92A11;,Kalúppe;Kaluppe;,Subst;,"","",a rechti Kalupn;,"","","",5.4 Mühlv.;,5.4h02 Dimbach;,"",""
+  k453_qdb-d1e48980,"",Kalúppe;Kaluppe;,Subst;,"","eine schlechte, dem Einsturz drohende Hütte;eine schlechte, dem Einsturz drohende Hütte;","","","","","","","",""
+  k453_qdb-d1e50182,"",Kalúppe;Kaluppe;,Subst;,"",altes baufälliges Haus;altes baufälliges Haus;,"","","","",6.3 Waldv.;,6.3c03 Bad Großpertholz;,"",""
+  k453_qdbn-d16e43889,"",Kalúppe;Kaluppe;,Subst;,"",schlechtes Haus;,"","","","",6.1 Mostv.;,6.1o01 Herzogenburg;,"",""
+  k453_qdb-d1e50431,"",Kalúppe;Kaluppe;,Subst;,"",armseliges Häuschen;armseliges Häuschen;,"","","","",6.1 Mostv.;,6.1p12 Türnitz;,"",""
+  k453_qdb-d1e50385,"",Kalúppe;Kaluppe;,Subst;,"",schlechte Hütte;schlechte Hütte;,"","","","",6.1 Mostv.;,6.1r02 Sieghartskirchen;,"",""
+  k453_qdb-d1e50482,"",Kalúppe;Kaluppe;,Subst;,"verächtlich für ein altes, häßliches Haus;","","\"Was? Die alte Chaluppen steht noch?\" wird mancher ortskundiger Wiener bei Erwähnung dieses Hauses ausrufen;Was? Die alte Chaluppen steht noch? wird mancher ortskundiger Wiener bei Erwähnung dieses Hauses ausrufen;","","","",6.5 Wien;,"","",""
+  k453_qdb-d1e51210,"",Kalúppe;Kaluppe;,Subst;,"",altes baufälliges Gebäude;altes baufälliges Gebäude;,"","","","",4.1 Lung.;,"","",""
+  k453_qdb-d1e51340,"",Kalúppe;Kaluppe;,Subst;,"",schlechtes minderwertiges Gebäude;schlechtes minderwertiges Gebäude;,"","","","",5.4 Mühlv.;,5.4e04 Gallneukirchen;,"",""
+  k453_qdbn-d16e45070,"",Kalúppe;Kaluppe;,Subst;,"",eine schlechte dem Einsturz drohende Hütte;eine schlechte dem Einsturz drohende Hütte;,"","","","","","","",""
+  k453_qdb-d1e51436,"",Kalúppe;Kaluppe;,Subst;,"",verwahrlostes Haus;,"","","","","","","",""
+  k453_qdb-d1e51608,"",Kalúppe;Kaluppe;,Subst;,"",kleines baufälliges Haus;kleines baufälliges Haus;,"","","","",6.5 Wien;,"","",""
+  k453_qdb-d1e52061,"",Kalúppe;Kaluppe;,Subst;,"",altes Haus;,"","","","",6.5 Wien;,"","",""
+  k453_qdbn-d16e42639,"",Kalúppe;Kaluppe;,Subst;,das ist ein altes baufälliges Gebäude;,"","dös is a gånzö Kaluppn [f];dös is a ganzö Kaluppn f;","","","",1C.3 öNTir.;1C.3 öNTir.;,1C.3f02 Hopfgarten im Brixental;1C.3i05 St. Johann in Tirol;,"",""
+  k453_qdb-d1e49542,15D3;,Kalúppe;Kaluppe;,Subst;,"",halbverfallenes Häuschen;halbverfallenes Häuschen;,"","","","",6.3 Waldv.;,6.3a04 Dobersberg;,"",""
+  k453_qdb-d1e49570,15D3 (f1);,Kalúppe;Kaluppe;,Subst;,"die Kaluppe ist nicht mehr wert, als daß man sie niederbrennt;","",d Khalūbm is nit mę̄a wę̄acht oüs dăs mas nīdabrē̇nth;d Khalubm is nit mea weacht oüs das mas nidabrenth;,"","","",6.3 Waldv.;,6.3a15 Kautzen;,"",""
+  k453_qdb-d1e49055,"",Kalúppe;Kaluppe;,Subst;,"",Kaluppe = baufälliges Haus;Kaluppe = baufälliges Haus;,"","","","",3.5 OStmk.;,3.5d20 Vorau;,"",""
+  k453_qdb-d1e49839,92A11;,Kalúppe;Kaluppe;,Subst;,baufälliges Haus;,"","oidə Kalupm [m];oide Kalupm m;","","","",6.3 Waldv.;,6.3f01 Allentsteig;,"",""
+  k453_qdb-d1e49899,92A11;,Kalúppe;Kaluppe;,Subst;,"","","","","","",6.1 Mostv.;,6.1q06 Pyhra;,"",""
+  k453_qdb-d1e50207,"",Kalúppe;Kaluppe;,Subst;,"",altes Haus;,"","","","",6.3 Waldv.;,"","",""
+  k453_qdbn-d16e43843,"",Kalúppe;Kaluppe;,Subst;,"","schlechtes HausANMO: verächtlich;schlechtes Haus ANM O: verächtlich;","","","","","","","",""
+  k453_qdb-d1e50408,"",Kalúppe;Kaluppe;,Subst;,"",altes baufälliges schlechtes Haus;altes baufälliges schlechtes Haus;,"","","","",6.4 Weinv.;,6.4f06 Ernstbrunn;,"",""
+  k453_qdb-d1e50454,"",Kalúppe;Kaluppe;,Subst;,"","altes schlechtes HausANMO: verächtlich;altes schlechtes Haus ANM O: verächtlich;","","","","",6.3 Waldv.;,6.3a18 Reingers;,"",""
+  k453_qdb-d1e50507,"",Kalúppe;Kaluppe;,Subst;,"",altes baufälliges Haus;altes baufälliges Haus;,"","","","",6.1 Mostv.;6.3 Waldv.;6.5 Wien;,"","",""
+  k453_qdb-d1e50954,92A11;,Kalúppe;Kaluppe;,Subst;,"",ein baufälliges Haus;ein baufälliges Haus;,"","","","",5.4 Mühlv.;,5.4h06 Pabneukirchen;,"",""
+  k453_qdb-d1e51148,"",Kalúppe;Kaluppe;,Subst;,"","eine alte verräucherte halb zusammengefallene Hütte; ein altes schlechtes winkeliges düsteres finsteres Haus, sei es in der Stadt oder auf dem Lande auch solche Wohnung;eine alte verräucherte halb zusammengefallene Hütte ein altes schlechtes winkeliges düsteres finsteres Haus, sei es in der Stadt oder auf dem Lande auch solche Wohnung;","","","","",3.2 mbair.ObStmk.;,3.2f02 Kapfenberg;,Kalypto ?;,"B: griech. Wort DV[1];ANM B: DV1 griech. Wort DV[1];"
+  k453_qdb-d1e51116,"",Kalúppe;Kaluppe;,Subst;,Was kostet das alte Haus?;,kleines Haus;,Wos kost di olti Kaluppn;,"","","",3.5 OStmk.;3.5 OStmk.;,3.5k10 Gnas;3.5j12 Kirchberg an der Raab;,"",""
+  k453_qdb-d1e49999,"",Kalúppe;Kaluppe;,Subst;,"",baufälliges Haus;baufälliges Haus;,"","","","",5.3 Traunv.;,5.3c03 Steinbach am Ziehberg;,"",""
+  k453_qdb-d1e51229,"",Kalúppe;Kaluppe;,Subst;,"",schlechtes Haus;,"","","","",4.5 Flachg.;,4.5a12 Wals-Siezenheim;,"",""
+  k453_qdbn-d16e43173,15D3 (f1);,Kalúppe;Kaluppe;,Subst;,"","",a so a Kalupm;,"","","","","","",""
+  k453_qdb-d1e51382,"",Kalúppe;Kaluppe;,Subst;,"",schlechtes Haus;,"","","","",5.1 Innv.;,"","",""
+  k453_qdb-d1e49620,15D3 (f2);,Kalúppe;Kaluppe;,Subst;,"",kleines Anwesen in baufälligem Zustand;kleines Anwesen in baufälligem Zustand;,"","","","",5.2 Hausrv.;,5.2a17 Kirchberg-Thening;,"",""
+  k453_qdbn-d16e43630,"",Kalúppe;Kaluppe;,Subst;,alte Hütte;,"",a oldi Kalūpm;a oldi Kalupm;,"","","","","","",""
+  k453_qdbn-d16e42511,"",Kalúppe;Kaluppe;,Subst;,"","verwahrloste, baufällige HütteANMO: abschätzig;verwahrloste, baufällige Hütte ANM O: abschätzig;","","","","","","","ÖW, DW, DO, Sterzings;ANM ÖW, DW, DO, Sterzings;",""
+  k453_qdb-d1e49099,"",Kalúppe;Kaluppe;,Subst;,"",Keusche;,"","","","","","","",""
+  k453_qdb-d1e50582,"",Kalúppe;Kaluppe;,Subst;,"",schlechtes Haus; Hütte;schlechtes Haus Hütte;,"","","","",6.5 Wien;,"","",""
+  k453_qdb-d1e50772,"",Kalúppe;Kaluppe;,Subst;,"",baufälliges Haus;baufälliges Haus;,"","","","",7.1 NBgl.;,7.1a04 Kittsee;,"",""
+  k453_qdb-d1e50744,"",Kalúppe;Kaluppe;,Subst;,"",baufälliges altes Haus;baufälliges altes Haus;,"","","","",7.1 NBgl.;7.1 NBgl.;,7.1c02 Apetlon;7.1c02 Apetlon;,"",""
+  k453_qdb-d1e51671,"",Kalúppe;Kaluppe;,Subst;,"",baufälliges schlechtes finsteres und schmutziges Haus;baufälliges schlechtes finsteres und schmutziges Haus;,"","","","","","","",""
+  k453_qdb-d1e50321,"",Kalúppe;Kaluppe;,Subst;,"",altes Haus; baufällige Hütte;altes Haus baufällige Hütte;,"","","","",6.3 Waldv.;,6.3a15 Kautzen;,"",""
+  k453_qdb-d1e50130,"",Kalúppe;Kaluppe;,Subst;,"","ein sehr verwahrlostes, schlecht bewohnbares Haus;","","","","",6.3 Waldv.;6.3 Waldv.;6.3 Waldv.;6.3 Waldv.;6.3 Waldv.;6.3 Waldv.;6.3 Waldv.;,"","",""
+  k453_qdb-d1e48957,92A19;,Kalúppe;Kaluppe;,Subst;,"","","","","","",2.2 MKtn.;,2.2i04 Paternion;,"",""
+  k453_qdbn-d16e44061,"",Kalúppe;Kaluppe;,Subst;,"",baufälliges Haus;baufälliges Haus;,"","","","",6.5 Wien;,"","",""
+  k453_qdb-d1e51407,"",Kalúppe;Kaluppe;,Subst;,"",verwahrlostes baufälliges Haus;verwahrlostes baufälliges Haus;,"","","","","","","",""
+  k453_qdb-d1e49078,"",Kalúppe;Kaluppe;,Subst;,"","baufälliges, schlechtes, finsteres u. schmutziges Haus;baufälliges, schlechtes, finsteres u. schmutziges Haus;","","","","","","","",""
+  k453_qdbn-d16e44040,"",Kalúppe;Kaluppe;,Subst;,"","Kaluppe = kleines AnwesenANMB: Abk. aufgelöst;Kaluppe = kleines Anwesen ANM B: Abk. aufgelöst;","","","","",6.5 Wien;,"","",""
+  k453_qdbn-d16e44128,"",Kalúppe;Kaluppe;,Subst;,"","Kaluppe = schlechtes HausANMO: verächtlich;Kaluppe = schlechtes Haus ANM O: verächtlich;","","","","",6.5 Wien;,"","",""
+  k453_qdb-d1e51185,"",Kalúppe;Kaluppe;,Subst;,"",Kaluppe = verwahrlostes Haus;,"","","","",3.3 WStmk.;,"","",""
+  k453_qdb-d1e49463,15D3;,Kalúppe;Kaluppe;,Subst;,"",Kaluppe = verfallenes Haus;,"","","","",6.5 Wien;,"","",""
+  k453_qdb-d1e51275,"",Kalúppe;Kaluppe;,Subst;,"",ärmliche baufällige Hütte;ärmliche baufällige Hütte;,so a alte Kaluppn!;,"","","","","","",""
+  k453_qdb-d1e49032,"",Kalúppe;Kaluppe;,Subst;,"","altes, halbzerfallenes Haus;","","","","",3.3 WStmk.;,3.3c07 St. Stefan ob Stainz;,"",""
+  k453_qdb-d1e49436,15D3;,Kalúppe;Kaluppe;,Subst;,"","MINDERWERTIGES HAUSANMO: alt; morsch; wenig wert;MINDERWERTIGES HAUS ANM O: alt morsch wenig wert;","","","","",7.1 NBgl.;,7.1b04 Neusiedl am See;,"",""
+  k453_qdb-d1e49866,92A11;,Kalúppe;Kaluppe;,Subst;,"orig: eine alte Chaluppe;translated: baufälliges Haus;","","a oidé Kalupn [f];a oide Kalupn f;","","","",6.1 Mostv.;,6.1s07 Tulln an der Donau;,"",""
+  k453_qdb-d1e50094,"",Kalúppe;Kaluppe;,Subst;,"",baufälliges Haus;baufälliges Haus;,"","","","",6.1 Mostv.;,6.1d01 Allhartsberg;,"",""
+  k453_qdbn-d16e44104,"",Kalúppe;Kaluppe;,Subst;,"",Kaluppe = schlechtes altes Haus;,"","","","",6.5 Wien;,"","",""
+  k453_qdb-d1e50230,"",Kalúppe;Kaluppe;,Subst;,"",sehr schlechtes Haus;,"","","","",6.3 Waldv.;,6.3a15 Kautzen;,"",""
+  k453_qdb-d1e50667,"",Kalúppe;Kaluppe;,Subst;,"",ein altes baufälliges schmutziges Haus;ein altes baufälliges schmutziges Haus;,"","","","",6.5 Wien;,"","",""
+  k453_qdb-d1e50717,"",Kalúppe;Kaluppe;,Subst;,"",altes baufälliges Haus;altes baufälliges Haus;,"","","","",7.1 NBgl.;,7.1e07 Mattersburg;,"",""
+  k453_qdb-d1e50067,"",Kalúppe;Kaluppe;,Subst;,"",schlechte Hütte; Baracke; schlechtes Haus;schlechte Hütte Baracke schlechtes Haus;,an ålte Kaluppen;an alte Kaluppen;,"","","",6.2 Industriev.;,6.2h28 Warth;,"",""
+  k453_qdb-d1e50979,"",Kalúppe;Kaluppe;,Subst;,"",verfallenes Haus; Bude;verfallenes Haus Bude;,"","","","",6.5 Wien;,"","",""
+  k453_qdb-d1e51252,"",Kalúppe;Kaluppe;,Subst;,"",schlechtes Haus;,"","","","",4.5 Flachg.;,4.5b10 Obertrum am See;,"",""
+  k453_qdb-d1e51359,"",Kalúppe;Kaluppe;,Subst;,"",verwahrlostes Haus;,"","","","",5.4 Mühlv.;,"","",""

@@ -1,0 +1,216 @@
+{
+    "Lemma": "gēifen;geifen;",
+    "POS": "Verb",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "klaffen, Sprünge zeigen (v. Fässern u. Schäffern)",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "3.4 MStmk."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g311_qdb-d1e13396",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g311_qdb-d1e13396"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "gähnen",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "4.5 Flachg."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g311_qdb-d1e13171",
+                    "Belegsatz": "",
+                    "Herkunftsort": "4.5b08 Nußdorf am Haunsberg"
+                }
+            ],
+            "Belege": [
+                "g311_qdb-d1e13171"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "auseinanderstehen, klaffen (v. zu weiten Kleidern, Schuhen); einen Schlitz bilden",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "g311_qdb-d1e13024",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g311_qdb-d1e13024"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "die Faßreifen auf der einen Seite etw. weiter machen als auf der andern",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.1 Mostv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g311_qdb-d1e10740",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.1d01 Allhartsberg"
+                }
+            ],
+            "Belege": [
+                "g311_qdb-d1e10740"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "einen alten Radreifen derart austreiben (ausklopfen), damit er wieder kantig wird u. daher besser auf das Rad paßt",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.2 Industriev."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g311_qdb-d1e13097",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.2h28 Warth"
+                }
+            ],
+            "Belege": [
+                "g311_qdb-d1e13097"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "es (das Kleid) steht ab; ist zu weit",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.1 wNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g311_qdb-d1e12878",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.1m10 Serfaus"
+                }
+            ],
+            "Belege": [
+                "g311_qdb-d1e12878"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "ein Reifeisen rund schlagen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.4 Weinv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g311_qdb-d1e13321",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g311_qdb-d1e13321"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "runden",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "4.1 Lung."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g311_qdb-d1e65741",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g311_qdb-d1e65741"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "auseinanderstehen (von Kleidern); nicht gut anliegen; Falten machen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "g311_qdb-d1e12820",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g311_qdb-d1e12820"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Radreifen abkauten",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "3.3 WStmk."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g311_qdb-d1e12903",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g311_qdb-d1e12903"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "rund ausschneiden oder formen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "g311_qdb-d1e13196",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g311_qdb-d1e13196"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "einen etwas zu engen Eisenreif durch Hämmern passend machen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "g297_qdb-d1e87688",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g297_qdb-d1e87688"
+            ]
+        }
+    ]
+}

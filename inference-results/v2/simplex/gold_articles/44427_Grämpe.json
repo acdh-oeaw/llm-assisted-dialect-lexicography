@@ -1,0 +1,28 @@
+{
+  "Lemma": "Grämpe Grampe",
+  "POS": "Substantiv",
+  "Genus": "Femininum",
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "weibliche Person vom Land, die Lebensmittel oder Kleinwaren in der Stadt verkauft",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "weibliche Person, die im Auftrag einer anderen etwas überbringt; Botin",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A.2 mSTir."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

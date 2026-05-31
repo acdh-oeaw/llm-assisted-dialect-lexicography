@@ -1,0 +1,126 @@
+{
+    "Lemma": "kartätschen/kartätschen",
+    "POS": "Verb",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Wolle zausen; Wolle lockern",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.1 wNTir.",
+                "1C.2 mNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k459_qdbn-d16e28052",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k459_qdb-d1e36442",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.1m02 Fendels"
+                }
+            ],
+            "Belege": [
+                "k459_qdbn-d16e28052",
+                "k459_qdb-d1e36442"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Wolle hecheln bzw. bearbeiten zwischen Drahtbürsten",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.2 mNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k459_qdb-d1e36632",
+                    "Belegsatz": "Woll' tātschn;",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k459_qdb-d1e36632"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "durch die Kardätsche schlagen, streichen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "k459_qdbn-d16e31037",
+                    "Belegsatz": "die Wolle tätschen;",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k459_qdbn-d16e31037"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "bürsten; mit der Pferdebürste reinigen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.5 Wien"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k459_qdbn-d16e29113",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k459_qdbn-d16e29113"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Wolle krempeln",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.3 öNTir.",
+                "2.2 MKtn."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k459_qdb-d1e36115",
+                    "Belegsatz": "Woln kartatschn;",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k459_qdbn-d16e31122",
+                    "Belegsatz": "Woïn datschn;",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k459_qdb-d1e36115",
+                "k459_qdbn-d16e31122"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Wolle putzen bzw. krämpeln",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "k459_qdbn-d16e30972",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k459_qdbn-d16e30972"
+            ]
+        }
+    ]
+}

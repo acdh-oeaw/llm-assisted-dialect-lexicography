@@ -1,0 +1,59 @@
+{
+    "Lemma": "Gärber/Gerber",
+    "POS": "Subst",
+    "Genus": "männlich",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Gerber (allgemein)",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.2 mSTir.",
+                "1C.1 wNTir.",
+                "1C.1 mNTir.",
+                "1C.3 öNTir.",
+                "5.1 Innv.",
+                "5.2 Hausrv.",
+                "5.3 Traunv.",
+                "5.4 Mühlv.",
+                "6.1 Mostv.",
+                "6.3 Waldv.",
+                "6.4 Weinv.",
+                "7.2 MBgl."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g303_qdb-d1e17639",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g324_qdb-d1e17639",
+                "g303_qdb-d1e17992",
+                "g303_qdb-d1e26386"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Ledergerber / Lohgerber / Weißgerber",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "differenzierte Bedeutung",
+            "Regionen": [
+                "4.3 Pong.",
+                "6.4 Weinv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g303_qdb-d1e27042",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g303_qdb-d1e27042",
+                "g303_qdb-d1e27364"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "Lemma": "Gift",
+    "POS": "Subst",
+    "Genus": "m/n",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Zorn, Ärger",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.5 Wien",
+                "6.3 Waldv.",
+                "6.4 Weinv.",
+                "1C.2 mNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g327_qdb-d1e32348",
+                    "Belegsatz": "Er hat an Gift [m,sg4] g'habt;",
+                    "Herkunftsort": "6.5 Wien"
+                },
+                {
+                    "ID": "g327_qdb-d1e31494",
+                    "Belegsatz": "hot der an gift [m,sg4];",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "g327_qdb-d1e31961",
+                    "Belegsatz": "Gift und Gåll;",
+                    "Herkunftsort": "6.5 Wien"
+                }
+            ],
+            "Belege": [
+                "g327_qdb-d1e32348",
+                "g327_qdb-d1e31494",
+                "g327_qdb-d1e31961"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Gift und Galle (Redewendung)",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.5 Wien",
+                "1C.3 öNTir.",
+                "6.2 Industriev."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g327_qdb-d1e32851",
+                    "Belegsatz": "Gift und Gåiˡˡ bringt mi um;",
+                    "Herkunftsort": "6.5 Wien"
+                },
+                {
+                    "ID": "g326_qdb-d1e6850",
+                    "Belegsatz": "Gift [sg4] u. Gall khriegn;",
+                    "Herkunftsort": "1C.3 öNTir."
+                }
+            ],
+            "Belege": [
+                "g327_qdb-d1e32851",
+                "g326_qdb-d1e6850"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Rauschgift",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                ""
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g327_qdb-d1e33399",
+                    "Belegsatz": "das weiße Gift [n];",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g327_qdb-d1e33399"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "sehr scharf",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                ""
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g327_qdb-d1e34178",
+                    "Belegsatz": "da kånnst Gift [sg4] drauf nehma;",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g327_qdb-d1e34178"
+            ]
+        }
+    ]
+}

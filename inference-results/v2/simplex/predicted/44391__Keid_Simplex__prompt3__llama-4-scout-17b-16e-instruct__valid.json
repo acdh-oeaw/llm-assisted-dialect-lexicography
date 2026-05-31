@@ -1,0 +1,145 @@
+{
+    "Lemma": "Keid",
+    "POS": "Subst",
+    "Genus": "Femininum",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "ein bißchen, ein wenig",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.1 wSTir.",
+                "1A.2 mSTir.",
+                "1A.4 öSTir.",
+                "1B.0 OTir.",
+                "1C.1 wNTir.",
+                "1C.2 mNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k467_qdb-d1e31424",
+                    "Belegsatz": "a kchaidele   brǫat",
+                    "Herkunftsort": "1A.1 wSTir."
+                },
+                {
+                    "ID": "k467_qdb-d1e31605",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1B.0 OTir."
+                }
+            ],
+            "Belege": [
+                "k467_qdb-d1e31424",
+                "k467_qdb-d1e31605",
+                "k467_qdb-d1e32258",
+                "k467_qdb-d1e32318"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Keim, Sproß, Pflanzenstengel",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.2 mSTir.",
+                "1C.2 mNTir.",
+                "2.1 ObKtn."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k467_qdb-d1e30555",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k467_qdb-d1e32568",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.2 mNTir."
+                }
+            ],
+            "Belege": [
+                "k467_qdb-d1e30555",
+                "k467_qdb-d1e32568",
+                "k467_qdb-d1e32624"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Korn, Samenkorn",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "7.2 MBgl.",
+                "3.5 OStmk."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k467_qdb-d1e31133",
+                    "Belegsatz": "",
+                    "Herkunftsort": "7.2 MBgl."
+                },
+                {
+                    "ID": "k467_qdb-d1e30922",
+                    "Belegsatz": "",
+                    "Herkunftsort": "3.5 OStmk."
+                }
+            ],
+            "Belege": [
+                "k467_qdb-d1e31133",
+                "k467_qdb-d1e30922"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Kartoffeltriebe im Frühjahr",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.1 wNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k467_qdb-d1e30732",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.1 wNTir."
+                }
+            ],
+            "Belege": [
+                "k467_qdb-d1e30732"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Wirtschaft, Haushaltung",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.3 öNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k467_qdb-d1e31076",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.3 öNTir."
+                }
+            ],
+            "Belege": [
+                "k467_qdb-d1e31076"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Kind und Kegel (im Sinne von Familie)",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.4 öSTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k467_qdb-d1e32289",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1A.4 öSTir."
+                }
+            ],
+            "Belege": [
+                "k467_qdb-d1e32289"
+            ]
+        }
+    ]
+}

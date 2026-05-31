@@ -1,0 +1,132 @@
+{
+    "Lemma": "Garretzer",
+    "POS": "Subst",
+    "Genus": "männlich",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Person, die weinerlich redet oder jammert",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.3 öNTir.",
+                "4.5 Flachg."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g303_qdb-d1e66650",
+                    "Belegsatz": "ko̩an Gåritzər to̩an",
+                    "Herkunftsort": "1C.3b03 Thiersee"
+                },
+                {
+                    "ID": "g303_qdb-d1e66787",
+                    "Belegsatz": "I gāb da schon oanaweg khoan Gă̄rrozza ă",
+                    "Herkunftsort": "1C.3f02 Hopfgarten im Brixental; 1C.3i05 St. Johann in Tirol"
+                },
+                {
+                    "ID": "g303_qdb-d1e63393",
+                    "Belegsatz": "a ewiga Gåritza",
+                    "Herkunftsort": "4.5b09 Oberndorf bei Salzburg"
+                }
+            ],
+            "Belege": [
+                "g303_qdb-d1e66650",
+                "g303_qdb-d1e66787",
+                "g303_qdb-d1e63393"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Nörgler; kritischer Mensch",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.3 öNTir.",
+                "4.3 Pong."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g303_qdb-d1e66769",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "g303_qdb-d1e64776",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.3c03 Brixlegg"
+                }
+            ],
+            "Belege": [
+                "g303_qdb-d1e66769",
+                "g303_qdb-d1e64776"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Bittsteller",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "4.1 Lung.",
+                "4.3 Pong."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g303_qdb-d1e66462",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "g303_qdb-d1e66966",
+                    "Belegsatz": "",
+                    "Herkunftsort": "4.3d02 Großarl"
+                }
+            ],
+            "Belege": [
+                "g303_qdb-d1e66462",
+                "g303_qdb-d1e66966"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Wiegenkind; kleiner Schreier",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.3 öNTir.",
+                "1B.0 OTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g303_qdb-d1e66727",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "g303_qdb-d1e66504",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g303_qdb-d1e66727",
+                "g303_qdb-d1e66504"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "scharfer Ton; Reibungslaut",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                ""
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g303_qdb-d1e66481",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g303_qdb-d1e66481"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "Lemma": "Käusche;Käusche;",
+    "POS": "Subst",
+    "Genus": "Femininum",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "kleines, ärmliches Bauernhaus oder Haus",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.4 öSTir.",
+                "2.2 MKtn.",
+                "3.3 WStmk.",
+                "5.3 Traunv.",
+                "6.1 Mostv.",
+                "6.2 Industriev.",
+                "6.4 Weinv.",
+                "6.5 Wien"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k465_qdb-d1e20479",
+                    "Belegsatz": "die Keusche, kleines, ärmliches Bauernhaus",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k465_qdb-d1e20704",
+                    "Belegsatz": "a oi(l)di Keuschn; a oildi Keuschn;",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "kleines Anwesen mit wenig Grund",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "2.2 MKtn.",
+                "3.3 WStmk.",
+                "5.4 Mühlv.",
+                "6.1 Mostv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k465_qdb-d1e15505",
+                    "Belegsatz": "KLEINER GRUNDBESITZ (5-6 Joch)",
+                    "Herkunftsort": "3.3c08 Stainz"
+                },
+                {
+                    "ID": "k465_qdb-d1e15230",
+                    "Belegsatz": "ein Keusche: kleines Haus mit Grund und Boden für höchstens zwei Kühe und ein paar Schweinchen",
+                    "Herkunftsort": "2.3b05 Straßburg"
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "Hütte oder schlechtes Gebäude",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.3 öNTir.",
+                "2.1 ObKtn.",
+                "4.3 Pong.",
+                "6.2 Industriev."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k465_qdb-d1e22281",
+                    "Belegsatz": "Hütte; Hütte;",
+                    "Herkunftsort": "2.2c03 Trebesing"
+                },
+                {
+                    "ID": "k465_qdb-d1e18589",
+                    "Belegsatz": "baufälliges Haus; schlechtes Gut",
+                    "Herkunftsort": "1C.3e09 Niederndorf"
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "Keusche als Teil eines größeren Anwesens",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.3 öNTir.",
+                "2.1 ObKtn."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k465_qdb-d1e14164",
+                    "Belegsatz": "abseits liegendes Haus ohne Felder, das zu einem Hof gehört",
+                    "Herkunftsort": "1C.3e06 Kufstein"
+                },
+                {
+                    "ID": "k465_qdb-d1e17028",
+                    "Belegsatz": "ein zu einem größeren Anwesen gehöriges und meist alleinstehendes Haus; baufälligES, winkeligES HAUS",
+                    "Herkunftsort": "5.1a03 Feldkirchen bei Mattighofen"
+                }
+            ],
+            "Belege": []
+        }
+    ]
+}

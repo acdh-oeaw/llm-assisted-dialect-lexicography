@@ -1,0 +1,92 @@
+{
+    "Lemma": "kenten",
+    "POS": "Verb",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "heizen; einheizen; leuchten; Licht machen = zünden",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "3.1 sbair.ObStmk.",
+                "3.2 mbair.ObStmk.",
+                "4.2 Pinzg.",
+                "4.3 Pong.",
+                "4.5 Flachg.",
+                "5.1 Innv.",
+                "5.2 Hausrv.",
+                "5.3 Traunv.",
+                "6.1 Mostv.",
+                "6.2 Industriev.",
+                "6.4 Weinv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k474_qdb-d1e57778",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k474_qdb-d1e57857",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k474_qdb-d1e57778",
+                "k474_qdb-d1e57857"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "zünden; anfeuern",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "k474_qdb-d1e57581",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k474_qdb-d1e57581"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Feuer machen; Feuer anzünden",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "3.1 sbair.ObStmk."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k474_qdb-d1e58226",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k474_qdb-d1e58226"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "zündeln; mit dem Feuer spielen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "k474_qdb-d1e57095",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k474_qdb-d1e57095"
+            ]
+        }
+    ]
+}

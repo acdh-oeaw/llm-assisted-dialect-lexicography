@@ -1,0 +1,141 @@
+{
+    "Lemma": "Gigel",
+    "POS": "Subst",
+    "Genus": "männlich",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Ein Mensch, der auffallend gekleidet ist, insbesondere nach der neuesten Mode.",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.5 Wien",
+                "6.1 Mostv.",
+                "6.3 Waldv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g327_qdb-d1e47823",
+                    "Belegsatz": "Gigerl = ein Mensch, der immer frisch gebügelte Kleider nach der Mode trägt; Gigerl = Geck = ein nach der Mode auffallend Gekleideter",
+                    "Herkunftsort": "6.5 Wien"
+                },
+                {
+                    "ID": "g327_qdb-d1e48291",
+                    "Belegsatz": "Håst den Gigerl [D,m,sg4] g'seg'n?",
+                    "Herkunftsort": "6.5 Wien"
+                }
+            ],
+            "Belege": [
+                "g327_qdb-d1e47823",
+                "g327_qdb-d1e48291",
+                "g327_qdb-d1e48428",
+                "g327_qdb-d1e48574"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Körperteile, insbesondere Füße oder Beine.",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.2 mSTir.",
+                "5.1 Innv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g327_qdb-d1e46629",
+                    "Belegsatz": "di gîgl [pl4] üb[e]rschi stöll[e]n;",
+                    "Herkunftsort": "1A.2 mSTir."
+                },
+                {
+                    "ID": "g327_qdb-d1e46724",
+                    "Belegsatz": "Die Gigl [pl4] au'rück'n;",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g327_qdb-d1e46629",
+                "g327_qdb-d1e46724",
+                "g327_qdb-d1e46663"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Einjähriges Schaf, insbesondere weibliches Schaf, das noch nicht gelammt hat.",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.2 mNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g327_qdb-d1e46482",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.2 mNTir."
+                },
+                {
+                    "ID": "g327_qdb-d1e46461",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g327_qdb-d1e46482",
+                "g327_qdb-d1e46422",
+                "g327_qdb-d1e46461"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Ein feiger oder schwacher Mensch.",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                ""
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g310_qdb-d1e700",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "g310_qdb-d1e744",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g310_qdb-d1e700",
+                "g310_qdb-d1e744"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Tasche für Hartgeld.",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "weitere Bedeutung 1",
+            "Regionen": [
+                ""
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g327_qdb-d1e49532",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.5 Wien"
+                }
+            ],
+            "Belege": [
+                "g327_qdb-d1e49532"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Gallapfel.",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "weitere Bedeutung 2",
+            "Regionen": [
+                ""
+            ],
+            "Belegsaetze": [],
+            "Belege": [
+                "g327_qdb-d1e49475"
+            ]
+        }
+    ]
+}

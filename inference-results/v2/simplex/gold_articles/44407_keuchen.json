@@ -1,0 +1,124 @@
+{
+  "Lemma": "keuchen",
+  "POS": "Verb",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "schwer atmen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir.",
+        "p2.1 ObKtn.",
+        "p2.2 MKtn.",
+        "p3.1 sbair.ObStmk.",
+        "p3.4 MStmk.",
+        "p3.5 OStmk.",
+        "p4 Sbg.",
+        "p5.1 Innv.",
+        "p5.2 Hausrv.",
+        "p5.4 Mühlv.",
+        "p6 NÖ",
+        "p6.5 Wien",
+        "p7.1 NBgl.",
+        "p7.3 SBgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Do maᵃchts oᵃn keichn!",
+          "Herkunftsort": "Fendels"
+        },
+        {
+          "Belegsatz": "i håb schon recht kicha",
+          "Herkunftsort": "Hofstetten-Grünau"
+        },
+        {
+          "Belegsatz": "ålsa keichadi",
+          "Herkunftsort": "Raabs an der Thaya"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "hauchen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p6.1 Mostv.",
+        "p6.3 Waldv.",
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "husten",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1B.0 OTir.",
+        "p1C.2 mNTir.",
+        "p1C.3 öNTir.",
+        "p2.2 MKtn.",
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "ins Keichn kem",
+          "Herkunftsort": "obstGurkt."
+        },
+        {
+          "Belegsatz": "Kuich nit so wiara Schōf!",
+          "Herkunftsort": "Poysdorf"
+        },
+        {
+          "Belegsatz": "toan de Kina Kuicha",
+          "Herkunftsort": "Poysdorf"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "weinen; heulen; aufgrund von Weinen keinen Laut mehr herausbringen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p4 Sbg.",
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "schwer atmen; laute Atemgeräusche ausstoßen (von Tieren bei Hitze oder Brunft)",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1C.1 wNTir.",
+        "p1C.3 öNTir.",
+        "p2.1 ObKtn.",
+        "p2.2 MKtn.",
+        "p4.2 Pinzg.",
+        "p5.2 Hausrv.",
+        "p5.3 Traunv.",
+        "p6.1 Mostv.",
+        "p6.3 Waldv.",
+        "p6.4 Weinv.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "da Oks khaicht",
+          "Herkunftsort": "Gmunden"
+        },
+        {
+          "Belegsatz": "a sou a khaicha",
+          "Herkunftsort": "Kautzen"
+        },
+        {
+          "Belegsatz": "ῑwan Hiwl tuat de Kui imrigsmol Kēīcha",
+          "Herkunftsort": "Poysdorf"
+        }
+      ]
+    }
+  ]
+}

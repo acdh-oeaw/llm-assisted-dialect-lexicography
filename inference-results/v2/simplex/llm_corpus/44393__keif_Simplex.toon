@@ -1,0 +1,71 @@
+Glossar:
+  Lemma: "'Lemma' beinhaltet sämtliche Einträge (inklusive Komposita und Wortbildungsvarianten), die einem bestimmten Lemma zugeordnet werden können. Zu diesem Zweck wurden alle Handzettel beziehungsweise die Einträge der Belegdatenbank lemmatisiert und nach historisch-etymologischen Gesichtspunkten - also linguistischen Prinzipien - einem Hauptlemma zugeordnet."
+  Fragebogennummer: "Auflistung von relevanten Fragebogennummern und Beschreibungen:\n* **21C3a:** Fleisch v. best.Beschaffenh. (flechsiges,); Ra.\n* **78F14:** starke, muskulöse Waden\n* **38E9:** gut/schlecht nähen (fest, locker, scheel nähen,)\n* **23I6b:** Haut m. Adj., Syn. (behaart/Pelz, gelbl.,); Zshg. Hautfarbe-Haarfarbe/Charakter?\n* **67E24 (1):** d. Mieder schnüren; Füg. (fest/locker, vorn/hint)\n"
+  Part_of_Speech: Diese Angabe benennt die Wortart des jeweiligen Belegs.
+  Bedeutung_der_Lautung: Diese Information beschreibt die Bedeutung der Lautungsangabe auf dem Beleg.
+  Bedeutung_des_Belegsatzes: "Diese Information beschreibt die Bedeutung des in Spalte \"Belegsatz 1\", \"Belegsatz 2\" etc. angegebenen Belegsatzes. Es kann sich dabei um eine direkte standardsprachliche Übersetzung, eine standardsprachliche Periphrase oder um einen metasprachlichen Kommentar handeln."
+  Belegsatz_1: "Dieser Eintrag gibt einen Belegsatz, eine Redewendung oder eine Paraphrase wider, um die Bedeutung des Belegs exemplarisch darzustellen bzw. näher zu kontextualisieren. Der Belegsatz ist in der Regel im Dialekt angegeben und in der Lautschrift Teuthonista verschriftlicht."
+  Belegsatz_2: Belegsatz 2 weist dieselbe Funktionalität auf wie Belegsatz 1.
+  Sammlung: Eine Sammlung bündelt einzelne Einträge nach lexikographisch sinnvollen Gesichtspunkten. Alle Einträge der Sammlung teilen diese Gesichtspunkte.
+  Lautung_1: "Die angegebene Information umfasst die lautliche Transkription des vorliegenden Belegs. Die Transkription wurde auf der Grundlage eines Lautschriftsystems notiert, das jenem der Teuthonista gleicht oder zumindest ähnelt. Da die Datengrundlage des WBÖ auf unterschiedlichsten Quellen basiert und die Erhebungen der Fragebögen häufig von Laien-Sammlerinnen und -sammlern durchgeführt wurden, können sich Uneinheitlichkeiten bei der Transkription ergeben."
+  Lautung_2: Lautung 2 weist dieselbe Funktionalität auf wie Lautung 1.
+  Anmerkung: Zusätzliche Anmerkung über den Beleg.
+  Diverses: Zusätzliche undefinierte Anmerkung über den Beleg.
+  Substantiv: Dieser Beleg zählt zur Wortart Substantiv.
+  Verb: Dieser Beleg zählt zur Wortart Verb.
+  Adjektiv: Dieser Beleg zählt zur Wortart Adjektiv.
+  Adverb: Dieser Beleg zählt zur Wortart Adverb.
+  Praeposition: Dieser Beleg zählt zur Wortart Präposition.
+  Konjunktion: Dieser Beleg zählt zur Wortart Konjunktion.
+  Pronomen: Dieser Beleg zählt zur Wortart Pronomen.
+  Interjektion: Dieser Beleg zählt zur Wortart Interjektion.
+  Partikel: Dieser Beleg zählt zur Wortart Partikel.
+  Geschlecht: "Das grammatische Geschlecht eines Wortes wird in der Fachsprache als Genus bezeichnet. Im Deutschen gibt es drei Genera: Maskulinum (männlich), Femininum (weiblich) und Neutrum (sächlich). Das Genus eines Substantivs wird oft durch den Artikel (der, die, das) angezeigt."
+  Bedeutung: "Semantik, auch Bedeutungslehre genannt, ist die wissenschaftliche Beschäftigung mit Bedeutung und mit den verschiedenen Beziehungen zwischen einem Zeichen und dem Bezeichneten. In den Wörterbuchartikeln gehört die Angabe der Bedeutung bzw. Bedeutungen eines Wortes zu den zentralen Inhalten."
+  Belegsatz: "Ein Belegsatz1 oder Belegsatz2  wird verwendet, um die Bedeutung des Beleg in Form eines Satzes exemplarisch zu verdeutlichen. In den Daten wird statt der Bezeichnung \"Beispielsatz\" auch die Bezeichnung \"Belegsatz\" verwendet."
+  Wortvarianten: Unterschiedliche Varianten eines Wortes.
+  Woerterbuchartikel: "Eine strukturierte Beschreibung eines Lemmas, die Angaben zu Bedeutung (bzw. Bedeutungen), Aussprache, Grammatik, Verbreitung, Etymologie sowie ggfs. Wortbildungen und Redewendungen enthält."
+  Quelle_Datenbank: "Es handelt sich hierbei um eine formalisierte Angabe der geographischen Zuordnung des Belegs. Diese Besteht aus einer Sigle sowie einer in Abkürzungen formulierten und ggfs. hierarchisch (Gemeinde, Kleinregion, Großregion, Bundesland) gegliederten Verschriftlichung der geographischen Zuordnung."
+  CollectionCat: "Die CollectionCat (Abkürzung für Collection Categorizer) ist eine Software-Applikation, die zum Kategorisieren und Zusammenfassen von Belegen im Rahmen der lexikographischen Arbeit genutzt wird."
+  Simplex: "Ein Simplex ist ein einfaches Wort oder Lexem, das weder abgeleitet noch zusammengesetzt ist."
+  Kompositum: Ein Kompositum ist ein aus bereits vorhandenen Wörtern zusammengesetztes komplexes Wort. Der zugrunde liegende Wortbildungsprozess wird Komposition genannt.
+  Derivation: "Eine Derivation ist das Ergebnis eines Wortbildungsprozesses, bei dem durch Anhängen eines Affixes (Präfix, Suffix oder Zirkumfix) aus einem Wort ein neues Wort gebildet wird."
+  Grossregion: "Das Bearbeitungsgebiet (Großregion1 und Großregion2) des WBÖ ist regional untergliedert. Jeder regionalen Einheit ist eine eindeutige Sigle zugeordnet. Die größte regionale Einheit stellt dabei das \"Bundesland\" dar, welches folgendermaßen unterteilt ist: Südtirol (Sigle 1A), Osttirol (Sigle 1B), Nordtirol (Sigle 1C), Kärnten (Sigle 2), Steiermark (Sigle 3), Salzburg (Sigle 4), Oberösterreich (Sigle 5), Niederösterreich (Sigle 6), Wien (Sigle 6.5) sowie Burgenland (Sigle 7). \nDie zweitgrößte regionale Einheit ist die \"Großregion\", welche die Bundesländer in weitere Teilbereiche untergliedert. \nDie drittgrößte regionale Einheit ist die \"Kleinregion\", welche die Großregionen in weitere Teilbereiche untergliedert.\nDie viertgrößte regionale Einheit ist die \"Gemeinde\", welche die Kleinregionen in weitere Teilbereiche untergliedert."
+  Herkunftsort: "Geographische Lokation, aus der ein Beleg stammt. Die Angabe erfolgt auf der jeweils spezifischsten verfügbaren Ebene: Ist eine Gemeinde bekannt, wird diese angegeben; andernfalls eine Kleinregion, eine Großregion oder - als letzte Möglichkeit - das Bundesland."
+Belege[36]{ID,Fragebogennummer,Lemma,POS,Bedeutung_des_Belegsatzes,Bedeutung_der_Lautung,Belegsatz1,Belegsatz2,Lautung1,Lautung2,"Großregion",Herkunftsort,Diverses,Anmerkung}:
+  k467_qdb-d1e34779,"",keif;,Adj;,pralle Waden;,"","kaiffɛ [fl]   wâdl;kaiffe fl wadl;","","","","","","",""
+  k467_qdb-d1e35179,21C3a;,keif;,Adj;,"","","Khaiffs [fl]   Fl.;Khaiffs fl Fl.;","","","",1C.3 öNTir.;1C.3 öNTir.;,1C.3f02 Hopfgarten im Brixental;1C.3i05 St. Johann in Tirol;,"",""
+  k467_qdb-d1e34449,"",keif;,Adj;,"",enge; fest;enge fest;,"","","","",1C.1 wNTir.;,"","",""
+  k467_qdb-d1e34704,"",keif;,Adj;,"",fest;,"","","","",1C.1 wNTir.;,1C.1m10 Serfaus;,"",""
+  k467_qdb-d1e34594,"",keif;,Adj;,"",fest; derb;fest derb;,"","","","",1C.1 wNTir.;,1C.1n01 Imst;,"",""
+  k467_qdb-d1e34679,"",keif;,Adj;,"",fest; gehaltvoll;fest gehaltvoll;,"","","","",1A.2 mSTir.;1A.2 mSTir.;,"","",""
+  k467_qdb-d1e35571,"",keif;,Adj;,ein guter Speck muß fest sein; ein guter Speck muß kernig sein;,fest; kernig;fest kernig;,a guatr Schpek soll kaif sein;,"","","",1C.1 wNTir.;,1C.1m06 Nauders;,"",""
+  k467_qdb-d1e34754,"",keif;,Adj;,"","",der Sack ist kaif;,"","","","","","",""
+  k467_qdb-d1e35836,21C3a;,keif;,Adj;,"Ja, sehr fest;","","Joᵘ, woᵘltan  kaif;","","","",1A.2 mSTir.;,1A.3b01 Sarntal;,"",""
+  k467_qdb-d1e34025,"",keif;,Adj;,"","","Gibs au' dö schiache Löba und schaug Kaifar [fl]   za dair sach;Gibs au dö schiache Löba und schaug Kaifar fl za dair sach;","","","","","","",""
+  k467_qdb-d1e34980,78F14;,keif;,Adj;,"","","Khaiffo [fl]   Wāᵈl;Khaiffo fl Wadl;","","","",1C.3 öNTir.;1C.3 öNTir.;,1C.3f02 Hopfgarten im Brixental;1C.3i05 St. Johann in Tirol;,"",""
+  k467_qdb-d1e34422,"",keif;,Adj;,"",streng; enge; fest;streng enge fest;,"","","","",1C.1 wNTir.;,"","",""
+  k467_qdb-d1e34522,"",keif;,Adj;,"",stark; fest; derb;stark fest derb;,"","","","","","","",""
+  k467_qdb-d1e34729,"",keif;,Adj;,"",fest; derb; dicht;fest derb dicht;,"","","","",1C.1 wNTir.;,1C.1m10 Serfaus;,"",""
+  k467_qdb-d1e35049,38E9;,keif;,Adj;,"orig: keif nähen;translated: fest nähen;","",kaif nanən;kaif nanen;,"","","",1A.1 wSTir.;,1A.1d03 Schlanders;,"",""
+  k467_qdb-d1e34901,"",keif;,Adj;,"","","","","","","","","",""
+  k467_qdb-d1e35657,78F14;,keif;,Adj;,"","","Khaifö [fl]   W.;Khaifö fl W.;","","","",1C.3 öNTir.;1C.3 öNTir.;,1C.3f02 Hopfgarten im Brixental;1C.3i05 St. Johann in Tirol;,"",""
+  k467_qdb-d1e35027,78F14;,"keif:2  kopiert;","","","","föstö [fl]   Wāᵈl;föstö fl Wadl;","","","",1C.3 öNTir.;1C.3 öNTir.;,1C.3f02 Hopfgarten im Brixental;1C.3i05 St. Johann in Tirol;,"",""
+  k467_qdb-d1e35313,"","keif:1  kopiert;","","","","auf Puff [sg4]   nehmen!;auf Puff sg4 nehmen!;","","","",6.5 Wien;,"","",""
+  k467_qdb-d1e35005,78F14;,"keif:2  kopiert;","","","","graußö [fl]   Wāᵈl;graußö fl Wadl;","","","",1C.3 öNTir.;1C.3 öNTir.;,1C.3f02 Hopfgarten im Brixental;1C.3i05 St. Johann in Tirol;,"",""
+  k467_qdb-d1e35773,23I6b;,keif;,Adj;,"","","a Khaifö [fl]   H.;a Khaifö fl H.;","","","",1C.3 öNTir.;1C.3 öNTir.;,1C.3f02 Hopfgarten im Brixental;1C.3i05 St. Johann in Tirol;,"",""
+  k467_qdb-d1e34652,"",keif;,Adj;,"",fest;,"","","","",1C.1 wNTir.;,1C.1g02 St. Anton am Arlberg;,"",""
+  k467_qdb-d1e34924,"",keif;,Adj;,"",prall;,"","","","","","","",""
+  k467_qdb-d1e35737,"",keif;,Adj;,er schuldet mir noch tausend Schilling;,schuldig;,er is mir noch an Fetzen keif;,"","","",6.5 Wien;,"","",""
+  k467_qdb-d1e34546,"",keif;,Adj;,"",streng; gespannt;streng gespannt;,"","","","",1C.1 wNTir.;,1C.1o01 St. Leonhard im Pitztal;,"",""
+  k467_qdb-d1e34625,67E24 (1);,keif;,Adj;,fest schnüren; eng schnüren;,"",kaif schniᵃrn;,"","","",1C.1 wNTir.;,1C.1m02 Fendels;,"",""
+  k467_qdb-d1e34855,"",keif;,Adj;,"",fest; prall; gedrängt voll;fest prall gedrängt voll;,"","","","","","","",""
+  k467_qdb-d1e35429,"63B20: wie wird e. Kleinkind gewickelt? fest/locker?;",keif;,Adj;,"Wie es halt gebraucht wird, bald fest, bald locker;","","Wia s'es hoᵃlt braucht, baᵒld keif, boᵃld lugger;Wia ses hoalt braucht, baold keif, boald lugger;","","","",1C.1 wNTir.;,1C.1m02 Fendels;,"",""
+  k467_qdb-d1e35273,"",keif;,Adj;,etwas schuldig bleiben;,"",keif bleiben;,"Na, bleib's hålt keif!;Na, bleibs halt keif!;","","",6.5 Wien;,"","",""
+  k467_qdb-d1e35078,"",keif;,Adj;,jamandem etwas schuldig sein;,"",keif sein;,"","","",6.5 Wien;,"","",""
+  k467_qdb-d1e35803,"",keif;,Adj;,schuldig sein;,"",keif sein;,"","","",6.5 Wien;,"","","unter: Dippel;ANM unter: Dippel;"
+  k467_qdb-d1e34472,"",keif;,Adj;,"",schuldig;,"","","","",6.5 Wien;,"","",""
+  k467_qdb-d1e34497,"",keif;,Adj;,"",stark; derb; heftig;stark derb heftig;,"","","","","","","",""
+  k467_qdb-d1e34804,"",keif;,Adj;,"",fest (stricken);fest stricken;,"","","","",1C.1 wNTir.;,1C.1n05 Landeck;,"",""
+  k467_qdb-d1e34828,"",keif;,Adj;,Binde nicht so fest!;,"",pint it son kχaif!;pint it son kchaif!;,"","","",1C.1 wNTir.;,1C.1m10 Serfaus;,"",""
+  k467_qdb-d1e35250,"",keif;,Adj;,"","","","","","",1B.0 OTir.;,"","",""

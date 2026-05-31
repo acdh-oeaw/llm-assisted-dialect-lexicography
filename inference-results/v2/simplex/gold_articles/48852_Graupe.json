@@ -1,0 +1,179 @@
+{
+  "Lemma": "Graupe",
+  "POS": "Substantiv",
+  "Genus": "Femininum, Maskulinum",
+  "Form": {
+    "form": "Gräupel Gräuperl Gräupelein",
+    "typ": "Diminutive",
+    "genus": ""
+  },
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "Getreidekorn",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p3.4 MStmk.",
+        "p5 OÖ",
+        "p6.3 Waldv.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Hagelkorn",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p2.1 ObKtn.",
+        "p4.2 Pinzg.",
+        "p5.2 Hausrv.",
+        "p5.4 Mühlv.",
+        "p6.1 Mostv.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "feines Korn (von Erz oder Gestein)",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p2.2 MKtn."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Griebe; Grammel; Rückstand beim Einsieden von (Schweine-)Fett",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p2 Ktn.",
+        "p3.1 sbair.ObStmk.",
+        "p3.2 mbair.ObStmk.",
+        "p3.3 WStmk.",
+        "p3.5 OStmk.",
+        "p4.1 Lung.",
+        "p5.3 Traunv.",
+        "p6.1 Mostv.",
+        "p6.3 Waldv.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "etwas Wirres, Krauses, Zusammenhockendes, Kränkliches",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p2 Ktn."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "kleines, schwaches, im Wachstum zurückgebliebenes Geschöpf",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p2.2 MKtn."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Bezeichnung für eine (kleine) Person, die frech ist, sich spreizt und auflehnt",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p6.1 Mostv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "du Graupm!",
+          "Herkunftsort": "Türnitz"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "abwertende Bezeichnung für eine verwahrloste, abgemagerte, ausgemergelte Frau",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p2 Ktn.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "krauses Bodengewächs",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p1A.4 öSTir.",
+        "p1B.0 OTir.",
+        "p2 Ktn."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Isländisches Moos; Cetraria islandica",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p2 Ktn.",
+        "p3 Stmk.",
+        "p4.1 Lung.",
+        "p4.3 Pong."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Preiselbeere; Vaccinium vitis-idaea",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p3.1 sbair.ObStmk.",
+        "p3.2 mbair.ObStmk."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Traubenkamm, -stiel",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p3.3 WStmk.",
+        "p3.4 MStmk."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Mitesser",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "weitere Bedeutung 3",
+      "Regionen": [
+        "p4.2 Pinzg."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "zausiges Tierchen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 4",
+      "Regionen": [
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Henne mit aufgebogenen Federn",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 4",
+      "Regionen": [
+        "p3.5 OStmk."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

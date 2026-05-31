@@ -1,0 +1,203 @@
+{
+  "Lemma": "Gefrette",
+  "POS": "Substantiv",
+  "Genus": "Neutrum, Maskulinum",
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "Stümperei",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p2 Ktn.",
+        "p3 Stmk."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "schlecht hergestellte Arbeit",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p2 Ktn.",
+        "p6.1 Mostv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Tätigkeit, die nur schleppend vorangeht",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p5.4 Mühlv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "mühsame / schlecht entlohnte Arbeit",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p3 Stmk."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "missliche, unangenehme Lage",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1C.2 mNTir.",
+        "p1C.3 öNTir.",
+        "p3 Stmk.",
+        "p6 NÖ",
+        "p6.5 Wien",
+        "p7.3 SBgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "dos is a Gfrėt",
+          "Herkunftsort": "Türnitz"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Mühsal",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1C.2 mNTir.",
+        "p3.2 mbair.ObStmk.",
+        "p3.5 OStmk.",
+        "p5 OÖ",
+        "p6.3 Waldv.",
+        "p6.4 Weinv.",
+        "p6.5 Wien",
+        "p7.3 SBgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Ea håt a Gfrett",
+          "Herkunftsort": "Poysdorf"
+        },
+        {
+          "Belegsatz": "des is' an G'frett",
+          "Herkunftsort": "Wien"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Übel; Elend",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1C.3 öNTir.",
+        "p3.2 mbair.ObStmk.",
+        "p5.1 Innv.",
+        "p6.3 Waldv.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "is dės ə gfrėt!",
+          "Herkunftsort": "Mühlheim am Inn"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Missgeschick",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p6.2 Industriev.",
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Ärger",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p3.2 mbair.ObStmk.",
+        "p6.4 Weinv.",
+        "p7.3 SBgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "τes iͅs åoͅφσ κφret κmo̩χt",
+          "Herkunftsort": "Ernstbrunn"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Sorge",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p3.3 WStmk."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "hant ɒ kfräitt mət ẽɒm",
+          "Herkunftsort": "WStmk."
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Schwierigkeit",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p3.2 mbair.ObStmk.",
+        "p5.4 Mühlv.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "si hōd a Gfrėitt mid ia'n Buam'",
+          "Herkunftsort": "Kapfenberg"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Not",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1C.2 mNTir.",
+        "p3.2 mbair.ObStmk.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "da hob' i' an Gfrett g'håbt",
+          "Herkunftsort": "Wien"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "ärmlicher, ertragsarmer Hof/Betrieb",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p1C.2 mNTir.",
+        "p3.2 mbair.ObStmk."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "fehlerhaftes Glas",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p3.3 WStmk."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

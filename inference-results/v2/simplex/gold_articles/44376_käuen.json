@@ -1,0 +1,134 @@
+{
+  "Lemma": "käuen",
+  "POS": "Verb",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "Nahrung mit den Zähnen zerkleinern",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir.",
+        "p2.1 ObKtn.",
+        "p2.2 MKtn.",
+        "p3 Stmk.",
+        "p4 Sbg.",
+        "p5.2 Hausrv.",
+        "p5.3 Traunv.",
+        "p5.4 Mühlv.",
+        "p6 NÖ",
+        "p6.5 Wien",
+        "p7.1 NBgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "er kchuit, daß es lai a so graschglt",
+          "Herkunftsort": "Meran"
+        },
+        {
+          "Belegsatz": "ös weᵃrets kuie",
+          "Herkunftsort": "Pfunds"
+        },
+        {
+          "Belegsatz": "i han̄ kaun",
+          "Herkunftsort": "Stainz"
+        },
+        {
+          "Belegsatz": "i will ka͡in",
+          "Herkunftsort": "Stainz"
+        },
+        {
+          "Belegsatz": "wo̩s khǫ̃ẽßtɒ̃ñ dū",
+          "Herkunftsort": "obYbbst."
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "auf etwas herumbeißen, ohne es schlucken zu wollen",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1C.2 mNTir.",
+        "p1C.3 öNTir.",
+        "p2.1 ObKtn.",
+        "p2.3 MKtn.",
+        "p3.1 sbair.ObStmk.",
+        "p3.2 mbair.ObStmk.",
+        "p3.4 MStmk.",
+        "p4 Sbg.",
+        "p5.3 Traunv.",
+        "p5.4 Mühlv.",
+        "p6 NÖ",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Tawagg kuin",
+          "Herkunftsort": "Kufstein"
+        },
+        {
+          "Belegsatz": "Kuiⁿböch kuin",
+          "Herkunftsort": "Thiersee"
+        },
+        {
+          "Belegsatz": "mi zimt, dös schmöckt dir nöt, weilst so koist",
+          "Herkunftsort": "Sbg."
+        },
+        {
+          "Belegsatz": "khöods Bråd wiəʳd iwəʳglögt zan zaidöᵍŋ (ba Gschwęaʳ)",
+          "Herkunftsort": "Gmunden"
+        },
+        {
+          "Belegsatz": "Tåbåk koia",
+          "Herkunftsort": "Ravelsbach"
+        },
+        {
+          "Belegsatz": "a khǫ̃į̃ds brǫd",
+          "Herkunftsort": "Spannberg"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Kaubewegungen ohne Zähne machen; mit dem Kiefer mummeln",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p3.1 sbair.ObStmk."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "i muas grod glai kuiⁿ ich kann nur mehr mummeln",
+          "Herkunftsort": "Weißkirchen in Steiermark"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "das vom Magen ins Maul zurückgelangte Futter nochmals kauen (von Paarhufern); wiederkäuen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A.2 mSTir.",
+        "p1C.1 wNTir.",
+        "p2.4 UKtn.",
+        "p3.1 sbair.ObStmk.",
+        "p3.4 MStmk.",
+        "p3.5 OStmk.",
+        "p6.4 Weinv.",
+        "p7.1 NBgl."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "verdauen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p2.2 MKtn."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

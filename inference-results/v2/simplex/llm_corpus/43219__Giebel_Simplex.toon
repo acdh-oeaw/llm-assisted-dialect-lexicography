@@ -1,0 +1,73 @@
+Glossar:
+  Lemma: "'Lemma' beinhaltet sämtliche Einträge (inklusive Komposita und Wortbildungsvarianten), die einem bestimmten Lemma zugeordnet werden können. Zu diesem Zweck wurden alle Handzettel beziehungsweise die Einträge der Belegdatenbank lemmatisiert und nach historisch-etymologischen Gesichtspunkten - also linguistischen Prinzipien - einem Hauptlemma zugeordnet."
+  Fragebogennummer: "Auflistung von relevanten Fragebogennummern und Beschreibungen:\n* **93N12:** Giebel, Dachgiebel; Pl./Dem.; Füg./Ra.\n* **104C1:** best.Bodenerhebg., Appell./EigN?, Ltg.+Bed. (Hügel, Högel, Hübel, Hoger, Hofer, Bühel,)\n* **93N14:** Giebelarten\n* **EFb.5/33:** Hochfenster im Stadel (Hoachf., Liehe, Line)\n"
+  Part_of_Speech: Diese Angabe benennt die Wortart des jeweiligen Belegs.
+  Bedeutung_der_Lautung: Diese Information beschreibt die Bedeutung der Lautungsangabe auf dem Beleg.
+  Bedeutung_des_Belegsatzes: "Diese Information beschreibt die Bedeutung des in Spalte \"Belegsatz 1\", \"Belegsatz 2\" etc. angegebenen Belegsatzes. Es kann sich dabei um eine direkte standardsprachliche Übersetzung, eine standardsprachliche Periphrase oder um einen metasprachlichen Kommentar handeln."
+  Belegsatz_1: "Dieser Eintrag gibt einen Belegsatz, eine Redewendung oder eine Paraphrase wider, um die Bedeutung des Belegs exemplarisch darzustellen bzw. näher zu kontextualisieren. Der Belegsatz ist in der Regel im Dialekt angegeben und in der Lautschrift Teuthonista verschriftlicht."
+  Belegsatz_2: Belegsatz 2 weist dieselbe Funktionalität auf wie Belegsatz 1.
+  Sammlung: Eine Sammlung bündelt einzelne Einträge nach lexikographisch sinnvollen Gesichtspunkten. Alle Einträge der Sammlung teilen diese Gesichtspunkte.
+  Lautung_1: "Die angegebene Information umfasst die lautliche Transkription des vorliegenden Belegs. Die Transkription wurde auf der Grundlage eines Lautschriftsystems notiert, das jenem der Teuthonista gleicht oder zumindest ähnelt. Da die Datengrundlage des WBÖ auf unterschiedlichsten Quellen basiert und die Erhebungen der Fragebögen häufig von Laien-Sammlerinnen und -sammlern durchgeführt wurden, können sich Uneinheitlichkeiten bei der Transkription ergeben."
+  Lautung_2: Lautung 2 weist dieselbe Funktionalität auf wie Lautung 1.
+  Anmerkung: Zusätzliche Anmerkung über den Beleg.
+  Diverses: Zusätzliche undefinierte Anmerkung über den Beleg.
+  Substantiv: Dieser Beleg zählt zur Wortart Substantiv.
+  Verb: Dieser Beleg zählt zur Wortart Verb.
+  Adjektiv: Dieser Beleg zählt zur Wortart Adjektiv.
+  Adverb: Dieser Beleg zählt zur Wortart Adverb.
+  Praeposition: Dieser Beleg zählt zur Wortart Präposition.
+  Konjunktion: Dieser Beleg zählt zur Wortart Konjunktion.
+  Pronomen: Dieser Beleg zählt zur Wortart Pronomen.
+  Interjektion: Dieser Beleg zählt zur Wortart Interjektion.
+  Partikel: Dieser Beleg zählt zur Wortart Partikel.
+  Geschlecht: "Das grammatische Geschlecht eines Wortes wird in der Fachsprache als Genus bezeichnet. Im Deutschen gibt es drei Genera: Maskulinum (männlich), Femininum (weiblich) und Neutrum (sächlich). Das Genus eines Substantivs wird oft durch den Artikel (der, die, das) angezeigt."
+  Bedeutung: "Semantik, auch Bedeutungslehre genannt, ist die wissenschaftliche Beschäftigung mit Bedeutung und mit den verschiedenen Beziehungen zwischen einem Zeichen und dem Bezeichneten. In den Wörterbuchartikeln gehört die Angabe der Bedeutung bzw. Bedeutungen eines Wortes zu den zentralen Inhalten."
+  Belegsatz: "Ein Belegsatz1 oder Belegsatz2  wird verwendet, um die Bedeutung des Beleg in Form eines Satzes exemplarisch zu verdeutlichen. In den Daten wird statt der Bezeichnung \"Beispielsatz\" auch die Bezeichnung \"Belegsatz\" verwendet."
+  Wortvarianten: Unterschiedliche Varianten eines Wortes.
+  Woerterbuchartikel: "Eine strukturierte Beschreibung eines Lemmas, die Angaben zu Bedeutung (bzw. Bedeutungen), Aussprache, Grammatik, Verbreitung, Etymologie sowie ggfs. Wortbildungen und Redewendungen enthält."
+  Quelle_Datenbank: "Es handelt sich hierbei um eine formalisierte Angabe der geographischen Zuordnung des Belegs. Diese Besteht aus einer Sigle sowie einer in Abkürzungen formulierten und ggfs. hierarchisch (Gemeinde, Kleinregion, Großregion, Bundesland) gegliederten Verschriftlichung der geographischen Zuordnung."
+  CollectionCat: "Die CollectionCat (Abkürzung für Collection Categorizer) ist eine Software-Applikation, die zum Kategorisieren und Zusammenfassen von Belegen im Rahmen der lexikographischen Arbeit genutzt wird."
+  Simplex: "Ein Simplex ist ein einfaches Wort oder Lexem, das weder abgeleitet noch zusammengesetzt ist."
+  Kompositum: Ein Kompositum ist ein aus bereits vorhandenen Wörtern zusammengesetztes komplexes Wort. Der zugrunde liegende Wortbildungsprozess wird Komposition genannt.
+  Derivation: "Eine Derivation ist das Ergebnis eines Wortbildungsprozesses, bei dem durch Anhängen eines Affixes (Präfix, Suffix oder Zirkumfix) aus einem Wort ein neues Wort gebildet wird."
+  Grossregion: "Das Bearbeitungsgebiet (Großregion1 und Großregion2) des WBÖ ist regional untergliedert. Jeder regionalen Einheit ist eine eindeutige Sigle zugeordnet. Die größte regionale Einheit stellt dabei das \"Bundesland\" dar, welches folgendermaßen unterteilt ist: Südtirol (Sigle 1A), Osttirol (Sigle 1B), Nordtirol (Sigle 1C), Kärnten (Sigle 2), Steiermark (Sigle 3), Salzburg (Sigle 4), Oberösterreich (Sigle 5), Niederösterreich (Sigle 6), Wien (Sigle 6.5) sowie Burgenland (Sigle 7). \nDie zweitgrößte regionale Einheit ist die \"Großregion\", welche die Bundesländer in weitere Teilbereiche untergliedert. \nDie drittgrößte regionale Einheit ist die \"Kleinregion\", welche die Großregionen in weitere Teilbereiche untergliedert.\nDie viertgrößte regionale Einheit ist die \"Gemeinde\", welche die Kleinregionen in weitere Teilbereiche untergliedert."
+  Herkunftsort: "Geographische Lokation, aus der ein Beleg stammt. Die Angabe erfolgt auf der jeweils spezifischsten verfügbaren Ebene: Ist eine Gemeinde bekannt, wird diese angegeben; andernfalls eine Kleinregion, eine Großregion oder - als letzte Möglichkeit - das Bundesland."
+Belege[38]{ID,Fragebogennummer,Lemma,POS,Bedeutung_des_Belegsatzes,Bedeutung_der_Lautung,Belegsatz1,Belegsatz2,Lautung1,Lautung2,"Großregion",Herkunftsort,Diverses,Anmerkung}:
+  g326_qdb-d1e1571,93N12;,Gibel;,Subst;,"","","","","","",6.2 Industriev.;,6.2e03 Puchberg am Schneeberg;,"",""
+  g326_qdb-d1e546,"",Gibel;,Subst;,"","","","","","",6.2 Industriev.;,6.2e03 Puchberg am Schneeberg;,"",""
+  g326_qdb-d1e308,"",Gibel;,Subst;,"","","","","","","","",Über verschiedenen Arten und Funktion der Giebelzeichen s. Quelle.;ANM Über verschiedenen Arten und Funktion der Giebelzeichen s. Quelle.;,""
+  g326_qdb-d1e450,104C1;,Gibel;,Subst;,ein schlechter Giebel;einen Giebel sieht es gleich;,"","a schlechda Gibü [m];a schlechda Gibü m;","an Gibü [m,sg4]   sieachds glai;an Gibü m,sg4 sieachds glai;","","",6.3 Waldv.;,6.3a15 Kautzen;,"",""
+  g326_qdb-d1e565,"",Gibel;,Subst;,"",Giebel;,"","","","",1C.1 wNTir.;,1C.1g01 Pettneu am Arlberg;,"",""
+  g326_qdb-d1e627,"",Gibel;,Subst;,"","","","","","",6.2 Industriev.;,6.2d04 Markt Piesting;,"",""
+  g326_qdb-d1e891,"",Gibel;,Subst;,"",Giebel; vordere Hausfront;Giebel vordere Hausfront;,"","","","",6.3 Waldv.;,6.3c03 Bad Großpertholz;,"",""
+  g326_qdb-d1e1319,93N12;,Gibel;,Subst;,"",Giebel;,"","","","",1C.1 wNTir.;,1C.1m02 Fendels;,"",""
+  g326_qdb-d1e1383,93N12;,Gibel;,Subst;,"","","","","","",5.2 Hausrv.;,5.2a39 Traun;,"",""
+  g326_qdb-d1e1483,93N12;,Gibel;,Subst;,"",Giebel;,"","","","",6.1 Mostv.;,6.1n02 Dunkelsteinerwald;,"",""
+  g326_qdb-d1e1506,93N12;,Gibel;,Subst;,"","","","","","",1C.3 öNTir.;,1C.3b03 Thiersee;,"",""
+  g326_qdb-d1e1527,93N12;,Gibel;,Subst;,"","","","","","",2.1 ObKtn.;,2.1b04 Rangersdorf;,"",""
+  g326_qdb-d1e267,"",Gibel;,Subst;,"",ein zu den Cyprinoiden gehöriger Weißfisch;ein zu den Cyprinoiden gehöriger Weißfisch;,"","","","","","","",""
+  g326_qdb-d1e287,"",Gibel;,Subst;,"","","","","","","","",Verschiedene Formen s. Quelle.;,""
+  g326_qdb-d1e329,"",Gibel;,Subst;,"",Giebel;,"","","","",2.2 MKtn.;,2.3f01 Feldkirchen in Kärnten;,"",""
+  g326_qdb-d1e587,"",Gibel;,Subst;,"","","","","","",6.2 Industriev.;,6.2b01 Alland;,"",""
+  g326_qdb-d1e774,93N12;,Gibel;,Subst;,"",Giebel;,"","","","",7.2 MBgl.;,7.2b08 Pilgersdorf;,"",""
+  g326_qdb-d1e1051,"",Gibel;,Subst;,"",Giebel;,"","","","",2.2 MKtn.;,2.3g04 St. Urban;,"",""
+  g326_qdb-d1e965,"",Gibel;,Subst;,"",Giebel;,"","","","","","","",""
+  g326_qdb-d1e1003,"",Gibel;,Subst;,"",Tennengibel;,"","","","","","","",""
+  g326_qdb-d1e1156,93N12;,Gibel;,Subst;,"","","","","","",5.4 Mühlv.;,5.4h02 Dimbach;,"",""
+  g326_qdb-d1e1200,93N12;,Gibel;,Subst;,"","","","","","",5.3 Traunv.;,5.3b02 Gmunden;,"",""
+  g326_qdb-d1e1548,93N12;,Gibel;,Subst;,"",Giebel;,"","","","",5.4 Mühlv.;,5.4h06 Pabneukirchen;,"",""
+  g326_qdb-d1e1351,93N12;,Gibel;,Subst;,"",Giebel;,"","","","",1A.4 öSTir.;,1A.4b01 Prettau;,"",""
+  g326_qdb-d1e1404,93N12;,Gibel;,Subst;,"",Giebel;die Giebel;,"","","","",6.1 Mostv.;,6.1f05 Purgstall an der Erlauf;,"",""
+  g326_qdb-d1e1708,93N14;,Gibel;,Subst;,hölzerne Giebeln;ein offener Giebel;,"","hǖtzani Gibün [pl];hutzani Gibün pl;","an ouffan Gib [m];an ouffan Gibu m;","","",6.3 Waldv.;,6.3a15 Kautzen;,"",""
+  g326_qdb-d1e1749,EFb.5/33;,Gibel;,Subst;,"",Hochfenster im Stadel;,"","","","",3.1 sbair.ObStmk.;,3.1b01 Neumarkt in der Steiermark;,"",""
+  g326_qdb-d1e377,"",Gibel;,Subst;,"",Giebel;,"","","","",6.1 Mostv.;,6.1o01 Herzogenburg;,"",""
+  g326_qdb-d1e983,"",Gibel;,Subst;,"",Zusammenstoß der Dachflächen beim First;Zusammenstoß der Dachflächen beim First;,"","","","","","","",""
+  g326_qdb-d1e753,93N12;,Gibel;,Subst;,"","","","","","",3.3 WStmk.;,3.3c08 Stainz;,"",""
+  g326_qdb-d1e806,"",Gibel;,Subst;,"",Giebel;,"","","","",6.1 Mostv.;,6.1d01 Allhartsberg;,"",""
+  g326_qdb-d1e1028,"",Gibel;,Subst;,"",Giebel;,"","","","",6.1 Mostv.;,6.1g08 St. Anton an der Jeßnitz;,"",""
+  g326_qdb-d1e1072,93N12;,Gibel;,Subst;,"",Giebel;,"","","","",6.4 Weinv.;,6.4d18 Poysdorf;,"",""
+  g326_qdb-d1e1275,93N12;,Gibel;,Subst;,"",Giebel;,"","","","",1C.2 mNTir.;,1C.2a29 Weer;,"",""
+  g326_qdb-d1e1177,93N12;,Gibel;,Subst;,"",Giebel;,"","","","",3.1 sbair.ObStmk.;,3.1d03 Lobmingtal;,"",""
+  g326_qdb-d1e1225,93N12;,Gibel;,Subst;,"","GiebelANMB: Zeichng. HK;Giebeln;","scheind da Maound so schein auf Fōtas Gibü [sg4]   / jo Boua wou gesd den um du ouda Schibü;scheind da Maound so schein auf Fotas Gibü sg4 / jo Boua wou gesd den um du ouda Schibü;","","","",6.3 Waldv.;,6.3a15 Kautzen;,"",""
+  g326_qdb-d1e1460,93N12;,Gibel;,Subst;,"",Giebel;,"","","","",3.1 sbair.ObStmk.;,3.1a05 Stadl-Predlitz;,"",""
+  g326_qdb-d1e1628,93N12;,Gibel;,Subst;,"","","","","","",1A.1 wSTir.;,"","",""

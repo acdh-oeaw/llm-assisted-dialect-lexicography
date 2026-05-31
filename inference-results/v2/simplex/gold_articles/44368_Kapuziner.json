@@ -1,0 +1,152 @@
+{
+  "Lemma": "Kapuziner",
+  "POS": "Substantiv",
+  "Genus": "Maskulinum",
+  "Form": {
+    "form": "Kapuzinerl Kapuzinerlein, Kapu, Zinerl",
+    "typ": "Diminutive Kurzwort Diminuiertes kurzwort",
+    "genus": "Neutrum Maskulinum"
+  },
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "Angehöriger des Kapuzinerordens; Mönch",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir.",
+        "p2.1 ObKtn.",
+        "p3 Stmk.",
+        "p4.2 Pinzg.",
+        "p5 OÖ",
+        "p6.1 Mostv.",
+        "p6.2 Industriev.",
+        "p6.4 Weinv.",
+        "p6.5 Wien",
+        "p7.2 MBgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "er (der Roaner) is an'glegt grad wie der brávst' Kápáziner",
+          "Herkunftsort": "Natschbach-Loipersbach"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Milchkaffee",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p3 Stmk.",
+        "p5.2 Hausrv.",
+        "p6.1 Mostv.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Kapuzinerkresse; Tropaeolum majus/minus (Pflanzenart)",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir.",
+        "p3 Stmk.",
+        "p4.2 Pinzg.",
+        "p4.3 Pong.",
+        "p5 OÖ",
+        "p6 NÖ",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Bachnelkenwurz; Geum rivale (Pflanzenart)",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p1C.2 mNTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "halb rote, halb gelbe Kirsche",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p3.4 MStmk."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Birkenpilz",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p1A.2 mSTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Bezeichnung für einzelne, steil aufragende, braun angewitterte Felszacken",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p1A.4 öSTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Bezeichnung für eine bestimmte Art von Getreidemännlein",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p5 OÖ"
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Räucherkerzen in der Kirche",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 3",
+      "Regionen": [
+        "p3.3 WStmk."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Bastkorb, Handkorb für Flaschen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 3",
+      "Regionen": [
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Maikäfer von bestimmter Farbe",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "weitere Bedeutung 4",
+      "Regionen": [
+        "p3 Stmk."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Heiserkeit; Schleim, der Heiserkeit auslöst",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "weitere Bedeutung 5",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir.",
+        "p2.2 MKtn.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+    "Lemma": "Kente",
+    "POS": "Subst",
+    "Genus": "Femininum",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Heizung",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.3 öNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k474_qdb-d1e54996",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.3e06 Kufstein"
+                }
+            ],
+            "Belege": [
+                "k474_qdb-d1e54996"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "ein tüchtiges Feuer hineinmachen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.3 öNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k474_qdb-d1e54962",
+                    "Belegsatz": "a tichtögö Kent [f,sg4]   einömachen; a tichtögö Kent f,sg4 einömachen;",
+                    "Herkunftsort": "1C.3e06 Kufstein"
+                }
+            ],
+            "Belege": [
+                "k474_qdb-d1e54962"
+            ]
+        }
+    ]
+}

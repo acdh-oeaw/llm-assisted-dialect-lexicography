@@ -1,0 +1,71 @@
+Glossar:
+  Lemma: "'Lemma' beinhaltet sämtliche Einträge (inklusive Komposita und Wortbildungsvarianten), die einem bestimmten Lemma zugeordnet werden können. Zu diesem Zweck wurden alle Handzettel beziehungsweise die Einträge der Belegdatenbank lemmatisiert und nach historisch-etymologischen Gesichtspunkten - also linguistischen Prinzipien - einem Hauptlemma zugeordnet."
+  Fragebogennummer: "Auflistung von relevanten Fragebogennummern und Beschreibungen:\n* **93G8 (zu):** Tenne in Komp. (Tennblahe, -diele,)\n* **60F64:** sonst.Holzmaße\n"
+  Part_of_Speech: Diese Angabe benennt die Wortart des jeweiligen Belegs.
+  Bedeutung_der_Lautung: Diese Information beschreibt die Bedeutung der Lautungsangabe auf dem Beleg.
+  Bedeutung_des_Belegsatzes: "Diese Information beschreibt die Bedeutung des in Spalte \"Belegsatz 1\", \"Belegsatz 2\" etc. angegebenen Belegsatzes. Es kann sich dabei um eine direkte standardsprachliche Übersetzung, eine standardsprachliche Periphrase oder um einen metasprachlichen Kommentar handeln."
+  Belegsatz_1: "Dieser Eintrag gibt einen Belegsatz, eine Redewendung oder eine Paraphrase wider, um die Bedeutung des Belegs exemplarisch darzustellen bzw. näher zu kontextualisieren. Der Belegsatz ist in der Regel im Dialekt angegeben und in der Lautschrift Teuthonista verschriftlicht."
+  Belegsatz_2: Belegsatz 2 weist dieselbe Funktionalität auf wie Belegsatz 1.
+  Sammlung: Eine Sammlung bündelt einzelne Einträge nach lexikographisch sinnvollen Gesichtspunkten. Alle Einträge der Sammlung teilen diese Gesichtspunkte.
+  Lautung_1: "Die angegebene Information umfasst die lautliche Transkription des vorliegenden Belegs. Die Transkription wurde auf der Grundlage eines Lautschriftsystems notiert, das jenem der Teuthonista gleicht oder zumindest ähnelt. Da die Datengrundlage des WBÖ auf unterschiedlichsten Quellen basiert und die Erhebungen der Fragebögen häufig von Laien-Sammlerinnen und -sammlern durchgeführt wurden, können sich Uneinheitlichkeiten bei der Transkription ergeben."
+  Lautung_2: Lautung 2 weist dieselbe Funktionalität auf wie Lautung 1.
+  Anmerkung: Zusätzliche Anmerkung über den Beleg.
+  Diverses: Zusätzliche undefinierte Anmerkung über den Beleg.
+  Substantiv: Dieser Beleg zählt zur Wortart Substantiv.
+  Verb: Dieser Beleg zählt zur Wortart Verb.
+  Adjektiv: Dieser Beleg zählt zur Wortart Adjektiv.
+  Adverb: Dieser Beleg zählt zur Wortart Adverb.
+  Praeposition: Dieser Beleg zählt zur Wortart Präposition.
+  Konjunktion: Dieser Beleg zählt zur Wortart Konjunktion.
+  Pronomen: Dieser Beleg zählt zur Wortart Pronomen.
+  Interjektion: Dieser Beleg zählt zur Wortart Interjektion.
+  Partikel: Dieser Beleg zählt zur Wortart Partikel.
+  Geschlecht: "Das grammatische Geschlecht eines Wortes wird in der Fachsprache als Genus bezeichnet. Im Deutschen gibt es drei Genera: Maskulinum (männlich), Femininum (weiblich) und Neutrum (sächlich). Das Genus eines Substantivs wird oft durch den Artikel (der, die, das) angezeigt."
+  Bedeutung: "Semantik, auch Bedeutungslehre genannt, ist die wissenschaftliche Beschäftigung mit Bedeutung und mit den verschiedenen Beziehungen zwischen einem Zeichen und dem Bezeichneten. In den Wörterbuchartikeln gehört die Angabe der Bedeutung bzw. Bedeutungen eines Wortes zu den zentralen Inhalten."
+  Belegsatz: "Ein Belegsatz1 oder Belegsatz2  wird verwendet, um die Bedeutung des Beleg in Form eines Satzes exemplarisch zu verdeutlichen. In den Daten wird statt der Bezeichnung \"Beispielsatz\" auch die Bezeichnung \"Belegsatz\" verwendet."
+  Wortvarianten: Unterschiedliche Varianten eines Wortes.
+  Woerterbuchartikel: "Eine strukturierte Beschreibung eines Lemmas, die Angaben zu Bedeutung (bzw. Bedeutungen), Aussprache, Grammatik, Verbreitung, Etymologie sowie ggfs. Wortbildungen und Redewendungen enthält."
+  Quelle_Datenbank: "Es handelt sich hierbei um eine formalisierte Angabe der geographischen Zuordnung des Belegs. Diese Besteht aus einer Sigle sowie einer in Abkürzungen formulierten und ggfs. hierarchisch (Gemeinde, Kleinregion, Großregion, Bundesland) gegliederten Verschriftlichung der geographischen Zuordnung."
+  CollectionCat: "Die CollectionCat (Abkürzung für Collection Categorizer) ist eine Software-Applikation, die zum Kategorisieren und Zusammenfassen von Belegen im Rahmen der lexikographischen Arbeit genutzt wird."
+  Simplex: "Ein Simplex ist ein einfaches Wort oder Lexem, das weder abgeleitet noch zusammengesetzt ist."
+  Kompositum: Ein Kompositum ist ein aus bereits vorhandenen Wörtern zusammengesetztes komplexes Wort. Der zugrunde liegende Wortbildungsprozess wird Komposition genannt.
+  Derivation: "Eine Derivation ist das Ergebnis eines Wortbildungsprozesses, bei dem durch Anhängen eines Affixes (Präfix, Suffix oder Zirkumfix) aus einem Wort ein neues Wort gebildet wird."
+  Grossregion: "Das Bearbeitungsgebiet (Großregion1 und Großregion2) des WBÖ ist regional untergliedert. Jeder regionalen Einheit ist eine eindeutige Sigle zugeordnet. Die größte regionale Einheit stellt dabei das \"Bundesland\" dar, welches folgendermaßen unterteilt ist: Südtirol (Sigle 1A), Osttirol (Sigle 1B), Nordtirol (Sigle 1C), Kärnten (Sigle 2), Steiermark (Sigle 3), Salzburg (Sigle 4), Oberösterreich (Sigle 5), Niederösterreich (Sigle 6), Wien (Sigle 6.5) sowie Burgenland (Sigle 7). \nDie zweitgrößte regionale Einheit ist die \"Großregion\", welche die Bundesländer in weitere Teilbereiche untergliedert. \nDie drittgrößte regionale Einheit ist die \"Kleinregion\", welche die Großregionen in weitere Teilbereiche untergliedert.\nDie viertgrößte regionale Einheit ist die \"Gemeinde\", welche die Kleinregionen in weitere Teilbereiche untergliedert."
+  Herkunftsort: "Geographische Lokation, aus der ein Beleg stammt. Die Angabe erfolgt auf der jeweils spezifischsten verfügbaren Ebene: Ist eine Gemeinde bekannt, wird diese angegeben; andernfalls eine Kleinregion, eine Großregion oder - als letzte Möglichkeit - das Bundesland."
+Belege[36]{ID,Fragebogennummer,Lemma,POS,Bedeutung_des_Belegsatzes,Bedeutung_der_Lautung,Belegsatz1,Belegsatz2,Lautung1,Lautung2,"Großregion",Herkunftsort,Diverses,Anmerkung}:
+  f264_qdb-d1e105484,"",Flecke;,Subst;,"",Brett;,"","","","",1A.2 mSTir.;,1A.2c01 Aldein;,"",""
+  f264_qdb-d1e105745,"",Flecke;,Subst;,"",Bodenbrett;,"","","","","","","",""
+  f264_qdb-d1e108762,"",Flecke;,Subst;,"",Bretter(n);Brettern;,"","","","","","","An den Hütten auf den Bergmähdern ist giebelseitig eine Öffnung ausgeschnitten, die meist nur mit dünnen Rundstämmen oder Brettern (s. oder Kegl  ), die waagrecht eingeschoben werden ( aukegln ) verschlossen sind. Größere Schupfen haben auch eine mit Angeln befestigte \"Obertür\".;ANM An den Hütten auf den Bergmähdern ist giebelseitig eine Öffnung ausgeschnitten, die meist nur mit dünnen Rundstämmen oder Brettern s. oder Kegl , die waagrecht eingeschoben werden  aukegln  verschlossen sind. Größere Schupfen haben auch eine mit Angeln befestigte Obertür.;",""
+  f264_qdb-d1e106056,"",Flecke;,Subst;,"",Bodenbrett;,"","","","",1C.1 wNTir.;,1C.1n01 Imst;,"",""
+  f264_qdb-d1e105308,"",Flecke;,Subst;,"","\"Flegge\" = Brett;Flegge = Brett;","","","","",1A.4 öSTir.;,1A.4a01 Ahrntal;,"",""
+  f264_qdb-d1e105657,"",Flecke;,Subst;,"","\"Flegge\" = Brett;Flegge = Brett;","","","","",1A.4 öSTir.;,1A.4a01 Ahrntal;,"",""
+  f264_qdb-d1e105870,"",Flecke;,Subst;,"",langes Brett;,"","","","",1A.2 mSTir.;,1A.3b01 Sarntal;,"",""
+  f264_qdb-d1e105958,"",Flecke;,Subst;,"",Brett; Latte;Brett Latte;,"","","","","","","",""
+  f264_qdb-d1e105632,"",Flecke;,Subst;,"",Bretter;,"","","","",1A.2 mSTir.;,1A.3i02 Kastelruth;,"",""
+  f264_qdb-d1e105684,"",Flecke;,Subst;,"","Brotbretter, auf denen die Laibe aufgerichtet werden;","","","","",1A.4 öSTir.;,1A.4a01 Ahrntal;,"",""
+  f265_qdb-d1e7468,"",Flegge;,Subst;,"",Brett; Bohle;Brett Bohle;,"","","","","","","",""
+  f264_qdb-d1e104981,"",Flecke;,Subst;,"",langes dickes Brett für Tennenböden;langes dickes Brett für Tennenböden;,"","","","","","","",""
+  f264_qdb-d1e105335,93G8 (zu);,Flecke;,Subst;,"",die dicken Bodenladen in der Tenne;,"","","","",1C.1 wNTir.;,1C.1n01 Imst;,"",""
+  f264_qdb-d1e104956,"",Flecke;,Subst;,"",langes dickes Brett für Tennenböden;langes dickes Brett für Tennenböden;,"","","","","","","",""
+  f264_qdb-d1e105155,60F64;,Flecke;,Subst;,"orig: Flecken messen;translated: Bretter messen;","","flökχn [pl]   mössn;flökchn pl mössn;","","","",1A.4 öSTir.;,1A.4c01 Lüsen;,"",""
+  f264_qdb-d1e105260,"",Flecke;,Subst;,"",2 cm dicke Bretter;,"","","","",1C.1 wNTir.;,1C.1e03 Hinterhornbach;,"",""
+  f264_qdb-d1e106186,"",Flecke;,Subst;,"",Brett;,"","","","",1B.0 OTir.;,"","",""
+  f264_qdb-d1e106357,"",Flecke;,Subst;,"",Brett; Latte;Brett Latte;,"","","","","","","",""
+  f264_qdb-d1e105906,"",Flecke;,Subst;,"",Bretter;,"","","","",1A.4 öSTir.;,"","",""
+  f264_qdb-d1e106085,"",Flecke;,Subst;,"",Bodendiele;,"","","","",1C.1 wNTir.;,1C.1n01 Imst;,"",""
+  f264_qdb-d1e104931,"",Flecke;,Subst;,"",langes dickes Brett für Tennenböden;langes dickes Brett für Tennenböden;,"","","","","","","",""
+  f264_qdb-d1e105091,60F64;,Flecke;,Subst;,"orig: zöllige Bretter;translated: Bretter, die 1 Veroneserzoll dick sind;","","tsölliga flökχn [pl];tsölliga flökchn pl;","","","",1A.4 öSTir.;,1A.4c01 Lüsen;,"",""
+  f264_qdb-d1e105187,"",Flecke;,Subst;,den Boden legen;,Brett; Bohle;Brett Bohle;,"[\"im Zimmer\"] fl­ekn [f,fl]   lêg'n;im Zimmer fl­ekn f,fl legn;","","","",1A.2 mSTir.;1A.2 mSTir.;,"","",""
+  f264_qdb-d1e105455,"",Flecken;,Subst;,"",Schwärtlinge = Randbretter;Schwärtlinge = Randbretter;,"","","","",2.1 ObKtn.;,2.1f01 Lesachtal;,"",""
+  f264_qdb-d1e105568,"",Flecke;,Subst;,"","\"Flegge\" = Brett;Flegge = Brett;","","","","",1A.4 öSTir.;,1A.4a01 Ahrntal;,"",""
+  f264_qdb-d1e105931,"",Flecke;,Subst;,"",langes Brett; Bohle;langes Brett Bohle;,"","","","","","","",""
+  f264_qdb-d1e105509,"",Flecke;,Subst;,"","das festgepreßte Heu im Inneren des SchobersANMB: s.;das festgepreßte Heu im Inneren des Schobers ANM B: s.;","die Flecke [f]   , die um die Latte herum am gleimsten ist;die Flecke f , die um die Latte herum am gleimsten ist;","","","",1C.2 mNTir.;,"","",""
+  f264_qdb-d1e106022,"",Flecke;,Subst;,"","\"Flecke\" = dickes Bodenbrett;Flecke = dickes Bodenbrett;","","","","",1A.4 öSTir.;1C.1 wNTir.;,1A.4d02 Kiens;1C.1n01 Imst;,"",""
+  f264_qdb-d1e104753,"",Flecke;,Subst;,"",Brett;,"","","","",1A.2 mSTir.;,1A.3i02 Kastelruth;,"",""
+  f264_qdb-d1e104780,"",Flecke;,Subst;,"",zerschnittene Teig- oder Fleischteilchen als Speise;zerschnittene Teig oder Fleischteilchen als Speise;Stück Feld;Stück Feld;,"","","","",6.1 Mostv.;,6.1d01 Allhartsberg;,"",""
+  f264_qdb-d1e104825,"",Flecke;,Subst;,"",vier Meter langes Brett; größeres Brett überhaupt;vier Meter langes Brett größeres Brett überhaupt;,"","","","",1B.0 OTir.;,1B.0b01 Außervillgraten;,"",""
+  f264_qdb-d1e105006,"",Flecke;,Subst;,"",langes dickes Brett für Tennenböden;langes dickes Brett für Tennenböden;,"","","","","","","",""
+  f264_qdb-d1e105059,60F64;,Flecke;,Subst;,"orig: halbzöllige Flecke;translated: vier Meter langes Brett von 1 / 2 Zoll Dicke;","","hǫlbtsölliga flökχẹ [f];holbtsölliga flökche f;","","","",1A.4 öSTir.;,1A.4c01 Lüsen;,"",""
+  f264_qdb-d1e105283,"",Flecke;,Subst;,"",dickes Brett;,"","","","","","","",""
+  f264_qdb-d1e106211,"",Flecke;,Subst;,"",Bodenbrett;,"","","","",1A.1 wSTir.;1A.1 wSTir.;,"","",""
+  f264_qdb-d1e107148,"",Flëcke;Flecke;,Subst;,"","aus Weizenmehl gebackener, scheibenförmig gestalteter, dünner, mit Weinbeeren, Zimt und Zucker bestreuter KuchenANMB: orig.Weinberl; Zimmt;aus Weizenmehl gebackener, scheibenförmig gestalteter, dünner, mit Weinbeeren, Zimt und Zucker bestreuter Kuchen ANM B: orig.Weinberl Zimmt;","","","","",2.2 MKtn.;,2.3b05 Straßburg;,"","B: Umf. BILDDAT;"

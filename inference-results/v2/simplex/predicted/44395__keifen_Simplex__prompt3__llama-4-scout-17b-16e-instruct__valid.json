@@ -1,0 +1,91 @@
+{
+    "Lemma": "keifen",
+    "POS": "Verb",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "jammern; zanken",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.4 öSTir.",
+                "1C.3 öNTir.",
+                "2.2 MKtn.",
+                "6.5 Wien"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k466_qdbn-d16e6061",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1A.4d02 Kiens"
+                },
+                {
+                    "ID": "k467_qdb-d1e37642",
+                    "Belegsatz": "sie fangen zu Keifen gleich an",
+                    "Herkunftsort": "6.5 Wien"
+                }
+            ],
+            "Belege": [
+                "k466_qdbn-d16e6061",
+                "k467_qdb-d1e37642",
+                "k466_qdbn-d16e5977",
+                "k467_qdb-d1e37667"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "bellen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                ""
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k467_qdb-d1e37601",
+                    "Belegsatz": "",
+                    "Herkunftsort": "2.1b04 Rangersdorf"
+                }
+            ],
+            "Belege": [
+                "k467_qdb-d1e37601"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "grollen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.2 Industriev."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k467_qdb-d1e37855",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.2h11 Hochwolkersdorf"
+                }
+            ],
+            "Belege": [
+                "k467_qdb-d1e37855"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "schimpfen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                ""
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k467_qdb-d1e37935",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k467_qdb-d1e37935"
+            ]
+        }
+    ]
+}

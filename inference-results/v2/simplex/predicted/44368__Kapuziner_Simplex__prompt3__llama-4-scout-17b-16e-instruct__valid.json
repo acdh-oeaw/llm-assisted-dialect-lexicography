@@ -1,0 +1,142 @@
+{
+    "Lemma": "Kȧpuzíner;Kapuziner;",
+    "POS": "Subst",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Mönch des Kapuzinerordens",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.5 Wien",
+                "6.4 Weinv.",
+                "5.1 Innv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k457_qdb-d1e58937",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.5 Wien"
+                },
+                {
+                    "ID": "k457_qdb-d1e58707",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.4 Weinv."
+                },
+                {
+                    "ID": "k457_qdb-d1e57802",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.1 Innv."
+                }
+            ],
+            "Belege": [
+                "k457_qdb-d1e58937",
+                "k457_qdb-d1e58707",
+                "k457_qdb-d1e57802"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "eine Redewendung für Heiserkeit oder ein Kratzen im Hals",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.2 Hausrv.",
+                "6.5 Wien",
+                "3.3 WStmk."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k457_qdb-d1e58217",
+                    "Belegsatz": "mir is, åls wånn i an Kapuziner gschlickt hätt",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k457_qdb-d1e60740",
+                    "Belegsatz": "i han en Kaputsine m,sg4 gslickt mitsąmt də Kuttn",
+                    "Herkunftsort": "5.3 Traunv."
+                }
+            ],
+            "Belege": [
+                "k457_qdb-d1e58217",
+                "k457_qdb-d1e60740"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Tropaeolum majus (Kapuzinerkresse)",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.2 Hausrv.",
+                "1C.3 öNTir.",
+                "6.2 Industriev."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k457_qdb-d1e57628",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k457_qdb-d1e59237",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k457_qdb-d1e57628",
+                "k457_qdb-d1e59237"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "ein dunkler Kaffee mit Milch oder ähnliches Getränk",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.5 Wien",
+                "3.2 mbair.ObStmk."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k457_qdb-d1e58466",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k457_qdb-d1e59337",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.5 Wien"
+                }
+            ],
+            "Belege": [
+                "k457_qdb-d1e58466",
+                "k457_qdb-d1e59337"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "eine mit Wein übergossene Mehlspeise oder ein Schokoladekuchen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.1 Innv.",
+                "6.4 Weinv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k457_qdb-d1e59513",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k457_qdb-d1e59486",
+                    "Belegsatz": "Ein bsoffnɒ (bsuffnɒ) Kḣaputsinɒ [m]",
+                    "Herkunftsort": "5.1 Innv."
+                }
+            ],
+            "Belege": [
+                "k457_qdb-d1e59513",
+                "k457_qdb-d1e59486"
+            ]
+        }
+    ]
+}

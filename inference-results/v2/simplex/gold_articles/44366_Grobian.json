@@ -1,0 +1,59 @@
+{
+  "Lemma": "Grobian",
+  "POS": "Substantiv",
+  "Genus": "Maskulinum",
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "ungeschlachter, derber Mensch (vor allem in Bezug auf Männer)",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1B OTir.",
+        "p1C NTir.",
+        "p3.5 OStmk.",
+        "p5 OÖ",
+        "p6 NÖ",
+        "p6.5 Wien",
+        "p7.2 MBgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Du Groubian!",
+          "Herkunftsort": "Türnitz"
+        },
+        {
+          "Belegsatz": "So añ Grobian!",
+          "Herkunftsort": "Wien"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Bengel",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Schimpfname für einen Ehemann",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p2.1 ObKtn."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "geiziger Mensch",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p5.2 Hausrv."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

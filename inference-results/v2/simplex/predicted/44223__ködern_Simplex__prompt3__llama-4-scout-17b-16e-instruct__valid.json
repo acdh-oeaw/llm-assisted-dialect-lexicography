@@ -1,0 +1,96 @@
+{
+    "Lemma": "ködern",
+    "POS": "Verb",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "mit einem Köder anlocken",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.3 öNTir.",
+                "4.2 Pinzg.",
+                "6.3 Waldv.",
+                "6.5 Wien",
+                "2.2 MKtn."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k502_qdb-d1e86683",
+                    "Belegsatz": "mit Gäd hom sn kedaschd",
+                    "Herkunftsort": "1C.3e06 Kufstein"
+                },
+                {
+                    "ID": "k502_qdb-d1e86746",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.3e06 Kufstein"
+                },
+                {
+                    "ID": "k502_qdb-d1e86352",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k502_qdb-d1e86683",
+                "k502_qdb-d1e86746",
+                "k502_qdb-d1e86352"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "mit schönen Reden anlocken",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.3 öNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k502_qdb-d1e86717",
+                    "Belegsatz": "õan mit schö̃nö̃ Röᵈn kedarn",
+                    "Herkunftsort": "1C.3e06 Kufstein"
+                }
+            ],
+            "Belege": [
+                "k502_qdb-d1e86717"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Lockbissen auslegen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "2.2 MKtn."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k502_qdb-d1e86495",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k502_qdb-d1e86495"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Den Pflug durch eine Hackerlvorrichtung am Gestell mehr auf eine Seite lenken",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "weitere Bedeutung 1",
+            "Regionen": [
+                "5.2 Hausrv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k502_qdb-d1e86633",
+                    "Belegsatz": "Pfuag keden",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k502_qdb-d1e86633"
+            ]
+        }
+    ]
+}

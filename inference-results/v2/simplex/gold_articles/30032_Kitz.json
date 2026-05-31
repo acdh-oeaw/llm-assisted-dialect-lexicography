@@ -1,0 +1,176 @@
+{
+  "Lemma": "Kitz",
+  "POS": "Substantiv",
+  "Genus": "Neutrum",
+  "Form": {
+    "form": "Kitzel, Kitzerl, Kitzelein",
+    "typ": "Diminutive",
+    "genus": "Neutrum"
+  },
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "Junges vom Reh, von der Gämse, von der Ziege'",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p2 Ktn.",
+        "p3 Stmk.",
+        "p4 Sbg.",
+        "p5 OÖ",
+        "p6 NÖ",
+        "p6.5 Wien",
+        "p7 Bgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "sou šiənɒ kχitslɒ!",
+          "Herkunftsort": "Serfaus"
+        },
+        {
+          "Belegsatz": "Kiz in Frujåʳ",
+          "Herkunftsort": "Fusch an der Großglocknerstraße"
+        },
+        {
+          "Belegsatz": "i hǭb ma a schė̄ⁿs Kitzl gkafft",
+          "Herkunftsort": "Gastern"
+        },
+        {
+          "Belegsatz": "a poa Khitzln",
+          "Herkunftsort": "Kautzen"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "weibliches Junges vom Reh, von der Gämse, von der Ziege",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p2.1 ObKtn.",
+        "p2.2 MKtn.",
+        "p4.2 Pinzg.",
+        "p6.5 Wien",
+        "p7.2 MBgl."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Fleisch vom Jungtier (Reh, Gämse, Ziege)",
+      "Typ": "Variante",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1A.1 wSTir.",
+        "p1C.1 wNTir.",
+        "p3.2 mbair.ObStmk."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "ą Flaisch vąn ąn Kitzl",
+          "Herkunftsort": "Wald am Schoberpaß"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "gebackenes oder gebratenes Fleisch vom Jungtier (Reh, Gämse, Ziege), das zu Ostern oder Pfingsten verspeist wird",
+      "Typ": "Variante",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1A.4 öSTir.",
+        "p1C.3 öNTir.",
+        "p3.2 mbair.ObStmk.",
+        "p3.5 OStmk.",
+        "p5.1 Innv.",
+        "p5.2 Hausrv.",
+        "p5.4 Mühlv.",
+        "p6 NÖ",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "gebåchne Kitzlan",
+          "Herkunftsort": "Kitzbühel"
+        },
+        {
+          "Belegsatz": "a båchas Kizl",
+          "Herkunftsort": "Linz"
+        },
+        {
+          "Belegsatz": "bōuchani Kĭtzln",
+          "Herkunftsort": "Gastern"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Sonntagsbraten vom Jungtier (Reh, Gämse, Ziege)",
+      "Typ": "Variante",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p2.1 ObKtn."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "weißes Pfingstbrot",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p6.2 Industriev."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Bezeichnung für ein junges, häufig übermütiges, freches Mädchen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p1A.4 öSTir.",
+        "p1C.1 wNTir.",
+        "p1C.3 öNTir.",
+        "p2.1 ObKtn.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "dȫ kχitsər, dȫ juŋ",
+          "Herkunftsort": "Lüsen"
+        },
+        {
+          "Belegsatz": "Du Kitz(l)!",
+          "Herkunftsort": "Rangersdorf"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Bezeichnung für einen übermütigen Menschen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p3.2 mbair.ObStmk."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Schimpfname für eine vorwitzige, junge Person",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p1C.3 öNTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "abwertende Bezeichnung für einen Schwächling oder Feigling",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p3 Stmk."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

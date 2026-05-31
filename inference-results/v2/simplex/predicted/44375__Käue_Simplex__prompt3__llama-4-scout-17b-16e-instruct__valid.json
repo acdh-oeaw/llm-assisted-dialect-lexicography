@@ -1,0 +1,128 @@
+{
+    "Lemma": "Keue",
+    "POS": "Subst",
+    "Genus": "Femininum",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Kinn",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.1 wSTir.",
+                "1C.1 wNTir.",
+                "1C.2 mNTir.",
+                "1C.3 öNTir.",
+                "2.1 ObKtn.",
+                "2.2 MKtn.",
+                "3.1 sbair.ObStmk.",
+                "3.2 mbair.ObStmk.",
+                "3.3 WStmk.",
+                "3.4 MStmk.",
+                "3.5 OStmk.",
+                "4.1 Lung.",
+                "4.2 Pinzg.",
+                "4.3 Pong.",
+                "4.4 Tenneng.",
+                "4.5 Flachg.",
+                "5.1 Innv.",
+                "5.2 Hausrv.",
+                "5.3 Traunv.",
+                "5.4 Mühlv.",
+                "6.1 Mostv.",
+                "6.2 Industriev.",
+                "6.3 Waldv.",
+                "6.4 Weinv.",
+                "6.5 Wien",
+                "7.1 NBgl.",
+                "7.2 MBgl."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k480_qdb-d1e21956",
+                    "Belegsatz": "Keue; Kinn/Kiefer/Kinnbacken; das Maul hängen lassen",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k480_qdb-d1e930",
+                    "Belegsatz": "Keue; Kinn; -, St. Leonhard am Hornerwald",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k480_qdb-d1e21956",
+                "k480_qdb-d1e930"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Kiefer",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.1 wSTir.",
+                "1C.1 wNTir.",
+                "4L1: Kiefer"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k480_qdb-d1e10725",
+                    "Belegsatz": "4L1: Kiefer; Keue; Malta",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k480_qdb-d1e11763",
+                    "Belegsatz": "4L1: Kiefer; Keue; Kiefer",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k480_qdb-d1e10725",
+                "k480_qdb-d1e11763"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Fettkinn",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.2 mNTir.",
+                "5.4 Mühlv.",
+                "6.1 Mostv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k480_qdb-d1e19722",
+                    "Belegsatz": "1F3 (erg.); Keue; der hat ein fettes Kinn",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k480_qdb-d1e19548",
+                    "Belegsatz": "1F3; Keue; hat ein fettes Kinn",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k480_qdb-d1e19722",
+                "k480_qdb-d1e19548"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Kehle",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.3 öNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k480_qdb-d1e30581",
+                    "Belegsatz": "77A39; keuen; 's Khoi is sofl öppas Sauisch",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k480_qdb-d1e30581"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+  "Lemma": "kiebitzen",
+  "POS": "Verb",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "beim (Karten-)Spiel zuschauen und ungebeten Ratschläge erteilen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p2.2 MKtn.",
+        "p3 Stmk.",
+        "p4 Sbg.",
+        "p5.4 Mühlv.",
+        "p6.1 Mostv.",
+        "p6.2 Industriev.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "dẽs giwazn kõ i nit lein",
+          "Herkunftsort": "Neuhofen an der Ybbs"
+        },
+        {
+          "Belegsatz": "Wǫn dȏ der mit sẽĩn Giwazn aufherad",
+          "Herkunftsort": "Ybbs an der Donau"
+        },
+        {
+          "Belegsatz": "I' tua'r añ bißl kiebitz'n",
+          "Herkunftsort": "Wien"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "stichelnd reden; necken; anstacheln",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p3.1 sbair.ObStmk.",
+        "p3.3 WStmk.",
+        "p5.4 Mühlv.",
+        "p6.1 Mostv.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Eaʳ gíbitznt im̄a",
+          "Herkunftsort": "Stainz"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "neugierig schauen, etwas zu erspähen suchen (insbes. beim Essen anderer)",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A.2 mSTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "einen leichten, raschen Gang haben (insbes. von Mädchen)",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p3 Stmk."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

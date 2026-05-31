@@ -1,0 +1,142 @@
+{
+  "Lemma": "kauschen knauschen knautschen knaunzen",
+  "POS": "Verb",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "schwach quetschen; brechen; zerdrücken",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p2.2 MKtn.",
+        "p6.2 Industriev."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "die Sau kauscht",
+          "Herkunftsort": "Warth"
+        },
+        {
+          "Belegsatz": "'s Wilt knautschn",
+          "Herkunftsort": "uGurkt."
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "geräuschvoll und unappetitlich kauen; schmatzen (von Menschen und Tieren)",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p2.2 MKtn.",
+        "p5.1 Innv.",
+        "p5.2 Hausrv.",
+        "p5.3 Traunv.",
+        "p3 Stmk.",
+        "p6.2 Industriev.",
+        "p6.3 Waldv.",
+        "p6.4 Weinv.",
+        "p7.1 NBgl.",
+        "p7.3 SBgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "khauššn wiə-r-ə fakl",
+          "Herkunftsort": "Mühlheim am Inn"
+        },
+        {
+          "Belegsatz": "σ̌τo̩d dɒ i̯aosn τuɒ ė ɒ wẽ̩g πre̩o̩d ʾʾnãõß̌n",
+          "Herkunftsort": "Weibern"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "geizen; sparsam sein; knausern",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p3 Stmk.",
+        "p6.4 Weinv.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "weinerlich reden; jammern; klagen; keifen; nörgeln; zanken (um die Unzufriedenheit ausdrücken)",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir.",
+        "p2.2 MKtn.",
+        "p3 Stmk.",
+        "p5.2 Hausrv.",
+        "p5.4 Mühlv.",
+        "p6 NÖ",
+        "p6.5 Wien",
+        "p7.1 NBgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Gnā̊utschad wiᵃ-r ă Wigglkhīⁿd",
+          "Herkunftsort": "Mauer"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "ächzen; stöhnen (um die Unlust und Unzufriedenheit auszudrücken)",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p1A.4 öSTir.",
+        "p1C.1 wNTir.",
+        "p2.2 MKtn.",
+        "p3 Stmk.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "weinen (von Kindern)",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p3 Stmk."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "zu viel reden; bedeutungsloses Zeug daherreden; schwätzen; plappern; tratschen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p3 Stmk.",
+        "p5.3 Traunv.",
+        "p6 NÖ",
+        "p6.5 Wien",
+        "p7.2 MBgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "hietzt kauschen und plauschen d' Madeln",
+          "Herkunftsort": "Wien"
+        },
+        {
+          "Belegsatz": "Geh khausch nid",
+          "Herkunftsort": "Pilgersdorf"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "knirschen; knarren (von Gegenständen)",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p3 Stmk.",
+        "p7.1 NBgl."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

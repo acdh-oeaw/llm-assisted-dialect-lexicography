@@ -1,0 +1,65 @@
+Glossar:
+  Lemma: "'Lemma' beinhaltet sämtliche Einträge (inklusive Komposita und Wortbildungsvarianten), die einem bestimmten Lemma zugeordnet werden können. Zu diesem Zweck wurden alle Handzettel beziehungsweise die Einträge der Belegdatenbank lemmatisiert und nach historisch-etymologischen Gesichtspunkten - also linguistischen Prinzipien - einem Hauptlemma zugeordnet."
+  Fragebogennummer: "Auflistung von relevanten Fragebogennummern und Beschreibungen:\n* **102F17:** Stoffarten (Leinwand/Leinen, Rasch/Raß,)\n* **76E14:** Pferdebürste (Kartatsche)\n* **96A4:** Wolle; Füg./Ra. (in der Wolle sitzen)\n* **70G25:** die Schafwolle entstauben; wie?\n* **70G27:** die Schafwolle auflockern; Gerät hiezu (Wolf)\n"
+  Part_of_Speech: Diese Angabe benennt die Wortart des jeweiligen Belegs.
+  Bedeutung_der_Lautung: Diese Information beschreibt die Bedeutung der Lautungsangabe auf dem Beleg.
+  Bedeutung_des_Belegsatzes: "Diese Information beschreibt die Bedeutung des in Spalte \"Belegsatz 1\", \"Belegsatz 2\" etc. angegebenen Belegsatzes. Es kann sich dabei um eine direkte standardsprachliche Übersetzung, eine standardsprachliche Periphrase oder um einen metasprachlichen Kommentar handeln."
+  Belegsatz_1: "Dieser Eintrag gibt einen Belegsatz, eine Redewendung oder eine Paraphrase wider, um die Bedeutung des Belegs exemplarisch darzustellen bzw. näher zu kontextualisieren. Der Belegsatz ist in der Regel im Dialekt angegeben und in der Lautschrift Teuthonista verschriftlicht."
+  Belegsatz_2: Belegsatz 2 weist dieselbe Funktionalität auf wie Belegsatz 1.
+  Sammlung: Eine Sammlung bündelt einzelne Einträge nach lexikographisch sinnvollen Gesichtspunkten. Alle Einträge der Sammlung teilen diese Gesichtspunkte.
+  Lautung_1: "Die angegebene Information umfasst die lautliche Transkription des vorliegenden Belegs. Die Transkription wurde auf der Grundlage eines Lautschriftsystems notiert, das jenem der Teuthonista gleicht oder zumindest ähnelt. Da die Datengrundlage des WBÖ auf unterschiedlichsten Quellen basiert und die Erhebungen der Fragebögen häufig von Laien-Sammlerinnen und -sammlern durchgeführt wurden, können sich Uneinheitlichkeiten bei der Transkription ergeben."
+  Lautung_2: Lautung 2 weist dieselbe Funktionalität auf wie Lautung 1.
+  Anmerkung: Zusätzliche Anmerkung über den Beleg.
+  Diverses: Zusätzliche undefinierte Anmerkung über den Beleg.
+  Substantiv: Dieser Beleg zählt zur Wortart Substantiv.
+  Verb: Dieser Beleg zählt zur Wortart Verb.
+  Adjektiv: Dieser Beleg zählt zur Wortart Adjektiv.
+  Adverb: Dieser Beleg zählt zur Wortart Adverb.
+  Praeposition: Dieser Beleg zählt zur Wortart Präposition.
+  Konjunktion: Dieser Beleg zählt zur Wortart Konjunktion.
+  Pronomen: Dieser Beleg zählt zur Wortart Pronomen.
+  Interjektion: Dieser Beleg zählt zur Wortart Interjektion.
+  Partikel: Dieser Beleg zählt zur Wortart Partikel.
+  Geschlecht: "Das grammatische Geschlecht eines Wortes wird in der Fachsprache als Genus bezeichnet. Im Deutschen gibt es drei Genera: Maskulinum (männlich), Femininum (weiblich) und Neutrum (sächlich). Das Genus eines Substantivs wird oft durch den Artikel (der, die, das) angezeigt."
+  Bedeutung: "Semantik, auch Bedeutungslehre genannt, ist die wissenschaftliche Beschäftigung mit Bedeutung und mit den verschiedenen Beziehungen zwischen einem Zeichen und dem Bezeichneten. In den Wörterbuchartikeln gehört die Angabe der Bedeutung bzw. Bedeutungen eines Wortes zu den zentralen Inhalten."
+  Belegsatz: "Ein Belegsatz1 oder Belegsatz2  wird verwendet, um die Bedeutung des Beleg in Form eines Satzes exemplarisch zu verdeutlichen. In den Daten wird statt der Bezeichnung \"Beispielsatz\" auch die Bezeichnung \"Belegsatz\" verwendet."
+  Wortvarianten: Unterschiedliche Varianten eines Wortes.
+  Woerterbuchartikel: "Eine strukturierte Beschreibung eines Lemmas, die Angaben zu Bedeutung (bzw. Bedeutungen), Aussprache, Grammatik, Verbreitung, Etymologie sowie ggfs. Wortbildungen und Redewendungen enthält."
+  Quelle_Datenbank: "Es handelt sich hierbei um eine formalisierte Angabe der geographischen Zuordnung des Belegs. Diese Besteht aus einer Sigle sowie einer in Abkürzungen formulierten und ggfs. hierarchisch (Gemeinde, Kleinregion, Großregion, Bundesland) gegliederten Verschriftlichung der geographischen Zuordnung."
+  CollectionCat: "Die CollectionCat (Abkürzung für Collection Categorizer) ist eine Software-Applikation, die zum Kategorisieren und Zusammenfassen von Belegen im Rahmen der lexikographischen Arbeit genutzt wird."
+  Simplex: "Ein Simplex ist ein einfaches Wort oder Lexem, das weder abgeleitet noch zusammengesetzt ist."
+  Kompositum: Ein Kompositum ist ein aus bereits vorhandenen Wörtern zusammengesetztes komplexes Wort. Der zugrunde liegende Wortbildungsprozess wird Komposition genannt.
+  Derivation: "Eine Derivation ist das Ergebnis eines Wortbildungsprozesses, bei dem durch Anhängen eines Affixes (Präfix, Suffix oder Zirkumfix) aus einem Wort ein neues Wort gebildet wird."
+  Grossregion: "Das Bearbeitungsgebiet (Großregion1 und Großregion2) des WBÖ ist regional untergliedert. Jeder regionalen Einheit ist eine eindeutige Sigle zugeordnet. Die größte regionale Einheit stellt dabei das \"Bundesland\" dar, welches folgendermaßen unterteilt ist: Südtirol (Sigle 1A), Osttirol (Sigle 1B), Nordtirol (Sigle 1C), Kärnten (Sigle 2), Steiermark (Sigle 3), Salzburg (Sigle 4), Oberösterreich (Sigle 5), Niederösterreich (Sigle 6), Wien (Sigle 6.5) sowie Burgenland (Sigle 7). \nDie zweitgrößte regionale Einheit ist die \"Großregion\", welche die Bundesländer in weitere Teilbereiche untergliedert. \nDie drittgrößte regionale Einheit ist die \"Kleinregion\", welche die Großregionen in weitere Teilbereiche untergliedert.\nDie viertgrößte regionale Einheit ist die \"Gemeinde\", welche die Kleinregionen in weitere Teilbereiche untergliedert."
+  Herkunftsort: "Geographische Lokation, aus der ein Beleg stammt. Die Angabe erfolgt auf der jeweils spezifischsten verfügbaren Ebene: Ist eine Gemeinde bekannt, wird diese angegeben; andernfalls eine Kleinregion, eine Großregion oder - als letzte Möglichkeit - das Bundesland."
+Belege[30]{ID,Fragebogennummer,Lemma,POS,Bedeutung_des_Belegsatzes,Bedeutung_der_Lautung,Belegsatz1,Belegsatz2,Lautung1,Lautung2,"Großregion",Herkunftsort,Diverses,Anmerkung}:
+  k459_qdbn-d16e28052,"",kartä́tschen;kartätschen;,Verb;,"",Wolle zausen; Wolle lockern;Wolle zausen Wolle lockern;,"","","","","","","",""
+  k459_qdbn-d16e28923,102F17;,kartä́tschen;kartätschen;,Verb;,"","","","","","",2.2 MKtn.;,2.2i08 Weißenstein;,"",""
+  k459_qdbn-d16e30601,"",kartä́tschen;kartätschen;,Verb;,"","","","","","","","","",""
+  k459_qdb-d1e36442,"",kartä́tschen;kartätschen;,Verb;,"",die Wolle auflockern;,"","","","",1C.1 wNTir.;,1C.1m02 Fendels;,"",""
+  k459_qdb-d1e36632,"",kartä́tschen;kartätschen;,Verb;,"",Wolle hecheln bzw. bearbeiten zwischen Drahtbürsten;Wolle hecheln bzw. bearbeiten zwischen Drahtbürsten;,Woll' tātschn;Woll tatschn;,"","","",1C.2 mNTir.;1C.2 mNTir.;1C.2 mNTir.;,"","",""
+  k459_qdbn-d16e31037,"",kartä́tschen;kartätschen;,Verb;,"durch die Kardätsche schlagen, streichen;","schlagen; tappenANMO: lautm.;schlagen tappen ANM O: lautm.;",die Wolle tätschen;die Wolle tätschen;,"","","","","","",""
+  k459_qdbn-d16e31122,"70G28: die Schafwolle krempeln;",kartä́tschen;kartätschen;,Verb;,"","",Woïn datschn;Woin datschn;,"","","",4.3 Pong.;,"","",""
+  k459_qdbn-d16e29113,76E14;,kartä́tschen;kartätschen;,Verb;,"",bürsten; mit der Pferdebürste reinigen;bürsten mit der Pferdebürste reinigen;,"","","","",6.5 Wien;,6.5r01 Gersthof;,"",""
+  k459_qdb-d1e35859,"",kartä́tschen;kartätschen;,Verb;,"",Wolle mit der Tätsche rupfen;Wolle mit der Tätsche rupfen;,"","","","",1C.3 öNTir.;,1C.3i05 St. Johann in Tirol;,"",""
+  k459_qdb-d1e35884,"",kartä́tschen;kartätschen;,Verb;,"","Wolle kratzen, zerren;","","","","",1C.2 mNTir.;,1C.2k09 Zell am Ziller;,"",""
+  k459_qdb-d1e35909,"70G32: Fachausdr. bezgl. Wollkrempeln;",kartä́tschen;kartätschen;,Verb;,Wolle krempeln;,"",Woö dadschn;Woö dadschn;,"","","",1C.3 öNTir.;,1C.3e06 Kufstein;,"",""
+  k459_qdb-d1e36063,"70G28: die Schafwolle krempeln;",kartä́tschen;kartätschen;,Verb;,"orig: Wolle kardätschen;translated: Wolle krempeln;","",wollẹ kχurtátšn;wolle kchurtatsn;,"","","",1A.4 öSTir.;,1A.4c01 Lüsen;,"",""
+  k459_qdb-d1e36490,"",kartä́tschen;kartätschen;,Verb;,"",hächeln der Schafwolle;hächeln der Schafwolle;,"","","","",1C.2 mNTir.;,"","",""
+  k459_qdb-d1e36532,"",kartä́tschen;kartätschen;,Verb;,"",die Wolle krämpeln;die Wolle krämpeln;,"","","","","","","",""
+  k459_qdb-d1e36822,96A4;,kartä́tschen;kartätschen;,Verb;,die dem Schaf abgescheerte Wolle kartatschen;,"",Woö dadschn;Woö dadschn;,"","","",1C.3 öNTir.;,1C.3e06 Kufstein;,"",""
+  k459_qdbn-d16e31196,70G25;,kartä́tschen;kartätschen;,Verb;,"","","","","","",1C.3 öNTir.;1C.3 öNTir.;,1C.3f02 Hopfgarten im Brixental;1C.3i05 St. Johann in Tirol;,Wolle der Schafe;,""
+  k459_qdbn-d16e29963,"",kartä́tschen;kartätschen;,Verb;,"","","","","","",1C.1 wNTir.;,1C.1m08 Prutz;,"",""
+  k459_qdbn-d16e30509,"",kartä́tschen;kartätschen;,Verb;,wir kartatschen selbst;,"",miər tĩə salt kχartātšɒ;mier tie salt kchartatsa;,"","","",1C.1 wNTir.;,1C.1m10 Serfaus;,"",""
+  k459_qdb-d1e36115,"70G28: die Schafwolle krempeln;",kartä́tschen;kartätschen;,Verb;,die Wolle krempeln;,"",Woln kartatschn;,"","","",2.2 MKtn.;2.2 MKtn.;2.2 MKtn.;2.2 MKtn.;,"","",""
+  k459_qdbn-d16e30910,"",kartä́tschen;kartätschen;,Verb;,"",Schafwolle krämpeln;Schafwolle krämpeln;,"","","","","","","",""
+  k459_qdb-d1e36557,"",kartä́tschen;kartätschen;,Verb;,"",Wolle krempeln;,"","","","",2.2 MKtn.;,2.3f01 Feldkirchen in Kärnten;,"",""
+  k459_qdbn-d16e30972,"",kartä́tschen;kartätschen;,Verb;,"",Wolle putzen bzw. krämpeln;Wolle putzen bzw. krämpeln;,"","","","","","","",""
+  k459_qdbn-d16e31074,"",kartä́tschen;kartätschen;,Verb;,"","die Wolle tätschen = durch die Kardätsche schlagen, streichen; tappen; schlagen überhauptANMO: lautm.;die Wolle tätschen = durch die Kardätsche schlagen, streichen tappen schlagen überhaupt ANM O: lautm.;","","","","","","","",""
+  k459_qdb-d1e36741,"70G28: die Schafwolle krempeln;",kartä́tschen;kartätschen;,Verb;,"","","","","","",4.2 Pinzg.;,4.2c01 Fusch an der Großglocknerstraße;,"",""
+  k459_qdb-d1e36246,"",kartä́tschen;kartätschen;,Verb;,"",Wolle hecheln bzw. kämmen;Wolle hecheln bzw. kämmen;,"","","","","","","",""
+  k459_qdbn-d16e30617,"",kartä́tschen;kartätschen;,Verb;,"",die Wolle kämmen (zu feinen Lagen zausen);die Wolle kämmen zu feinen Lagen zausen;,"","","","","","","",""
+  k459_qdbn-d16e30990,"",kartä́tschen;kartätschen;,Verb;,"",die Wolle durch die Hechel zausen;,"","","","","","","",""
+  k459_qdbn-d16e30663,"",kartä́tschen;kartätschen;,Verb;,"",Wolle hecheln;,"","","","",1C.3 öNTir.;,"","",""
+  k459_qdb-d1e36793,"70G28: die Schafwolle krempeln;",kartä́tschen;kartätschen;,Verb;,"orig: die Wolle tätschen;translated: die Wolle kardätschen (= krempeln);","",di woll tātšn;di woll tatsn;,"","","",1C.2 mNTir.;,1C.2a29 Weer;,"",""
+  k459_qdbn-d16e30427,70G27;,kartä́tschen;kartätschen;,Verb;,"","",Woɫ tatschn;Wol tatschn;,"","","",1C.3 öNTir.;,1C.3b03 Thiersee;,"",""

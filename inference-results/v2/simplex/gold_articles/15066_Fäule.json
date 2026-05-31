@@ -1,0 +1,88 @@
+{
+  "Lemma": "Fäule",
+  "POS": "Substantiv",
+  "Genus": "Femininum, Neutrum, Maskulinum",
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "durch Bakterien verursachte Zersetzung von organischem Gewebe; auch Bezeichnung von Krankheiten mit Zersetzungs- oder Fäulniserscheinungen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p2 Ktn.",
+        "p5.4 Mühlv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "håt dear a Fäuli",
+          "Herkunftsort": "St. Anton am Arlberg"
+        },
+        {
+          "Belegsatz": "dęaʳ håt d'fäüˡ",
+          "Herkunftsort": "Eidenberg"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "bestimmte Erkrankung der Weinbeere",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p5.3 Traunv.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Də fę̄uˡⁿ dridd å̄uf",
+          "Herkunftsort": "Mauer"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Faulheit; Trägheit; Schläfrigkeit",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p4.5 Flachg.",
+        "p5 OÖ",
+        "p6.3 Waldv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "vō lauta fauė åiˡoei goametzn gähnen",
+          "Herkunftsort": "Salzburg"
+        },
+        {
+          "Belegsatz": "τo̩σ wɒ widɒ rɒ φäö̩n",
+          "Herkunftsort": "Gschwandt"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Platz bei der Sennhütte, wo das Vieh lagert",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Grasfläche unter dem Almstall, die durch Schwemmdüngung gedüngt wird",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p1C.3 öNTir."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "Lemma": "kardätschen",
+  "POS": "Verb",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "kämmen; krempeln; hecheln; auflockern; ausfilzen (von Wolle)",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir.",
+        "p2 Ktn.",
+        "p3 Stmk.",
+        "p4 Sbg."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "wollẹ kχurtátšn",
+          "Herkunftsort": "Lüsen"
+        },
+        {
+          "Belegsatz": "miər tĩə salt kχartātšɒ",
+          "Herkunftsort": "Serfaus"
+        },
+        {
+          "Belegsatz": "di woll tātšn",
+          "Herkunftsort": "Weer"
+        },
+        {
+          "Belegsatz": "Woln kartatschn",
+          "Herkunftsort": "Straßburg"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "bürsten; mit der Pferdebürste reinigen",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

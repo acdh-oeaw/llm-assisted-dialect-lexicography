@@ -1,0 +1,103 @@
+{
+    "Lemma": "keren; kêren",
+    "POS": "Verb",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "kehren (wenden, drehen)",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.2 mSTir.",
+                "1C.1 wNTir.",
+                "1C.3 öNTir.",
+                "2.1 ObKtn.",
+                "2.2 MKtn.",
+                "3.2 mbair.ObStmk.",
+                "3.3 WStmk.",
+                "3.5 OStmk.",
+                "4.3 Pong.",
+                "5.1 Innv.",
+                "5.3 Traunv.",
+                "5.4 Mühlv.",
+                "6.1 Mostv.",
+                "6.2 Industriev.",
+                "6.4 Weinv.",
+                "7.2 MBgl."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k476_qdb-d1e2215",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k475_qdb-d1e23560",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "Liste aller zugeordneten IDs"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "kehren (fegen)",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.3 Traunv.",
+                "6.1 Mostv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                ""
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Wasser ableiten",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.2 mNTir.",
+                "5.4 Mühlv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                ""
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Heu wenden",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.4 öSTir.",
+                "3.3 WStmk."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                ""
+            ]
+        }
+    ]
+}

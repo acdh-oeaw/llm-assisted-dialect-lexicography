@@ -1,0 +1,107 @@
+{
+    "Lemma": "Kropf",
+    "POS": "Subst",
+    "Genus": "m",
+    "Kasus": "sg4",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "körperlicher Auswuchs oder Schwellung",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.1 wSTir.",
+                "1B.0 OTir.",
+                "1C.1 wNTir.",
+                "1C.2 mNTir.",
+                "1C.3 öNTir.",
+                "2.1 ObKtn.",
+                "2.2 MKtn.",
+                "3.1 sbair.ObStmk.",
+                "3.2 mbair.ObStmk.",
+                "4.2 Pinzg.",
+                "4.3 Pong.",
+                "5.1 Innv.",
+                "5.2 Hausrv.",
+                "5.3 Traunv.",
+                "5.4 Mühlv.",
+                "6.1 Mostv.",
+                "6.2 Industriev.",
+                "6.3 Waldv.",
+                "6.4 Weinv.",
+                "7.1 NBgl.",
+                "7.2 MBgl.",
+                "7.3 SBgl."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k524_qdb-d1e22072",
+                    "Belegsatz": "τeis σ̈τéikt mɒrīn κrοubf",
+                    "Herkunftsort": "7.1e07 Mattersburg"
+                },
+                {
+                    "ID": "k524_qdb-d1e25041",
+                    "Belegsatz": "'n Krupf [m,sg4]   ibʽr di ɔ̈chsʎl ne²immʽr",
+                    "Herkunftsort": "1A.1n02 Proveis"
+                }
+            ],
+            "Belege": [
+                "k524_qdb-d1e22072",
+                "k524_qdb-d1e25041"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Kropf bei Vögeln",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.3 öNTir.",
+                "2.2 MKtn.",
+                "6.1 Mostv.",
+                "6.5 Wien"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k524_qdb-d1e26091",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.5r01 Gersthof"
+                },
+                {
+                    "ID": "k524_qdb-d1e25900",
+                    "Belegsatz": "Kropf",
+                    "Herkunftsort": "6.3a15 Kautzen"
+                }
+            ],
+            "Belege": [
+                "k524_qdb-d1e26091",
+                "k524_qdb-d1e25900"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Auswuchs am Baum",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "2.2 MKtn.",
+                "5.3 Traunv.",
+                "6.1 Mostv.",
+                "1C.3 öNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k524_qdb-d1e22622",
+                    "Belegsatz": "Kropf",
+                    "Herkunftsort": "2.3b05 StraÙburg"
+                },
+                {
+                    "ID": "k524_qdb-d1e25190",
+                    "Belegsatz": "Da Bam is voulli Kröipf [pl3]   und Düwln",
+                    "Herkunftsort": "5.4g02 Königswiesen"
+                }
+            ],
+            "Belege": [
+                "k524_qdb-d1e22622",
+                "k524_qdb-d1e25190"
+            ]
+        }
+    ]
+}

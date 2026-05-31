@@ -1,0 +1,23 @@
+{
+  "Lemma": "Keuschlecker",
+  "POS": "Substantiv",
+  "Genus": "Maskulinum",
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "Person, die ein kleines (bäuerliches) Anwesen bewohnt oder besitzt",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p2.2 MKtn.",
+        "p3.1 sbair.ObStmk."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "dęaʳ is a Khaischleckhaʳ",
+          "Herkunftsort": "Klagenfurt"
+        }
+      ]
+    }
+  ]
+}

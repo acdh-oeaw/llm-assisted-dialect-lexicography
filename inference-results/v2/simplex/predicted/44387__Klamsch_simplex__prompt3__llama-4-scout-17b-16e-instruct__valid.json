@@ -1,0 +1,100 @@
+{
+    "Lemma": "Klamsch",
+    "POS": "Subst.",
+    "Genus": "m",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "nicht ganz richtig im Kopfe sein; geistiger Defekt",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.5 Wien",
+                "6.1 Mostv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k487_qdb-d1e73094",
+                    "Belegsatz": "ãn glãmš [m,sg4] hãü̈m",
+                    "Herkunftsort": "6.1o01 Herzogenburg"
+                },
+                {
+                    "ID": "k487_qdb-d1e73476",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.5 Wien"
+                },
+                {
+                    "ID": "k487_qdbn-d16e62878",
+                    "Belegsatz": "Er hat an Klamsch [sg4] !",
+                    "Herkunftsort": "6.5 Wien"
+                }
+            ],
+            "Belege": [
+                "k487_qdb-d1e73094",
+                "k487_qdb-d1e73476",
+                "k487_qdbn-d16e62878"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Rausch; angeheiterter Zustand",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "3.2 mbair.ObStmk.",
+                "6.5 Wien"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k487_qdb-d1e73246",
+                    "Belegsatz": "",
+                    "Herkunftsort": "3.2f02 Kapfenberg"
+                },
+                {
+                    "ID": "k487_qdbn-d16e62567",
+                    "Belegsatz": "der håt gestern an urndlichen Klåmsch [sg4] g'håbt!",
+                    "Herkunftsort": "6.5 Wien"
+                }
+            ],
+            "Belege": [
+                "k487_qdb-d1e73246",
+                "k487_qdbn-d16e62567"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "spinnen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.4 Weinv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k487_qdb-d1e73271",
+                    "Belegsatz": "ãn Glaumsch [sg4] haum",
+                    "Herkunftsort": "6.4d18 Poysdorf"
+                }
+            ],
+            "Belege": [
+                "k487_qdb-d1e73271"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Hieb; Fehler im Gehirn",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.5 Wien"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k487_qdb-d1e73350",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.5 Wien"
+                }
+            ],
+            "Belege": [
+                "k487_qdb-d1e73350"
+            ]
+        }
+    ]
+}

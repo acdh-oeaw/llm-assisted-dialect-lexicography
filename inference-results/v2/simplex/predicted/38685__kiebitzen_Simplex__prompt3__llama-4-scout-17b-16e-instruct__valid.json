@@ -1,0 +1,129 @@
+{
+    "Lemma": "kibitzen",
+    "POS": "Verb",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "beim Kartenspiel zusehen und mitraten oder dreinreden",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.1 Mostv.",
+                "6.5 Wien"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k481_qdb-d1e4064",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.1d01 Allhartsberg"
+                },
+                {
+                    "ID": "k481_qdb-d1e4565",
+                    "Belegsatz": "I' tua'r añ bißl kiebitz'n„",
+                    "Herkunftsort": "6.5 Wien"
+                }
+            ],
+            "Belege": [
+                "k481_qdb-d1e4064",
+                "k481_qdb-d1e4565",
+                "k481_qdb-d1e4487"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "necken; stichelnde Worte",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.4 Mühlv.",
+                "3.3 WStmk.",
+                "6.1 Mostv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k481_qdb-d1e4622",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.4e04 Gallneukirchen"
+                },
+                {
+                    "ID": "k481_qdb-d1e4733",
+                    "Belegsatz": "Eaʳ gíbitznt [sg3]   im̄a",
+                    "Herkunftsort": "3.3c08 Stainz"
+                }
+            ],
+            "Belege": [
+                "k481_qdb-d1e4622",
+                "k481_qdb-d1e4733",
+                "k481_qdb-d1e4668"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "neugierig schauen; vorwitzig etwas zu erspähen suchen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.2 mSTir.",
+                "5.4 Mühlv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k481_qdb-d1e4403",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1A.3b01 Sarntal"
+                },
+                {
+                    "ID": "k481_qdb-d1e4041",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.4b13 Ulrichsberg"
+                }
+            ],
+            "Belege": [
+                "k481_qdb-d1e4403",
+                "k481_qdb-d1e4041"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "einen leichten und raschen Gang haben",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "k481_qdb-d1e3997",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k481_qdb-d1e3997"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "umsonst Vorträge besuchen; das Spiel beobachten",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.5 Wien",
+                "6.2 Industriev.",
+                "7.3 SBgl."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k481_qdb-d1e4233",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.5r01 Gersthof"
+                },
+                {
+                    "ID": "k481_qdb-d1e4354",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.5 Wien"
+                }
+            ],
+            "Belege": [
+                "k481_qdb-d1e4233",
+                "k481_qdb-d1e4354",
+                "k481_qdb-d1e4595"
+            ]
+        }
+    ]
+}

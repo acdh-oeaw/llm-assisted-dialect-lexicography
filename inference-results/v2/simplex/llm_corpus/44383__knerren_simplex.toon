@@ -1,0 +1,56 @@
+Glossar:
+  Lemma: "'Lemma' beinhaltet sämtliche Einträge (inklusive Komposita und Wortbildungsvarianten), die einem bestimmten Lemma zugeordnet werden können. Zu diesem Zweck wurden alle Handzettel beziehungsweise die Einträge der Belegdatenbank lemmatisiert und nach historisch-etymologischen Gesichtspunkten - also linguistischen Prinzipien - einem Hauptlemma zugeordnet."
+  Fragebogennummer: "Auflistung von relevanten Fragebogennummern und Beschreibungen:\n* **46B58:** herumrennen, Syn. (herumgaiseln, questern,)\n* **50I11:** merren \"durcheinanderbringen\"; Komp. (auf-,)\n"
+  Part_of_Speech: Diese Angabe benennt die Wortart des jeweiligen Belegs.
+  Bedeutung_der_Lautung: Diese Information beschreibt die Bedeutung der Lautungsangabe auf dem Beleg.
+  Bedeutung_des_Belegsatzes: "Diese Information beschreibt die Bedeutung des in Spalte \"Belegsatz 1\", \"Belegsatz 2\" etc. angegebenen Belegsatzes. Es kann sich dabei um eine direkte standardsprachliche Übersetzung, eine standardsprachliche Periphrase oder um einen metasprachlichen Kommentar handeln."
+  Belegsatz_1: "Dieser Eintrag gibt einen Belegsatz, eine Redewendung oder eine Paraphrase wider, um die Bedeutung des Belegs exemplarisch darzustellen bzw. näher zu kontextualisieren. Der Belegsatz ist in der Regel im Dialekt angegeben und in der Lautschrift Teuthonista verschriftlicht."
+  Belegsatz_2: Belegsatz 2 weist dieselbe Funktionalität auf wie Belegsatz 1.
+  Sammlung: Eine Sammlung bündelt einzelne Einträge nach lexikographisch sinnvollen Gesichtspunkten. Alle Einträge der Sammlung teilen diese Gesichtspunkte.
+  Lautung_1: "Die angegebene Information umfasst die lautliche Transkription des vorliegenden Belegs. Die Transkription wurde auf der Grundlage eines Lautschriftsystems notiert, das jenem der Teuthonista gleicht oder zumindest ähnelt. Da die Datengrundlage des WBÖ auf unterschiedlichsten Quellen basiert und die Erhebungen der Fragebögen häufig von Laien-Sammlerinnen und -sammlern durchgeführt wurden, können sich Uneinheitlichkeiten bei der Transkription ergeben."
+  Lautung_2: Lautung 2 weist dieselbe Funktionalität auf wie Lautung 1.
+  Anmerkung: Zusätzliche Anmerkung über den Beleg.
+  Diverses: Zusätzliche undefinierte Anmerkung über den Beleg.
+  Substantiv: Dieser Beleg zählt zur Wortart Substantiv.
+  Verb: Dieser Beleg zählt zur Wortart Verb.
+  Adjektiv: Dieser Beleg zählt zur Wortart Adjektiv.
+  Adverb: Dieser Beleg zählt zur Wortart Adverb.
+  Praeposition: Dieser Beleg zählt zur Wortart Präposition.
+  Konjunktion: Dieser Beleg zählt zur Wortart Konjunktion.
+  Pronomen: Dieser Beleg zählt zur Wortart Pronomen.
+  Interjektion: Dieser Beleg zählt zur Wortart Interjektion.
+  Partikel: Dieser Beleg zählt zur Wortart Partikel.
+  Geschlecht: "Das grammatische Geschlecht eines Wortes wird in der Fachsprache als Genus bezeichnet. Im Deutschen gibt es drei Genera: Maskulinum (männlich), Femininum (weiblich) und Neutrum (sächlich). Das Genus eines Substantivs wird oft durch den Artikel (der, die, das) angezeigt."
+  Bedeutung: "Semantik, auch Bedeutungslehre genannt, ist die wissenschaftliche Beschäftigung mit Bedeutung und mit den verschiedenen Beziehungen zwischen einem Zeichen und dem Bezeichneten. In den Wörterbuchartikeln gehört die Angabe der Bedeutung bzw. Bedeutungen eines Wortes zu den zentralen Inhalten."
+  Belegsatz: "Ein Belegsatz1 oder Belegsatz2  wird verwendet, um die Bedeutung des Beleg in Form eines Satzes exemplarisch zu verdeutlichen. In den Daten wird statt der Bezeichnung \"Beispielsatz\" auch die Bezeichnung \"Belegsatz\" verwendet."
+  Wortvarianten: Unterschiedliche Varianten eines Wortes.
+  Woerterbuchartikel: "Eine strukturierte Beschreibung eines Lemmas, die Angaben zu Bedeutung (bzw. Bedeutungen), Aussprache, Grammatik, Verbreitung, Etymologie sowie ggfs. Wortbildungen und Redewendungen enthält."
+  Quelle_Datenbank: "Es handelt sich hierbei um eine formalisierte Angabe der geographischen Zuordnung des Belegs. Diese Besteht aus einer Sigle sowie einer in Abkürzungen formulierten und ggfs. hierarchisch (Gemeinde, Kleinregion, Großregion, Bundesland) gegliederten Verschriftlichung der geographischen Zuordnung."
+  CollectionCat: "Die CollectionCat (Abkürzung für Collection Categorizer) ist eine Software-Applikation, die zum Kategorisieren und Zusammenfassen von Belegen im Rahmen der lexikographischen Arbeit genutzt wird."
+  Simplex: "Ein Simplex ist ein einfaches Wort oder Lexem, das weder abgeleitet noch zusammengesetzt ist."
+  Kompositum: Ein Kompositum ist ein aus bereits vorhandenen Wörtern zusammengesetztes komplexes Wort. Der zugrunde liegende Wortbildungsprozess wird Komposition genannt.
+  Derivation: "Eine Derivation ist das Ergebnis eines Wortbildungsprozesses, bei dem durch Anhängen eines Affixes (Präfix, Suffix oder Zirkumfix) aus einem Wort ein neues Wort gebildet wird."
+  Grossregion: "Das Bearbeitungsgebiet (Großregion1 und Großregion2) des WBÖ ist regional untergliedert. Jeder regionalen Einheit ist eine eindeutige Sigle zugeordnet. Die größte regionale Einheit stellt dabei das \"Bundesland\" dar, welches folgendermaßen unterteilt ist: Südtirol (Sigle 1A), Osttirol (Sigle 1B), Nordtirol (Sigle 1C), Kärnten (Sigle 2), Steiermark (Sigle 3), Salzburg (Sigle 4), Oberösterreich (Sigle 5), Niederösterreich (Sigle 6), Wien (Sigle 6.5) sowie Burgenland (Sigle 7). \nDie zweitgrößte regionale Einheit ist die \"Großregion\", welche die Bundesländer in weitere Teilbereiche untergliedert. \nDie drittgrößte regionale Einheit ist die \"Kleinregion\", welche die Großregionen in weitere Teilbereiche untergliedert.\nDie viertgrößte regionale Einheit ist die \"Gemeinde\", welche die Kleinregionen in weitere Teilbereiche untergliedert."
+  Herkunftsort: "Geographische Lokation, aus der ein Beleg stammt. Die Angabe erfolgt auf der jeweils spezifischsten verfügbaren Ebene: Ist eine Gemeinde bekannt, wird diese angegeben; andernfalls eine Kleinregion, eine Großregion oder - als letzte Möglichkeit - das Bundesland."
+Belege[21]{ID,Fragebogennummer,Lemma,POS,Bedeutung_des_Belegsatzes,Bedeutung_der_Lautung,Belegsatz1,Belegsatz2,Lautung1,Lautung2,"Großregion",Herkunftsort,Diverses,Anmerkung}:
+  k496_qdbn-d16e67747,"",knerren;,Verb;,"",stoßend drängen; schieben;stoßend drängen schieben;,"","","","",1B.0 OTir.;,"","",""
+  k496_qdbn-d16e67956,"",knerren;,Verb;,"",knarre; ächze;knarre ächze;,"","","","",6.2 Industriev.;,6.2j13 Natschbach-Loipersbach;,"",""
+  k496_qdb-d1e80367,"",knerren;,Verb;,"","",d' Geigna thoan knerrn;d Geigna thoan knerrn;,"","","",5.3 Traunv.;,5.3l02 Enns;,"",""
+  k496_qdbn-d16e68430,"",knerren;,Verb;,"","greinen = mißmutig, ungeduldig schelten; poltern;greinen = mißmutig, ungeduldig schelten poltern;","","","","",5.1 Innv.;,5.1c07 Mühlheim am Inn;,"",""
+  k496_qdbn-d16e67818,"",knerren;,Verb;,"","knarren; knirschen, von Schnee; raunzen, keifen;knarren knirschen, von Schnee raunzen, keifen;","","","","",6.1 Mostv.;,6.1d01 Allhartsberg;,"",""
+  k496_qdbn-d16e68050,"",knerren;,Verb;,"",brummen; mürrisch reden;brummen mürrisch reden;,"","","","",5.2 Hausrv.;,5.2a29 Prambachkirchen;,"",""
+  k496_qdb-d1e80342,"",knerren;,Verb;,heftige Zänkerei;,"",dunarirn und knern;,"","","",5.1 Innv.;5.1 Innv.;,"","",""
+  k496_qdbn-d16e67770,"",knerren;,Verb;,"",brummen; zanken;brummen zanken;,"","","","","","","",""
+  k496_qdbn-d16e67933,"",knerren;,Verb;,"","knarren = gepreßt und eigensinnig weinenANMO: eig.;knarren = gepreßt und eigensinnig weinen ANM O: eig.;","","","","",6.2 Industriev.;,6.2j13 Natschbach-Loipersbach;,"",""
+  k496_qdbn-d16e68029,"",knerren;,Verb;,"",brummen; mürrisch reden;brummen mürrisch reden;,"","","","","","","",""
+  k496_qdb-d1e80318,"",knerren;,Verb;,"",drängen; drücken;drängen drücken;,"","","","",5.4 Mühlv.;,5.4b13 Ulrichsberg;,"",""
+  k496_qdbn-d16e68150,46B58;,knerren;,Verb;,"","auch: übereifrig und grob zur Arbeit antreiben, also poltern, schimpfen;auch: übereifrig und grob zur Arbeit antreiben, also poltern, schimpfen;","","","","",5.1 Innv.;,5.1c07 Mühlheim am Inn;,"",""
+  k496_qdbn-d16e68231,50I11;,knerren;,Verb;,"","","","","","",5.1 Innv.;,5.1c07 Mühlheim am Inn;,"",""
+  k496_qdbn-d16e68254,50I11;,knerren;,Verb;,"","","","","","",5.1 Innv.;,5.1c07 Mühlheim am Inn;,"",""
+  k496_qdbn-d16e68449,"",knerren;,Verb;,SIE (eine Henne) hat schon ungeduldig verlangt;,"durch Bitten, Klagen, Fordern lästig drängen;durch Bitten, Klagen, Fordern lästig drängen;","si hǫd šąⁿ oėwėˡ gnęəd [P2];si hod san oewel gneed P2;","","","",5.1 Innv.;,5.1c07 Mühlheim am Inn;,"",""
+  e210_qdb-d1e42159,"",knerren;,Verb;,"","","won d'Henn s Letzti Oar dneart [sg3];won dHenn s Letzti Oar dneart sg3;","","","",6.1 Mostv.;,6.1q06 Pyhra;,"",""
+  k496_qdbn-d16e68354,"",knerren;,Verb;,vor lauter Schinden ist er um die Kraft gekommen;,drängen; stoßen; treiben; plagen (andere zur Arbeit oder Nachgiebigkeit); sich plagen;drängen stoßen treiben plagen andere zur Arbeit oder Nachgiebigkeit sich plagen;,"m̱id lautə dnęəʳn [I/1,sg3]   is ə šąⁿ gąns tsąmkęmə;mid laute dneern I/1,sg3 is e san gans tsamkeme;","","","",5.1 Innv.;,5.1c07 Mühlheim am Inn;,"",""
+  k496_qdbn-d16e68327,"",knerren;,Verb;,"",drängen; stoßen; treiben; plagen (andere zur Arbeit oder Nachgiebigkeit); sich plagen;drängen stoßen treiben plagen andere zur Arbeit oder Nachgiebigkeit sich plagen;,"","","","",5.1 Innv.;,5.1c07 Mühlheim am Inn;,"",""
+  k496_qdbn-d16e68171,46B58;,knerren;,Verb;,der Wind tobt;,"schimpfen (von einem Zornigen)ANMB: umformuliert;schimpfen von einem Zornigen ANM B: umformuliert;","də wind gnęəʳd [sg3];de wind gneerd sg3;","","","",5.1 Innv.;,5.1c07 Mühlheim am Inn;,"",""
+  k496_qdbn-d16e68207,46B58;,knerren;,Verb;,"","schimpfen (von einem Zornigen)ANMB: umformuliert;schimpfen von einem Zornigen ANM B: umformuliert;","","","","",5.1 Innv.;,5.1c07 Mühlheim am Inn;,"",""
+  k496_qdbn-d16e68390,"",knerren;,Verb;,der schreit und schimpft wieder eins!;,poltern;,"dęə gnęəʳd [sg3]   widə wǫs tsąm!;dee gneerd sg3 wide wos tsam!;","","","",5.1 Innv.;,5.1c07 Mühlheim am Inn;,"",""

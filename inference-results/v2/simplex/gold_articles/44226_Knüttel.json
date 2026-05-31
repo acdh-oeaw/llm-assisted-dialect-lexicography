@@ -1,0 +1,207 @@
+{
+  "Lemma": "Knüttel",
+  "POS": "Substantiv",
+  "Genus": "Maskulinum",
+  "Form": {
+    "form": "Knütterl, Knüttelein",
+    "typ": "Diminutive",
+    "genus": "Neutrum"
+  },
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "Keule; Knüppel; Prügel (aus Holz)",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p2.1 ObKtn.",
+        "p2.3 MKtn.",
+        "p3.2 mbair.ObStmk.",
+        "p4 Sbg.",
+        "p5.1 Innv.",
+        "p5.3 Traunv.",
+        "p5.4 Mühlv.",
+        "p6.1 Mostv.",
+        "p6.3 Waldv.",
+        "p6.4 Weinv.",
+        "p7.1 NBgl.",
+        "p7.2 MBgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Knidl åʷhåkʰn",
+          "Herkunftsort": "Fusch an der Großglocknerstraße"
+        },
+        {
+          "Belegsatz": "a dicker Knittl",
+          "Herkunftsort": "St. Gilgen"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "dicker, unbearbeiteter Holzstock oder -stab",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A.4 öSTir.",
+        "p3.4 MStmk.",
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "als Zaunstecken eingesetzter, unbearbeiteter Holzstock",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p2.1 ObKtn.",
+        "p4.5 Flachg."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "zum (Vor-)Dreschen eingesetzter Holzstock",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A.4 öSTir.",
+        "p1B OTir.",
+        "p1C.3 öNTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Sensenstiel und/oder -griff",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p4.2 Pinzg.",
+        "p4.5 Flachg.",
+        "p5.1 Innv.",
+        "p5.4 Mühlv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "lose im Wald herumliegender Ast; Astholz",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p2.1 ObKtn.",
+        "p4.2 Pinzg.",
+        "p5.3 Traunv.",
+        "p6.3 Waldv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "kleiner Zweig, der als Brennholz eingesetzt werden kann (v. a. von Nadelholzbäumen); Scheit",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A.2 mSTir.",
+        "p1A.4 öSTir.",
+        "p1C.3 öNTir.",
+        "p2.1 ObKtn.",
+        "p4.2 Pinzg.",
+        "p5.2 Hausrv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "giwaiχto kχnītl geweihtes Scheit",
+          "Herkunftsort": "Kiens"
+        },
+        {
+          "Belegsatz": "mir is a Khnītl af de Augŋpā̊lkhə Augenlider her gspruŋgən",
+          "Herkunftsort": "Gitschtal"
+        },
+        {
+          "Belegsatz": "Knidl schnoatn junge Fichtenäste zu Streu hacken",
+          "Herkunftsort": "Mittersill"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "kräftiger, starker Mensch",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p5.3 Traunv.",
+        "p6.1 Mostv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Sanö Buəm sand ręchtö Dnidln",
+          "Herkunftsort": "Gmunden"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Mensch mit ungehobeltem, rohem Benehmen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p5.4 Mühlv.",
+        "p6.2 Industriev."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Bauer",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p5.4 Mühlv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Dėis is a raicha Knittl",
+          "Herkunftsort": "Lembach im Mühlkreis"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "etwas Großes (z. B. Kartoffel); ein großes Stück (z. B. Brot)",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p6.3 Waldv.",
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "a Gŋiddl Earabbfė Erdapfel",
+          "Herkunftsort": "Langenlois"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "etwas Langes, Dünnes (z. B. Arme)",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p4.5 Flachg."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "oam wia knidl",
+          "Herkunftsort": "Obertrum am See"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "etwas Knotiges (z. B. im Haar)",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p5.4 Mühlv."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

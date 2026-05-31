@@ -1,0 +1,88 @@
+Glossar:
+  Lemma: "'Lemma' beinhaltet sämtliche Einträge (inklusive Komposita und Wortbildungsvarianten), die einem bestimmten Lemma zugeordnet werden können. Zu diesem Zweck wurden alle Handzettel beziehungsweise die Einträge der Belegdatenbank lemmatisiert und nach historisch-etymologischen Gesichtspunkten - also linguistischen Prinzipien - einem Hauptlemma zugeordnet."
+  Fragebogennummer: "Auflistung von relevanten Fragebogennummern und Beschreibungen:\n* **74H7:** Katzenjunge werfen (); kätzeln/ver-, sonst.Bed.\n* **74F3:** katzern \"nach Katzenart tun\"\n* **21C3:** Fleisch in best.Zustand (gesundes, grünes,); Syn.\n* **74G7:** Katzenkralle (Krebel, Krämpelein); Pl./Dem.\n* **(or:** 12FA40)\n* **74F7:** Volksgl. über Katzen; Füg./Ra./Sprüche\n"
+  Part_of_Speech: Diese Angabe benennt die Wortart des jeweiligen Belegs.
+  Bedeutung_der_Lautung: Diese Information beschreibt die Bedeutung der Lautungsangabe auf dem Beleg.
+  Bedeutung_des_Belegsatzes: "Diese Information beschreibt die Bedeutung des in Spalte \"Belegsatz 1\", \"Belegsatz 2\" etc. angegebenen Belegsatzes. Es kann sich dabei um eine direkte standardsprachliche Übersetzung, eine standardsprachliche Periphrase oder um einen metasprachlichen Kommentar handeln."
+  Belegsatz_1: "Dieser Eintrag gibt einen Belegsatz, eine Redewendung oder eine Paraphrase wider, um die Bedeutung des Belegs exemplarisch darzustellen bzw. näher zu kontextualisieren. Der Belegsatz ist in der Regel im Dialekt angegeben und in der Lautschrift Teuthonista verschriftlicht."
+  Belegsatz_2: Belegsatz 2 weist dieselbe Funktionalität auf wie Belegsatz 1.
+  Sammlung: Eine Sammlung bündelt einzelne Einträge nach lexikographisch sinnvollen Gesichtspunkten. Alle Einträge der Sammlung teilen diese Gesichtspunkte.
+  Lautung_1: "Die angegebene Information umfasst die lautliche Transkription des vorliegenden Belegs. Die Transkription wurde auf der Grundlage eines Lautschriftsystems notiert, das jenem der Teuthonista gleicht oder zumindest ähnelt. Da die Datengrundlage des WBÖ auf unterschiedlichsten Quellen basiert und die Erhebungen der Fragebögen häufig von Laien-Sammlerinnen und -sammlern durchgeführt wurden, können sich Uneinheitlichkeiten bei der Transkription ergeben."
+  Lautung_2: Lautung 2 weist dieselbe Funktionalität auf wie Lautung 1.
+  Anmerkung: Zusätzliche Anmerkung über den Beleg.
+  Diverses: Zusätzliche undefinierte Anmerkung über den Beleg.
+  Substantiv: Dieser Beleg zählt zur Wortart Substantiv.
+  Verb: Dieser Beleg zählt zur Wortart Verb.
+  Adjektiv: Dieser Beleg zählt zur Wortart Adjektiv.
+  Adverb: Dieser Beleg zählt zur Wortart Adverb.
+  Praeposition: Dieser Beleg zählt zur Wortart Präposition.
+  Konjunktion: Dieser Beleg zählt zur Wortart Konjunktion.
+  Pronomen: Dieser Beleg zählt zur Wortart Pronomen.
+  Interjektion: Dieser Beleg zählt zur Wortart Interjektion.
+  Partikel: Dieser Beleg zählt zur Wortart Partikel.
+  Geschlecht: "Das grammatische Geschlecht eines Wortes wird in der Fachsprache als Genus bezeichnet. Im Deutschen gibt es drei Genera: Maskulinum (männlich), Femininum (weiblich) und Neutrum (sächlich). Das Genus eines Substantivs wird oft durch den Artikel (der, die, das) angezeigt."
+  Bedeutung: "Semantik, auch Bedeutungslehre genannt, ist die wissenschaftliche Beschäftigung mit Bedeutung und mit den verschiedenen Beziehungen zwischen einem Zeichen und dem Bezeichneten. In den Wörterbuchartikeln gehört die Angabe der Bedeutung bzw. Bedeutungen eines Wortes zu den zentralen Inhalten."
+  Belegsatz: "Ein Belegsatz1 oder Belegsatz2  wird verwendet, um die Bedeutung des Beleg in Form eines Satzes exemplarisch zu verdeutlichen. In den Daten wird statt der Bezeichnung \"Beispielsatz\" auch die Bezeichnung \"Belegsatz\" verwendet."
+  Wortvarianten: Unterschiedliche Varianten eines Wortes.
+  Woerterbuchartikel: "Eine strukturierte Beschreibung eines Lemmas, die Angaben zu Bedeutung (bzw. Bedeutungen), Aussprache, Grammatik, Verbreitung, Etymologie sowie ggfs. Wortbildungen und Redewendungen enthält."
+  Quelle_Datenbank: "Es handelt sich hierbei um eine formalisierte Angabe der geographischen Zuordnung des Belegs. Diese Besteht aus einer Sigle sowie einer in Abkürzungen formulierten und ggfs. hierarchisch (Gemeinde, Kleinregion, Großregion, Bundesland) gegliederten Verschriftlichung der geographischen Zuordnung."
+  CollectionCat: "Die CollectionCat (Abkürzung für Collection Categorizer) ist eine Software-Applikation, die zum Kategorisieren und Zusammenfassen von Belegen im Rahmen der lexikographischen Arbeit genutzt wird."
+  Simplex: "Ein Simplex ist ein einfaches Wort oder Lexem, das weder abgeleitet noch zusammengesetzt ist."
+  Kompositum: Ein Kompositum ist ein aus bereits vorhandenen Wörtern zusammengesetztes komplexes Wort. Der zugrunde liegende Wortbildungsprozess wird Komposition genannt.
+  Derivation: "Eine Derivation ist das Ergebnis eines Wortbildungsprozesses, bei dem durch Anhängen eines Affixes (Präfix, Suffix oder Zirkumfix) aus einem Wort ein neues Wort gebildet wird."
+  Grossregion: "Das Bearbeitungsgebiet (Großregion1 und Großregion2) des WBÖ ist regional untergliedert. Jeder regionalen Einheit ist eine eindeutige Sigle zugeordnet. Die größte regionale Einheit stellt dabei das \"Bundesland\" dar, welches folgendermaßen unterteilt ist: Südtirol (Sigle 1A), Osttirol (Sigle 1B), Nordtirol (Sigle 1C), Kärnten (Sigle 2), Steiermark (Sigle 3), Salzburg (Sigle 4), Oberösterreich (Sigle 5), Niederösterreich (Sigle 6), Wien (Sigle 6.5) sowie Burgenland (Sigle 7). \nDie zweitgrößte regionale Einheit ist die \"Großregion\", welche die Bundesländer in weitere Teilbereiche untergliedert. \nDie drittgrößte regionale Einheit ist die \"Kleinregion\", welche die Großregionen in weitere Teilbereiche untergliedert.\nDie viertgrößte regionale Einheit ist die \"Gemeinde\", welche die Kleinregionen in weitere Teilbereiche untergliedert."
+  Herkunftsort: "Geographische Lokation, aus der ein Beleg stammt. Die Angabe erfolgt auf der jeweils spezifischsten verfügbaren Ebene: Ist eine Gemeinde bekannt, wird diese angegeben; andernfalls eine Kleinregion, eine Großregion oder - als letzte Möglichkeit - das Bundesland."
+Belege[53]{ID,Fragebogennummer,Lemma,POS,Bedeutung_des_Belegsatzes,Bedeutung_der_Lautung,Belegsatz1,Belegsatz2,Lautung1,Lautung2,"Großregion",Herkunftsort,Diverses,Anmerkung}:
+  k463_qdb-d1e68361,"",kätzeln;kätzeln;,Verb;,"",Junge werfen von der Katze;,"","","","",5.2 Hausrv.;,5.2b46 Weibern;,"",""
+  k463_qdb-d1e67992,74H7;,kätzeln;kätzeln;,Verb;,"","","","","","",6.2 Industriev.;,6.2e03 Puchberg am Schneeberg;,"",""
+  k463_qdb-d1e67413,"",kÄtzeln;kÄtzeln;,Verb;,"",katzen;,"","","","",1A.4 öSTir.;,"","",""
+  k463_qdb-d1e67326,"",kÄtzeln;kÄtzeln;,Verb;,"",junge Katzen gebähren;junge Katzen gebähren;,"","","","",6.1 Mostv.;,6.1d01 Allhartsberg;,"",""
+  k463_qdb-d1e67570,"",kÄtzeln;kÄtzeln;,Verb;,"",junge Katzen werfen;,"","","","","","","",""
+  k463_qdb-d1e68446,74F3;,kätzeln;kätzeln;,Verb;,"",nach der Katze werfen;,"","","","",1C.3 öNTir.;,1C.3b03 Thiersee;,"",""
+  k463_qdb-d1e67868,74H7;,kätzeln;kätzeln;,Verb;,"","","","","","",1C.3 öNTir.;,1C.3b03 Thiersee;,"",""
+  k463_qdb-d1e68040,74H7;,kätzeln;kätzeln;,Verb;,"","","","","","",4.2 Pinzg.;,4.2c01 Fusch an der Großglocknerstraße;,"",""
+  k463_qdb-d1e68063,74H7;,kätzeln;kätzeln;,Verb;,"","","","","","",2.1 ObKtn.;,2.1b04 Rangersdorf;,"",""
+  k463_qdb-d1e68086,74H7;,kätzeln;kätzeln;,Verb;,"",kätzeln; hat nur den Sinn von Junge werfen; in übertragener Bedeutung erst im Kärntnischen;kätzeln hat nur den Sinn von Junge werfen in übertragener Bedeutung erst im Kärntnischen;,"","","","",1B.0 OTir.;1B.0 OTir.;,"","",""
+  k463_qdb-d1e68584,"",kätzeln;kätzeln;,Verb;,"",katzen;,"","","","",1A.4 öSTir.;,1A.4a01 Ahrntal;,"",""
+  k463_qdb-d1e68657,21C3;,kätzeln;kätzeln;,Verb;,"--;","",s flaiš tuit kχątsilan;s flais tuit kchatsilan;,"","","",1A.4 öSTir.;,1A.4d02 Kiens;,"",""
+  k463_qdb-d1e67613,"",kätzeln;kätzeln;,Verb;,"",Junge werfen (von der Katze); sich erbrechen;Junge werfen von der Katze sich erbrechen;,"","","","","","","",""
+  k463_qdb-d1e67940,74H7;,kätzeln;kätzeln;,Verb;,"",kätzeln; Junge werfen (Katze);kätzeln Junge werfen Katze;,"","","","",1A.4 öSTir.;,1A.4c01 Lüsen;,"",""
+  k463_qdb-d1e69058,"",kätzeln;kätzeln;,Verb;,"",Junge bekommen (von Katzen);Junge bekommen von Katzen;,"","","","",4.1 Lung.;,"","",""
+  k463_qdb-d1e73904,74H7;,kätzeln;kätzeln;,Verb;,"","","","","","",1C.3 öNTir.;,1C.3i05 St. Johann in Tirol;,"",""
+  k463_qdb-d1e67351,74H7;,kÄtzeln;kÄtzeln;,Verb;,"",Junge werfen;,"","","","",5.2 Hausrv.;,5.2b46 Weibern;,"",""
+  k463_qdb-d1e67377,"",kÄtzeln;kÄtzeln;,Verb;,"",junge Katzen werfen;,"Unser Katz hat kātzelt / siebne, achte, neune; / oans dös hat koa Schwānzl ghabt, / stöck ma's wida eini!;Unser Katz hat katzelt / siebne, achte, neune / oans dös hat koa Schwanzl ghabt, / stöck mas wida eini!;","","","","","","",""
+  k463_qdb-d1e67680,74H7;,kätzeln;kätzeln;,Verb;,"","katzeln, Junge werfen;","","","","",2.2 MKtn.;2.2 MKtn.;2.2 MKtn.;2.2 MKtn.;,"","",""
+  k463_qdb-d1e67746,74H7;,kätzeln;kätzeln;,Verb;,"",Junge gebären;Junge gebären;,"","","","",5.1 Innv.;,5.1c07 Mühlheim am Inn;,"",""
+  k463_qdb-d1e67965,74H7;,kätzeln;kätzeln;,Verb;,Junge bekommen;,"",Die Mutz hat katzlt;,"","","",4.5 Flachg.;,4.5d05 St. Gilgen;,"",""
+  k463_qdb-d1e68015,74H7;,kätzeln;kätzeln;,Verb;,"",Junge werfen;,"","","","",5.4 Mühlv.;,5.4c04 Gramastetten;,"",""
+  k463_qdb-d1e68261,74G7;,kätzeln;kätzeln;,Verb;,"",Junge werfen (sonst keine Bedeutung);Junge werfen sonst keine Bedeutung;,"","","","",1C.3 öNTir.;,1C.3e06 Kufstein;,"",""
+  k463_qdb-d1e67438,"",kÄtzeln;kÄtzeln;,Verb;,"",Katzen gebären;Katzen gebären;,"","","","",1A.2 mSTir.;1A.2 mSTir.;,"","",""
+  k463_qdb-d1e69108,(or;,kätzeln;kätzeln;,Verb;,"","","","","","",5.4 Mühlv.;,5.4c01 Eidenberg;,"",""
+  k463_qdb-d1e69131,"",kätzeln;kätzeln;,Verb;,"",junge Katzen werfen;,"","","","",5.1 Innv.;,5.1c07 Mühlheim am Inn;,"",""
+  k463_qdb-d1e69207,74F7;,kätzeln;kätzeln;,Verb;,"","","a Gsötztl aus einen Tanzlied, das ben \"Naibǫaröschn\" gesungen wird: insa Khåtz khatzlt schąⁿ mę̂ / briŋd oöls'hąnd Khatzl dahę̄ / branno u. flökadö - schwårtzö u. gschękadö - insa Khåtz khatzlt schąⁿ mę̄ (Båscha);a Gsötztl aus einen Tanzlied, das ben Naiboaröschn gesungen wird: insa Khatz khatzlt schan me / bringd oölshand Khatzl dahe / branno u. flökadö  schwartzö u. gschekadö  insa Khatz khatzlt schan me Bascha;","","","",5.3 Traunv.;,5.3b02 Gmunden;,"",""
+  k463_qdb-d1e67710,74H7;,kätzeln;kätzeln;,Verb;,"",Junge werfen;,hǫt kxatsl̥t;hot kchatslt;,"","","",1C.1 wNTir.;,1C.1n01 Imst;,"",""
+  k463_qdb-d1e67773,74H7;,kätzeln;kätzeln;,Verb;,"","","","","","",5.1 Innv.;,5.1c07 Mühlheim am Inn;,"",""
+  k463_qdb-d1e67547,"",kÄtzeln;kÄtzeln;,Verb;,"",Junge kriegen von der Katze;,"","","","",5.2 Hausrv.;,5.2b46 Weibern;,"",""
+  k463_qdb-d1e67916,74H7;,kätzeln;kätzeln;,Verb;,"","","","","","",1C.3 öNTir.;,1C.3f02 Hopfgarten im Brixental;,"",""
+  k463_qdb-d1e68338,"",kätzeln;kätzeln;,Verb;,"",Werfen d. Katze;,"","","","",4.2 Pinzg.;,4.2c01 Fusch an der Großglocknerstraße;,"",""
+  k463_qdb-d1e68134,74H7;,kätzeln;kätzeln;,Verb;,"","Junge werfenANMO: nicht schmeicheln;","","","","","","","",""
+  k463_qdb-d1e68111,"",kätzeln;kätzeln;,Verb;,"",Junge werfen;,"","","","",3.1 sbair.ObStmk.;,3.1a05 Stadl-Predlitz;,"",""
+  k463_qdb-d1e68236,74H7;,kätzeln;kätzeln;,Verb;,"",katzeln=Junge bekommen;,"","","","",5.2 Hausrv.;,5.2e01 Linz;,"",""
+  k463_qdb-d1e68384,"",kätzeln;kätzeln;,Verb;,"",junge Katzen zu Welt bringen; verächtlich für gebären;junge Katzen zu Welt bringen verächtlich für gebären;,"","","","",5.4 Mühlv.;,5.4b13 Ulrichsberg;,"",""
+  k463_qdb-d1e68407,"",kätzeln;kätzeln;,Verb;,"","","","","","","","","",""
+  k463_qdb-d1e68181,74H7;,kätzeln;kätzeln;,Verb;,"",katzeln; Junge werfen;katzeln Junge werfen;,"","","","",6.1 Mostv.;,6.1f05 Purgstall an der Erlauf;,"",""
+  k463_qdb-d1e68559,"",kätzeln;kätzeln;,Verb;,"","\"junge Katzen zur Welt bringen\";junge Katzen zur Welt bringen;","","","","","","","",""
+  k463_qdb-d1e68634,"",kätzeln;kätzeln;,Verb;,"","Junge werfenANMO: 2) w. Katzen;Junge werfen ANM O: 2 w. Katzen;","","","","","","","",""
+  k463_qdb-d1e68686,"",kätzeln;kätzeln;,Verb;,"",nach Katzen riechen oder schmecken;,"","","","",6.1 Mostv.;,6.1o01 Herzogenburg;,"",""
+  k463_qdb-d1e69032,"",kätzeln;kätzeln;,Verb;,"",Junge werfen (Katzen);Junge werfen Katzen;,"","","","",5.2 Hausrv.;,5.2d06 Mondsee;,"",""
+  f289_qdb-d1e33480,"",kätzeln;kätzeln;,Verb;,"","","g kǫts katslt [sg3];g kots katslt sg3;","","","",5.1 Innv.;,5.1a02 Eggelsberg;,"",""
+  k463_qdb-d1e69154,"",kätzeln;kätzeln;,Verb;,"",junge Katzen werfen;,"","","","",5.1 Innv.;,5.1a02 Eggelsberg;,"",""
+  k463_qdb-d1e68156,74H7;,kätzeln;kätzeln;,Verb;,"","kätzeln, Junge werfen (Katze);kätzeln, Junge werfen Katze;","","","","",1C.2 mNTir.;,1C.2a29 Weer;,"",""
+  k463_qdb-d1e69083,"",kätzeln;kätzeln;,Verb;,"",Junge (Katzen) werfen;Junge Katzen werfen;,"","","","",5.2 Hausrv.;,5.2d06 Mondsee;,"",""
+  k463_qdb-d1e67796,74H7;,"kätzeln:6 kopiert;kätzeln:6 kopiert;","","","","","","","",5.1 Innv.;,5.1a02 Eggelsberg;,"",""
+  k463_qdb-d1e69002,"",kätzeln;kätzeln;,Verb;,"","kätzelen: Junge werfen von der Katze;kätzelen: Junge werfen von der Katze;","","","","",5.2 Hausrv.;,5.2d06 Mondsee;,"",""
+  k463_qdb-d1e68212,74H7;,"kätzeln:6 kopiert;kätzeln:6 kopiert;","","Junge werfen, katzeln;","",Junge werfa;,"","","",6.1 Mostv.;,6.1f05 Purgstall an der Erlauf;,"",""
+  k463_qdb-d1e67472,"",kÄtzeln;kÄtzeln;,Verb;,"","kätzeln, Junge werfen (von der Katze);kätzeln, Junge werfen von der Katze;","","","","",2.2 MKtn.;,2.2i07 Villach;,"",""
+  k463_qdb-d1e69252,74F7;,"kätzeln:1 kopiert;kätzeln:1 kopiert;","","","",ben Naibǫaröschn;ben Naiboaröschn;,"","","",5.3 Traunv.;,5.3b02 Gmunden;,"",""
+  k463_qdb-d1e67816,74H7;,"kätzeln:6 kopiert;kätzeln:6 kopiert;","","","","","","","",5.3 Traunv.;,5.3g05 Kremsmünster;,"",""
+  k463_qdb-d1e67499,"",kÄtzeln;kÄtzeln;,Verb;,"",Junge werfen (v.d.Katze);Junge werfen v.d.Katze;,"","","","",2.2 MKtn.;,2.2i05 Spittal an der Drau;,"",""

@@ -1,0 +1,78 @@
+{
+  "Lemma": "Kepenek",
+  "POS": "Substantiv",
+  "Genus": "Maskulinum",
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "(grober) Mantel, besonders auch (sehr grober) Regenmantel und Reitmantel",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p3 Stmk.",
+        "p6 NÖ",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Olli meine Herrn, ihr wisst s' es eh, / I brauchat Feistling und an Kebaneh. / Des alloan is no nit gnua, / naucha Pudlhauben g'hert a dazua. / Hot neuni gschlogn",
+          "Herkunftsort": "Ternitz"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "(alter, langer oder weiter) Überrock für Herren; Überrock (besonders Winterrock) mit ungarischer Verschnürung; (lange) Jacke für Herren",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p3 Stmk.",
+        "p6.1 Mostv.",
+        "p6.3 Waldv.",
+        "p6.4 Weinv.",
+        "p6.5 Wien",
+        "p7.1 NBgl.",
+        "p7.3 SBgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Wos host du für an Gehbanek on?",
+          "Herkunftsort": "Waldkirchen an der Thaya"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "altes Kleidungsstück, besonders schäbiger Mantel oder Rock für Herren",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Ziach do' nët den alt'n Gewernek an!",
+          "Herkunftsort": "Wien"
+        },
+        {
+          "Belegsatz": "Wås håst denn heit' für an' ålt'n Ge̱wernek an?",
+          "Herkunftsort": "Wien"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Kopf",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p3.2 mbair.ObStmk.",
+        "p3.4 MStmk.",
+        "p3.5 OStmk."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "hǫuld her dein Gepaneg",
+          "Herkunftsort": "Kirchbach-Zerlach"
+        }
+      ]
+    }
+  ]
+}

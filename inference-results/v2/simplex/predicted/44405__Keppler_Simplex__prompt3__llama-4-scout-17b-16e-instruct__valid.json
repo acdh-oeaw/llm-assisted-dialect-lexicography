@@ -1,0 +1,58 @@
+{
+    "Lemma": "Këppler;Keppler",
+    "POS": "Subst",
+    "Genus": "männlich",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Keifer",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.5 Wien",
+                "5.2 Hausrv.",
+                "3.3 WStmk."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k474_qdb-d1e74371",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.5 Wien"
+                },
+                {
+                    "ID": "k474_qdb-d1e74418",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.2 Hausrv."
+                },
+                {
+                    "ID": "k474_qdb-d1e74439",
+                    "Belegsatz": "",
+                    "Herkunftsort": "3.3c08 Stainz"
+                }
+            ],
+            "Belege": [
+                "k474_qdb-d1e74371",
+                "k474_qdb-d1e74418",
+                "k474_qdb-d1e74439"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "streitsüchtiger Mensch; schwatzhafter Zänker",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                ""
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k474_qdb-d1e74396",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k474_qdb-d1e74396"
+            ]
+        }
+    ]
+}

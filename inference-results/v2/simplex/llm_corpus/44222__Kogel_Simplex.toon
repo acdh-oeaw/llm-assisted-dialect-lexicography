@@ -1,0 +1,104 @@
+Glossar:
+  Lemma: "'Lemma' beinhaltet sämtliche Einträge (inklusive Komposita und Wortbildungsvarianten), die einem bestimmten Lemma zugeordnet werden können. Zu diesem Zweck wurden alle Handzettel beziehungsweise die Einträge der Belegdatenbank lemmatisiert und nach historisch-etymologischen Gesichtspunkten - also linguistischen Prinzipien - einem Hauptlemma zugeordnet."
+  Fragebogennummer: "Auflistung von relevanten Fragebogennummern und Beschreibungen:\n* **104C1 (1):** best.Bodenerhebg., Appell./EigN?, Ltg.+Bed. (Hügel, Högel, Hübel, Hoger, Hofer, Bühel,)\n* **104C1 (x):** best.Bodenerhebg., Appell./EigN?, Ltg.+Bed. (Hügel, Högel, Hübel, Hoger, Hofer, Bühel,)\n* **104C1:** best.Bodenerhebg., Appell./EigN?, Ltg.+Bed. (Hügel, Högel, Hübel, Hoger, Hofer, Bühel,)\n* **28A4:** Wölbung im Backofen\n* **EFb.2/10:** ansteigende Wiese (Leite, Halde, Rank)\n* **104C1 (F):** best.Bodenerhebg., Appell./EigN?, Ltg.+Bed. (Hügel, Högel, Hübel, Hoger, Hofer, Bühel,)\n* **92C10:** Schutzdach od. Wölbung über d. offenen Herd ()\n* **104C1 (b):** best.Bodenerhebg., Appell./EigN?, Ltg.+Bed. (Hügel, Högel, Hübel, Hoger, Hofer, Bühel,)\n"
+  Part_of_Speech: Diese Angabe benennt die Wortart des jeweiligen Belegs.
+  Bedeutung_der_Lautung: Diese Information beschreibt die Bedeutung der Lautungsangabe auf dem Beleg.
+  Bedeutung_des_Belegsatzes: "Diese Information beschreibt die Bedeutung des in Spalte \"Belegsatz 1\", \"Belegsatz 2\" etc. angegebenen Belegsatzes. Es kann sich dabei um eine direkte standardsprachliche Übersetzung, eine standardsprachliche Periphrase oder um einen metasprachlichen Kommentar handeln."
+  Belegsatz_1: "Dieser Eintrag gibt einen Belegsatz, eine Redewendung oder eine Paraphrase wider, um die Bedeutung des Belegs exemplarisch darzustellen bzw. näher zu kontextualisieren. Der Belegsatz ist in der Regel im Dialekt angegeben und in der Lautschrift Teuthonista verschriftlicht."
+  Belegsatz_2: Belegsatz 2 weist dieselbe Funktionalität auf wie Belegsatz 1.
+  Sammlung: Eine Sammlung bündelt einzelne Einträge nach lexikographisch sinnvollen Gesichtspunkten. Alle Einträge der Sammlung teilen diese Gesichtspunkte.
+  Lautung_1: "Die angegebene Information umfasst die lautliche Transkription des vorliegenden Belegs. Die Transkription wurde auf der Grundlage eines Lautschriftsystems notiert, das jenem der Teuthonista gleicht oder zumindest ähnelt. Da die Datengrundlage des WBÖ auf unterschiedlichsten Quellen basiert und die Erhebungen der Fragebögen häufig von Laien-Sammlerinnen und -sammlern durchgeführt wurden, können sich Uneinheitlichkeiten bei der Transkription ergeben."
+  Lautung_2: Lautung 2 weist dieselbe Funktionalität auf wie Lautung 1.
+  Anmerkung: Zusätzliche Anmerkung über den Beleg.
+  Diverses: Zusätzliche undefinierte Anmerkung über den Beleg.
+  Substantiv: Dieser Beleg zählt zur Wortart Substantiv.
+  Verb: Dieser Beleg zählt zur Wortart Verb.
+  Adjektiv: Dieser Beleg zählt zur Wortart Adjektiv.
+  Adverb: Dieser Beleg zählt zur Wortart Adverb.
+  Praeposition: Dieser Beleg zählt zur Wortart Präposition.
+  Konjunktion: Dieser Beleg zählt zur Wortart Konjunktion.
+  Pronomen: Dieser Beleg zählt zur Wortart Pronomen.
+  Interjektion: Dieser Beleg zählt zur Wortart Interjektion.
+  Partikel: Dieser Beleg zählt zur Wortart Partikel.
+  Geschlecht: "Das grammatische Geschlecht eines Wortes wird in der Fachsprache als Genus bezeichnet. Im Deutschen gibt es drei Genera: Maskulinum (männlich), Femininum (weiblich) und Neutrum (sächlich). Das Genus eines Substantivs wird oft durch den Artikel (der, die, das) angezeigt."
+  Bedeutung: "Semantik, auch Bedeutungslehre genannt, ist die wissenschaftliche Beschäftigung mit Bedeutung und mit den verschiedenen Beziehungen zwischen einem Zeichen und dem Bezeichneten. In den Wörterbuchartikeln gehört die Angabe der Bedeutung bzw. Bedeutungen eines Wortes zu den zentralen Inhalten."
+  Belegsatz: "Ein Belegsatz1 oder Belegsatz2  wird verwendet, um die Bedeutung des Beleg in Form eines Satzes exemplarisch zu verdeutlichen. In den Daten wird statt der Bezeichnung \"Beispielsatz\" auch die Bezeichnung \"Belegsatz\" verwendet."
+  Wortvarianten: Unterschiedliche Varianten eines Wortes.
+  Woerterbuchartikel: "Eine strukturierte Beschreibung eines Lemmas, die Angaben zu Bedeutung (bzw. Bedeutungen), Aussprache, Grammatik, Verbreitung, Etymologie sowie ggfs. Wortbildungen und Redewendungen enthält."
+  Quelle_Datenbank: "Es handelt sich hierbei um eine formalisierte Angabe der geographischen Zuordnung des Belegs. Diese Besteht aus einer Sigle sowie einer in Abkürzungen formulierten und ggfs. hierarchisch (Gemeinde, Kleinregion, Großregion, Bundesland) gegliederten Verschriftlichung der geographischen Zuordnung."
+  CollectionCat: "Die CollectionCat (Abkürzung für Collection Categorizer) ist eine Software-Applikation, die zum Kategorisieren und Zusammenfassen von Belegen im Rahmen der lexikographischen Arbeit genutzt wird."
+  Simplex: "Ein Simplex ist ein einfaches Wort oder Lexem, das weder abgeleitet noch zusammengesetzt ist."
+  Kompositum: Ein Kompositum ist ein aus bereits vorhandenen Wörtern zusammengesetztes komplexes Wort. Der zugrunde liegende Wortbildungsprozess wird Komposition genannt.
+  Derivation: "Eine Derivation ist das Ergebnis eines Wortbildungsprozesses, bei dem durch Anhängen eines Affixes (Präfix, Suffix oder Zirkumfix) aus einem Wort ein neues Wort gebildet wird."
+  Grossregion: "Das Bearbeitungsgebiet (Großregion1 und Großregion2) des WBÖ ist regional untergliedert. Jeder regionalen Einheit ist eine eindeutige Sigle zugeordnet. Die größte regionale Einheit stellt dabei das \"Bundesland\" dar, welches folgendermaßen unterteilt ist: Südtirol (Sigle 1A), Osttirol (Sigle 1B), Nordtirol (Sigle 1C), Kärnten (Sigle 2), Steiermark (Sigle 3), Salzburg (Sigle 4), Oberösterreich (Sigle 5), Niederösterreich (Sigle 6), Wien (Sigle 6.5) sowie Burgenland (Sigle 7). \nDie zweitgrößte regionale Einheit ist die \"Großregion\", welche die Bundesländer in weitere Teilbereiche untergliedert. \nDie drittgrößte regionale Einheit ist die \"Kleinregion\", welche die Großregionen in weitere Teilbereiche untergliedert.\nDie viertgrößte regionale Einheit ist die \"Gemeinde\", welche die Kleinregionen in weitere Teilbereiche untergliedert."
+  Herkunftsort: "Geographische Lokation, aus der ein Beleg stammt. Die Angabe erfolgt auf der jeweils spezifischsten verfügbaren Ebene: Ist eine Gemeinde bekannt, wird diese angegeben; andernfalls eine Kleinregion, eine Großregion oder - als letzte Möglichkeit - das Bundesland."
+Belege[69]{ID,Fragebogennummer,Lemma,POS,Bedeutung_des_Belegsatzes,Bedeutung_der_Lautung,Belegsatz1,Belegsatz2,Lautung1,Lautung2,"Großregion",Herkunftsort,Diverses,Anmerkung}:
+  k503_qdb-d1e26967,"",Kogel;,Subst;,"","eine schirmartige Mauer bei alten offenen FeuerherdenANMB: leicht umformuliert;","","","","",2.2 MKtn.;,2.2c03 Trebesing;,"Werden immer seltener, weil sich der Sparherd einbürgert.;ANM Werden immer seltener, weil sich der Sparherd einbürgert.;",""
+  k503_qdb-d1e26864,"",Kogel;,Subst;,"","\"Kogel\": kugelförmiges Schutzdach über dem offenen Herd;Kogel: kugelförmiges Schutzdach über dem offenen Herd;","","","","","","","",""
+  k503_qdb-d1e28824,"",Kogel;,Subst;,"",kegelförmige Erhebung;kegelförmige Erhebung;,"","","","",2.2 MKtn.;,"","",""
+  k503_qdb-d1e27401,"",Kogel;,Subst;,"","","","","","","","","",""
+  k503_qdb-d1e28805,"",Kogel;,Subst;,"",Anhöhe; kegelförmige Bergspitze;Anhöhe kegelförmige Bergspitze;,"","","","",4.1 Lung.;,"","",""
+  k503_qdbn-d16e23730,"",Kogel;,Subst;,"",Rauchmantel zum Auffangen von Rauch und aufsteigenden Funken;,"","","","","","","",""
+  k503_qdb-d1e30475,"EFb.8/83: der Kesselbogen beim offenen Herd;",Kogel;,Subst;,"",der Kesselbogen beim offenen Herd;,"","","","",2.2 MKtn.;,2.2i08 Weißenstein;,"",""
+  k503_qdb-d1e26889,"",Kogel;,Subst;,"","","","","","",2.2 MKtn.;,2.2b01 Malta;,"",""
+  k503_qdb-d1e26940,"",Kogel;,Subst;,"","\"Kogel\": Rauchmantel über dem offenen Herd;Kogel: Rauchmantel über dem offenen Herd;","","","","",2.2 MKtn.;,2.2i07 Villach;,"",""
+  k503_qdb-d1e27062,"",Kogel;,Subst;,"",der Feuerhut;,"","","","",2.2 MKtn.;,2.2e01 Bad Kleinkirchheim;,"",""
+  k503_qdbn-d16e24015,"",Kogel;,Subst;,"","kleiner Berg, (Hügel);kleiner Berg, Hügel;","","","","","","","",""
+  k503_qdb-d1e27488,"",Kogel;,Subst;,"",Berg in konischer Form;,"","","","","","","",""
+  k503_qdb-d1e27569,"",Kogel;,Subst;,"",Hügel;Hügel;,"","","","",3.4 MStmk.;,3.4d01 Graz;,"",""
+  k503_qdbn-d16e24184,"",Kogel;,Subst;,"",(runder) Berg;runder Berg;,"","","","",3.2 mbair.ObStmk.;,3.2n07 Liezen;,"",""
+  k503_qdbn-d16e24235,"",Kogel;,Subst;,"",Bergkuppe;,"","","","",2.1 ObKtn.;,2.1h02 Hermagor-Pressegger See;,"",""
+  k503_qdb-d1e27735,"",Kogel;,Subst;,"",ein Felsen; Kuppe eines Berges;ein Felsen Kuppe eines Berges;,"","","","","","","",""
+  k503_qdb-d1e27223,"",Kogel;,Subst;,"",Funkenhut über offenem Herd;Funkenhut über offenem Herd;,"","","","","","","",""
+  k503_qdb-d1e27912,"",Kogel;,Subst;,"",kleiner Berg;,"","","","","","","",""
+  k503_qdb-d1e27954,104C1 (1);,Kogel;,Subst;,"","","","","","",1C.1 wNTir.;,1C.1l03 Kauns;,"",""
+  k503_qdb-d1e28002,104C1 (x);,Kogel;,Subst;,"","","","","","",6.4 Weinv.;,6.4d18 Poysdorf;,"",""
+  k503_qdb-d1e28249,104C1;,Kogel;,Subst;,"","","","","","",3.1 sbair.ObStmk.;,3.1d03 Lobmingtal;,"",""
+  k503_qdbn-d16e24872,"",Kogel;,Subst;,"","runder, nicht sehr felsiger Berg mittlerer Höhe;runder, nicht sehr felsiger Berg mittlerer Höhe;","","","","",3.2 mbair.ObStmk.;,3.2n07 Liezen;,"",""
+  k503_qdb-d1e28508,"",Kogel;,Subst;,"",Hügel;Hügel;,"","","","",6.1 Mostv.;,6.1h01 Gaming;,"",""
+  k503_qdbn-d16e24966,"",Kogel;,Subst;,"",Hügel;Hügel;,"","","","","","","",""
+  k503_qdbn-d16e26660,"",Kogel;,Subst;,"",Bergkuppe;,"","","","","","","",""
+  k503_qdbn-d16e26688,"",Kogel;,Subst;,"","Berg; BergspitzeANMO: häufig;Berg Bergspitze ANM O: häufig;","","","","",1C.1 wNTir.;1C.1 wNTir.;1C.1 wNTir.;,"","",""
+  k503_qdbn-d16e26783,"",Kogel;,Subst;,"","","","","","","","","",""
+  k503_qdb-d1e30741,"",Kogel;,Subst;,"","","","","","",1C.1 wNTir.;,1C.1r01 Sölden;,"",""
+  k503_qdbn-d16e23577,28A4;,Kogel;,Subst;,"",die außen sichtbare Wölbung des Ofens;die außen sichtbare Wölbung des Ofens;,"","","","",2.2 MKtn.;2.2 MKtn.;2.2 MKtn.;2.2 MKtn.;,"","",""
+  k503_qdb-d1e27018,"",Kogel;,Subst;,"",Feuerhut;,"","","","","","","",""
+  k503_qdb-d1e27041,"",Kogel;,Subst;,"","","","","","","","","",""
+  k503_qdb-d1e27154,"",Kogel;,Subst;,"","","","","","",3.2 mbair.ObStmk.;,"","",""
+  k503_qdb-d1e27371,"",Kogel;,Subst;,"",Der Kogel;,"","","","",5.3 Traunv.;,5.3a01 Ebensee;,"",""
+  k503_qdb-d1e27460,EFb.2/10;,Kogel;,Subst;,"",ansteigende Wiese;,"","","","",6.1 Mostv.;,6.1h01 Gaming;,Leitn;,""
+  k503_qdbn-d16e24203,"",Kogel;,Subst;,"",Bergkuppe;,"","","","","","","",""
+  k503_qdbn-d16e24220,"",Kogel;,Subst;,"",mittelhoher Berg von rundlicher Form;,"","","","","","","",""
+  k503_qdb-d1e27855,"",Kogel;,Subst;,"",Bergkuppe;,"","","","","","","",""
+  k503_qdb-d1e27931,104C1;,Kogel;,Subst;,"","","","","","",2.1 ObKtn.;,2.1b04 Rangersdorf;,"",x;ANM ch;
+  k503_qdb-d1e28025,104C1;,Kogel;,Subst;,"","","","","","",5.2 Hausrv.;,5.2a39 Traun;,"",""
+  k503_qdbn-d16e24616,104C1;,Kogel;,Subst;,"",felsige Erhebung etwa von Zuckerhut-Form;felsige Erhebung etwa von ZuckerhutForm;,"","","","",5.3 Traunv.;,5.3b02 Gmunden;,"",""
+  k503_qdbn-d16e24680,104C1 (F);,Kogel;,Subst;,"","2) einzelne in der Felsenregion liegende Partien der höheren und höchsten BergeANMO: so weist z.B. der Traunstein einen Traunkirchner-, einen Fahnen- und einen Pyramiden-^#Kog--öˡ^# auf; Gemeinsam diesen Kogöˡn  könnte man höchstens noch die negative Zeichng. geben: sie sind nicht (!) auffallend spitz!;2 einzelne in der Felsenregion liegende Partien der höheren und höchsten Berge ANM O: so weist z.B. der Traunstein einen Traunkirchner, einen Fahnen und einen Pyramiden^#Kogöl^# auf Gemeinsam diesen Kogöln könnte man höchstens noch die negative Zeichng. geben: sie sind nicht ! auffallend spitz!;","","","","",5.3 Traunv.;,5.3b02 Gmunden;,"",""
+  k503_qdbn-d16e24742,104C1;,Kogel;,Subst;,"","rundlicher Hügel von verschiedener GrößeANMO: in EigenN gern verwendet;rundlicher Hügel von verschiedener Größe ANM O: in EigenN gern verwendet;kleiner KOGELANMO: EigenN;","","","","",1C.3 öNTir.;,1C.3b03 Thiersee;,"",x;ANM ch;
+  k503_qdb-d1e28346,104C1;,Kogel;,Subst;,"","","","","","",3.1 sbair.ObStmk.;,3.1a05 Stadl-Predlitz;,"",""
+  k503_qdb-d1e28404,"",Kogel;,Subst;,"",runde Spitze;,"","","","",1C.1 wNTir.;,1C.1o01 St. Leonhard im Pitztal;,"",""
+  k503_qdbn-d16e24951,"",Kogel;,Subst;,"",Berg;,"","","","","","","",""
+  k503_qdb-d1e28724,"",Kogel;,Subst;,"",kegelförmiger Berg;kegelförmiger Berg;,"","","","",6.2 Industriev.;,6.2e06 Schwarzau im Gebirge;,"",""
+  k503_qdb-d1e28860,"",Kogel;,Subst;,"",Höhe;Höhe;,"","","","",3.2 mbair.ObStmk.;,3.2o03 Landl;,"",""
+  k503_qdbn-d16e26617,"",Kogel;,Subst;,"","\"Kogel\" = baldachinartiger Feuerhut über dem offenen Herd - als Funkenschutz;Kogel = baldachinartiger Feuerhut über dem offenen Herd  als Funkenschutz;","","","","","","","",""
+  k503_qdbn-d16e26720,"",Kogel;,Subst;,"","Berg; BergspitzeANMO: häufig;Berg Bergspitze ANM O: häufig;","","","","",1C.1 wNTir.;,"","",""
+  k503_qdbn-d16e26753,"",Kogel;,Subst;,"","","","","","",1C.1 wNTir.;,1C.1q12 Rietz;,"",""
+  k503_qdb-d1e26995,"",Kogel;,Subst;,"","","","","","",2.1 ObKtn.;2.2 MKtn.;,"","",""
+  k503_qdb-d1e27131,92C10;,Kogel;,Subst;,"","","","","","",2.2 MKtn.;,2.3e01 Steuerberg;,"",""
+  k503_qdb-d1e30519,"",Kogel;,Subst;,"",Hügel; runde Bodenerhebung;Hügel runde Bodenerhebung;,"","","","","","","",""
+  k503_qdb-d1e27350,"",Kogel;,Subst;,"","","","","","",7.2 MBgl.;,7.2b08 Pilgersdorf;,"",""
+  k503_qdb-d1e27592,"",Kogel;,Subst;,"","der Kogel, Berg;","iwan Kougl [m,sg4]   iwaraußi is Karn +?;iwan Kougl m,sg4 iwaraußi is Karn +?;","","","",3.3 WStmk.;,3.3b08 Ligist;,"",""
+  k503_qdb-d1e27173,"",Kogel;,Subst;,"","","Dar Rauch schleicht aufe untarn schwårzn Kogl [sg4];Dar Rauch schleicht aufe untarn schwarzn Kogl sg4;","","","",2.2 MKtn.;2.2 MKtn.;,"","",""
+  k503_qdb-d1e27832,"",Kogel;,Subst;,"","","","","","",3.2 mbair.ObStmk.;,"","",""
+  k503_qdbn-d16e24296,"",Kogel;,Subst;,"",Höhe von runder Gestalt;Höhe von runder Gestalt;,"","","","",6.1 Mostv.;,"","",""
+  k503_qdb-d1e28049,104C1 (b);,Kogel;,Subst;,"","","","","","",6.1 Mostv.;,6.1n02 Dunkelsteinerwald;,"",""
+  k503_qdb-d1e28072,104C1;,Kogel;,Subst;,"","","","","","",1C.1 wNTir.;,1C.1n01 Imst;,"",""
+  k503_qdbn-d16e24589,104C1;,Kogel;,Subst;,"","","","","","",1C.3 öNTir.;,1C.3e06 Kufstein;,"",""
+  k503_qdbn-d16e24644,104C1;,Kogel;,Subst;,"","1) ± baumlose, gerundete Erhebung größeren Umfangs, selten hochANMO: häufiger FlurN, auch Gw. vieler BergN;1 ± baumlose, gerundete Erhebung größeren Umfangs, selten hoch ANM O: häufiger FlurN, auch Gw. vieler BergN;","","","","",5.3 Traunv.;,5.3b02 Gmunden;,Kennzeichnet die Rundhöcker-Landschaft!;ANM Kennzeichnet die RundhöckerLandschaft!;,""
+  k503_qdbn-d16e24818,104C1;,Kogel;,Subst;,"","","","","","",3.3 WStmk.;,3.3c08 Stainz;,"",""
+  k503_qdbn-d16e24981,"",Kogel;,Subst;,"","BergkuppeANMO: in vielen BergN: Griąskōgl , Saukōgl , Schwårzkōgl , Aichbergkōgl , Zinkenk-ogl^# usw.;Bergkuppe ANM O: in vielen BergN: Griaskogl , Saukogl , Schwarzkogl , Aichbergkogl , Zinkenkogl^# usw.;","","","","",3.2 mbair.ObStmk.;,3.2b05 Wald am Schoberpaß;,"",""
+  k503_qdb-d1e27885,"",Kogel;,Subst;,"",Bergkegel;,"","","","",6.2 Industriev.;,6.2j13 Natschbach-Loipersbach;,"",""
+  k503_qdb-d1e28782,"",Kogel;,Subst;,"",Hügel;Hügel;,"","","","",6.1 Mostv.;,6.1k05 Kilb;,"",""
+  k503_qdb-d1e27196,"",Kogel;,Subst;,"",kegelförmiges Gezimmer über dem offenen Herd zum Auffangen des Rauches;kegelförmiges Gezimmer über dem offenen Herd zum Auffangen des Rauches;,"","","","",1C.1 wNTir.;,"","",""
+  k503_qdb-d1e28883,"",Kogel;,Subst;,"",Anhöhe; Bergkuppe;Anhöhe Bergkuppe;,"","","","",6.1 Mostv.;,6.1i01 Göstling an der Ybbs;,"",""
+  k503_qdb-d1e27108,92C10;,Kogel;,Subst;,"","","","","","",2.2 MKtn.;,2.2i04 Paternion;,"",""

@@ -1,0 +1,49 @@
+Glossar:
+  Lemma: "'Lemma' beinhaltet sämtliche Einträge (inklusive Komposita und Wortbildungsvarianten), die einem bestimmten Lemma zugeordnet werden können. Zu diesem Zweck wurden alle Handzettel beziehungsweise die Einträge der Belegdatenbank lemmatisiert und nach historisch-etymologischen Gesichtspunkten - also linguistischen Prinzipien - einem Hauptlemma zugeordnet."
+  Fragebogennummer: "Auflistung von relevanten Fragebogennummern und Beschreibungen:\n* **100C1:** das (Getreide-)Körndl keimt, tut keimen (keinn,)\n* **87G9:** sich kindisch benehmen (kindeinen, kindeinsen)\n* **63A1:** Kind; Pl./Dem.; Füg./Ra.\n* **88D19:** schäkern (spienzeln, schatzeln, gaspern)\n* **22G9c (F):** Muskulatur\n* **101B11:** Keimvorgang der Biergerste auf d. Tenne ()\n"
+  Part_of_Speech: Diese Angabe benennt die Wortart des jeweiligen Belegs.
+  Bedeutung_der_Lautung: Diese Information beschreibt die Bedeutung der Lautungsangabe auf dem Beleg.
+  Bedeutung_des_Belegsatzes: "Diese Information beschreibt die Bedeutung des in Spalte \"Belegsatz 1\", \"Belegsatz 2\" etc. angegebenen Belegsatzes. Es kann sich dabei um eine direkte standardsprachliche Übersetzung, eine standardsprachliche Periphrase oder um einen metasprachlichen Kommentar handeln."
+  Belegsatz_1: "Dieser Eintrag gibt einen Belegsatz, eine Redewendung oder eine Paraphrase wider, um die Bedeutung des Belegs exemplarisch darzustellen bzw. näher zu kontextualisieren. Der Belegsatz ist in der Regel im Dialekt angegeben und in der Lautschrift Teuthonista verschriftlicht."
+  Belegsatz_2: Belegsatz 2 weist dieselbe Funktionalität auf wie Belegsatz 1.
+  Sammlung: Eine Sammlung bündelt einzelne Einträge nach lexikographisch sinnvollen Gesichtspunkten. Alle Einträge der Sammlung teilen diese Gesichtspunkte.
+  Lautung_1: "Die angegebene Information umfasst die lautliche Transkription des vorliegenden Belegs. Die Transkription wurde auf der Grundlage eines Lautschriftsystems notiert, das jenem der Teuthonista gleicht oder zumindest ähnelt. Da die Datengrundlage des WBÖ auf unterschiedlichsten Quellen basiert und die Erhebungen der Fragebögen häufig von Laien-Sammlerinnen und -sammlern durchgeführt wurden, können sich Uneinheitlichkeiten bei der Transkription ergeben."
+  Lautung_2: Lautung 2 weist dieselbe Funktionalität auf wie Lautung 1.
+  Anmerkung: Zusätzliche Anmerkung über den Beleg.
+  Diverses: Zusätzliche undefinierte Anmerkung über den Beleg.
+  Substantiv: Dieser Beleg zählt zur Wortart Substantiv.
+  Verb: Dieser Beleg zählt zur Wortart Verb.
+  Adjektiv: Dieser Beleg zählt zur Wortart Adjektiv.
+  Adverb: Dieser Beleg zählt zur Wortart Adverb.
+  Praeposition: Dieser Beleg zählt zur Wortart Präposition.
+  Konjunktion: Dieser Beleg zählt zur Wortart Konjunktion.
+  Pronomen: Dieser Beleg zählt zur Wortart Pronomen.
+  Interjektion: Dieser Beleg zählt zur Wortart Interjektion.
+  Partikel: Dieser Beleg zählt zur Wortart Partikel.
+  Geschlecht: "Das grammatische Geschlecht eines Wortes wird in der Fachsprache als Genus bezeichnet. Im Deutschen gibt es drei Genera: Maskulinum (männlich), Femininum (weiblich) und Neutrum (sächlich). Das Genus eines Substantivs wird oft durch den Artikel (der, die, das) angezeigt."
+  Bedeutung: "Semantik, auch Bedeutungslehre genannt, ist die wissenschaftliche Beschäftigung mit Bedeutung und mit den verschiedenen Beziehungen zwischen einem Zeichen und dem Bezeichneten. In den Wörterbuchartikeln gehört die Angabe der Bedeutung bzw. Bedeutungen eines Wortes zu den zentralen Inhalten."
+  Belegsatz: "Ein Belegsatz1 oder Belegsatz2  wird verwendet, um die Bedeutung des Beleg in Form eines Satzes exemplarisch zu verdeutlichen. In den Daten wird statt der Bezeichnung \"Beispielsatz\" auch die Bezeichnung \"Belegsatz\" verwendet."
+  Wortvarianten: Unterschiedliche Varianten eines Wortes.
+  Woerterbuchartikel: "Eine strukturierte Beschreibung eines Lemmas, die Angaben zu Bedeutung (bzw. Bedeutungen), Aussprache, Grammatik, Verbreitung, Etymologie sowie ggfs. Wortbildungen und Redewendungen enthält."
+  Quelle_Datenbank: "Es handelt sich hierbei um eine formalisierte Angabe der geographischen Zuordnung des Belegs. Diese Besteht aus einer Sigle sowie einer in Abkürzungen formulierten und ggfs. hierarchisch (Gemeinde, Kleinregion, Großregion, Bundesland) gegliederten Verschriftlichung der geographischen Zuordnung."
+  CollectionCat: "Die CollectionCat (Abkürzung für Collection Categorizer) ist eine Software-Applikation, die zum Kategorisieren und Zusammenfassen von Belegen im Rahmen der lexikographischen Arbeit genutzt wird."
+  Simplex: "Ein Simplex ist ein einfaches Wort oder Lexem, das weder abgeleitet noch zusammengesetzt ist."
+  Kompositum: Ein Kompositum ist ein aus bereits vorhandenen Wörtern zusammengesetztes komplexes Wort. Der zugrunde liegende Wortbildungsprozess wird Komposition genannt.
+  Derivation: "Eine Derivation ist das Ergebnis eines Wortbildungsprozesses, bei dem durch Anhängen eines Affixes (Präfix, Suffix oder Zirkumfix) aus einem Wort ein neues Wort gebildet wird."
+  Grossregion: "Das Bearbeitungsgebiet (Großregion1 und Großregion2) des WBÖ ist regional untergliedert. Jeder regionalen Einheit ist eine eindeutige Sigle zugeordnet. Die größte regionale Einheit stellt dabei das \"Bundesland\" dar, welches folgendermaßen unterteilt ist: Südtirol (Sigle 1A), Osttirol (Sigle 1B), Nordtirol (Sigle 1C), Kärnten (Sigle 2), Steiermark (Sigle 3), Salzburg (Sigle 4), Oberösterreich (Sigle 5), Niederösterreich (Sigle 6), Wien (Sigle 6.5) sowie Burgenland (Sigle 7). \nDie zweitgrößte regionale Einheit ist die \"Großregion\", welche die Bundesländer in weitere Teilbereiche untergliedert. \nDie drittgrößte regionale Einheit ist die \"Kleinregion\", welche die Großregionen in weitere Teilbereiche untergliedert.\nDie viertgrößte regionale Einheit ist die \"Gemeinde\", welche die Kleinregionen in weitere Teilbereiche untergliedert."
+  Herkunftsort: "Geographische Lokation, aus der ein Beleg stammt. Die Angabe erfolgt auf der jeweils spezifischsten verfügbaren Ebene: Ist eine Gemeinde bekannt, wird diese angegeben; andernfalls eine Kleinregion, eine Großregion oder - als letzte Möglichkeit - das Bundesland."
+Belege[14]{ID,Fragebogennummer,Lemma,POS,Bedeutung_des_Belegsatzes,Bedeutung_der_Lautung,Belegsatz1,Belegsatz2,Lautung1,Lautung2,"Großregion",Herkunftsort,Diverses,Anmerkung}:
+  k483_qdb-d1e37302,100C1;,kindeln;,Verb;,das Körndl keimt schon;,"","S Kheandl khindlt [sg3]   schaou;S Kheandl khindlt sg3 schaou;","","","",6.3 Waldv.;,6.3a15 Kautzen;,"",""
+  k483_qdb-d1e37126,"",kindeln;,Verb;,"",gebären;gebären;,"","","","",6.4 Weinv.;,6.4d18 Poysdorf;,"",""
+  k483_qdb-d1e37175,87G9;,kindeln;,Verb;,"","","","","","",1C.3 öNTir.;,1C.3b03 Thiersee;,"",""
+  k483_qdb-d1e37150,"",kindeln;,Verb;,"",ein Kinderspiel;,"","","","",3.4 MStmk.;,3.4d01 Graz;,"Prof.Dr.Al.Pogatscher beschreibt dieses Kinderspiel aus den 60er Jahren: mehrere Buben legen ihre Kopfbedeckung, Boden unten, in einer geraden Reihe auf die Erde. 5-6 Schritte vom Ende werfen sie ein geknotetes Sacktuch (also einen Ball) hin, der in eine Mütze fallen soll. Gelingt dies, so hat der Eigentümer der Mütze \"ein Kindel gekriegt\" Er muß weglaufen. Der erfolgreiche Werfer aber muß die mit den Knoten verfolgen und trachten, ihnen das Kindl auf den Rücken zu werfen. Das Spiel scheint vergessen zu sein.;ANM Prof.Dr.Al.Pogatscher beschreibt dieses Kinderspiel aus den 60er Jahren: mehrere Buben legen ihre Kopfbedeckung, Boden unten, in einer geraden Reihe auf die Erde. 56 Schritte vom Ende werfen sie ein geknotetes Sacktuch also einen Ball hin, der in eine Mütze fallen soll. Gelingt dies, so hat der Eigentümer der Mütze ein Kindel gekriegt Er muß weglaufen. Der erfolgreiche Werfer aber muß die mit den Knoten verfolgen und trachten, ihnen das Kindl auf den Rücken zu werfen. Das Spiel scheint vergessen zu sein.;",""
+  k483_qdb-d1e37198,63A1;,kindeln;,Verb;,"",abgeschmackt zärtlich tun; sich wie ein Kind betragen;abgeschmackt zärtlich tun sich wie ein Kind betragen;,"","","","",1C.3 öNTir.;,1C.3b03 Thiersee;,"",""
+  k483_qdb-d1e37223,88D19;,kindeln;,Verb;,"",Kindereien machen im Liebesverhalten;,"","","","",1C.3 öNTir.;,1C.3b03 Thiersee;,"",""
+  k483_qdb-d1e37248,22G9c (F);,kindeln;,Verb;,"Du bist stark und wirst leicht gebären, entbinden;","","Du håst Holz ha dʳ Wōnd, werst leicht kindln;Du hast Holz ha dr Wond, werst leicht kindln;","","","",2.2 MKtn.;,2.3b04 Gurk;,"",""
+  k483_qdb-d1e37329,101B11;,kindeln;,Verb;,Die Gerste Kindelt;,"","Dgearschte khindlth [sg3];Dgearschte khindlth sg3;","","","",6.3 Waldv.;,6.3a15 Kautzen;,"",""
+  k483_qdb-d1e36976,"",kindeln;,Verb;,"","","","","","","","","",""
+  k483_qdb-d1e37103,"",kindeln;,Verb;,"",im Wochenbett liegen;,"","","","","","","",""
+  k483_qdb-d1e37052,"",kindeln;,Verb;,"",ein Kinderspiel treiben;,"","","","",1B.0 OTir.;,"","",""
+  k483_qdb-d1e36947,"",kindeln;,Verb;,"",im Wochenbett liegen;,"","","","","","",u. kindern;ANM u. kindern;,""
+  k483_qdb-d1e36924,"",kindeln;,Verb;,"","wie die Kinder spielen, arbeiten;","","","","","","","",""
+  k483_qdb-d1e37275,"7B7n: Ankunft des Wagens m. Heiratsgut;",kindeln;,Verb;,"","kindisch benehmenANMO: in der Regel mit abträglichen Beigeschmack;kindisch benehmen ANM O: in der Regel mit abträglichen Beigeschmack;","","","","",1C.3 öNTir.;,1C.3b03 Thiersee;,"",""

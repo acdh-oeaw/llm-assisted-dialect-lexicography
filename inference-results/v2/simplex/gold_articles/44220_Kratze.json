@@ -1,0 +1,245 @@
+{
+  "Lemma": "Kratze",
+  "POS": "Substantiv",
+  "Genus": "Maskulinum",
+  "Form": {
+    "form": "Krätzel Krätzerl Krätzelein",
+    "typ": "Diminutive",
+    "genus": "Neutrum"
+  },
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "Werkzeug, Gerät zum Kratzen, Scharren",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1C.3 öNTir.",
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Gerät zum Abwaschen des Geschirrs; Bürste aus Reisig oder Eisenspäne",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1C.1 wNTir.",
+        "p1C.3 öNTir.",
+        "p2 Ktn.",
+        "p3.1 sbair.ObStmk.",
+        "p3.3 WStmk.",
+        "p3.4 MStmk.",
+        "p4.2 Pinzg.",
+        "p5.3 Traunv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Gerät für die Kartoffelernte",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1C.3 öNTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Ackergerät; Gerät des Wegmachers",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir.",
+        "p2.2 MKtn.",
+        "p3.2 mbair.ObStmk."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Werkzeug im Bergbau",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p2.2 MKtn."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Werkzeug von Hutmachern",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p3.3 WStmk."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Bezeichnung für eine Spinnfabrik",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p6.2 Industriev."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "in dăʳ Gratz",
+          "Herkunftsort": "Pottendorf"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Hand mit Fingernägeln",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1C.3 öNTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "vordere Katzenpfote",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p6.2 Industriev."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Wunde; die rote Spur vom Kratzen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p1B.0 OTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "dichtbehaarte Körperstelle, z. B. Nasenloch",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p2.2 MKtn."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "ęəʳ khån glei åwåschn mit sain Khrazl",
+          "Herkunftsort": "Klagenfurt"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Stoppelbart",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p2.2 MKtn."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "kleine Schar",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p3.3 WStmk."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Schimpfwort für eine Person, die bei der Arbeit wenig leistet",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p5.3 Traunv.",
+        "p6.3 Waldv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Du o͡uüdi Grōtzn",
+          "Herkunftsort": "Kautzen"
+        },
+        {
+          "Belegsatz": "bist a rechti Grōtzn",
+          "Herkunftsort": "Kautzen"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "alter, dürrer Mann",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p2.2 MKtn."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Is dås a schiᵃchr Krazl!",
+          "Herkunftsort": "obstGurkt."
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Teufel",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p2.1 ObKtn.",
+        "p2.2 MKtn."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Nẹ̄gl a wiə s Khrāzəlẹ",
+          "Herkunftsort": "Gitschtal"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "schlechtes Bett",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p4 Sbg."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Überrest; Bodensatz",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 3",
+      "Regionen": [
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "dünner Zweig",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 3",
+      "Regionen": [
+        "p1B.0 OTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Ansatz bei Pflanzensetzlingen",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 3",
+      "Regionen": [
+        "p6.1 Mostv.",
+        "p6.3 Waldv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Blütenrest beim Kernobst",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 3",
+      "Regionen": [
+        "p6.3 Waldv."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

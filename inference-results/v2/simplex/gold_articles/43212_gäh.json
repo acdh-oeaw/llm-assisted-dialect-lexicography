@@ -1,0 +1,181 @@
+{
+  "Lemma": "gäh gach",
+  "POS": "Adjektiv",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "rasch; schnell; eilig; übereilig; hastig; ungestüm; unüberlegt; sofort; plötzlich; von kurzer Dauer; unerwartet",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir.",
+        "p2 Ktn.",
+        "p3 Stmk.",
+        "p4 Sbg.",
+        "p5 OÖ",
+        "p6 NÖ",
+        "p6.5 Wien",
+        "p7 Bgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Gach kom̄ts ihm",
+          "Herkunftsort": "Reichenau"
+        },
+        {
+          "Belegsatz": "Drink ne̊t so gah, sinst wirst rausche̊!",
+          "Herkunftsort": "Kirchberg-Thening"
+        },
+        {
+          "Belegsatz": "ę̄ īs a bissl z' gāʰ gfåʳn",
+          "Herkunftsort": "Gmunden"
+        },
+        {
+          "Belegsatz": "Na, nā! nit so goach!",
+          "Herkunftsort": "Poysdorf"
+        },
+        {
+          "Belegsatz": "So gach geh'n m'r's nët an",
+          "Herkunftsort": "Wien"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "bald; bald darauf, allmählich; dann auf einmal; mit der Zeit; nach einiger Zeit; endlich",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir.",
+        "p4.1 Lung.",
+        "p4.2 Pinzg."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "gachis ischt a mandl kemmin",
+          "Herkunftsort": "Außervillgraten"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "manchmal",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p2.1 ObKtn."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "jähzornig; zornig; aufbrausend; schnell erregbar",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir.",
+        "p2 Ktn.",
+        "p4.5 Flachg.",
+        "p5.1 Innv.",
+        "p5.2 Hausrv.",
+        "p6.3 Waldv.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Mei Mån is sovl gach",
+          "Herkunftsort": "Ktn."
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Hitzkopf; zorniger Mensch",
+      "Typ": "Variante",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p2.2 MKtn.",
+        "p5.1 Innv.",
+        "p7.1 NBgl."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Zorn",
+      "Typ": "Variante",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1C.2 mNTir.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "I' hab' an Gachᵉn auf eahm",
+          "Herkunftsort": "Wien"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "steil; abschüssig",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p1A.2 mSTir.",
+        "p1C.1 wNTir.",
+        "p2.2 MKtn.",
+        "p3.1 sbair.ObStmk.",
+        "p3.3 WStmk.",
+        "p3.5 OStmk.",
+        "p4 Sbg.",
+        "p5 OÖ",
+        "p6.1 Mostv.",
+        "p6.3 Waldv.",
+        "p6.5 Wien",
+        "p7.2 MBgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "gacha Barg",
+          "Herkunftsort": "Stainz"
+        },
+        {
+          "Belegsatz": "ês ged då ga å",
+          "Herkunftsort": "nördl.obInnv."
+        },
+        {
+          "Belegsatz": "Tou gehts gach oi",
+          "Herkunftsort": "Pilgersdorf"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "heftig; scharf; sehr groß, stark, schwer",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p3.3 WStmk.",
+        "p4.1 Lung.",
+        "p5.2 Hausrv.",
+        "p5.3 Traunv.",
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "die Sun̄ is döt nött so gach",
+          "Herkunftsort": "Stainz"
+        },
+        {
+          "Belegsatz": "ɒ gāxe raįd",
+          "Herkunftsort": "Zederhaus"
+        },
+        {
+          "Belegsatz": "is aufgspruŋga vun a gachn Hitz",
+          "Herkunftsort": "Heldenberg"
+        }
+      ]
+    }
+  ]
+}

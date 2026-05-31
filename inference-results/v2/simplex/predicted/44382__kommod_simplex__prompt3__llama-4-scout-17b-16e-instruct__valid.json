@@ -1,0 +1,97 @@
+{
+    "Lemma": "kommód;kommod",
+    "POS": "Adj",
+    "Genus": "null",
+    "Kasus": "null",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "bequem, angenehm",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.2 mSTir.",
+                "2.2 MKtn.",
+                "3.3 WStmk.",
+                "5.2 Hausrv.",
+                "6.1 Mostv.",
+                "6.2 Industriev.",
+                "6.4 Weinv.",
+                "6.5 Wien",
+                "7.1 NBgl."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k504_qdb-d1e11611",
+                    "Belegsatz": "kamouti [f] Nosn",
+                    "Herkunftsort": "2.4 UKtn."
+                },
+                {
+                    "ID": "k504_qdb-d1e9810",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k504_qdb-d1e11611",
+                "k504_qdb-d1e9810",
+                "k504_qdb-d1e13303",
+                "k504_qdb-d1e14109",
+                "k504_qdb-d1e10055"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "gemütlich, freundlich",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "2.2 MKtn.",
+                "3.1 sbair.ObStmk.",
+                "3.3 WStmk.",
+                "5.1 Innv.",
+                "6.1 Mostv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k504_qdb-d1e13791",
+                    "Belegsatz": "",
+                    "Herkunftsort": "2.2d02 Reichenau"
+                },
+                {
+                    "ID": "k504_qdb-d1e14545",
+                    "Belegsatz": "a komōta [m] Mensch",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k504_qdb-d1e13791",
+                "k504_qdb-d1e14545",
+                "k504_qdb-d1e14663"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "praktisch, brauchbar",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "3.3 WStmk.",
+                "6.2 Industriev."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k504_qdb-d1e10028",
+                    "Belegsatz": "",
+                    "Herkunftsort": "2.3g01 Frauenstein"
+                },
+                {
+                    "ID": "k504_qdb-d1e14901",
+                    "Belegsatz": "",
+                    "Herkunftsort": "3.2p01 Admont"
+                }
+            ],
+            "Belege": [
+                "k504_qdb-d1e10028",
+                "k504_qdb-d1e14901"
+            ]
+        }
+    ]
+}

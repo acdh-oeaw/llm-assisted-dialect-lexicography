@@ -1,0 +1,48 @@
+{
+  "Lemma": "gilben",
+  "POS": "Verb",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "gelb werden; sich gelb färben",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p5 OÖ",
+        "p7.1 NBgl."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "gelb machen/färben",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "mit der Gilbwurzel einreiben (von krankem Vieh)",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p6.1 Mostv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "mit der Gilbwurzel impfen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p5 OÖ"
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

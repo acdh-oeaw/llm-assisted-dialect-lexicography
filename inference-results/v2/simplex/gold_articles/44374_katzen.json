@@ -1,0 +1,45 @@
+{
+  "Lemma": "katzen",
+  "POS": "Verb",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "streiten",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p3.5 OStmk."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "mia san z'kåzn kemma",
+          "Herkunftsort": "Hartberg"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "sich energisch wehren; sich etwas nicht gefallen lassen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A.4 öSTir."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "hǫn mė gikχǫtst dərfun",
+          "Herkunftsort": "Lüsen"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "sich jemandem gegenüber übertrieben süßlich verhalten",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1C.2 mNTir."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

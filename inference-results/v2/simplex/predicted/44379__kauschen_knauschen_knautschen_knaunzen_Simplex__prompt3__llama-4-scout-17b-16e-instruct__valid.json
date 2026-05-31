@@ -1,0 +1,75 @@
+{
+    "Lemma": "knauschen/knautzen",
+    "POS": "Verb",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "mit Geräusch essen oder kauen",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.3 Traunv.",
+                "6.2 Industriev.",
+                "6.3 Waldv.",
+                "7.3 SBgl."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k495_qdb-d1e56417",
+                    "Belegsatz": "gna͡uscht [sg3]   wi͡aʳ ă Sa͡u;",
+                    "Herkunftsort": "6.2j15 Pottendorf"
+                }
+            ],
+            "Belege": [
+                "k495_qdb-d1e56417",
+                "k465_qdb-d1e27127",
+                "k495_qdb-d1e56392",
+                "k495_qdb-d1e56553"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "weinerlich reden oder jammern",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.1 Mostv.",
+                "6.2 Industriev.",
+                "6.5 Wien",
+                "1C.1 wNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k495_qdb-d1e68693",
+                    "Belegsatz": "weinerlich reden, klagende Töne ausstoßen, leise jammern und klagen;",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k495_qdb-d1e68693",
+                "k495_qdb-d1e56336",
+                "k495_qdb-d1e54954"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "sparen oder geizen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "differenzierte Bedeutung",
+            "Regionen": [
+                "6.4 Weinv.",
+                "6.5 Wien"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k495_qdb-d1e50520",
+                    "Belegsatz": "sparen, knicken, geizen;",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k495_qdb-d1e50520",
+                "k495_qdb-d1e55444"
+            ]
+        }
+    ]
+}

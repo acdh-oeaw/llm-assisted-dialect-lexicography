@@ -1,0 +1,48 @@
+{
+  "Lemma": "Kentel",
+  "POS": "Substantiv",
+  "Genus": "Maskulinum, Neutrum",
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "kleine Holzfackel; Kienspan",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p3 Stmk.",
+        "p4.3 Pong."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "kleines Holzsscheit; Spanholz; Reisig (zum Anfeuern)",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p5.3 Traunv.",
+        "p6.3 Waldv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "an Kēndl suᵃchn",
+          "Herkunftsort": "Fendels"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "kleiner Wandherd in alten Bauernstuben",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p3 Stmk."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

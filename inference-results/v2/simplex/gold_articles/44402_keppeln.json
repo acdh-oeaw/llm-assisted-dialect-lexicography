@@ -1,0 +1,175 @@
+{
+  "Lemma": "keppeln",
+  "POS": "Verb",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "keifen; zanken",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir.",
+        "p2.2 MKtn.",
+        "p3 Stmk.",
+        "p4.1 Lung.",
+        "p5 OÖ",
+        "p6 NÖ",
+        "p6.5 Wien",
+        "p7 Bgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "s' Weibsbild, dös keblád",
+          "Herkunftsort": "Aspach"
+        },
+        {
+          "Belegsatz": "vo dá Keföádn Res",
+          "Herkunftsort": "Pramet"
+        },
+        {
+          "Belegsatz": "a keflerts Toan",
+          "Herkunftsort": "Traun"
+        },
+        {
+          "Belegsatz": "Wås den du åwa in oana Dua drauⁿ z käwin håst ?",
+          "Herkunftsort": "St. Oswald bei Freistadt"
+        },
+        {
+          "Belegsatz": "dė̄ kėfid sou lång, bis īaʳ d' Zė̄nd in Grōgŋ ōwifoiˡn",
+          "Herkunftsort": "Gastern"
+        },
+        {
+          "Belegsatz": "Dë kepplt wås z'samm!",
+          "Herkunftsort": "Wien"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "schimpfen; schelten",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p2.2 MKtn.",
+        "p3.2 mbair.ObStmk.",
+        "p3.4 MStmk.",
+        "p5.2 Hausrv.",
+        "p5.3 Traunv.",
+        "p5.4 Mühlv.",
+        "p6.1 Mostv.",
+        "p6.2 Industriev.",
+        "p6.3 Waldv.",
+        "p6.5 Wien",
+        "p7 Bgl."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "nörgeln; tadeln",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p5.1 Innv.",
+        "p5.2 Hausrv.",
+        "p5.3 Traunv.",
+        "p6.3 Waldv.",
+        "p6.4 Weinv.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "håd ȇwai wos (ebbs) z kefön und z kempfn",
+          "Herkunftsort": "nördl.obInnv."
+        },
+        {
+          "Belegsatz": "Sie kebelt den ganzen Tag",
+          "Herkunftsort": "nöWaldv."
+        },
+        {
+          "Belegsatz": "Wås këplst denn schon wieder?",
+          "Herkunftsort": "Wien"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "lästern",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p2.2 MKtn.",
+        "p3.2 mbair.ObStmk.",
+        "p5.1 Innv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "verleumden",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p6.3 Waldv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "schwatzen; plaudern",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p2 Ktn.",
+        "p3.3 WStmk.",
+        "p3.4 MStmk.",
+        "p3.5 OStmk.",
+        "p4.3 Pong.",
+        "p4.5 Flachg.",
+        "p6.1 Mostv.",
+        "p6.2 Industriev.",
+        "p6.3 Waldv.",
+        "p7.2 MBgl.",
+        "p7.3 SBgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "'s Keppeln das hab' ih schon g'nue",
+          "Herkunftsort": "Natschbach-Loipersbach"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "durch Reden lästig fallen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p6.1 Mostv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "kauen; fein zerbeißen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p6.1 Mostv.",
+        "p6.3 Waldv.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Aͦuⁿ döi Nägln kefüˡn",
+          "Herkunftsort": "Waidhofen an der Thaya"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "mit dem Kiefer mummeln (bei alten Frauen ohne Zähne)",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p6.3 Waldv."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

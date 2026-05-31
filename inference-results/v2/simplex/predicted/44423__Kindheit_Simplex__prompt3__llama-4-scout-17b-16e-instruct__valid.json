@@ -1,0 +1,35 @@
+{
+    "Lemma": "Kindheit",
+    "POS": "Subst",
+    "Genus": "Femininum",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Lebensphase des Aufwachsens",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.1 Mostviertel",
+                "6.3 Waldviertel",
+                "5.3 Traunviertel",
+                "1C.1 Westtirol"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k483_qdbn-d16e34861",
+                    "Belegsatz": "In sãĩna Khindhaid [f,sg3]",
+                    "Herkunftsort": "6.1n02 Dunkelsteinerwald"
+                },
+                {
+                    "ID": "k483_qdbn-d16e34649",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.3a15 Kautzen"
+                }
+            ],
+            "Belege": [
+                "k483_qdbn-d16e34861",
+                "k483_qdbn-d16e34649"
+            ]
+        }
+    ]
+}

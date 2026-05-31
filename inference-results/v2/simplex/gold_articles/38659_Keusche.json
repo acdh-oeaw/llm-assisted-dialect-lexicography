@@ -1,0 +1,201 @@
+{
+  "Lemma": "Keusche",
+  "POS": "Substantiv",
+  "Genus": "Femininum",
+  "Form": {
+    "form": "Keuschel Keuscherl Keuschlein",
+    "typ": "Diminutive",
+    "genus": "Neutrum"
+  },
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "(kleines) Haus, Anwesen; Hütte",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A.4 öSTir.",
+        "p1B.0 OTir.",
+        "p1C.2 mNTir.",
+        "p1C.3 öNTir.",
+        "p2 Ktn.",
+        "p3 Stmk.",
+        "p4.1 Lung.",
+        "p4.2 Pinzg.",
+        "p4.3 Pong.",
+        "p5 OÖ",
+        "p6 NÖ",
+        "p6.5 Wien",
+        "p7.1 NBgl.",
+        "p7.2 MBgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Maii Ggaiischŋ is ma voa draii Wouchŋ owgepreiŋt abgebrannt",
+          "Herkunftsort": "Winklern"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "abwertende Bezeichnung für ein kleines, ärmliches, baufälliges Haus/Anwesen oder eine ärmliche Wohnung",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A.4 öSTir.",
+        "p1B.0 OTir.",
+        "p1C.2 mNTir.",
+        "p1C.3 öNTir.",
+        "p2.2 MKtn.",
+        "p3.1 sbair.ObStmk.",
+        "p3.2 mbair.ObStmk.",
+        "p3.4 MStmk.",
+        "p3.5 OStmk.",
+        "p4 Sbg.",
+        "p5 OÖ",
+        "p6 NÖ",
+        "p6.5 Wien",
+        "p7.1 NBgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "A so an Keuschn nimm i' jå nët amål g'schenkter!",
+          "Herkunftsort": "Wien"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "(kleines) Bauernhaus",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p2.1 ObKtn.",
+        "p3 Stmk.",
+        "p5.3 Traunv.",
+        "p6.1 Mostv.",
+        "p6.2 Industriev.",
+        "p6.4 Weinv.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Ausgedingehaus für Altbauern",
+      "Typ": [
+        "I",
+        "2",
+        "b",
+        "α",
+        ""
+      ],
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p2.1 ObKtn.",
+        "p2.3 MKtn."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "kleines, meist hölzernes Wehrhaus",
+      "Typ": [
+        "I",
+        "2",
+        "b",
+        "β",
+        ""
+      ],
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p3.3 WStmk."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "kleines Gebäude als Getreidespeicher",
+      "Typ": [
+        "I",
+        "2",
+        "b",
+        "γ",
+        ""
+      ],
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p4.3 Pong."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "kleines, minderes Gasthaus",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A.4 öSTir.",
+        "p5.3 Traunv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Arrest(lokal)",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p2.2 MKtn.",
+        "p4.1 Lung."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "deᵃʳ is schon in dʳ Kaichn gwösn",
+          "Herkunftsort": "Straßburg"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "kleine, ärmliche Wohnung",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1B.0 OTir.",
+        "p1C.3 öNTir.",
+        "p2.2 MKtn.",
+        "p6.4 Weinv.",
+        "p6.5 Wien",
+        "p7 Bgl."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Abteilung im Stall; Verschlag; Käfig",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p3.2 mbair.ObStmk.",
+        "p4.2 Pinzg.",
+        "p4.3 Pong."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Kaixn fi di Dutlkaiwln Kälber, die noch gesäugt werden",
+          "Herkunftsort": "Fusch an der Großglocknerstraße"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Pferch für Schafe auf der Alm",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p4 Sbg."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Bettgestell; Kinderbett",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p4.3 Pong.",
+        "p6.3 Waldv."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

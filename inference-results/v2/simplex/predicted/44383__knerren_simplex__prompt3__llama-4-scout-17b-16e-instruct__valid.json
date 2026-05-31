@@ -1,0 +1,144 @@
+{
+    "Lemma": "knerren",
+    "POS": "Verb",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "drängen; stoßen",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1B.0 OTir.",
+                "5.3 Traunv.",
+                "5.4 Mühlv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k496_qdbn-d16e67747",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1B.0 OTir."
+                },
+                {
+                    "ID": "k496_qdb-d1e80367",
+                    "Belegsatz": "d' Geigna thoan knerrn",
+                    "Herkunftsort": "5.3 Traunv."
+                },
+                {
+                    "ID": "k496_qdb-d1e80318",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.4 Mühlv."
+                }
+            ],
+            "Belege": [
+                "k496_qdbn-d16e67747",
+                "k496_qdb-d1e80367",
+                "k496_qdb-d1e80318"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "schimpfen; poltern",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.1 Innv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k496_qdbn-d16e68430",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.1c07 Mühlheim am Inn"
+                },
+                {
+                    "ID": "k496_qdbn-d16e68150",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.1c07 Mühlheim am Inn"
+                },
+                {
+                    "ID": "k496_qdbn-d16e68207",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.1c07 Mühlheim am Inn"
+                }
+            ],
+            "Belege": [
+                "k496_qdbn-d16e68430",
+                "k496_qdbn-d16e68150",
+                "k496_qdbn-d16e68207"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "knarren; ächzen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.2 Industriev."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k496_qdbn-d16e67956",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.2j13 Natschbach-Loipersbach"
+                },
+                {
+                    "ID": "k496_qdbn-d16e67933",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.2j13 Natschbach-Loipersbach"
+                }
+            ],
+            "Belege": [
+                "k496_qdbn-d16e67956",
+                "k496_qdbn-d16e67933"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "brummen; mürrisch reden",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.2 Hausrv.",
+                ""
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k496_qdbn-d16e68050",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.2a29 Prambachkirchen"
+                },
+                {
+                    "ID": "k496_qdbn-d16e67770",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k496_qdbn-d16e68050",
+                "k496_qdbn-d16e67770"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "durch Bitten, Klagen, Fordern lästig drängen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.1 Innv.",
+                "6.1 Mostv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k496_qdbn-d16e68449",
+                    "Belegsatz": "si hǫd šąⁿ oėwėˡ gnęəd [P2]",
+                    "Herkunftsort": "5.1c07 Mühlheim am Inn"
+                },
+                {
+                    "ID": "e210_qdb-d1e42159",
+                    "Belegsatz": "won d'Henn s Letzti Oar dneart [sg3]",
+                    "Herkunftsort": "6.1q06 Pyhra"
+                }
+            ],
+            "Belege": [
+                "k496_qdbn-d16e68449",
+                "e210_qdb-d1e42159"
+            ]
+        }
+    ]
+}

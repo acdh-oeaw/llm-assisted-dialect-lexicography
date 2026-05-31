@@ -1,0 +1,130 @@
+{
+    "Lemma": "Flecke",
+    "POS": "Subst",
+    "Genus": "Femininum",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Brett; Bodenbrett",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.2 mSTir.",
+                "1A.4 öSTir.",
+                "1C.1 wNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "f264_qdb-d1e105484",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1A.2c01 Aldein"
+                },
+                {
+                    "ID": "f264_qdb-d1e106056",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.1n01 Imst"
+                }
+            ],
+            "Belege": [
+                "f264_qdb-d1e105484",
+                "f264_qdb-d1e106056"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "dickes Brett fÃ¼r TennenbÃ¶den",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.2 mSTir.",
+                "1C.1 wNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "f264_qdb-d1e104981",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "f264_qdb-d1e105335",
+                    "Belegsatz": "die dicken Bodenladen in der Tenne",
+                    "Herkunftsort": "1C.1n01 Imst"
+                }
+            ],
+            "Belege": [
+                "f264_qdb-d1e104981",
+                "f264_qdb-d1e105335"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Bretter(n)",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.2 mSTir.",
+                "1A.4 öSTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "f264_qdb-d1e108762",
+                    "Belegsatz": "An den HÃ¼tten auf den BergmÃ¤hdern ist giebelseitig eine Ã–ffnung ausgeschnitten, die meist nur mit dÃ¼nnen RundstÃ¤mmen oder Brettern (s. oder Kegl ), die waagrecht eingeschoben werden ( aukegln ) verschlossen sind.",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "f264_qdb-d1e108762"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Latte",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "f264_qdb-d1e105958",
+                    "Belegsatz": "Brett; Latte",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "f264_qdb-d1e105958"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Teig- oder Fleischteilchen als Speise",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.1 Mostv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "f264_qdb-d1e104780",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "f264_qdb-d1e104780"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "festgepreÃŸtes Heu im Schober",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.2 mNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "f264_qdb-d1e105509",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "f264_qdb-d1e105509"
+            ]
+        }
+    ]
+}

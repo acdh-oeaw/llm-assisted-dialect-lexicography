@@ -1,0 +1,98 @@
+{
+    "Lemma": "Köder",
+    "POS": "Subst",
+    "Genus": "m.",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Lockspeise zum Fischen oder Jagen",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.2 mNTir.",
+                "5.3 Traunv.",
+                "6.2 Industriev.",
+                "7.1 NBgl."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k502_qdb-d1e83708",
+                    "Belegsatz": "Hast du den Köder schon hinein getan?",
+                    "Herkunftsort": "1C.2 mNTir."
+                },
+                {
+                    "ID": "k502_qdb-d1e82807",
+                    "Belegsatz": "Fischköder",
+                    "Herkunftsort": "5.3 Traunv."
+                }
+            ],
+            "Belege": [
+                "k502_qdb-d1e81679",
+                "k502_qdb-d1e83708",
+                "k502_qdb-d1e82807",
+                "k502_qdb-d1e84549"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Teil zwischen Schuhsohle und Oberleder",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.4 Weinv.",
+                "1C.3 öNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k502_qdb-d1e80854",
+                    "Belegsatz": "Quader, Afterleder des Schuhs",
+                    "Herkunftsort": "6.4 Weinv."
+                },
+                {
+                    "ID": "k502_qdb-d1e80994",
+                    "Belegsatz": "Hinterteil",
+                    "Herkunftsort": "1C.3 öNTir."
+                }
+            ],
+            "Belege": [
+                "k502_qdb-d1e80854",
+                "k502_qdb-d1e80994"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Scherzhafte Bezeichnung für Brot",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.5 Wien"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k502_qdb-d1e80399",
+                    "Belegsatz": "Brot",
+                    "Herkunftsort": "6.5 Wien"
+                }
+            ],
+            "Belege": [
+                "k502_qdb-d1e80399",
+                "k502_qdb-d1e80426",
+                "k502_qdb-d1e80580"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Geile Frau (weil sie gern anbeißen läßt)",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "weitere Bedeutung 1",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "k502_qdb-d1e80683",
+                    "Belegsatz": "Köder (weil sie gern anbeißen läßt) geile Frau",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k502_qdb-d1e80683"
+            ]
+        }
+    ]
+}

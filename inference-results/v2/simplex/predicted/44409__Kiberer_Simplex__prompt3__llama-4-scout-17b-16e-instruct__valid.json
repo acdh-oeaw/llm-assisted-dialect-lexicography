@@ -1,0 +1,49 @@
+{
+    "Lemma": "Kiberer",
+    "POS": "Subst",
+    "Genus": "männlich",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Polizist, Kriminalbeamter",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.5 Wien",
+                "6.1 Mostviertel"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k481_qdb-d1e616",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.5 Wien"
+                },
+                {
+                    "ID": "k481_qdb-d1e662",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.5 Wien"
+                }
+            ],
+            "Belege": [
+                "k481_qdb-d1e616",
+                "k481_qdb-d1e662"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Geheimpolizist",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "k481_qdb-d1e324",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k481_qdb-d1e324"
+            ]
+        }
+    ]
+}

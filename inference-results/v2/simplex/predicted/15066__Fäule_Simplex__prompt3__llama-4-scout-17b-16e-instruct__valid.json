@@ -1,0 +1,159 @@
+{
+    "Lemma": "Fäule;Fäule;",
+    "POS": "Subst",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Faulheit; Trägheit",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.1 Innv.",
+                "5.4 Mühlv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "f243_qdb-d1e41396",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.1c07 Mühlheim am Inn"
+                },
+                {
+                    "ID": "f243_qdb-d1e40612",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.1 Innv."
+                }
+            ],
+            "Belege": [
+                "f243_qdb-d1e41396",
+                "f243_qdb-d1e40612"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Fäulnis (eitrige Erkrankung, besonders der Füße)",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "f243_qdb-d1e41189",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "f243_qdb-d1e41189"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Platz um die Sennhütte, wo das Vieh sich lagert",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "f243_qdb-d1e41236",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "f243_qdb-d1e40909",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "f243_qdb-d1e41236",
+                "f243_qdb-d1e40909"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Grasfläche unter dem Almstall",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.3 öNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "f243_qdb-d1e40802",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.3 öNTir."
+                }
+            ],
+            "Belege": [
+                "f243_qdb-d1e40802"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "STELLEN, WO DAS GESTEIN STARK ZERRIEBEN IST",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "f243_qdb-d1e41214",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "f243_qdb-d1e41214"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Schläfrigkeit",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "4.5e01 Salzburg"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "f243_qdb-d1e40840",
+                    "Belegsatz": "vō lauta fauė åiˡoei goametzn;",
+                    "Herkunftsort": "4.5e01 Salzburg"
+                }
+            ],
+            "Belege": [
+                "f243_qdb-d1e40840"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Mundfäule",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.4c01 Eidenberg"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "f243_qdb-d1e40564",
+                    "Belegsatz": "dęaʳ håt d'fäüˡ;",
+                    "Herkunftsort": "5.4c01 Eidenberg"
+                }
+            ],
+            "Belege": [
+                "f243_qdb-d1e40564"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "BESTIMMTE BEERENKRANKHEIT",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.3 Traunv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "f243_qdb-d1e41434",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.3 Traunv."
+                }
+            ],
+            "Belege": [
+                "f243_qdb-d1e41434"
+            ]
+        }
+    ]
+}

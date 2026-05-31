@@ -1,0 +1,27 @@
+{
+  "Lemma": "Kindsin",
+  "POS": "Substantiv",
+  "Genus": "Femininum",
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "Kinderfrau; Kindermädchen; Frau, die auf Kinder aufpasst",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p3 Stmk.",
+        "p4 Sbg.",
+        "p5 OÖ"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "sie is als Kintzin beim N.N.",
+          "Herkunftsort": "St. Gilgen"
+        }
+      ]
+    }
+  ]
+}

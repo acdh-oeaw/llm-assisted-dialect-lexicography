@@ -1,0 +1,59 @@
+{
+  "Lemma": "kätzeln¹",
+  "POS": "Verb",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "Katzenjunge gebären",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A.2 mSTir.",
+        "p1B.0 OTir.",
+        "p1C NTir.",
+        "p2.1 ObKtn.",
+        "p2.3 MKtn.",
+        "p3 Stmk.",
+        "p4 Sbg.",
+        "p5 OÖ",
+        "p6.1 Mostv.",
+        "p6.2 Industriev."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Unser Katz hat kātzelt / siebne, achte, neune; / oans dös hat koa Schwānzl ghabt, / stöck ma's wida eini!",
+          "Herkunftsort": "Gmunden"
+        },
+        {
+          "Belegsatz": "a Gsötztl aus einem Tanzlied, das ben \"Naibǫaröschn\" gesungen wird: insa Khåtz khatzlt schąⁿ mę̂ / briŋd oöls'hąnd Khatzl dahę̄ / branno u. flökadö - schwårtzö u. gschękadö - insa Khåtz khatzlt schąⁿ mę̄ (Båscha)",
+          "Herkunftsort": ""
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "abwertende Bezeichnung für gebären",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p5.4 Mühlv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "nach Katzen oder Katzenfleisch riechen oder schmecken",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1A.4 öSTir.",
+        "p6.1 Mostv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "s flaiš tuit kχątsilan",
+          "Herkunftsort": "Kiens"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Lemma": "Kinderei",
+  "POS": "Substantiv",
+  "Genus": "Femininum",
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "kindisches Verhalten; albernes Benehmen",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A.4 öSTir.",
+        "p1B OTir.",
+        "p1C.1 wNTir.",
+        "p1C.3 öNTir.",
+        "p2.1 ObKtn.",
+        "p3.5 OStmk.",
+        "p4.3 Pong.",
+        "p5.2 Hausrv.",
+        "p5.3 Traunv.",
+        "p6 NÖ"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Kinderein treibm",
+          "Herkunftsort": "Thiersee"
+        },
+        {
+          "Belegsatz": "Mochts nit so Kinareian zom",
+          "Herkunftsort": "Ernstbrunn"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "etwas Einfaches; leichte Arbeit",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1A.4 öSTir.",
+        "p1B OTir.",
+        "p1C.1 wNTir.",
+        "p3.5 OStmk.",
+        "p5.3 Traunv.",
+        "p6.2 Industriev."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "des iš kχǫa kχindərai",
+          "Herkunftsort": "Lüsen"
+        },
+        {
+          "Belegsatz": "əs išt ə kχindərai",
+          "Herkunftsort": "Imst"
+        }
+      ]
+    }
+  ]
+}

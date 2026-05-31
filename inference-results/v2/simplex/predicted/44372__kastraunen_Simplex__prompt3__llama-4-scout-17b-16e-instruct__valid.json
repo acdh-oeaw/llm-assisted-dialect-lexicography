@@ -1,0 +1,91 @@
+{
+    "Lemma": "kastraunen",
+    "POS": "Adj",
+    "Genus": "n/f/m",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Hammelfleisch; Schöpsenfleisch",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.1 wSTir.",
+                "1A.2 mSTir.",
+                "1C.1 wNTir.",
+                "1C.2 mNTir.",
+                "2.1 ObKtn."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k461_qdb-d1e87981",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1A.1 wSTir."
+                },
+                {
+                    "ID": "k461_qdb-d1e87878",
+                    "Belegsatz": "Gstraunans [P,n,fl]   Fleisch;Gstraunans P,n,fl Fleisch;",
+                    "Herkunftsort": "1A.2 mSTir."
+                }
+            ],
+            "Belege": [
+                "k461_qdb-d1e87981",
+                "k461_qdb-d1e87878",
+                "k461_qdb-d1e86324",
+                "k461_qdb-d1e87221",
+                "k461_qdb-d1e87246"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "vom Hammel herstammend",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.2 mSTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k461_qdb-d1e87328",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1A.2 mSTir."
+                }
+            ],
+            "Belege": [
+                "k461_qdb-d1e87328"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Schaffleisch, vom verschnittenen Widder",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.1 wNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k461_qdb-d1e87853",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.1 wNTir."
+                }
+            ],
+            "Belege": [
+                "k461_qdb-d1e87853"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Schöpsernes",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "k461_qdb-d1e87269",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k461_qdb-d1e87269"
+            ]
+        }
+    ]
+}

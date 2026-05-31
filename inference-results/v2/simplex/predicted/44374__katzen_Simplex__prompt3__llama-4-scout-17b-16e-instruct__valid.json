@@ -1,0 +1,68 @@
+{
+    "Lemma": "katzen",
+    "POS": "Verb",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "ein übertrieben süßliches Getue machen oder zeigen; jemanden, der sich sehr süßlich verhält",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.2 mNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k463_qdb-d1e70152",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.2 mNTir."
+                },
+                {
+                    "ID": "k463_qdb-d1e70126",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.2 mNTir."
+                }
+            ],
+            "Belege": [
+                "k463_qdb-d1e70152",
+                "k463_qdb-d1e70126"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "sich energisch zur Wehr setzen, sich etwas nicht gefallen lassen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.4 öSTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k463_qdb-d1e70439",
+                    "Belegsatz": "Thǫn mė gikχǫtst [P2]   dərfun",
+                    "Herkunftsort": "1A.4c01 Lüsen"
+                }
+            ],
+            "Belege": [
+                "k463_qdb-d1e70439"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "in Streit geraten, einen Konflikt haben",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "3.5 OStmk."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k463_qdb-d1e70324",
+                    "Belegsatz": "mia san z'kåzn kemma",
+                    "Herkunftsort": "3.5h07 Hartberg"
+                }
+            ],
+            "Belege": [
+                "k463_qdb-d1e70324"
+            ]
+        }
+    ]
+}

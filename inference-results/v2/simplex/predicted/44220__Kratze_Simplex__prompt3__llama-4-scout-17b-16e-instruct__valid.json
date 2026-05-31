@@ -1,0 +1,98 @@
+{
+    "Lemma": "Kratze / Krätzel",
+    "POS": "Subst",
+    "Genus": "Femininum",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Werkzeug zum Kratzen, Hacken oder Schaben",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.4 öSTir.",
+                "1C.1 wNTir.",
+                "1C.3 öNTir.",
+                "2.2 MKtn.",
+                "3.1 sbair.ObStmk.",
+                "6.3 Waldv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k515_qdb-d1e22916",
+                    "Belegsatz": "Kratze = Hacke, die der Knappe zur Wegfüllarbeit verwendet; ",
+                    "Herkunftsort": "Villach"
+                },
+                {
+                    "ID": "k515_qdb-d1e22596",
+                    "Belegsatz": "dreieckige Haue, kl.Kräuel; ",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k515_qdb-d1e22916",
+                "k515_qdb-d1e22596"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Reinigungswerkzeug für Geschirr oder Oberflächen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "2.2 MKtn.",
+                "3.1 sbair.ObStmk."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k515_qdb-d1e25657",
+                    "Belegsatz": "",
+                    "Herkunftsort": "Wien"
+                },
+                {
+                    "ID": "k515_qdb-d1e25680",
+                    "Belegsatz": "Kratzel, aus Reisern verfertigtes Küchengerät zum Scheuern von Geschirren; ",
+                    "Herkunftsort": "Bad Kleinkirchheim"
+                }
+            ],
+            "Belege": [
+                "k515_qdb-d1e25657",
+                "k515_qdb-d1e25680"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Beschreibung einer Person oder eines Körperteils",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.3 Traunv.",
+                "2.2 MKtn.",
+                "6.3 Waldv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k515_qdb-d1e22775",
+                    "Belegsatz": "",
+                    "Herkunftsort": "Gmunden"
+                },
+                {
+                    "ID": "k515_qdb-d1e25571",
+                    "Belegsatz": "dichtbehaarte Nasenlöcher; ",
+                    "Herkunftsort": "Feldkirchen in Kärnten"
+                }
+            ],
+            "Belege": [
+                "k515_qdb-d1e22775",
+                "k515_qdb-d1e25571"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "weitere Bedeutung 1",
+            "Regionen": [
+                ""
+            ],
+            "Belegsaetze": [],
+            "Belege": []
+        }
+    ]
+}

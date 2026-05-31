@@ -1,0 +1,94 @@
+Glossar:
+  Lemma: "'Lemma' beinhaltet sämtliche Einträge (inklusive Komposita und Wortbildungsvarianten), die einem bestimmten Lemma zugeordnet werden können. Zu diesem Zweck wurden alle Handzettel beziehungsweise die Einträge der Belegdatenbank lemmatisiert und nach historisch-etymologischen Gesichtspunkten - also linguistischen Prinzipien - einem Hauptlemma zugeordnet."
+  Fragebogennummer: "Auflistung von relevanten Fragebogennummern und Beschreibungen:\n* **13A3 (I):** großes Auge, Ra./Adj. (Glotzauge,); SchimpfN\n* **103A79:** starr schauen (glotzen, glarren, glurren,)\n* **13A3:** großes Auge, Ra./Adj. (Glotzauge,); SchimpfN\n* **103A2:** schauen; Ltg.\n* **13A1:** Auge; Syn.\n* **103A79 (a):** starr schauen (glotzen, glarren, glurren,)\n"
+  Part_of_Speech: Diese Angabe benennt die Wortart des jeweiligen Belegs.
+  Bedeutung_der_Lautung: Diese Information beschreibt die Bedeutung der Lautungsangabe auf dem Beleg.
+  Bedeutung_des_Belegsatzes: "Diese Information beschreibt die Bedeutung des in Spalte \"Belegsatz 1\", \"Belegsatz 2\" etc. angegebenen Belegsatzes. Es kann sich dabei um eine direkte standardsprachliche Übersetzung, eine standardsprachliche Periphrase oder um einen metasprachlichen Kommentar handeln."
+  Belegsatz_1: "Dieser Eintrag gibt einen Belegsatz, eine Redewendung oder eine Paraphrase wider, um die Bedeutung des Belegs exemplarisch darzustellen bzw. näher zu kontextualisieren. Der Belegsatz ist in der Regel im Dialekt angegeben und in der Lautschrift Teuthonista verschriftlicht."
+  Belegsatz_2: Belegsatz 2 weist dieselbe Funktionalität auf wie Belegsatz 1.
+  Sammlung: Eine Sammlung bündelt einzelne Einträge nach lexikographisch sinnvollen Gesichtspunkten. Alle Einträge der Sammlung teilen diese Gesichtspunkte.
+  Lautung_1: "Die angegebene Information umfasst die lautliche Transkription des vorliegenden Belegs. Die Transkription wurde auf der Grundlage eines Lautschriftsystems notiert, das jenem der Teuthonista gleicht oder zumindest ähnelt. Da die Datengrundlage des WBÖ auf unterschiedlichsten Quellen basiert und die Erhebungen der Fragebögen häufig von Laien-Sammlerinnen und -sammlern durchgeführt wurden, können sich Uneinheitlichkeiten bei der Transkription ergeben."
+  Lautung_2: Lautung 2 weist dieselbe Funktionalität auf wie Lautung 1.
+  Anmerkung: Zusätzliche Anmerkung über den Beleg.
+  Diverses: Zusätzliche undefinierte Anmerkung über den Beleg.
+  Substantiv: Dieser Beleg zählt zur Wortart Substantiv.
+  Verb: Dieser Beleg zählt zur Wortart Verb.
+  Adjektiv: Dieser Beleg zählt zur Wortart Adjektiv.
+  Adverb: Dieser Beleg zählt zur Wortart Adverb.
+  Praeposition: Dieser Beleg zählt zur Wortart Präposition.
+  Konjunktion: Dieser Beleg zählt zur Wortart Konjunktion.
+  Pronomen: Dieser Beleg zählt zur Wortart Pronomen.
+  Interjektion: Dieser Beleg zählt zur Wortart Interjektion.
+  Partikel: Dieser Beleg zählt zur Wortart Partikel.
+  Geschlecht: "Das grammatische Geschlecht eines Wortes wird in der Fachsprache als Genus bezeichnet. Im Deutschen gibt es drei Genera: Maskulinum (männlich), Femininum (weiblich) und Neutrum (sächlich). Das Genus eines Substantivs wird oft durch den Artikel (der, die, das) angezeigt."
+  Bedeutung: "Semantik, auch Bedeutungslehre genannt, ist die wissenschaftliche Beschäftigung mit Bedeutung und mit den verschiedenen Beziehungen zwischen einem Zeichen und dem Bezeichneten. In den Wörterbuchartikeln gehört die Angabe der Bedeutung bzw. Bedeutungen eines Wortes zu den zentralen Inhalten."
+  Belegsatz: "Ein Belegsatz1 oder Belegsatz2  wird verwendet, um die Bedeutung des Beleg in Form eines Satzes exemplarisch zu verdeutlichen. In den Daten wird statt der Bezeichnung \"Beispielsatz\" auch die Bezeichnung \"Belegsatz\" verwendet."
+  Wortvarianten: Unterschiedliche Varianten eines Wortes.
+  Woerterbuchartikel: "Eine strukturierte Beschreibung eines Lemmas, die Angaben zu Bedeutung (bzw. Bedeutungen), Aussprache, Grammatik, Verbreitung, Etymologie sowie ggfs. Wortbildungen und Redewendungen enthält."
+  Quelle_Datenbank: "Es handelt sich hierbei um eine formalisierte Angabe der geographischen Zuordnung des Belegs. Diese Besteht aus einer Sigle sowie einer in Abkürzungen formulierten und ggfs. hierarchisch (Gemeinde, Kleinregion, Großregion, Bundesland) gegliederten Verschriftlichung der geographischen Zuordnung."
+  CollectionCat: "Die CollectionCat (Abkürzung für Collection Categorizer) ist eine Software-Applikation, die zum Kategorisieren und Zusammenfassen von Belegen im Rahmen der lexikographischen Arbeit genutzt wird."
+  Simplex: "Ein Simplex ist ein einfaches Wort oder Lexem, das weder abgeleitet noch zusammengesetzt ist."
+  Kompositum: Ein Kompositum ist ein aus bereits vorhandenen Wörtern zusammengesetztes komplexes Wort. Der zugrunde liegende Wortbildungsprozess wird Komposition genannt.
+  Derivation: "Eine Derivation ist das Ergebnis eines Wortbildungsprozesses, bei dem durch Anhängen eines Affixes (Präfix, Suffix oder Zirkumfix) aus einem Wort ein neues Wort gebildet wird."
+  Grossregion: "Das Bearbeitungsgebiet (Großregion1 und Großregion2) des WBÖ ist regional untergliedert. Jeder regionalen Einheit ist eine eindeutige Sigle zugeordnet. Die größte regionale Einheit stellt dabei das \"Bundesland\" dar, welches folgendermaßen unterteilt ist: Südtirol (Sigle 1A), Osttirol (Sigle 1B), Nordtirol (Sigle 1C), Kärnten (Sigle 2), Steiermark (Sigle 3), Salzburg (Sigle 4), Oberösterreich (Sigle 5), Niederösterreich (Sigle 6), Wien (Sigle 6.5) sowie Burgenland (Sigle 7). \nDie zweitgrößte regionale Einheit ist die \"Großregion\", welche die Bundesländer in weitere Teilbereiche untergliedert. \nDie drittgrößte regionale Einheit ist die \"Kleinregion\", welche die Großregionen in weitere Teilbereiche untergliedert.\nDie viertgrößte regionale Einheit ist die \"Gemeinde\", welche die Kleinregionen in weitere Teilbereiche untergliedert."
+  Herkunftsort: "Geographische Lokation, aus der ein Beleg stammt. Die Angabe erfolgt auf der jeweils spezifischsten verfügbaren Ebene: Ist eine Gemeinde bekannt, wird diese angegeben; andernfalls eine Kleinregion, eine Großregion oder - als letzte Möglichkeit - das Bundesland."
+Belege[59]{ID,Fragebogennummer,Lemma,POS,Bedeutung_des_Belegsatzes,Bedeutung_der_Lautung,Belegsatz1,Belegsatz2,Lautung1,Lautung2,"Großregion",Herkunftsort,Diverses,Anmerkung}:
+  g334_qdb-d1e42958,13A3 (I);,glurren;,Verb;,Warum schaust du (so groß) drein?;,"","Wos gluaʳsd [sg2]   dęnn?;Wos gluarsd sg2 denn?;","","","",6.1 Mostv.;,6.1n02 Dunkelsteinerwald;,"",""
+  g334_qdb-d1e43678,"",glurren;,Verb;,warum machst du so scharfe Augen?;,"","Was glurst [sg2]   denn so?;Was glurst sg2 denn so?;","","","",6.5 Wien;,"","",""
+  g334_qdb-d1e44713,103A79;,glurren;,Verb;,"","\"glurren\";glurren;","","","","",5.4 Mühlv.;,5.4h06 Pabneukirchen;,"",""
+  g334_qdb-d1e44958,"",glurren;,Verb;,"","\"glurren\" = starren, glotzen;glurren = starren, glotzen;","","","","",6.1 Mostv.;,6.1s02 Judenau-Baumgarten;,"",""
+  g334_qdb-d1e45561,"",glurren;,Verb;,"","\"glurren\";glurren;\"glurren\" = gedankenlos in die Luft starren;glurren = gedankenlos in die Luft starren;","","","","",3.3 WStmk.;,"","",""
+  g334_qdb-d1e44774,103A79;,glurren;,Verb;,der Kater sieht starr in ein Erdloch;,starr schauen;,"da Koda glu͡arrt [sg3]   in a Lo;da Koda gluarrt sg3 in a Lo;","","","","","","",""
+  g334_qdb-d1e45635,"",glurren;,Verb;,"","brüllenANMO: vom Rindvieh;brüllen ANM O: vom Rindvieh;singenANMO: spottweise;","","","","","","","",""
+  g334_qdb-d1e47569,"",glurren;,Verb;,"",GLURREN;,"","","","","","","",""
+  g334_qdb-d1e44627,103A79;,glurren;,Verb;,"","\"glurren\" = starr schauen;glurren = starr schauen;","","","","",3.1 sbair.ObStmk.;,3.1a05 Stadl-Predlitz;,"",""
+  g334_qdb-d1e44686,103A79;,glurren;,Verb;,"was \"glurrst\" denn;","","wos glust [sg2]   den;wos glurst sg2 den;","","","",6.3 Waldv.;,6.3a15 Kautzen;,"",""
+  g334_qdb-d1e44736,103A79;,glurren;,Verb;,"","","","","","",6.1 Mostv.;,"","",""
+  g334_qdb-d1e44756,103A79;,glurren;,Verb;,"","","","","","","","","",""
+  g334_qdb-d1e36699,"",glurren;,Verb;,"",knurren vom leeren Magen;,"","","","",7.3 SBgl.;,7.3e02 Rechnitz;,"",""
+  g334_qdb-d1e40119,"",glurren;,Verb;,"",glotzen;,"","","","",6.1 Mostv.;,6.1s07 Tulln an der Donau;,"",""
+  g334_qdb-d1e44454,"",glurren;,Verb;,"",mit weit aufgerissenen Augen neugierig schnuppern;,"","","","",6.3 Waldv.;,6.3c03 Bad Großpertholz;,"",""
+  g334_qdb-d1e44499,"",glurren;,Verb;,"",stechenden Blickes schauen;,"","","","",3.4 MStmk.;,3.4d01 Graz;,"",""
+  g334_qdb-d1e44520,"",glurren;,Verb;,"",spähend schauen;spähend schauen;,"","","","",3.4 MStmk.;,3.4d01 Graz;,"",""
+  g334_qdb-d1e44581,"",glurren;,Verb;,"",glotzen;,"","","","",6.1 Mostv.;,6.1s06 Sitzenberg-Reidling;,"",""
+  g334_qdb-d1e44874,"",glurren;,Verb;,"",glotzen;,"","","","",6.4 Weinv.;6.4 Weinv.;6.4 Weinv.;6.4 Weinv.;6.4 Weinv.;6.4 Weinv.;,"","",""
+  g334_qdb-d1e44809,"",glurren;,Verb;,"",glotzen; glotzend spähen;glotzen glotzend spähen;,"","","","",6.2 Industriev.;,6.2h28 Warth;,"",""
+  g334_qdb-d1e46023,"",glurren;,Verb;,"","","\"So a Poppwer[k] frißt koa' Sau„ / Haut in' Tisch und glurt [sg3]   und pfnurrt, / Daß olls ba da Tür ausburrt;So a Poppwerk frißt koa Sau„ / Haut in Tisch und glurt sg3 und pfnurrt, / Daß olls ba da Tür ausburrt;","","","",6.3 Waldv.;,"","",""
+  g334_qdb-d1e45130,"",glurren;,Verb;,"","glotzen, starren;","","","","",6.3 Waldv.;,6.3a18 Reingers;,s.paragraph 51;ANM s.paragraph 51;,""
+  g334_qdb-d1e45328,"",glurren;,Verb;,"",lauern; aufmerksam schauen;lauern aufmerksam schauen;,"","","","",6.3 Waldv.;,6.3a15 Kautzen;,"",""
+  g334_qdb-d1e45349,"13A15: stieres Auge, Ra./Adj.;",glurren;,Verb;,"","","","","","",6.1 Mostv.;,6.1p01 Annaberg;,"",""
+  g334_qdb-d1e45902,13A3;,glurren;,Verb;,"","","du gluarada [P1,fl]   Deufüˡ;du gluarada P1,fl Deufül;","","","",6.3 Waldv.;,6.3a07 Gastern;,"",""
+  g334_qdb-d1e42246,"",glurren;,Verb;,"",starren; bloßes vor sich hin sehen;starren bloßes vor sich hin sehen;,"was glurst [sg2]   denn so?;was glurst sg2 denn so?;","","","",6.5 Wien;,"","",""
+  g334_qdb-d1e43514,103A2;,glurren;,Verb;,"",ein besonderes Hinstarren auf ein Gegenständliches;ein besonderes Hinstarren auf ein Gegenständliches;,"","","","","","","",""
+  g334_qdb-d1e44477,"",glurren;,Verb;,"",schauen;,"","","","",6.4 Weinv.;,6.4f19 Sulz im Weinviertel;,"",""
+  g334_qdb-d1e44541,"",glurren;,Verb;,"",schauen;,"","","","",3.4 MStmk.;,3.4c18 Leibnitz;,"",""
+  g334_qdb-d1e44562,"",glurren;,Verb;,"",schauen;,"","","","",6.1 Mostv.;6.4 Weinv.;,"","",""
+  g334_qdb-d1e44983,13A1;,glurren;,Verb;,"","","","","","",6.2 Industriev.;,6.2c02 Berndorf;,"",""
+  g334_qdb-d1e45109,"",glurren;,Verb;,"","starren, glotzen;","","","","",6.4 Weinv.;,"","",""
+  g334_qdb-d1e45155,"",glurren;,Verb;,"",starr blicken; erstaunt sein;starr blicken erstaunt sein;,"","","","","","","",""
+  g334_qdb-d1e45370,"13A13b: freundliches/mildes Auge, Ra./Adj.;",glurren;,Verb;,"","","deaʳ gluəʳd [sg3];dear gluerd sg3;","","","",6.1 Mostv.;6.1 Mostv.;,6.1d02 Amstetten;6.1b02 Oed-Oehling;,"",""
+  g334_qdb-d1e45220,"",glurren;,Verb;,"","starren, glotzen;","","","","","","","",""
+  g334_qdb-d1e45515,"",glurren;,Verb;,"","glotzen;schauenANMO: auch beleidigend DAFÜR;schauen ANM O: auch beleidigend DAFÜR;","","","","",6.5 Wien;,"","",""
+  g334_qdb-d1e45591,"EFb.5/25: schauen, Ltg.;",glurren;,Verb;,"",schauen;,"","","","",6.3 Waldv.;,6.3a16 Litschau;,"",""
+  g334_qdb-d1e45685,13A3;,glurren;,Verb;,"","","","","","",6.4 Weinv.;,6.4e04 Heldenberg;,"",""
+  g334_qdb-d1e45831,"",glurren;,Verb;,"mit den Augen \"GLURREN\" wie ein Kater;","","gluan [I]   wia a Koda;gluan I wia a Koda;","","","",6.3 Waldv.;,6.3s04 Langenlois;,"",""
+  g334_qdb-d1e45176,"",glurren;,Verb;,"","starren, glotzen; knurren (im Magen);starren, glotzen knurren im Magen;","","","","",7.1 NBgl.;,7.1d16 Pöttsching;,"s. d. u. S. 111, 124;",""
+  g334_qdb-d1e41075,"",glurren;,Verb;,"","glotzen, schauenANMO: verächtlich;glotzen, schauen ANM O: verächtlich;","wǭs gluɒst [sg2]   n ɒsọ́̄?;wos gluast sg2 n aso?;","","","",6.1 Mostv.;,6.1o01 Herzogenburg;,"",""
+  g334_qdb-d1e44830,"",glurren;,Verb;,"",starren;,"","","","",6.4 Weinv.;6.4 Weinv.;6.4 Weinv.;6.4 Weinv.;6.4 Weinv.;6.4 Weinv.;,"","",""
+  g334_qdb-d1e43581,"",glurren;,Verb;,"",glotzen;,"","","","",6.1 Mostv.;,6.1o01 Herzogenburg;,"",""
+  g334_qdb-d1e44914,"",glurren;,Verb;,"",lauern; aufmerksam schauen;lauern aufmerksam schauen;,"","","","","","","",""
+  g334_qdb-d1e44937,"",glurren;,Verb;,"",mit starrem Blick schauen;,"","","","",6.4 Weinv.;,6.4f06 Ernstbrunn;,"",""
+  g334_qdb-d1e45049,"",glurren;,Verb;,"","stier dreinschauen, glotzen;","","","","","","","",""
+  g334_qdb-d1e45086,"",glurren;,Verb;,"",lauern; auf etwas aufmerksam sehen;lauern auf etwas aufmerksam sehen;,"","","","",6.4 Weinv.;,6.4d03 Drasenhofen;,"",""
+  g334_qdb-d1e45856,"",glurren;,Verb;,"","in kläglichen, klagenden, hohen, überschnappenden Tönen reden oder singen;in kläglichen, klagenden, hohen, überschnappenden Tönen reden oder singen;singend redenANMO: auch;singen wollen und es nicht schön könnenANMO: von Frauenzimmern;singen wollen und es nicht schön können ANM O: von Frauenzimmern;--ANMO: von alten, deren Stimme einen gebrochenen, blechernen Klang hat;ANM O: von alten, deren Stimme einen gebrochenen, blechernen Klang hat;","","","","",3.2 mbair.ObStmk.;,3.2f02 Kapfenberg;,"",""
+  g334_qdb-d1e45263,"",glurren;,Verb;,"",glotzen;,"","","","",5.2 Hausrv.;,5.2d15 Steinbach am Attersee;,"",""
+  g334_qdb-d1e45307,"",glurren;,Verb;,"","anstarren, glotzen;","","","","",6.3 Waldv.;,6.3a15 Kautzen;,"",""
+  g334_qdb-d1e45414,"",glurren;,Verb;,"","\"gluren\" = mit großen Augen schauen, glotzen;gluren = mit großen Augen schauen, glotzen;","","","","",3.4 MStmk.;,3.4d01 Graz;,"",""
+  g334_qdb-d1e45494,"",glurren;,Verb;,"",scharf schauen;,"","","","",6.1 Mostv.;,6.1r02 Sieghartskirchen;,"",""
+  g334_qdb-d1e45435,"",glurren;,Verb;,"",schauen;,"","","","","","","",""
+  g334_qdb-d1e46090,"",glurren;,Verb;,"",böse ansehen; kampflustig ansehen; verächtlich ansehen;böse ansehen kampflustig ansehen verächtlich ansehen;,"","","","",5.4 Mühlv.;,5.4d13 St. Veit im Mühlkreis;,"",""
+  g334_qdb-d1e45743,"",glurren;,Verb;,"","","","","","",6.3 Waldv.;,6.3p01 Klein-Pöchlarn;,"",""
+  g334_qdb-d1e45284,"",glurren;,Verb;,"",knurren im Magen;,"","","","",7.1 NBgl.;,7.1d16 Pöttsching;,s. d.;,""
+  g334_qdb-d1e45068,"",glurren;,Verb;,"",spähen;spähen;,"","","","","","","",""
+  g334_qdb-d1e44650,103A79 (a);,glurren;,Verb;,"Was \"glurrst\" du denn so;",glurren;,"Wås glu͜aʳsd [sg2]   dãn a soᵘ;Was gluarsd sg2 dan a sou;","","","",6.1 Mostv.;,6.1n02 Dunkelsteinerwald;,"",""
+  g334_qdb-d1e45393,"",glurren;,Verb;,"","stier dareinschauen, stieren;","","","","",3.4 MStmk.;,3.4c39 Lebring-St. Margarethen;,"",""

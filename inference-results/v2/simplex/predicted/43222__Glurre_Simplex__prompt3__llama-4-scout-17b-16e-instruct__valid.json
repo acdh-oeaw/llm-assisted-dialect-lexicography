@@ -1,0 +1,88 @@
+{
+    "Lemma": "Glurre",
+    "POS": "Subst",
+    "Genus": "Femininum",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Augen",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.1 Mostv.",
+                "6.3 Waldv.",
+                "6.4 Weinv.",
+                "6.5 Wien",
+                "7.1 NBgl.",
+                "7.3 SBgl."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g334_qdb-d1e40098",
+                    "Belegsatz": "die glotzenden Augen",
+                    "Herkunftsort": "6.1s07 Tulln an der Donau"
+                },
+                {
+                    "ID": "g334_qdb-d1e40390",
+                    "Belegsatz": "Reis dėn̄ė gluaʳn auf!",
+                    "Herkunftsort": "6.1s08 Zeiselmauer-Wolfpassing"
+                }
+            ],
+            "Belege": [
+                "g334_qdb-d1e40098",
+                "g334_qdb-d1e40390"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Glotzaugen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.3 Waldv.",
+                "6.4 Weinv.",
+                "7.3 SBgl."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g334_qdb-d1e42759",
+                    "Belegsatz": "Glotzaugen",
+                    "Herkunftsort": "7.3 SBgl."
+                },
+                {
+                    "ID": "g334_qdb-d1e43877",
+                    "Belegsatz": "die Augen; Glotzaugen",
+                    "Herkunftsort": "3.2f02 Kapfenberg"
+                }
+            ],
+            "Belege": [
+                "g334_qdb-d1e42759",
+                "g334_qdb-d1e43877"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "starre oder hervorstehende Augen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.1 Mostv.",
+                "6.4 Weinv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g334_qdb-d1e38575",
+                    "Belegsatz": "Augen; spottweise",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "g334_qdb-d1e41132",
+                    "Belegsatz": "(große, glotzende) Augen",
+                    "Herkunftsort": "6.1o01 Herzogenburg"
+                }
+            ],
+            "Belege": [
+                "g334_qdb-d1e38575",
+                "g334_qdb-d1e41132"
+            ]
+        }
+    ]
+}

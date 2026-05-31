@@ -1,0 +1,31 @@
+{
+  "Lemma": "köden",
+  "POS": "Verb",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "sagen; sprechen; reden",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir.",
+        "p2.2 MKtn.",
+        "p3.1 sbair.ObStmk.",
+        "p3.2 mbair.ObStmk."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "das öippas köit isch",
+          "Herkunftsort": "Schwaz"
+        },
+        {
+          "Belegsatz": "Wås tuam si iwₔʳ mi koijan, ins G'sicht traut si kanₔʳ nikhs zsågn",
+          "Herkunftsort": "Maria Saal"
+        }
+      ]
+    }
+  ]
+}

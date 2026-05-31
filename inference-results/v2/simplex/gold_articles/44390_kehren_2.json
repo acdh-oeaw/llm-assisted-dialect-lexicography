@@ -1,0 +1,68 @@
+{
+  "Lemma": "kehren²",
+  "POS": "Verb",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "etwas mit einem Werkzeug (z. B. Besen, Schaufel, Heugabel, Schürhaken o. Ä.) reinigen bzw. zusammenscharren; fegen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir.",
+        "p2.1 ObKtn.",
+        "p2.2 MKtn.",
+        "p3 Stmk.",
+        "p4 Sbg.",
+        "p5 OÖ",
+        "p6 NÖ",
+        "p6.5 Wien",
+        "p7 Bgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "in Ofn kȫrn",
+          "Herkunftsort": "Schlanders"
+        },
+        {
+          "Belegsatz": "Glu͡et kērn",
+          "Herkunftsort": "Rangersdorf"
+        },
+        {
+          "Belegsatz": "Tu muast Gōsn khe̊ʳn",
+          "Herkunftsort": "Lobmingtal"
+        },
+        {
+          "Belegsatz": "trokχ kχȫrn",
+          "Herkunftsort": "Lüsen"
+        },
+        {
+          "Belegsatz": "dər ofm wiəʳd kiəʳd",
+          "Herkunftsort": "Mühlheim am Inn"
+        },
+        {
+          "Belegsatz": "πrũn κ'eɒ̨n",
+          "Herkunftsort": "Oberhofen am Irrsee"
+        },
+        {
+          "Belegsatz": "Få Súnafgąŋ wiəʳd mid an nöᵒa Bösn dö gąnz Höwęrö Werk, Erzeugnis (abwertend) khöᵃrd(t)",
+          "Herkunftsort": "Gmunden"
+        },
+        {
+          "Belegsatz": "lāp khēn",
+          "Herkunftsort": "Euratsfeld"
+        },
+        {
+          "Belegsatz": "Hǫͧf khi͜an",
+          "Herkunftsort": "Dunkelsteinerwald"
+        },
+        {
+          "Belegsatz": "ĩn miss khīɒn",
+          "Herkunftsort": "Herzogenburg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "Lemma": "kitzen kitzeln²",
+  "POS": "Verb",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "Junge werfen (z. B. von Rehen oder Ziegen); Kitze zur Welt bringen",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p2 Ktn.",
+        "p3 Stmk.",
+        "p4.2 Pinzg.",
+        "p4.3 Pong.",
+        "p5 OÖ",
+        "p6.1 Mostv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "tuət si kχitsɒ?",
+          "Herkunftsort": "Serfaus"
+        },
+        {
+          "Belegsatz": "dö Gåas hǫd kitzt",
+          "Herkunftsort": "Kufstein"
+        },
+        {
+          "Belegsatz": "die Goaß kitzt",
+          "Herkunftsort": "Stadl-Predlitz"
+        },
+        {
+          "Belegsatz": "g gǫəs kitslt",
+          "Herkunftsort": "Eggelsberg"
+        },
+        {
+          "Belegsatz": "d' Goas kitzəlt",
+          "Herkunftsort": "Steinbach am Attersee"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "sich kindisch benehmen",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1A.1 wSTir."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

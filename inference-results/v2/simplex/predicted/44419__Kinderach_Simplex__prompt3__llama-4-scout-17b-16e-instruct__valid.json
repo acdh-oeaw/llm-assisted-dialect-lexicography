@@ -1,0 +1,119 @@
+{
+    "Lemma": "Kinderach",
+    "POS": "Subst.",
+    "Genus": "n",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Sammelname für Kinder",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "2.2 MKtn.",
+                "3.1 sbair.ObStmk.",
+                "4.1 Lung.",
+                "4.3 Pong."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k483_qdb-d1e38403",
+                    "Belegsatz": "",
+                    "Herkunftsort": "2.2d02 Reichenau"
+                },
+                {
+                    "ID": "k483_qdb-d1e38608",
+                    "Belegsatz": "",
+                    "Herkunftsort": "3.1d03 Lobmingtal"
+                },
+                {
+                    "ID": "k483_qdb-d1e38535",
+                    "Belegsatz": "das Kindereich = die Kinder",
+                    "Herkunftsort": "3.1d03 Lobmingtal"
+                },
+                {
+                    "ID": "k483_qdb-d1e38510",
+                    "Belegsatz": "",
+                    "Herkunftsort": "4.3h03 Filzmoos"
+                }
+            ],
+            "Belege": [
+                "k483_qdb-d1e38403",
+                "k483_qdb-d1e38608",
+                "k483_qdb-d1e38535",
+                "k483_qdb-d1e38510"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Kind",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "3.1 sbair.ObStmk."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k483_qdb-d1e38456",
+                    "Belegsatz": "",
+                    "Herkunftsort": "3.1k01 Obdach"
+                }
+            ],
+            "Belege": [
+                "k483_qdb-d1e38456"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Kinder (pejorativ)",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "4.1 Lung."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k483_qdb-d1e38236",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k483_qdb-d1e38236"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Ein Haufe von Kindern; kindisches Wesen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                ""
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k483_qdb-d1e38261",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k483_qdb-d1e38261"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Kind (Kollektiv)",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.2 Hausrv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k483_qdb-d1e38209",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.2d06 Mondsee"
+                }
+            ],
+            "Belege": [
+                "k483_qdb-d1e38209"
+            ]
+        }
+    ]
+}

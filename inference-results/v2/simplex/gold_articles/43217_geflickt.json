@@ -1,0 +1,97 @@
+{
+  "Lemma": "geflickt",
+  "POS": "Adjektiv",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "narbig; mit Narben versehen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p4.5 Flachg.",
+        "p6.2 Industriev.",
+        "p6.3 Waldv.",
+        "p6.4 Weinv.",
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "a gflickts Gsicht",
+          "Herkunftsort": "Schrems"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "pockennarbig; mit Pockennarben versehen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p5.1 Innv.",
+        "p5.2 Hausrv.",
+        "p5.4 Mühlv.",
+        "p6 NÖ",
+        "p6.5 Wien",
+        "p7.1 NBgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "g'flickts Gsicht",
+          "Herkunftsort": "St. Veit im Mühlkreis"
+        },
+        {
+          "Belegsatz": "a gfligti Haut",
+          "Herkunftsort": "Pyhra"
+        },
+        {
+          "Belegsatz": "der gflickte Schurl Georg",
+          "Herkunftsort": "Wien"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "masernnarbig; mit Masernnarben versehen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p6.3 Waldv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "gflīkti Haud",
+          "Herkunftsort": "Gastern"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "gefleckt; mit Flecken versehen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p5.2 Hausrv.",
+        "p6.3 Waldv.",
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "dę̄a hōd a gflīkts ɒ̄ung̱n",
+          "Herkunftsort": "Kautzen"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "entzündet; eitrig (von Gaumenmandeln)",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p4.5 Flachg."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "a gflickta Hals",
+          "Herkunftsort": "Salzburg"
+        }
+      ]
+    }
+  ]
+}

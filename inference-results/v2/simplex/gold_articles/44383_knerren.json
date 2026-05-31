@@ -1,0 +1,115 @@
+{
+  "Lemma": "knerren",
+  "POS": "Verb",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "einen schnarrenden, knackenden, klanglosen Laut von sich geben",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p5.3 Traunv.",
+        "p6.1 Mostv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "d' Geigna thoan knerrn",
+          "Herkunftsort": "Enns"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "ein hartes, reibendes Geräusch von sich geben; knirschen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p6.1 Mostv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "jemanden durch Stoßen oder Klagen zu etwas drängen oder antreiben",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1B.0 OTir.",
+        "p5.1 Innv.",
+        "p5.4 Mühlv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "m̱id lautə dnęəʳn is ə šąⁿ gąns tsąmkęmə",
+          "Herkunftsort": "Mühlheim am Inn"
+        },
+        {
+          "Belegsatz": "si hǫd šąⁿ oėwėˡ gnęəd",
+          "Herkunftsort": "Mühlheim am Inn"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "schimpfen; poltern; toben",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p5.1 Innv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "dęə gnęəʳd widə wǫs tsąm!",
+          "Herkunftsort": "Mühlheim am Inn"
+        },
+        {
+          "Belegsatz": "də wind gnęəʳd",
+          "Herkunftsort": "Mühlheim am Inn"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "mürrisch reden; klagen; jammern",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p2 Ktn.",
+        "p5 OÖ",
+        "p5.2 Hausrv.",
+        "p6.2 Industriev."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "streiten; zanken",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p2 Ktn.",
+        "p5.1 Innv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "durcheinanderbringen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p5.1 Innv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "legen (von Eiern)",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p6.1 Mostv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "won d'Henn s Letzti Oar dneart",
+          "Herkunftsort": "Pyhra"
+        }
+      ]
+    }
+  ]
+}

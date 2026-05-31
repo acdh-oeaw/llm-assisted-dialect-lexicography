@@ -1,0 +1,104 @@
+{
+    "Lemma": "Klatte",
+    "POS": "Subst",
+    "Genus": "Femininum",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Kralle; Klaue",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.1 wSTir.",
+                "1A.2 mSTir.",
+                "1B.0 OTir.",
+                "1C.1 wNTir.",
+                "1C.2 mNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k487_qdbn-d16e40006",
+                    "Belegsatz": "unförmliche große Hand mit langen Fingern",
+                    "Herkunftsort": "1A.1d03 Schlanders"
+                },
+                {
+                    "ID": "k487_qdbn-d16e39763",
+                    "Belegsatz": "Kralle Tatze grobe Hand",
+                    "Herkunftsort": "1C.1 wNTir."
+                }
+            ],
+            "Belege": [
+                "k487_qdbn-d16e40006",
+                "k487_qdbn-d16e39763",
+                "k487_qdbn-d16e40373"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "große Hand",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.1 wSTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k487_qdbn-d16e40006",
+                    "Belegsatz": "unförmliche große Hand mit langen Fingern",
+                    "Herkunftsort": "1A.1d03 Schlanders"
+                },
+                {
+                    "ID": "k487_qdb-d1e47036",
+                    "Belegsatz": "Nimm es nicht in die Hand;",
+                    "Herkunftsort": "1A.1a02 Mals"
+                }
+            ],
+            "Belege": [
+                "k487_qdbn-d16e40006",
+                "k487_qdb-d1e47036"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Tatze",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.1 wNTir.",
+                "1C.2 mNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k487_qdbn-d16e39741",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k487_qdbn-d16e39763",
+                    "Belegsatz": "Kralle Tatze grobe Hand",
+                    "Herkunftsort": "1C.1 wNTir."
+                }
+            ],
+            "Belege": [
+                "k487_qdbn-d16e39741",
+                "k487_qdbn-d16e39763"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Krallen (bei Raubvögeln)",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "weitere Bedeutung 1",
+            "Regionen": [
+                "1C.1 wNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k487_qdbn-d16e40187",
+                    "Belegsatz": "Krallen bei Raubvögeln;",
+                    "Herkunftsort": "1C.1r01 Sölden"
+                }
+            ],
+            "Belege": [
+                "k487_qdbn-d16e40187"
+            ]
+        }
+    ]
+}

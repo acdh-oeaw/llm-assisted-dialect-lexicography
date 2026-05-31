@@ -1,0 +1,110 @@
+{
+    "Lemma": "Kogen",
+    "POS": "Subst",
+    "Genus": "männlich",
+    "Kasus": "Nominativ",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Mensch mit auffallend starken Backenknochen; (verrückter) Kerl",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.1 wNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k503_qdb-d1e31166",
+                    "Belegsatz": "a knurriger Kōga [m]; a knurriger Koga m;",
+                    "Herkunftsort": "1C.1m08 Prutz"
+                },
+                {
+                    "ID": "k503_qdb-d1e31208",
+                    "Belegsatz": "a spinneter Koga [m]   !; a spinneter Koga m !;",
+                    "Herkunftsort": "1C.1l03 Kauns"
+                }
+            ],
+            "Belege": [
+                "k503_qdb-d1e31166",
+                "k503_qdb-d1e31208"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "böser, schlechter Mensch",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.1 wNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k503_qdbn-d16e27114",
+                    "Belegsatz": "a verdrahnter Koga [m]; a verdrahnter Koga m;",
+                    "Herkunftsort": "1C.1m02 Fendels"
+                },
+                {
+                    "ID": "k503_qdbn-d16e27013",
+                    "Belegsatz": "a lader Koga [m]; a lader Koga m;",
+                    "Herkunftsort": "1C.1g02 St. Anton am Arlberg"
+                }
+            ],
+            "Belege": [
+                "k503_qdbn-d16e27114",
+                "k503_qdbn-d16e27013"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "schreiendes Kind",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.1 wNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k503_qdbn-d16e26848",
+                    "Belegsatz": "a schreieter Kōḡa [m]; a schreieter Koga m;",
+                    "Herkunftsort": "1C.1m02 Fendels"
+                }
+            ],
+            "Belege": [
+                "k503_qdbn-d16e26848"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "gogiger Kerl",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.1 wNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k503_qdbn-d16e26902",
+                    "Belegsatz": "goggătr Koga [m]; goggatr Koga m;",
+                    "Herkunftsort": "1C.1m06 Nauders"
+                }
+            ],
+            "Belege": [
+                "k503_qdbn-d16e26902"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "jemand, der leicht aufbraust",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.1 wNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k503_qdb-d1e30791",
+                    "Belegsatz": "dös ischt a bissigər Koga [m]; dös ischt a bissiger Koga m;",
+                    "Herkunftsort": "1C.1k02 See"
+                }
+            ],
+            "Belege": [
+                "k503_qdb-d1e30791"
+            ]
+        }
+    ]
+}

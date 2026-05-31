@@ -1,0 +1,102 @@
+{
+    "Lemma": "Knüttel",
+    "POS": "Subst",
+    "Genus": "m.",
+    "Kasus": "Nominativ",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Prügel, Stock;Sensengriff,Sensenstiel",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.3 Traunv.",
+                "6.4 Weinv.",
+                "1A.4 öSTir.",
+                "2.2 MKtn.",
+                "4.2 Pinzg."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k501_qdb-d1e43395",
+                    "Belegsatz": "Sanö Buəm sand ręchtö Dnidln [pl];",
+                    "Herkunftsort": "5.3b02 Gmunden"
+                },
+                {
+                    "ID": "k501_qdb-d1e44199",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.3 öNTir."
+                }
+            ],
+            "Belege": [
+                "k501_qdb-d1e43395",
+                "k501_qdb-d1e44199"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Astholz, Äste; abgehackte Nadelholzzweige",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "differenzierte Bedeutung",
+            "Regionen": [
+                "5.2 Hausrv.",
+                "1A.2 mSTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k501_qdb-d1e44326",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k501_qdb-d1e42625",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k501_qdb-d1e44326",
+                "k501_qdb-d1e42625"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "formloser Holzprügel;Knüppel",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "differenzierte Bedeutung",
+            "Regionen": [
+                "1A.4 öSTir.",
+                "6.2 Industriev."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k501_qdb-d1e44142",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k501_qdb-d1e42940 (F)",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k501_qdb-d1e44142",
+                "k501_qdb-d1e42940"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "reicher Bauer",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "weitere Bedeutung 1",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "k501_qdb-d1e43862",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k501_qdb-d1e43862"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1130 @@
+{
+  "Lemma": "grob",
+  "POS": "Adjektiv Partikel",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "(groß)körnig; rau anzufühlen (von Oberflächen oder Massen wie Mörtel, Schotter oder Mehl)",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A.1 wSTir.",
+        "p1C.2 mNTir.",
+        "p1C.3 öNTir.",
+        "p2.1 ObKtn.",
+        "p2.2 MKtn.",
+        "p3.1 sbair.ObStmk.",
+        "p3.3 WStmk.",
+        "p5.1 Innv.",
+        "p6.2 Industriev.",
+        "p6.3 Waldv.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "grobaʳ Męaschtl",
+          "Herkunftsort": "Kundl"
+        },
+        {
+          "Belegsatz": "grobaʳ Schoda",
+          "Herkunftsort": "Kundl"
+        },
+        {
+          "Belegsatz": "Grobər Maltər",
+          "Herkunftsort": "Rangersdorf"
+        },
+        {
+          "Belegsatz": "Groba Vaputz",
+          "Herkunftsort": "Stadl-Predlitz"
+        },
+        {
+          "Belegsatz": "s' growi Gmāuidda",
+          "Herkunftsort": "Puchberg am Schneeberg"
+        },
+        {
+          "Belegsatz": "is a groubs maiüta",
+          "Herkunftsort": "Kautzen"
+        },
+        {
+          "Belegsatz": "grōbəʳ Puz",
+          "Herkunftsort": "Gersthof"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "schotterig; steinig und daher schlecht bewirtschaft- oder gangbar (z. B. von Äckern)",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A.2 mSTir.",
+        "p1C.3 öNTir.",
+        "p2.1 ObKtn.",
+        "p3.1 sbair.ObStmk."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "groᵘbər Grund",
+          "Herkunftsort": "Sarntal"
+        },
+        {
+          "Belegsatz": "der Graben ist grouw",
+          "Herkunftsort": "Mallnitz"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "mit großen Erdklumpen bedeckt; großschollig (von Äckern)",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A.2 mSTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "dick; fest; stark; widerstandsfähig (von Fäden, Fruchtschalen, -häuten etc.)",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A.2 mSTir.",
+        "p1C.2 mNTir.",
+        "p1C.3 öNTir.",
+        "p3.1 sbair.ObStmk.",
+        "p3.2 mbair.ObStmk.",
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "grōwər zwīrn",
+          "Herkunftsort": "Matrei am Brenner"
+        },
+        {
+          "Belegsatz": "growa Fǫdn",
+          "Herkunftsort": "Kufstein"
+        },
+        {
+          "Belegsatz": "grobs Werch",
+          "Herkunftsort": "Kufstein"
+        },
+        {
+          "Belegsatz": "a groba fåbm",
+          "Herkunftsort": "Auss.Ld."
+        },
+        {
+          "Belegsatz": "growi Weinba, owa de mochan fül Wein",
+          "Herkunftsort": "Poysdorf"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "mit großen Löchern versehen (von Gegenständen wie Nadeln oder Fingerhüten)",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1C.3 öNTir.",
+        "p2.1 ObKtn.",
+        "p3.2 mbair.ObStmk."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "a grobė Nådlnum̄a",
+          "Herkunftsort": "Schwoich"
+        },
+        {
+          "Belegsatz": "a grōwər fiŋgərhuət",
+          "Herkunftsort": "Gitschtal"
+        },
+        {
+          "Belegsatz": "grobi nådl",
+          "Herkunftsort": "Auss.Ld."
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "rau; rissig; schwielig; aufgesprungen; zerschunden (von Haut, insbesondere jener an den Händen)",
+      "Typ": [
+        "II",
+        "1",
+        "a",
+        "α",
+        ""
+      ],
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C.1 wNTir.",
+        "p1C.3 öNTir.",
+        "p2 Ktn.",
+        "p3.1 sbair.ObStmk.",
+        "p3.3 WStmk.",
+        "p3.4 MStmk.",
+        "p4.3 Pong.",
+        "p4.5 Flachg.",
+        "p5.1 Innv.",
+        "p5.2 Hausrv.",
+        "p5.4 Mühlv.",
+        "p6 NÖ",
+        "p6.5 Wien",
+        "p7.2 MBgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "ā z' grobi Haut",
+          "Herkunftsort": "Mals"
+        },
+        {
+          "Belegsatz": "a grǫuba Haut muass man mit Schmǫlz schmirbn nǫcher wert sa kluͦg fein",
+          "Herkunftsort": "Pass."
+        },
+        {
+          "Belegsatz": "a groᵘwa haut",
+          "Herkunftsort": "Sillian"
+        },
+        {
+          "Belegsatz": "growö Hant",
+          "Herkunftsort": "Kufstein"
+        },
+        {
+          "Belegsatz": "Groube Haut",
+          "Herkunftsort": "Frantschach-St. Gertraud"
+        },
+        {
+          "Belegsatz": "a grōwė Hęnd",
+          "Herkunftsort": "Schlatt"
+        },
+        {
+          "Belegsatz": "Von vüˡn Aaʳwatn hot ma growi Händ",
+          "Herkunftsort": "Waidhofen an der Thaya"
+        },
+        {
+          "Belegsatz": "A growi Hånd",
+          "Herkunftsort": "Lichtental"
+        },
+        {
+          "Belegsatz": "tęi hǫɒrɒtsd, tęi hǟud krǟuwi häintt",
+          "Herkunftsort": "Neckenmarkt"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "von Geschwüren, Pickeln oder Krätzen bedeckt (von Körperteilen)",
+      "Typ": [
+        "II",
+        "1",
+        "a",
+        "β",
+        ""
+      ],
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p4.5 Flachg.",
+        "p5.1 Innv.",
+        "p5.3 Traunv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "growa keapa",
+          "Herkunftsort": "Obertrum am See"
+        },
+        {
+          "Belegsatz": "ə grówė nǫsn",
+          "Herkunftsort": "Mühlheim am Inn"
+        },
+        {
+          "Belegsatz": "grob is d' Haud, wąn's fo Wimməʳl odəʳ wąn's grötzö is",
+          "Herkunftsort": "Gmunden"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "uneben; narbig; zerkratzt; runzelig (von Gesicht oder Wangen)",
+      "Typ": [
+        "II",
+        "1",
+        "a",
+        "γ",
+        ""
+      ],
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p3.2 mbair.ObStmk.",
+        "p4.3 Pong.",
+        "p5.2 Hausrv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "groubs Gsicht",
+          "Herkunftsort": "Kapfenberg"
+        },
+        {
+          "Belegsatz": "ɒ grǫbs wǫ̃ŋ",
+          "Herkunftsort": "Gr.Arlt."
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "belegt; pelzig (von der Oberfläche der Zunge)",
+      "Typ": [
+        "II",
+        "1",
+        "a",
+        "δ",
+        ""
+      ],
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p5.3 Traunv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "a growė zung",
+          "Herkunftsort": "Ebensee"
+        },
+        {
+          "Belegsatz": "dö Zuŋ is grōb, wąⁿ ma kręŋglö īs",
+          "Herkunftsort": "Gmunden"
+        },
+        {
+          "Belegsatz": "håst a grōwö Zuŋ",
+          "Herkunftsort": "Gmunden"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "von Schmutz bedeckt; verschmutzt; schmutzig",
+      "Typ": "Variante",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1C.3 öNTir.",
+        "p2.1 ObKtn.",
+        "p3.2 mbair.ObStmk.",
+        "p4.3 Pong.",
+        "p4.5 Flachg.",
+        "p5 OÖ",
+        "p6 NÖ",
+        "p6.5 Wien",
+        "p7.3 SBgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "grob moh̄h̄ȇ",
+          "Herkunftsort": "nördl.obInnv."
+        },
+        {
+          "Belegsatz": "Dö Pfoad kąⁿst nimma ąⁿlöᵍŋ, dö is z' grōb",
+          "Herkunftsort": "Gmunden"
+        },
+        {
+          "Belegsatz": "ban Jödn griəgt maⁿ grobö Hend",
+          "Herkunftsort": "Gmunden"
+        },
+        {
+          "Belegsatz": "der Flegl mit seini grobm Händ",
+          "Herkunftsort": "Pyhra"
+        },
+        {
+          "Belegsatz": "unsaoans åwat, dös siacht ma ån dė̄ grǫwn Hė̄nd",
+          "Herkunftsort": "Zwettl-Niederösterreich"
+        },
+        {
+          "Belegsatz": "mid deini groum flegün",
+          "Herkunftsort": "Kautzen"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "steif; spröde (von Haaren)",
+      "Typ": [
+        "II",
+        "1",
+        "c",
+        "α",
+        ""
+      ],
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1A.1 wSTir.",
+        "p1A.2 mSTir.",
+        "p1C.3 öNTir.",
+        "p3.2 mbair.ObStmk.",
+        "p6.1 Mostv.",
+        "p6.3 Waldv.",
+        "p6.4 Weinv.",
+        "p7.2 MBgl.",
+        "p7.3 SBgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "grobs Hå̄r",
+          "Herkunftsort": "Mals"
+        },
+        {
+          "Belegsatz": "gröuwa hǫur",
+          "Herkunftsort": "Villanders"
+        },
+        {
+          "Belegsatz": "grōwė Hå̄r",
+          "Herkunftsort": "Wald am Schoberpaß"
+        },
+        {
+          "Belegsatz": "grôwĭ hoă",
+          "Herkunftsort": "Kirchberg am Walde"
+        },
+        {
+          "Belegsatz": "grǟuwi hǭɒ",
+          "Herkunftsort": "Neckenmarkt"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "struppig (von Haaren, Bart oder Fell)",
+      "Typ": [
+        "II",
+        "1",
+        "c",
+        "β",
+        ""
+      ],
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1C.3 öNTir.",
+        "p3.2 mbair.ObStmk.",
+        "p6.3 Waldv.",
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "gröuwəs fęl",
+          "Herkunftsort": "Villanders"
+        },
+        {
+          "Belegsatz": "gro͡ubâr Bårt",
+          "Herkunftsort": "Kastelruth"
+        },
+        {
+          "Belegsatz": "a grouwo pąršt",
+          "Herkunftsort": "Kiens"
+        },
+        {
+          "Belegsatz": "Da Fugs hot a gro(u)bs fǟˡ",
+          "Herkunftsort": "Waidhofen an der Thaya"
+        },
+        {
+          "Belegsatz": "grouwi Hoaʳ",
+          "Herkunftsort": "Hollabrunn"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "stark; groß; fest; massig (vom gesamten Körperbau oder einzelnen Körperteilen)",
+      "Typ": [
+        "II",
+        "2",
+        "a",
+        "α",
+        ""
+      ],
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1C.1 wNTir.",
+        "p1C.3 öNTir.",
+        "p2 Ktn.",
+        "p3.4 MStmk.",
+        "p5.1 Innv.",
+        "p5.2 Hausrv.",
+        "p6 NÖ",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "groubə Puⁿər",
+          "Herkunftsort": "Tarrenz"
+        },
+        {
+          "Belegsatz": "grobė Hent",
+          "Herkunftsort": "Thiersee"
+        },
+        {
+          "Belegsatz": "grobe Wadl",
+          "Herkunftsort": "obstGurkt."
+        },
+        {
+          "Belegsatz": "a grobᵃr Leib",
+          "Herkunftsort": "Straßburg"
+        },
+        {
+          "Belegsatz": "grouwi Boana",
+          "Herkunftsort": "Thal"
+        },
+        {
+          "Belegsatz": "und dės Bua Bein; Knochen is sou grōu",
+          "Herkunftsort": "Kautzen"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "knochig; eckig; spitz (von Körperteilen)",
+      "Typ": [
+        "II",
+        "2",
+        "a",
+        "β",
+        ""
+      ],
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1C.3 öNTir.",
+        "p3.3 WStmk.",
+        "p6.3 Waldv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "a grobs Gsicht",
+          "Herkunftsort": "Schwoich"
+        },
+        {
+          "Belegsatz": "grouwa reönboungn Ellenbogen",
+          "Herkunftsort": "Kautzen"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "breit; groß (von Körperteilen)",
+      "Typ": [
+        "II",
+        "2",
+        "a",
+        "γ",
+        ""
+      ],
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1C.3 öNTir."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "grobs måüɫ",
+          "Herkunftsort": "Wildschönau"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "dicht; dick (von Haaren)",
+      "Typ": "Variante",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "grōwė Haͤᵃʳ",
+          "Herkunftsort": "Mauer"
+        },
+        {
+          "Belegsatz": "growi Hǭaʳ",
+          "Herkunftsort": "Mauer"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "wenig fruchtbar (von Äckern)",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p2.2 MKtn."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "verunkrautet; grasig; voller Graswurzeln (von Äckern)",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p5.2 Hausrv.",
+        "p5.3 Traunv.",
+        "p5.4 Mühlv.",
+        "p6.1 Mostv.",
+        "p6.2 Industriev.",
+        "p6.3 Waldv.",
+        "p7.2 MBgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "hand dås grōbö Akəʳ",
+          "Herkunftsort": "Gmunden"
+        },
+        {
+          "Belegsatz": "a grobaʳ ɒ̊ggaʳ",
+          "Herkunftsort": "Niederkappel"
+        },
+        {
+          "Belegsatz": "sou grou ous da rokga is",
+          "Herkunftsort": "Kautzen"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "verwahrlost; verwildert (von Äckern)",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p5.2 Hausrv.",
+        "p6.1 Mostv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "growi Agga",
+          "Herkunftsort": "Leonding"
+        },
+        {
+          "Belegsatz": "grȱwi Fölla Felder",
+          "Herkunftsort": "Haag"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "derb; einfach (gearbeitet); wenig ausgearbeitet (von Erzeugnissen menschlicher Produktion)",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p2.1 ObKtn.",
+        "p2.2 MKtn.",
+        "p3.1 sbair.ObStmk.",
+        "p3.5 OStmk.",
+        "p4.3 Pong.",
+        "p5 OÖ",
+        "p6 NÖ",
+        "p7.2 MBgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "a groubs gwånt",
+          "Herkunftsort": "Umg.Meran"
+        },
+        {
+          "Belegsatz": "a grobė Woɫ",
+          "Herkunftsort": "Thiersee"
+        },
+        {
+          "Belegsatz": "grōwər Zwirn",
+          "Herkunftsort": "Gitschtal"
+        },
+        {
+          "Belegsatz": "a grōubs Bŏbíəʳ",
+          "Herkunftsort": "Lobmingtal"
+        },
+        {
+          "Belegsatz": "a grouwa Flękch",
+          "Herkunftsort": "Weißkirchen in Steiermark"
+        },
+        {
+          "Belegsatz": "grouwė Laiⁿwad",
+          "Herkunftsort": "Großwilfersdorf"
+        },
+        {
+          "Belegsatz": "a grōwė Nå̄d",
+          "Herkunftsort": "Schlatt"
+        },
+        {
+          "Belegsatz": "grob gŋad",
+          "Herkunftsort": "Gmunden"
+        },
+        {
+          "Belegsatz": "a grobö Hådəʳn",
+          "Herkunftsort": "Gmunden"
+        },
+        {
+          "Belegsatz": "groͧwė Flaxn",
+          "Herkunftsort": "Dunkelsteinerwald"
+        },
+        {
+          "Belegsatz": "A groba Sti Stich",
+          "Herkunftsort": "Waldkirchen an der Thaya"
+        },
+        {
+          "Belegsatz": "growa Dǫā",
+          "Herkunftsort": "Retz"
+        },
+        {
+          "Belegsatz": "κrəuwi wul",
+          "Herkunftsort": "Pilgersdorf"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "ungebleicht (von Fäden)",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "growa Zwian",
+          "Herkunftsort": "Pulkaut."
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "hässlich; unschön; ungepflegt; verunstaltet (von Gegenständen und Körperteilen)",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p4.5 Flachg.",
+        "p5.1 Innv.",
+        "p5.2 Hausrv.",
+        "p5.3 Traunv.",
+        "p6.1 Mostv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "growa keapa",
+          "Herkunftsort": "Obertrum am See"
+        },
+        {
+          "Belegsatz": "An grob'n Kobf",
+          "Herkunftsort": "Feldkirchen bei Mattighofen"
+        },
+        {
+          "Belegsatz": "ɒ grōbs Gsicht",
+          "Herkunftsort": "Mühlheim am Inn"
+        },
+        {
+          "Belegsatz": "gröbö Nögö̱ˡ",
+          "Herkunftsort": "Gmunden"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "minderwertig; grobfaserig (von Fleisch)",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p2.1 ObKtn.",
+        "p6.1 Mostv.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "A grobs flaisch",
+          "Herkunftsort": "Melk"
+        },
+        {
+          "Belegsatz": "grobs Fleisch",
+          "Herkunftsort": "Wien"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "schecht; regnerisch; stürmisch (vom Wetter)",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p1B OTir.",
+        "p1C NTir.",
+        "p2.2 MKtn.",
+        "p3 Stmk.",
+        "p5 OÖ",
+        "p6.1 Mostv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "es ös grob wöder",
+          "Herkunftsort": "nördl.obInnv."
+        },
+        {
+          "Belegsatz": "ɒ grōbs wé̄dɒ",
+          "Herkunftsort": "Mühlheim am Inn"
+        },
+        {
+          "Belegsatz": "ɒ κrobs wėdɒ",
+          "Herkunftsort": "Weibern"
+        },
+        {
+          "Belegsatz": "grōb īs s' Wöda",
+          "Herkunftsort": "Gmunden"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "ungeschlacht; derb; roh; pöbelhaft (vom menschlichen Charakter oder Verhalten)",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p1A.4 öSTir.",
+        "p1C.2 mNTir.",
+        "p1C.3 öNTir.",
+        "p3.2 mbair.ObStmk.",
+        "p3.4 MStmk.",
+        "p5 OÖ",
+        "p6.1 Mostv.",
+        "p6.3 Waldv.",
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "grouwa Baua",
+          "Herkunftsort": "Kammern im Liesingtal"
+        },
+        {
+          "Belegsatz": "a grouwa Mėintsch",
+          "Herkunftsort": "Übelbach"
+        },
+        {
+          "Belegsatz": "a grōwa Khęaʳl",
+          "Herkunftsort": "Gmunden"
+        },
+        {
+          "Belegsatz": "is dea grou mit seini Hėnth",
+          "Herkunftsort": "Kautzen"
+        },
+        {
+          "Belegsatz": "a growa Me(ï)nsch",
+          "Herkunftsort": "Poysdorf"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "unappetitlich; unmanierlich (in Bezug auf den Umgang mit Essen)",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p1C.3 öNTir.",
+        "p5.1 Innv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "midn Össn grob seiⁿ",
+          "Herkunftsort": "Kufstein"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "geringschätzig (in Bezug auf den Umgang mit Lebensmitteln)",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p1C.3 öNTir."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "mitn Brot derf ma nöt grob umgö!",
+          "Herkunftsort": "Kufstein"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "unwirsch; unsanft",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "böse; garstig (vom Charakter eines Tiers)",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p6.3 Waldv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "d grobn Gäns",
+          "Herkunftsort": "Krumau am Kamp"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "schecht; unbegabt; von geringer Fertigkeit oder Fähigkeit",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p1C.3 öNTir.",
+        "p5.1 Innv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "groba Schnaida",
+          "Herkunftsort": "Thiersee"
+        },
+        {
+          "Belegsatz": "grōb sīŋɒ",
+          "Herkunftsort": "Mühlheim am Inn"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "geizig; knausrig; äußerst sparsam",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p5.1 Innv.",
+        "p5.2 Hausrv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "grob dnue(g) genug",
+          "Herkunftsort": "nördl.obInnv."
+        },
+        {
+          "Belegsatz": "du bist jǫ ǫ̃ɒ́̃mo­e ts grōb!",
+          "Herkunftsort": "Mühlheim am Inn"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "habgierig; neidisch",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p5.1 Innv.",
+        "p5.2 Hausrv.",
+        "p5.3 Traunv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "a grober Mensch, der Kramer då",
+          "Herkunftsort": "Lambach"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "angeberisch",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p2.2 MKtn."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "growa B. Bauer",
+          "Herkunftsort": "Feldkirchen in Kärnten"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "herrisch; barsch",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p6.3 Waldv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "mürrisch; böse (vom Gesichtsausdruck)",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 3",
+      "Regionen": [
+        "p5.1 Innv.",
+        "p6.3 Waldv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "šau nėt so grōw",
+          "Herkunftsort": "Mühlheim am Inn"
+        },
+        {
+          "Belegsatz": "a grobs Gs. Gesicht",
+          "Herkunftsort": "Kautzen"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "unsittlich; unanständig; hässlich (von Gesagtem)",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 3",
+      "Regionen": [
+        "p4.3 Pong.",
+        "p5.1 Innv.",
+        "p5.2 Hausrv.",
+        "p5.3 Traunv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "ęps grōbs sǭ'ŋ",
+          "Herkunftsort": "Mühlheim am Inn"
+        },
+        {
+          "Belegsatz": "so soat ma nöt! Das is grob",
+          "Herkunftsort": "Taiskirchen im Innkreis"
+        },
+        {
+          "Belegsatz": "Dös sagt ma nöt, dōs is grob",
+          "Herkunftsort": "Lambach"
+        },
+        {
+          "Belegsatz": "dös is grob",
+          "Herkunftsort": "Thalheim bei Wels"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "tief (von der Stimme)",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 3",
+      "Regionen": [
+        "p3 Stmk.",
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "feiⁿ in hoher Stimmlage und grob singa",
+          "Herkunftsort": "Hartberg"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "heiser; mit heiserer Stimme",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 3",
+      "Regionen": [
+        "p3.5 OStmk."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "grob redn",
+          "Herkunftsort": "Burgau"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "intensiv; stark; heftig; in hohem Maße",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 4",
+      "Regionen": [
+        "p1C.3 öNTir.",
+        "p3.3 WStmk.",
+        "p3.5 OStmk.",
+        "p5.1 Innv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "z' grob brennt von Schnaps",
+          "Herkunftsort": "Kufstein"
+        },
+        {
+          "Belegsatz": "grob bliətn",
+          "Herkunftsort": "Niederndorf"
+        },
+        {
+          "Belegsatz": "a growė Wundn",
+          "Herkunftsort": "Schwoich"
+        },
+        {
+          "Belegsatz": "ɒ grōwė Khöüˡdn",
+          "Herkunftsort": "Schwanberg"
+        },
+        {
+          "Belegsatz": "D Kina muan grou huasten",
+          "Herkunftsort": "Straden"
+        },
+        {
+          "Belegsatz": "gro åchtn und ehrn",
+          "Herkunftsort": "Pramet"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "schwer; hart (in Bezug auf Arbeit)",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 4",
+      "Regionen": [
+        "p1B OTir.",
+        "p1C NTir.",
+        "p3.3 WStmk."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Grobe ɒ̊rbeit",
+          "Herkunftsort": "Stainz"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "schlimm; schwierig; heiß (in Bezug auf Auseinandersetzungen)",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 4",
+      "Regionen": [
+        "p5.2 Hausrv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Bam Prozess mitn Nåchbårn wirds net so grob hergehⁿ, håm sie eh scho hålw und hålw ausglichər",
+          "Herkunftsort": "Lambach"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "dringlich",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 4",
+      "Regionen": [
+        "p6.1 Mostv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "schmerzhaft; verletzt",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 4",
+      "Regionen": [
+        "p2.2 MKtn."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "a groᵘwer Fin͡ger",
+          "Herkunftsort": "Steuerberg"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "sehr",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "weitere Bedeutung 5",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p2 Ktn.",
+        "p3 Stmk.",
+        "p5 OÖ",
+        "p6.1 Mostv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "ie ått grȯ sȯvl wildė Zȯttln",
+          "Herkunftsort": "Sarntal"
+        },
+        {
+          "Belegsatz": "Dö håd scho fü z'grob d Manaleid an Kobf",
+          "Herkunftsort": "Kitzbühel"
+        },
+        {
+          "Belegsatz": "so gro guȇd",
+          "Herkunftsort": "nördl.obInnv."
+        },
+        {
+          "Belegsatz": "er håd so gro fij midmo̊h̄h̄ə̑ miȇssn",
+          "Herkunftsort": "nördl.obInnv."
+        },
+        {
+          "Belegsatz": "Du triŋkst so gró fuė",
+          "Herkunftsort": "Mühlheim am Inn"
+        },
+        {
+          "Belegsatz": "ɒ wę̄̃g dsgrȱ īwɒdrá̄įm",
+          "Herkunftsort": "Natternbach"
+        }
+      ]
+    }
+  ]
+}

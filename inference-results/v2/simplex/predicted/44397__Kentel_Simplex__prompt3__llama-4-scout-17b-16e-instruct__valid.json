@@ -1,0 +1,86 @@
+{
+    "Lemma": "Kentel",
+    "POS": "Subst",
+    "Genus": "Femininum",
+    "Kasus": "Nominativ",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Reisigbündel zum Feuermachen oder als Fackel",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.2 mSTir.",
+                "1C.1 wNTir.",
+                "1A.1 wSTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k474_qdb-d1e55745",
+                    "Belegsatz": "Reisigbündel zum Feuermachen im Ofen Bündel aus dünnen Holzstäben, welches als Leuchtfackel auf den Wegen getragen wird",
+                    "Herkunftsort": "1A.2 mSTir."
+                },
+                {
+                    "ID": "k474_qdb-d1e56044",
+                    "Belegsatz": "an Kēndl [m,sg4]   suᵃchn; an Kendl m,sg4 suachn",
+                    "Herkunftsort": "1C.1 wNTir."
+                }
+            ],
+            "Belege": [
+                "k474_qdb-d1e55745",
+                "k474_qdb-d1e56044",
+                "k474_qdb-d1e55563"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Kienspan; Fackel aus Pech und Werg",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.4 öSTir.",
+                "1C.1 wNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k474_qdb-d1e55364",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k474_qdb-d1e56019",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k474_qdb-d1e55364",
+                "k474_qdb-d1e56019",
+                "k474_qdb-d1e55220"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Kleines Holzscheit oder Scheiter",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.2 mNTir.",
+                "5.3 Traunv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k474_qdb-d1e55387",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.2 mNTir."
+                },
+                {
+                    "ID": "k474_qdb-d1e56353",
+                    "Belegsatz": "große oder kleine buchene Scheitter",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k474_qdb-d1e55387",
+                "k474_qdb-d1e56353"
+            ]
+        }
+    ]
+}

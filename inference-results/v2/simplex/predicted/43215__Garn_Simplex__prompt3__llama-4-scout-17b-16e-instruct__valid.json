@@ -1,0 +1,85 @@
+{
+    "Lemma": "Garn",
+    "POS": "Subst",
+    "Genus": "Neutrum",
+    "Kasus": "Nominativ",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Garn als generischer Begriff für Faden oder Zwirn zum Nähen, Stricken oder Weben.",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.4 Mühl v.",
+                "6.3 Waldv.",
+                "6.1 Mostv.",
+                "3.2 mbair.ObStmk."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g303_qdb-d1e37433",
+                    "Belegsatz": "das Garn",
+                    "Herkunftsort": "5.4h06 Pabneukirchen"
+                },
+                {
+                    "ID": "g303_qdb-d1e38304",
+                    "Belegsatz": "Garn",
+                    "Herkunftsort": "6.3q03 St. Leonhard am Hornerwald"
+                }
+            ],
+            "Belege": [
+                "g303_qdb-d1e37433",
+                "g303_qdb-d1e38304"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Garn als Netz oder Fangvorrichtung für den Fischfang oder Vogelstellerei.",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.3 Traunv.",
+                "6.2 Industriev.",
+                "1A.4 öSTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g303_qdb-d1e41744",
+                    "Belegsatz": "der ist ihm ins Garn gegangen",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g303_qdb-d1e41744"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Garn im Kontext der Weberei oder Textilherstellung.",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "2.2 MKtn.",
+                "1C.1 wNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g303_qdb-d1e39546",
+                    "Belegsatz": "Garn aufwinden",
+                    "Herkunftsort": "2.3b05 Straßburg"
+                },
+                {
+                    "ID": "g303_qdb-d1e42022",
+                    "Belegsatz": "abgehaspelter Strähn",
+                    "Herkunftsort": "1B.0b01 Außervillgraten"
+                }
+            ],
+            "Belege": [
+                "g303_qdb-d1e39546",
+                "g303_qdb-d1e42022"
+            ]
+        }
+    ]
+}

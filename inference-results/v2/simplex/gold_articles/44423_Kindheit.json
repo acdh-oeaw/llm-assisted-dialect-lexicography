@@ -1,0 +1,38 @@
+{
+  "Lemma": "Kindheit",
+  "POS": "Substantiv",
+  "Genus": "Femininum",
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "Kindesalter; erste Lebensjahre eines Menschen bis zur Pubertät",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1C.1 wNTir.",
+        "p1C.3 öNTir.",
+        "p2.1 ObKtn.",
+        "p3.3 WStmk.",
+        "p5.3 Traunv.",
+        "p5.4 Mühlv.",
+        "p6.1 Mostv.",
+        "p6.2 Industriev.",
+        "p6.3 Waldv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "i dər kχindhait",
+          "Herkunftsort": "Imst"
+        },
+        {
+          "Belegsatz": "fąⁿ Khīdhaid āf (ąⁿ) khenand össö kennen sie sich",
+          "Herkunftsort": "Gmunden"
+        },
+        {
+          "Belegsatz": "In sãĩna Khindhaid",
+          "Herkunftsort": "Dunkelsteinerwald"
+        }
+      ]
+    }
+  ]
+}

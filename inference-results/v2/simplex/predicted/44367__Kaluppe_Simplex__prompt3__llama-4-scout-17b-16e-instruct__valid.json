@@ -1,0 +1,83 @@
+{
+    "Lemma": "Kalúppe",
+    "POS": "Substantiv",
+    "Genus": "Femininum",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "baufälliges Haus; schlechtes Haus; Hütte",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.2",
+                "6.1",
+                "6.3",
+                "7.1"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k453_qdb-d1e49947",
+                    "Belegsatz": "",
+                    "Herkunftsort": "Linz"
+                },
+                {
+                    "ID": "k453_qdb-d1e49657",
+                    "Belegsatz": "Deē Kalupbm es a scho zən zomfolln",
+                    "Herkunftsort": "Söding-St. Johann"
+                }
+            ],
+            "Belege": [
+                "k453_qdb-d1e49947",
+                "k453_qdb-d1e49657"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "altes Gebäude; alte Hütte",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "differenzierte Bedeutung",
+            "Regionen": [
+                "2.1",
+                "2.2"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k453_qdb-d1e48931",
+                    "Belegsatz": "",
+                    "Herkunftsort": "Heiligenblut am Großglockner"
+                }
+            ],
+            "Belege": [
+                "k453_qdb-d1e48931"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "verwahrlostes Haus",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "differenzierte Bedeutung",
+            "Regionen": [
+                "6.3",
+                "7.1"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k453_qdb-d1e50482",
+                    "Belegsatz": "",
+                    "Herkunftsort": "Wien"
+                }
+            ],
+            "Belege": [
+                "k453_qdb-d1e50482"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "MINDERWERTIGES HAUS",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "differenzierte Bedeutung",
+            "Regionen": [
+                "6.5"
+            ],
+            "Belegsaetze": [],
+            "Belege": []
+        }
+    ]
+}

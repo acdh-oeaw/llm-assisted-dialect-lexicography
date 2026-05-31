@@ -1,0 +1,43 @@
+{
+  "Lemma": "gillen",
+  "POS": "Verb",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "laut weinen; durchdringend schreien; wehklagen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1C.1 wNTir.",
+        "p2 Ktn.",
+        "p5 OÖ",
+        "p6.2 Industriev."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "die Sau güllt",
+          "Herkunftsort": "Warth"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "nach Luft ringen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p5 OÖ"
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "speien; erbrechen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

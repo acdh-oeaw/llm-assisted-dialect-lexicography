@@ -1,0 +1,103 @@
+{
+    "Lemma": "Kindsin",
+    "POS": "Subst",
+    "Genus": "Femininum",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Kindsmagd; Kindermagd",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.4 öSTir.",
+                "1B.0 OTir.",
+                "1C.2 mNTir.",
+                "3.2 mbair.ObStmk.",
+                "3.5 OStmk."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k483_qdb-d1e45650",
+                    "Belegsatz": "Kindsin = Kindsmagd",
+                    "Herkunftsort": "1C.2a29 Weer"
+                },
+                {
+                    "ID": "k483_qdb-d1e45480",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k483_qdb-d1e45577",
+                    "Belegsatz": "",
+                    "Herkunftsort": "3.5h07 Hartberg"
+                }
+            ],
+            "Belege": [
+                "k483_qdb-d1e45650",
+                "k483_qdb-d1e45480",
+                "k483_qdb-d1e45577"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Kinderfrau; Kinderwärterin",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.1 wNTir.",
+                "5.3 Traunv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k483_qdb-d1e45747",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.1n01 Imst"
+                },
+                {
+                    "ID": "k483_qdb-d1e45403",
+                    "Belegsatz": "Kinderwärterin",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k483_qdb-d1e45747",
+                "k483_qdb-d1e45403"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Kindsfrau; Kindsmädchen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "3.2 mbair.ObStmk."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k483_qdb-d1e45600",
+                    "Belegsatz": "Kindsmädchen, Kindsfrau",
+                    "Herkunftsort": "3.2b05 Wald am Schoberpaß"
+                }
+            ],
+            "Belege": [
+                "k483_qdb-d1e45600"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "weibliche Person, die Kleinkinder wartet",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                ""
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k483_qdb-d1e45376",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k483_qdb-d1e45376"
+            ]
+        }
+    ]
+}

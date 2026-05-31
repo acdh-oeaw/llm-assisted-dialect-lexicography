@@ -1,0 +1,95 @@
+Glossar:
+  Lemma: "'Lemma' beinhaltet sämtliche Einträge (inklusive Komposita und Wortbildungsvarianten), die einem bestimmten Lemma zugeordnet werden können. Zu diesem Zweck wurden alle Handzettel beziehungsweise die Einträge der Belegdatenbank lemmatisiert und nach historisch-etymologischen Gesichtspunkten - also linguistischen Prinzipien - einem Hauptlemma zugeordnet."
+  Fragebogennummer: "Auflistung von relevanten Fragebogennummern und Beschreibungen:\n* **6G6a:** (Haar-)Bürste\n* **76E14:** Pferdebürste (Kartatsche)\n* **70G29:** Wollkrempel (Karde); Pl./Dem.\n* **6N8:** kurzer Bart, Stoppelbart; entspr.Mensch; Charakter?\n* **2J15b (f):** \n* **102F17:** Stoffarten (Leinwand/Leinen, Rasch/Raß,)\n* **96A4:** Wolle; Füg./Ra. (in der Wolle sitzen)\n* **70G27:** die Schafwolle auflockern; Gerät hiezu (Wolf)\n* **70G31:** Krempelbank (z.Krempeln der Schafwolle)\n"
+  Part_of_Speech: Diese Angabe benennt die Wortart des jeweiligen Belegs.
+  Bedeutung_der_Lautung: Diese Information beschreibt die Bedeutung der Lautungsangabe auf dem Beleg.
+  Bedeutung_des_Belegsatzes: "Diese Information beschreibt die Bedeutung des in Spalte \"Belegsatz 1\", \"Belegsatz 2\" etc. angegebenen Belegsatzes. Es kann sich dabei um eine direkte standardsprachliche Übersetzung, eine standardsprachliche Periphrase oder um einen metasprachlichen Kommentar handeln."
+  Belegsatz_1: "Dieser Eintrag gibt einen Belegsatz, eine Redewendung oder eine Paraphrase wider, um die Bedeutung des Belegs exemplarisch darzustellen bzw. näher zu kontextualisieren. Der Belegsatz ist in der Regel im Dialekt angegeben und in der Lautschrift Teuthonista verschriftlicht."
+  Belegsatz_2: Belegsatz 2 weist dieselbe Funktionalität auf wie Belegsatz 1.
+  Sammlung: Eine Sammlung bündelt einzelne Einträge nach lexikographisch sinnvollen Gesichtspunkten. Alle Einträge der Sammlung teilen diese Gesichtspunkte.
+  Lautung_1: "Die angegebene Information umfasst die lautliche Transkription des vorliegenden Belegs. Die Transkription wurde auf der Grundlage eines Lautschriftsystems notiert, das jenem der Teuthonista gleicht oder zumindest ähnelt. Da die Datengrundlage des WBÖ auf unterschiedlichsten Quellen basiert und die Erhebungen der Fragebögen häufig von Laien-Sammlerinnen und -sammlern durchgeführt wurden, können sich Uneinheitlichkeiten bei der Transkription ergeben."
+  Lautung_2: Lautung 2 weist dieselbe Funktionalität auf wie Lautung 1.
+  Anmerkung: Zusätzliche Anmerkung über den Beleg.
+  Diverses: Zusätzliche undefinierte Anmerkung über den Beleg.
+  Substantiv: Dieser Beleg zählt zur Wortart Substantiv.
+  Verb: Dieser Beleg zählt zur Wortart Verb.
+  Adjektiv: Dieser Beleg zählt zur Wortart Adjektiv.
+  Adverb: Dieser Beleg zählt zur Wortart Adverb.
+  Praeposition: Dieser Beleg zählt zur Wortart Präposition.
+  Konjunktion: Dieser Beleg zählt zur Wortart Konjunktion.
+  Pronomen: Dieser Beleg zählt zur Wortart Pronomen.
+  Interjektion: Dieser Beleg zählt zur Wortart Interjektion.
+  Partikel: Dieser Beleg zählt zur Wortart Partikel.
+  Geschlecht: "Das grammatische Geschlecht eines Wortes wird in der Fachsprache als Genus bezeichnet. Im Deutschen gibt es drei Genera: Maskulinum (männlich), Femininum (weiblich) und Neutrum (sächlich). Das Genus eines Substantivs wird oft durch den Artikel (der, die, das) angezeigt."
+  Bedeutung: "Semantik, auch Bedeutungslehre genannt, ist die wissenschaftliche Beschäftigung mit Bedeutung und mit den verschiedenen Beziehungen zwischen einem Zeichen und dem Bezeichneten. In den Wörterbuchartikeln gehört die Angabe der Bedeutung bzw. Bedeutungen eines Wortes zu den zentralen Inhalten."
+  Belegsatz: "Ein Belegsatz1 oder Belegsatz2  wird verwendet, um die Bedeutung des Beleg in Form eines Satzes exemplarisch zu verdeutlichen. In den Daten wird statt der Bezeichnung \"Beispielsatz\" auch die Bezeichnung \"Belegsatz\" verwendet."
+  Wortvarianten: Unterschiedliche Varianten eines Wortes.
+  Woerterbuchartikel: "Eine strukturierte Beschreibung eines Lemmas, die Angaben zu Bedeutung (bzw. Bedeutungen), Aussprache, Grammatik, Verbreitung, Etymologie sowie ggfs. Wortbildungen und Redewendungen enthält."
+  Quelle_Datenbank: "Es handelt sich hierbei um eine formalisierte Angabe der geographischen Zuordnung des Belegs. Diese Besteht aus einer Sigle sowie einer in Abkürzungen formulierten und ggfs. hierarchisch (Gemeinde, Kleinregion, Großregion, Bundesland) gegliederten Verschriftlichung der geographischen Zuordnung."
+  CollectionCat: "Die CollectionCat (Abkürzung für Collection Categorizer) ist eine Software-Applikation, die zum Kategorisieren und Zusammenfassen von Belegen im Rahmen der lexikographischen Arbeit genutzt wird."
+  Simplex: "Ein Simplex ist ein einfaches Wort oder Lexem, das weder abgeleitet noch zusammengesetzt ist."
+  Kompositum: Ein Kompositum ist ein aus bereits vorhandenen Wörtern zusammengesetztes komplexes Wort. Der zugrunde liegende Wortbildungsprozess wird Komposition genannt.
+  Derivation: "Eine Derivation ist das Ergebnis eines Wortbildungsprozesses, bei dem durch Anhängen eines Affixes (Präfix, Suffix oder Zirkumfix) aus einem Wort ein neues Wort gebildet wird."
+  Grossregion: "Das Bearbeitungsgebiet (Großregion1 und Großregion2) des WBÖ ist regional untergliedert. Jeder regionalen Einheit ist eine eindeutige Sigle zugeordnet. Die größte regionale Einheit stellt dabei das \"Bundesland\" dar, welches folgendermaßen unterteilt ist: Südtirol (Sigle 1A), Osttirol (Sigle 1B), Nordtirol (Sigle 1C), Kärnten (Sigle 2), Steiermark (Sigle 3), Salzburg (Sigle 4), Oberösterreich (Sigle 5), Niederösterreich (Sigle 6), Wien (Sigle 6.5) sowie Burgenland (Sigle 7). \nDie zweitgrößte regionale Einheit ist die \"Großregion\", welche die Bundesländer in weitere Teilbereiche untergliedert. \nDie drittgrößte regionale Einheit ist die \"Kleinregion\", welche die Großregionen in weitere Teilbereiche untergliedert.\nDie viertgrößte regionale Einheit ist die \"Gemeinde\", welche die Kleinregionen in weitere Teilbereiche untergliedert."
+  Herkunftsort: "Geographische Lokation, aus der ein Beleg stammt. Die Angabe erfolgt auf der jeweils spezifischsten verfügbaren Ebene: Ist eine Gemeinde bekannt, wird diese angegeben; andernfalls eine Kleinregion, eine Großregion oder - als letzte Möglichkeit - das Bundesland."
+Belege[60]{ID,Fragebogennummer,Lemma,POS,Bedeutung_des_Belegsatzes,Bedeutung_der_Lautung,Belegsatz1,Belegsatz2,Lautung1,Lautung2,"Großregion",Herkunftsort,Diverses,Anmerkung}:
+  k459_qdbn-d16e28184,"",Kartȧ́tsche;Kartatsche;,Subst;,"",Kartätsche;Kartätsche;,"","","","",1C.3 öNTir.;1C.3 öNTir.;,"","",""
+  k459_qdb-d1e34887,"",Kartȧ́tsche;Kartatsche;,Subst;,"",Kardätsche;Kardätsche;,"","","","",2.2 MKtn.;,2.2c03 Trebesing;,"",""
+  k459_qdb-d1e33655,"",Kartȧ́tsche;Kartatsche;,Subst;,"",Stallbürste für die Pferde;Stallbürste für die Pferde;,"","","","",7.1 NBgl.;7.1 NBgl.;,"","",""
+  k459_qdb-d1e32888,"",Kartȧ́tsche;Kartatsche;,Subst;,"",Kartätsche = Wollkratze; Stallbürste;Kartätsche = Wollkratze Stallbürste;,"","","","",2.2 MKtn.;,2.2i07 Villach;,"",""
+  k459_qdbn-d16e28096,"",Kartȧ́tsche;Kartatsche;,Subst;,"","","","","","",1A.1 wSTir.;1A.1 wSTir.;,"","",""
+  k459_qdbn-d16e28412,"",Kartȧ́tsche;Kartatsche;,Subst;,"","Gerät zum Grampeln, Riffeln der WolleANMO: mit Hilfe der Zähne auf dem Raster und der Grãmplpiaschtn  ( Grãmpl );Gerät zum Grampeln, Riffeln der Wolle ANM O: mit Hilfe der Zähne auf dem Raster und der Gramplpiaschtn  Grampl;","","","","",3.2 mbair.ObStmk.;,3.2a08 St. Michael in Obersteiermark;,"",""
+  k459_qdb-d1e33946,"",Kartȧ́tsche;Kartatsche;,Subst;,"",eine Art Bürste aus feinen Drähten zum Kämmen der Schafwolle;eine Art Bürste aus feinen Drähten zum Kämmen der Schafwolle;,"","","","","","","",""
+  k459_qdb-d1e33975,"",Kartȧ́tsche;Kartatsche;,Subst;,"",Pferdebürste;Pferdebürste;,"","","","",6.5 Wien;,"","",""
+  k459_qdb-d1e34030,6G6a;,Kartȧ́tsche;Kartatsche;,Subst;,"",Haarbürste der Pferde;Haarbürste der Pferde;,"","","","",7.2 MBgl.;,7.2a08 Neckenmarkt;,"",""
+  k459_qdb-d1e34057,"",Kartȧ́tsche;Kartatsche;,Subst;,"",Staubbürste zur Reinigung der Pferde;Staubbürste zur Reinigung der Pferde;,"","","","",6.3 Waldv.;,6.3c03 Bad Großpertholz;,"",""
+  k459_qdb-d1e34327,76E14;,Kartȧ́tsche;Kartatsche;,Subst;,"","","","","","",6.3 Waldv.;,6.3a15 Kautzen;,"",""
+  k459_qdb-d1e34958,70G29;,Kartȧ́tsche;Kartatsche;,Subst;,"",die Tätsch = Kardätsche = Wollkrempel;die Tätsch = Kardätsche = Wollkrempel;,"","","","",1C.2 mNTir.;,1C.2a29 Weer;,"",""
+  k459_qdb-d1e34591,6N8;,Kartȧ́tsche;Kartatsche;,Subst;,ein Bart wie ein K.;,"",a Pårt a wiə a Kchartatschn;a Part a wie a Kchartatschn;,"","","",2.1 ObKtn.;,2.1i01 Gitschtal;,"",""
+  k459_qdb-d1e34623,"",Kartȧ́tsche;Kartatsche;,Subst;,"",Staubbürste;Staubbürste;,"","","","",7.3 SBgl.;,7.3g07 Stegersbach;,"",""
+  k459_qdb-d1e34757,70G29;,Kartȧ́tsche;Kartatsche;,Subst;,"","","","","","",1C.1 wNTir.;,1C.1n01 Imst;,"",""
+  k459_qdbn-d16e29555,"",Kartȧ́tsche;Kartatsche;,Subst;,"","","","","","",6.4 Weinv.;,6.4b05 Pulkau;,"",""
+  k459_qdbn-d16e32007,"",Kartȧ́tsche;Kartatsche;,Subst;,"",Kartätsche für die Wolle;Kartätsche für die Wolle;,"","","","","","","",""
+  k459_qdb-d1e32861,"",Kartȧ́tsche;Kartatsche;,Subst;,"",Kardätsche = grobe Pferdebürste; Strigler;Kardätsche = grobe Pferdebürste Strigler;,"","","","","","","",""
+  k459_qdbn-d16e28073,"",Kartȧ́tsche;Kartatsche;,Subst;,"",Kartätsche;Kartätsche;,"","","","","","","",""
+  k459_qdb-d1e33775,"",Kartȧ́tsche;Kartatsche;,Subst;,"",Kardätsche zum Auflockern der Wolle;Kardätsche zum Auflockern der Wolle;,"","","","",2.2 MKtn.;,2.2e01 Bad Kleinkirchheim;,"",""
+  k459_qdbn-d16e28117,"",Kartȧ́tsche;Kartatsche;,Subst;,"","","","","","",1B.0 OTir.;,"","",""
+  k459_qdb-d1e33683,2J15b (f);,Kartȧ́tsche;Kartatsche;,Subst;,"orig: Kartatsche;translated: Werkzeug zum Wolle krampeln;","",åltė Kartattschn;alte Kartattschn;,"","","",2.1 ObKtn.;,2.1g01 Kötschach-Mauthen;,"",""
+  k459_qdb-d1e33728,"",Kartȧ́tsche;Kartatsche;,Subst;,"",Kamm zum Krämpeln der Schafwolle;Kamm zum Krämpeln der Schafwolle;,"","","","",6.1 Mostv.;,6.1d01 Allhartsberg;,"",""
+  k459_qdb-d1e33798,"",Kartȧ́tsche;Kartatsche;,Subst;,"",Kartätsche;Kartätsche;,"","","","",6.4 Weinv.;6.4 Weinv.;6.4 Weinv.;6.4 Weinv.;6.4 Weinv.;6.4 Weinv.;,"","",""
+  k459_qdb-d1e33889,"",Kartȧ́tsche;Kartatsche;,Subst;,"",Kleiderbürste; Schuhbürste;Kleiderbürste Schuhbürste;,"","","","",7.3 SBgl.;,7.3i03 Moschendorf;,"",""
+  k459_qdbn-d16e28901,102F17;,Kartȧ́tsche;Kartatsche;,Subst;,"",Vorrichtung mit eng aneinander stehenden Eisenstiften zum Ausfilzen der Wolle;,"","","","",2.2 MKtn.;,2.2i08 Weißenstein;,"",""
+  k459_qdbn-d16e29464,"",Kartȧ́tsche;Kartatsche;,Subst;,"",Kardätsche = Vorrichtung zum Wollkrempeln;Kardätsche = Vorrichtung zum Wollkrempeln;,"","","","","","","",""
+  k459_qdb-d1e34197,70G29;,Kartȧ́tsche;Kartatsche;,Subst;,"","","","","","",4.3 Pong.;,"","",""
+  k459_qdb-d1e34350,76E14;,Kartȧ́tsche;Kartatsche;,Subst;,"","","","","","",5.1 Innv.;,5.1e02 Eggerding;,"",""
+  k459_qdbn-d16e29094,76E14;,Kartȧ́tsche;Kartatsche;,Subst;,"","","","","","",6.5 Wien;,6.5r01 Gersthof;,"",""
+  k459_qdb-d1e34503,"",Kartȧ́tsche;Kartatsche;,Subst;,"",Kardätsche = Wollkratze;Kardätsche = Wollkratze;,"","","","","","","",""
+  k459_qdb-d1e34557,"",Kartȧ́tsche;Kartatsche;,Subst;,"",Wollkamm;,"","","","","","","",""
+  k459_qdb-d1e34731,70G29;,Kartȧ́tsche;Kartatsche;,Subst;,"",Wollkrempel;,"","","","",1C.1 wNTir.;,1C.1m02 Fendels;,"",""
+  k459_qdbn-d16e29509,"",Kartȧ́tsche;Kartatsche;,Subst;,"",Striegel zum Reinigen der Pferde;,"","","","",6.4 Weinv.;,6.4b05 Pulkau;,"",""
+  k459_qdbn-d16e29618,"",Kartȧ́tsche;Kartatsche;,Subst;,"",Kardatsche;,"","","","","","","",""
+  k459_qdb-d1e35005,"",Kartȧ́tsche;Kartatsche;,Subst;,"","","","","","",1C.3 öNTir.;,1C.3i05 St. Johann in Tirol;,dadschn  = Rupfen der Wolle;ANM dadschn = Rupfen der Wolle;,""
+  k459_qdbn-d16e29663,96A4;,Kartȧ́tsche;Kartatsche;,Subst;,"","Holzgerät mit beweglich dünnen Drähtchen besetzt, worauf die Wolle auf und abgeraffelt wird und so zum Spinnen zurecht gemacht ist;Holzgerät mit beweglich dünnen Drähtchen besetzt, worauf die Wolle auf und abgeraffelt wird und so zum Spinnen zurecht gemacht ist;","","","","",1C.3 öNTir.;,1C.3e06 Kufstein;,"",""
+  k459_qdb-d1e35099,70G27;,Kartȧ́tsche;Kartatsche;,Subst;,"","","","","","",1C.3 öNTir.;,1C.3b03 Thiersee;,"",""
+  k459_qdb-d1e32913,"",Kartȧ́tsche;Kartatsche;,Subst;,"",Bürste zur Pflege des Pferdefelles;Bürste zur Pflege des Pferdefelles;,"","","","",2.2 MKtn.;,2.3f01 Feldkirchen in Kärnten;,"",""
+  k459_qdb-d1e32973,"",Kartȧ́tsche;Kartatsche;,Subst;,"",Roßbürste mit Riemenhalterung;Roßbürste mit Riemenhalterung;,"","","","",5.1 Innv.;,5.1e12 Taufkirchen an der Pram;,"",""
+  k459_qdbn-d16e29870,"",Kartȧ́tsche;Kartatsche;,Subst;,"",Wollkartätsche;Wollkartätsche;,"","","","",1C.2 mNTir.;,1C.2j04 Tux;,"",""
+  k459_qdb-d1e34933,"",Kartȧ́tsche;Kartatsche;,Subst;,"",Kardatschen; Wollek.;Kardatschen Wollek.;,"","","","",1C.2 mNTir.;,1C.2j04 Tux;,"",""
+  k459_qdb-d1e33628,"",Kartȧ́tsche;Kartatsche;,Subst;,"",Stallbürste;Stallbürste;,"","","","",6.5 Wien;,6.5u06 Leopoldau;,"",""
+  k459_qdbn-d16e28543,"",Kartȧ́tsche;Kartatsche;,Subst;,"",Reiß- oder Zugwerkzeug für Schafwolle; Riffel;Reiß oder Zugwerkzeug für Schafwolle Riffel;,"","","","","","","",""
+  k459_qdb-d1e33840,"",Kartȧ́tsche;Kartatsche;,Subst;,"",Vorrichtung zum Wolle krämpeln;Vorrichtung zum Wolle krämpeln;,"","","","",6.4 Weinv.;,6.4j02 Bockfließ;,"",""
+  k459_qdb-d1e33866,"",Kartȧ́tsche;Kartatsche;,Subst;,"","","","","","",6.4 Weinv.;6.4 Weinv.;,6.4d18 Poysdorf;6.4d18 Poysdorf;,"",""
+  k459_qdbn-d16e29015,76E14;,Kartȧ́tsche;Kartatsche;,Subst;,"",die Wollkrempel;,"","","","",2.2 MKtn.;2.2 MKtn.;2.2 MKtn.;2.2 MKtn.;,"","",""
+  k459_qdb-d1e34304,76E14;,Kartȧ́tsche;Kartatsche;,Subst;,"","","","","","",4.2 Pinzg.;,4.2c01 Fusch an der Großglocknerstraße;,"",""
+  k459_qdb-d1e34480,76E14;,Kartȧ́tsche;Kartatsche;,Subst;,"","","","","","",5.3 Traunv.;,5.3o04 Losenstein;,"",""
+  k459_qdb-d1e34531,"",Kartȧ́tsche;Kartatsche;,Subst;,"",Pferdebürste;Pferdebürste;,"","","","","","","",""
+  k459_qdb-d1e34646,70G29;,Kartȧ́tsche;Kartatsche;,Subst;,"","","","","","",5.3 Traunv.;,5.3b02 Gmunden;,"",""
+  k459_qdb-d1e34678,70G29;,Kartȧ́tsche;Kartatsche;,Subst;,"","","","","","",2.1 ObKtn.;,2.1b04 Rangersdorf;,"",""
+  k459_qdb-d1e34831,"",Kartȧ́tsche;Kartatsche;,Subst;,"",Gerät zum Lockern der Wolle;Gerät zum Lockern der Wolle;,"","","","",1C.2 mNTir.;,1C.2m01 Innsbruck;,"",""
+  k459_qdbn-d16e29735,70G31;,Kartȧ́tsche;Kartatsche;,Subst;,"",Kartatsche;,"","","","",1C.3 öNTir.;,1C.3e06 Kufstein;,"",""
+  k459_qdb-d1e35338,"",Kartȧ́tsche;Kartatsche;,Subst;,"",Krempelbrett zum Krempeln der Schafwolle;,"","","","",6.4 Weinv.;,6.4f19 Sulz im Weinviertel;,"",""
+  k459_qdbn-d16e29844,"",Kartȧ́tsche;Kartatsche;,Subst;,"",Wollkartätsche;Wollkartätsche;,"","","","",1C.3 öNTir.;1C.3 öNTir.;1C.3 öNTir.;,"","",""
+  k459_qdbn-d16e29940,"",Kartȧ́tsche;Kartatsche;,Subst;,"","Gerät zum Wolle-AufreißenANMO: 2 Brettchen mit Drahtzähnen, durch die die Wolle durchgezogen wird, das eine Brettchen wird nach rechts, das andere nach links gezogen;Gerät zum WolleAufreißen ANM O: 2 Brettchen mit Drahtzähnen, durch die die Wolle durchgezogen wird, das eine Brettchen wird nach rechts, das andere nach links gezogen;","","","","",1C.1 wNTir.;,1C.1m08 Prutz;,"",""
+  k459_qdb-d1e35441,"",Kartȧ́tsche;Kartatsche;,Subst;,"",Bürste;Bürste;,"","","","",3.5 OStmk.;3.5 OStmk.;,3.5k10 Gnas;3.5j12 Kirchberg an der Raab;,"",""
+  k459_qdb-d1e36419,70G29;,Kartȧ́tsche;Kartatsche;,Subst;,"","","","","","",1C.1 wNTir.;,1C.1n01 Imst;,"",""
+  k459_qdbn-d16e29440,70G29;,Kartȧ́tsche;Kartatsche;,Subst;,"","Kartatsche = Wollkrempel; KempelbankANMO: ein Gerät; das nur noch in entlegenen Bauernhöfen zu finden ist;Kartatsche = Wollkrempel Kempelbank ANM O: ein Gerät das nur noch in entlegenen Bauernhöfen zu finden ist;","","","","",2.2 MKtn.;2.2 MKtn.;2.2 MKtn.;2.2 MKtn.;,"","",""

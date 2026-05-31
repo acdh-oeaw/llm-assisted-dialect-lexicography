@@ -1,0 +1,97 @@
+{
+    "Lemma": "Kinderèi;Kinderei;",
+    "POS": "Subst",
+    "Genus": "Femininum",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "kindisches Benehmen, Kinderei",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.4 öSTir.",
+                "1B.0 OTir.",
+                "3.5 OStmk.",
+                "7.3 SBgl.",
+                "4.3 Pong.",
+                "5.2 Hausrv.",
+                "5.3 Traunv.",
+                "6.1 Mostv.",
+                "6.2 Industriev.",
+                "6.3 Waldv.",
+                "6.4 Weinv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k483_qdb-d1e38878",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.4 Weinv."
+                },
+                {
+                    "ID": "k483_qdb-d1e38943",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1A.4 öSTir.; 1B.0 OTir."
+                }
+            ],
+            "Belege": [
+                "k483_qdb-d1e38878",
+                "k483_qdb-d1e38943",
+                "k483_qdb-d1e39044",
+                "k483_qdb-d1e38899",
+                "k483_qdb-d1e38994"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "etwas, das leicht zu machen ist",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "differenzierte Bedeutung",
+            "Regionen": [
+                "6.2 Industriev.",
+                "1A.4 öSTir.",
+                "1C.1 wNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k483_qdb-d1e39570",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.2j15 Pottendorf"
+                },
+                {
+                    "ID": "k483_qdb-d1e39376",
+                    "Belegsatz": "des iš kχǫa kχindərai; des is kchoa kchinderai",
+                    "Herkunftsort": "1A.4c01 Lüsen"
+                }
+            ],
+            "Belege": [
+                "k483_qdb-d1e39570",
+                "k483_qdb-d1e39376",
+                "k483_qdb-d1e39309"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "spielend leichte Arbeit",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "differenzierte Bedeutung",
+            "Regionen": [
+                "5.3 Traunv.",
+                "1C.3 öNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k483_qdb-d1e39336",
+                    "Belegsatz": "Kinderein [pl]   måchn; Kinderein pl machn",
+                    "Herkunftsort": "1C.3b03 Thiersee"
+                },
+                {
+                    "ID": "k483_qdb-d1e39309",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.3b02 Gmunden"
+                }
+            ],
+            "Belege": [
+                "k483_qdb-d1e39336",
+                "k483_qdb-d1e39309"
+            ]
+        }
+    ]
+}

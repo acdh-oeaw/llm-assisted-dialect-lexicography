@@ -1,0 +1,36 @@
+{
+  "Lemma": "Feger",
+  "POS": "Substantiv",
+  "Genus": "Maskulinum, Femininum",
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "langsamer, träger Mensch",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A.4 öSTir.",
+        "p1B.0 OTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "kleine, wertlose Spielkarte",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1A STir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "starker Rausch",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p1C.1 wNTir."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

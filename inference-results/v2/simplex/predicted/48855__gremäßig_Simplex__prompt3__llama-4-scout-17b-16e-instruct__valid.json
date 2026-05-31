@@ -1,0 +1,85 @@
+{
+    "Lemma": "gremäßig",
+    "POS": "Adj",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "mißmutig; zornig",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.2 Hausrv.",
+                "5.3 Traunv.",
+                "6.4 Weinv.",
+                "7.3 SBgl."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g345_qdb-d1e15486",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "g345_qdb-d1e17783",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.2b28 Pichl bei Wels"
+                },
+                {
+                    "ID": "g345_qdb-d1e17931",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.2b22 Neukirchen an der Vöckla"
+                }
+            ],
+            "Belege": [
+                "g345_qdb-d1e15486",
+                "g345_qdb-d1e17783",
+                "g345_qdb-d1e17931"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "kränklich; schwächlich",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.1 Mostv.",
+                "6.4 Weinv."
+            ],
+            "Belegsaetze": [],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "schlecht gelaunt; übel aufgelegt",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.1 Mostv.",
+                "6.3 Waldv."
+            ],
+            "Belegsaetze": [],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "Grimassen machen; verzerrtes Gesicht",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.3 Traunv.",
+                "6.4 Weinv.",
+                "6.5 Wien"
+            ],
+            "Belegsaetze": [],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "unwohl; unpäßlich",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.5 Wien"
+            ],
+            "Belegsaetze": [],
+            "Belege": []
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+Glossar:
+  Lemma: "'Lemma' beinhaltet sämtliche Einträge (inklusive Komposita und Wortbildungsvarianten), die einem bestimmten Lemma zugeordnet werden können. Zu diesem Zweck wurden alle Handzettel beziehungsweise die Einträge der Belegdatenbank lemmatisiert und nach historisch-etymologischen Gesichtspunkten - also linguistischen Prinzipien - einem Hauptlemma zugeordnet."
+  Fragebogennummer: "Auflistung von relevanten Fragebogennummern und Beschreibungen:\n* **EFb.6/11:** den Säugling auf dem Arm tragen\n* **63C16:** Kleinkinder beaufsichtigen (Kinderhüten,)\n* **87G9:** sich kindisch benehmen (kindeinen, kindeinsen)\n* **63C13:** Beruhigungsmittel f. weinende Babys (hutschen,); Wiegenliedertexte; Spiele (Muckenschießen)\n* **109/499:** Kinder-, Kindsmädchen\n* **63A5:** Komp. mit Mädchen/Mensch\n* **63C15:** Mohnabsud-/Sternanisanwendg. b. Baby, Volksmeing.\n"
+  Part_of_Speech: Diese Angabe benennt die Wortart des jeweiligen Belegs.
+  Bedeutung_der_Lautung: Diese Information beschreibt die Bedeutung der Lautungsangabe auf dem Beleg.
+  Bedeutung_des_Belegsatzes: "Diese Information beschreibt die Bedeutung des in Spalte \"Belegsatz 1\", \"Belegsatz 2\" etc. angegebenen Belegsatzes. Es kann sich dabei um eine direkte standardsprachliche Übersetzung, eine standardsprachliche Periphrase oder um einen metasprachlichen Kommentar handeln."
+  Belegsatz_1: "Dieser Eintrag gibt einen Belegsatz, eine Redewendung oder eine Paraphrase wider, um die Bedeutung des Belegs exemplarisch darzustellen bzw. näher zu kontextualisieren. Der Belegsatz ist in der Regel im Dialekt angegeben und in der Lautschrift Teuthonista verschriftlicht."
+  Belegsatz_2: Belegsatz 2 weist dieselbe Funktionalität auf wie Belegsatz 1.
+  Sammlung: Eine Sammlung bündelt einzelne Einträge nach lexikographisch sinnvollen Gesichtspunkten. Alle Einträge der Sammlung teilen diese Gesichtspunkte.
+  Lautung_1: "Die angegebene Information umfasst die lautliche Transkription des vorliegenden Belegs. Die Transkription wurde auf der Grundlage eines Lautschriftsystems notiert, das jenem der Teuthonista gleicht oder zumindest ähnelt. Da die Datengrundlage des WBÖ auf unterschiedlichsten Quellen basiert und die Erhebungen der Fragebögen häufig von Laien-Sammlerinnen und -sammlern durchgeführt wurden, können sich Uneinheitlichkeiten bei der Transkription ergeben."
+  Lautung_2: Lautung 2 weist dieselbe Funktionalität auf wie Lautung 1.
+  Anmerkung: Zusätzliche Anmerkung über den Beleg.
+  Diverses: Zusätzliche undefinierte Anmerkung über den Beleg.
+  Substantiv: Dieser Beleg zählt zur Wortart Substantiv.
+  Verb: Dieser Beleg zählt zur Wortart Verb.
+  Adjektiv: Dieser Beleg zählt zur Wortart Adjektiv.
+  Adverb: Dieser Beleg zählt zur Wortart Adverb.
+  Praeposition: Dieser Beleg zählt zur Wortart Präposition.
+  Konjunktion: Dieser Beleg zählt zur Wortart Konjunktion.
+  Pronomen: Dieser Beleg zählt zur Wortart Pronomen.
+  Interjektion: Dieser Beleg zählt zur Wortart Interjektion.
+  Partikel: Dieser Beleg zählt zur Wortart Partikel.
+  Geschlecht: "Das grammatische Geschlecht eines Wortes wird in der Fachsprache als Genus bezeichnet. Im Deutschen gibt es drei Genera: Maskulinum (männlich), Femininum (weiblich) und Neutrum (sächlich). Das Genus eines Substantivs wird oft durch den Artikel (der, die, das) angezeigt."
+  Bedeutung: "Semantik, auch Bedeutungslehre genannt, ist die wissenschaftliche Beschäftigung mit Bedeutung und mit den verschiedenen Beziehungen zwischen einem Zeichen und dem Bezeichneten. In den Wörterbuchartikeln gehört die Angabe der Bedeutung bzw. Bedeutungen eines Wortes zu den zentralen Inhalten."
+  Belegsatz: "Ein Belegsatz1 oder Belegsatz2  wird verwendet, um die Bedeutung des Beleg in Form eines Satzes exemplarisch zu verdeutlichen. In den Daten wird statt der Bezeichnung \"Beispielsatz\" auch die Bezeichnung \"Belegsatz\" verwendet."
+  Wortvarianten: Unterschiedliche Varianten eines Wortes.
+  Woerterbuchartikel: "Eine strukturierte Beschreibung eines Lemmas, die Angaben zu Bedeutung (bzw. Bedeutungen), Aussprache, Grammatik, Verbreitung, Etymologie sowie ggfs. Wortbildungen und Redewendungen enthält."
+  Quelle_Datenbank: "Es handelt sich hierbei um eine formalisierte Angabe der geographischen Zuordnung des Belegs. Diese Besteht aus einer Sigle sowie einer in Abkürzungen formulierten und ggfs. hierarchisch (Gemeinde, Kleinregion, Großregion, Bundesland) gegliederten Verschriftlichung der geographischen Zuordnung."
+  CollectionCat: "Die CollectionCat (Abkürzung für Collection Categorizer) ist eine Software-Applikation, die zum Kategorisieren und Zusammenfassen von Belegen im Rahmen der lexikographischen Arbeit genutzt wird."
+  Simplex: "Ein Simplex ist ein einfaches Wort oder Lexem, das weder abgeleitet noch zusammengesetzt ist."
+  Kompositum: Ein Kompositum ist ein aus bereits vorhandenen Wörtern zusammengesetztes komplexes Wort. Der zugrunde liegende Wortbildungsprozess wird Komposition genannt.
+  Derivation: "Eine Derivation ist das Ergebnis eines Wortbildungsprozesses, bei dem durch Anhängen eines Affixes (Präfix, Suffix oder Zirkumfix) aus einem Wort ein neues Wort gebildet wird."
+  Grossregion: "Das Bearbeitungsgebiet (Großregion1 und Großregion2) des WBÖ ist regional untergliedert. Jeder regionalen Einheit ist eine eindeutige Sigle zugeordnet. Die größte regionale Einheit stellt dabei das \"Bundesland\" dar, welches folgendermaßen unterteilt ist: Südtirol (Sigle 1A), Osttirol (Sigle 1B), Nordtirol (Sigle 1C), Kärnten (Sigle 2), Steiermark (Sigle 3), Salzburg (Sigle 4), Oberösterreich (Sigle 5), Niederösterreich (Sigle 6), Wien (Sigle 6.5) sowie Burgenland (Sigle 7). \nDie zweitgrößte regionale Einheit ist die \"Großregion\", welche die Bundesländer in weitere Teilbereiche untergliedert. \nDie drittgrößte regionale Einheit ist die \"Kleinregion\", welche die Großregionen in weitere Teilbereiche untergliedert.\nDie viertgrößte regionale Einheit ist die \"Gemeinde\", welche die Kleinregionen in weitere Teilbereiche untergliedert."
+  Herkunftsort: "Geographische Lokation, aus der ein Beleg stammt. Die Angabe erfolgt auf der jeweils spezifischsten verfügbaren Ebene: Ist eine Gemeinde bekannt, wird diese angegeben; andernfalls eine Kleinregion, eine Großregion oder - als letzte Möglichkeit - das Bundesland."
+Belege[65]{ID,Fragebogennummer,Lemma,POS,Bedeutung_des_Belegsatzes,Bedeutung_der_Lautung,Belegsatz1,Belegsatz2,Lautung1,Lautung2,"Großregion",Herkunftsort,Diverses,Anmerkung}:
+  k483_qdb-d1e43655,"",kindsen;,Verb;,"","\"Baby sitten\"ANMO: wie es so \"schön\" heißt;Baby sitten ANM O: wie es so schön heißt;","","","","",3.2 mbair.ObStmk.;,3.2l01 Irdning-Donnersbachtal;,"",""
+  k483_qdb-d1e44080,"",kindsen;,Verb;,"","\"kinzen\": (ein Kind) auf den Armen schaukeln;kinzen: ein Kind auf den Armen schaukeln;","","","","",1C.2 mNTir.;,1C.2a19 Schwaz;,"",""
+  k483_qdb-d1e44688,EFb.6/11;,kindsen;,Verb;,"",den Säugling auf dem Arme tragen;den Säugling auf dem Arme tragen;,"","","","",1C.2 mNTir.;,1C.2a19 Schwaz;,"",""
+  k483_qdb-d1e44763,EFb.6/11;,kindsen;,Verb;,"",den Säugling auf dem Arm tragen;den Säugling auf dem Arm tragen;,"","","","",1C.3 öNTir.;,1C.3a02 Eben am Achensee;,"",""
+  k483_qdb-d1e45202,63C16;,kindsen;,Verb;,"",kindsen;,"","","","",1C.1 wNTir.;,1C.1r01 Sölden;,"",""
+  k483_qdb-d1e44858,EFb.6/11;,kindsen;,Verb;,"",den Säugling auf dem Arme tragen;den Säugling auf dem Arme tragen;,"","","","","","","",""
+  k483_qdb-d1e43705,"",kindsen;,Verb;,"","kleine Kinder hüten, betreuen;kleine Kinder hüten, betreuen;","","","","","","","",""
+  k483_qdb-d1e44336,EFb.6/11;,kindsen;,Verb;,"",Säugling auf dem Arm tragen;Säugling auf dem Arm tragen;,"","","","",1C.2 mNTir.;,1C.2a01 Absam;,"",""
+  k483_qdb-d1e43682,"",kindsen;,Verb;,"",sich mit Kindern abgeben;,"","","","","","","",""
+  k483_qdb-d1e44562,EFb.6/11;,kindsen;,Verb;,"",den Säugling auf dem Arme tragen;den Säugling auf dem Arme tragen;,"","","","",1C.2 mNTir.;,1C.2h02 Matrei am Brenner;,"",""
+  k483_qdb-d1e44713,EFb.6/11;,kindsen;,Verb;,"",den Säugling auf dem Arm tragen;den Säugling auf dem Arm tragen;,"","","","",1C.2 mNTir.;,1C.2a19 Schwaz;,"",""
+  k483_qdb-d1e44738,EFb.6/11;,kindsen;,Verb;,"",den Säugling auf dem Arme tragen;den Säugling auf dem Arme tragen;,"","","","",1C.2 mNTir.;,1C.2a19 Schwaz;,"",""
+  k483_qdb-d1e43550,"",kindsen;,Verb;,"","kleine Kinder beaufsichtigen, warten;","","","","","","","",""
+  k483_qdb-d1e44311,EFb.6/11;,kindsen;,Verb;,"",Säugling auf dem Arm tragen;Säugling auf dem Arm tragen;,"","","","",1C.2 mNTir.;,1C.2a05 Baumkirchen;,"",""
+  k483_qdb-d1e44361,EFb.6/11;,kindsen;,Verb;,"",Säugling auf dem Arm tragen;Säugling auf dem Arm tragen;,"","","","","","","",""
+  k483_qdb-d1e44487,EFb.6/11;,kindsen;,Verb;,"",Säugling auf dem Arm tragen;Säugling auf dem Arm tragen;,"","","","",4.5 Flachg.;,4.5a08 Grödig;,"",""
+  k483_qdb-d1e44988,63C16;,kindsen;,Verb;,kindsen ist ein Engelsgeschäft;,"Kinder warten, hüten;Kinder warten, hüten;",kintzn is a Englgscheft;,"","","",1C.3 öNTir.;,1C.3e06 Kufstein;,"",""
+  k483_qdb-d1e43468,"",kindsen;,Verb;,"","Kinder betreuen, auf Kinder aufpassen;","","","","",1A.4 öSTir.;,1A.4a01 Ahrntal;,"",""
+  k483_qdb-d1e43626,"",kindsen;,Verb;,"","auf kleine Kinder und Haus aufpassen, wenn die Eltern weg sind;","","","","",4.2 Pinzg.;,4.2a10 Wald im Pinzgau;,"oder: g̩ā̃mɒ;ANM oder: gama;",""
+  k483_qdb-d1e44111,EFb.6/11;,kindsen;,Verb;,"",Säugling auf dem Arm tragen;Säugling auf dem Arm tragen;,"","","","","","","",""
+  k483_qdb-d1e44186,EFb.6/11;,kindsen;,Verb;,"",Säugling auf dem Arm tragen;Säugling auf dem Arm tragen;,"","","","",1C.3 öNTir.;,1C.3e05 Kirchbichl;,"",""
+  k483_qdb-d1e44261,EFb.6/11;,kindsen;,Verb;,"",Kinder betreuen;,"","","","",1C.2 mNTir.;,1C.2i02 Natters;,"",""
+  k483_qdb-d1e44512,EFb.6/11;,kindsen;,Verb;,"",Säugling auf dem Arm tragen;Säugling auf dem Arm tragen;,"","","","",4.2 Pinzg.;,4.2a03 Krimml;,"",""
+  k483_qdb-d1e44587,EFb.6/11;,kindsen;,Verb;,"",den Säugling auf dem Arme tragen;den Säugling auf dem Arme tragen;,"","","","",1A.4 öSTir.;,1A.4i07 Welsberg-Taisten;,"",""
+  k483_qdb-d1e44838,EFb.6/11;,kindsen;,Verb;,"",den Säugling auf dem Arme tragen;den Säugling auf dem Arme tragen;,"","","","","","","",""
+  k483_qdb-d1e45228,87G9;,kindsen;,Verb;,"",das Kind pflegen;,"","","","",1C.3 öNTir.;,1C.3b03 Thiersee;,"",""
+  k483_qdb-d1e45936,"",kindsen;,Verb;,"",ein Kind betreuen;,"","","","",5.3 Traunv.;,5.3a04 Hallstatt;,"",""
+  k483_qdb-d1e43359,"",kindsen;,Verb;,"Gib das Büblein der Großmutter oder dem Großvater, sonst halt einem Mädel zum hüten;","","gib s piəblɒ dr nā̃lɒ ouderm nȫnɒ, süšt hǫlt an mādlɒ tsum kχindsɒ!;gib s piebla dr nala ouderm nöna, süst holt an madla tsum kchindsa!;","","","",1C.1 wNTir.;,1C.1m10 Serfaus;,"",""
+  k483_qdb-d1e43409,"",kindsen;,Verb;,"","","","","","",2.1 ObKtn.;2.1 ObKtn.;,2.1f01 Lesachtal;2.1f01 Lesachtal;,"allg.: ɒf dį kxį́̃ndǫ šāugŋ̥  auf die Kinder aufpassen;ANM allg.: af di kchindo saugng auf die Kinder aufpassen;",""
+  k483_qdb-d1e43497,"",kindsen;,Verb;,"",Kinder betreuen;,"","","","",1C.2 mNTir.;,1C.2m01 Innsbruck;,"",""
+  k483_qdb-d1e43771,"",kindsen;,Verb;,"",Kinder betreuen;,"","","","",1A.2 mSTir.;,1A.3i02 Kastelruth;,"",""
+  k483_qdb-d1e43901,"",kindsen;,Verb;,"",Kind auf den Arm nehmen und berühigen;Kind auf den Arm nehmen und berühigen;,"","","","",1C.3 öNTir.;1C.3 öNTir.;,1C.3f02 Hopfgarten im Brixental;1C.3i05 St. Johann in Tirol;,"",""
+  k483_qdb-d1e44055,"",kindsen;,Verb;,"",ein Kind betreuen;,"","","","",5.3 Traunv.;,5.3a06 Obertraun;,"",""
+  k483_qdb-d1e44136,EFb.6/11;,kindsen;,Verb;,"",Säugling auf dem Arm tragen;Säugling auf dem Arm tragen;,"","","","",1C.3 öNTir.;,1C.3e06 Kufstein;,"",""
+  k483_qdb-d1e44161,EFb.6/11;,kindsen;,Verb;,"",Säugling auf dem Arm halten;Säugling auf dem Arm halten;,"","","","",1C.3 öNTir.;,1C.3e12 Schwoich;,"",""
+  k483_qdb-d1e43601,"",kindsen;,Verb;,"",den Kindern auswarten;,"","","","",1C.1 wNTir.;1C.1 wNTir.;1C.1 wNTir.;1C.2 mNTir.;1C.3 öNTir.;1C.3 öNTir.;,"","",""
+  k483_qdb-d1e44236,EFb.6/11;,kindsen;,Verb;,"",Säugling auf dem Arm tragen;Säugling auf dem Arm tragen;,"","","","","","","",""
+  k483_qdb-d1e44460,EFb.6/11;,kindsen;,Verb;,Säugling auf dem Arm tragen;,"",dö Pop kinzn;dö Pop kinzn;,"","","",1C.3 öNTir.;,1C.3d02 Wildschönau;,"",""
+  k483_qdb-d1e44663,EFb.6/11;,kindsen;,Verb;,"",den Säugling auf dem Arme tragen;den Säugling auf dem Arme tragen;,"","","","","","","",""
+  k483_qdb-d1e44901,63C13;,kindsen;,Verb;,"","","","","","",1C.3 öNTir.;,1C.3b03 Thiersee;,"",""
+  k483_qdb-d1e45024,63C16;,kindsen;,Verb;,"","","i hon kχintst [P2];i hon kchintst P2;","","","",1C.1 wNTir.;,1C.1n01 Imst;,"",""
+  k483_qdb-d1e45253,109/499;,kindsen;,Verb;,"","Kinder betreuen, Kinder herumtragen;","","","","",1C.1 wNTir.;,1C.1m08 Prutz;,"",""
+  k483_qdb-d1e43384,"",kindsen;,Verb;,"",Kleinkinder beaufsichtigen;,"","","","",3.2 mbair.ObStmk.;,"","",""
+  k483_qdb-d1e43522,"",kindsen;,Verb;,"",kleine Kinder beaufsichtigen;,"","","","","","","",""
+  k483_qdb-d1e43573,"",kindsen;,Verb;,"",Kinder betreuen;,"","","","","","","",""
+  k483_qdb-d1e43796,"",kindsen;,Verb;,"","kleine Kinder besorgenANMO: tut die Kindsdirn die kleinen Kinder und lokht  (trägt) sie auf dem Arm;kleine Kinder besorgen ANM O: tut die Kindsdirn die kleinen Kinder und lokht trägt sie auf dem Arm;",Tuest haiⁿt kinzn?;,"","","",1C.3 öNTir.;1C.3 öNTir.;,1C.3f02 Hopfgarten im Brixental;1C.3i05 St. Johann in Tirol;,"",""
+  k483_qdb-d1e43989,"",kindsen;,Verb;,"","kinderwarten, kinderpflegen;","","","","","","","",""
+  k483_qdb-d1e44963,63A5;,kindsen;,Verb;,"","\"kindsen\" = ein Kind beaufsichtigen;kindsen = ein Kind beaufsichtigen;","","","","",1A.4 öSTir.;,1A.4c01 Lüsen;,"",""
+  k483_qdb-d1e44007,"",kindsen;,Verb;,"","auf kleine Kinder aufpassen, auf den Arm nehmen und herumtragen;","","","","",1C.2 mNTir.;1C.2 mNTir.;1C.2 mNTir.;,"","",""
+  k483_qdb-d1e44286,EFb.6/11;,kindsen;,Verb;,"",Säugling auf dem Arm tragen;Säugling auf dem Arm tragen;,"","","","","","","",""
+  k483_qdb-d1e44387,EFb.6/11;,kindsen;,Verb;,"",Säugling auf dem Arm tragen;Säugling auf dem Arm tragen;,"","","","","","","",""
+  k483_qdb-d1e44410,EFb.6/11;,kindsen;,Verb;,"",auf dem Arm tragen;,"","","","","","","",""
+  k483_qdb-d1e44435,EFb.6/11;,kindsen;,Verb;,"",Säugling am Arm tragen;Säugling am Arm tragen;,"","","","",1C.3 öNTir.;,1C.3b01 Brandenberg;,"",""
+  k483_qdb-d1e44537,EFb.6/11;,kindsen;,Verb;,"",den Säugling auf dem Arm tragen;den Säugling auf dem Arm tragen;,"","","","","","","",""
+  k483_qdb-d1e44612,EFb.6/11;,kindsen;,Verb;,"",den Säugling auf dem Arme tragen;den Säugling auf dem Arme tragen;,"","","","",1C.2 mNTir.;,1C.2k05 Hippach;,"",""
+  k483_qdb-d1e44788,EFb.6/11;,kindsen;,Verb;,"",den Säugling auf dem Arme tragen;den Säugling auf dem Arme tragen;,"","","","",1C.1 wNTir.;,1C.1m07 Pfunds;,"",""
+  k483_qdb-d1e44813,EFb.6/11;,kindsen;,Verb;,"",umgehen mit dem Säugling;umgehen mit dem Säugling;,"","","","",1A.1 wSTir.;,1A.1h05 Schenna;,"",""
+  k483_qdb-d1e44878,63C15;,kindsen;,Verb;,"","","","","","",1C.3 öNTir.;,1C.3b03 Thiersee;,"",""
+  k483_qdb-d1e45056,63C16;,kindsen;,Verb;,"",Beaufsichtigen des Kindes;,"","","","",1C.1 wNTir.;,1C.1m02 Fendels;,"",""
+  k483_qdb-d1e45081,63C16;,kindsen;,Verb;,"",Kinder warten;,"","","","",1C.3 öNTir.;,1C.3e12 Schwoich;,"",""
+  k483_qdb-d1e44938,63C16;,kindsen;,Verb;,"","\"kindsen\" = ein Kind beaufsichtigen;kindsen = ein Kind beaufsichtigen;","","","","",1A.4 öSTir.;,1A.4c01 Lüsen;,"",""
+  k483_qdb-d1e45154,63C16;,kindsen;,Verb;,"","\"kindsen\" = ein kleines Kind pflegen und beaufsichtigen;kindsen = ein kleines Kind pflegen und beaufsichtigen;","","","","",1C.2 mNTir.;,1C.2a29 Weer;,"",""
+  k483_qdb-d1e45131,63C16;,kindsen;,Verb;,"","","","","","",4.2 Pinzg.;,4.2c01 Fusch an der Großglocknerstraße;,"",""
+  k483_qdb-d1e43853,"","kindsen:1  kopiert;","","",Kinderfrau;,"","","","",1C.3 öNTir.;1C.3 öNTir.;,1C.3f02 Hopfgarten im Brixental;1C.3i05 St. Johann in Tirol;,"",""
+  k483_qdb-d1e44637,EFb.6/11;,kindsen;,Verb;,"",den Säugling auf dem Arme tragen;den Säugling auf dem Arme tragen;,"","","","",1C.2 mNTir.;,1C.2j04 Tux;,"",""

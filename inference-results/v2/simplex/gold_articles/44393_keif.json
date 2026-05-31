@@ -1,0 +1,88 @@
+{
+  "Lemma": "keif",
+  "POS": "Adjektiv",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "fest; derb; dicht; prall; kernig",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "kaif nanən",
+          "Herkunftsort": "Schlanders"
+        },
+        {
+          "Belegsatz": "Joᵘ, woᵘltan kaif",
+          "Herkunftsort": "Sarntal"
+        },
+        {
+          "Belegsatz": "Wia s'es hoᵃlt braucht, baᵒld keif, boᵃld lugger",
+          "Herkunftsort": "Fendels"
+        },
+        {
+          "Belegsatz": "a guatr Schpek soll kaif sein",
+          "Herkunftsort": "Nauders"
+        },
+        {
+          "Belegsatz": "pint it son kχaif!",
+          "Herkunftsort": "Serfaus"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "stark; muskulös; sehnig",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Khaiffo Wāᵈl",
+          "Herkunftsort": "Hopfgarten im Brixental"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "streng; gespannt",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1C.1 wNTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "schuldig",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Na, bleib's hålt keif!",
+          "Herkunftsort": "Wien"
+        },
+        {
+          "Belegsatz": "keif sein",
+          "Herkunftsort": "Wien"
+        },
+        {
+          "Belegsatz": "er is mir noch an Fetzen keif",
+          "Herkunftsort": "Wien"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+    "Lemma": "Gande",
+    "POS": "Subst",
+    "Genus": "Femininum",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Abhang mit Steingerölle; Haufen abgerollter Steine",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.2 mSTir.",
+                "1C.1 wNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g299_qdb-d1e28937",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1A.2 mSTir."
+                },
+                {
+                    "ID": "g299_qdb-d1e29465",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.1 wNTir."
+                }
+            ],
+            "Belege": [
+                "g299_qdb-d1e28937",
+                "g299_qdb-d1e29465"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Steinhaufen; Steinöde",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.2 mSTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g299_qdb-d1e28852",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1A.2 mSTir."
+                }
+            ],
+            "Belege": [
+                "g299_qdb-d1e28852"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Moräne",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.1 wNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g299_qdb-d1e29001",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.1m02 Fendels"
+                }
+            ],
+            "Belege": [
+                "g299_qdb-d1e29001"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Geröllhang (nicht rutschig)",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.1 wNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g299_qdb-d1e29026",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.1n01 Imst"
+                }
+            ],
+            "Belege": [
+                "g299_qdb-d1e29026"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "lose Steine beisammen, meistens sichtbar oberirdisch",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.1 wSTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g351_qdb-d1e49373",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1A.1 wSTir."
+                }
+            ],
+            "Belege": [
+                "g351_qdb-d1e49373"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "steinige, felsige, karstige Wiese",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.1 wNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g299_qdb-d1e29336",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.1m02 Fendels"
+                }
+            ],
+            "Belege": [
+                "g299_qdb-d1e29336"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Steingeröll; Geröllhalde",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.1 wNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g299_qdb-d1e29492",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.1m04 Fließ"
+                }
+            ],
+            "Belege": [
+                "g299_qdb-d1e29492"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Schlafende Riesenfrau",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "g302_qdb-d1e2171",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g302_qdb-d1e2171"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Anhäufung von verwittertem Gestein im Hochgebirge",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "g302_qdb-d1e2145",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g302_qdb-d1e2145"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Steinhalde",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "g299_qdb-d1e28761",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g299_qdb-d1e28761"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "kleine Einbuchtung, Vertiefung in der Erde",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.4 öSTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g299_qdb-d1e32327",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1A.4d02 Kiens"
+                }
+            ],
+            "Belege": [
+                "g299_qdb-d1e32327"
+            ]
+        }
+    ]
+}

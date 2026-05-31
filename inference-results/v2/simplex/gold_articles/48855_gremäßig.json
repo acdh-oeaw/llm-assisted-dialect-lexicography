@@ -1,0 +1,98 @@
+{
+  "Lemma": "gremäßig grämsig",
+  "POS": "Adjektiv",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "zornig; gereizt",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p3.1 sbair.ObStmk.",
+        "p3.2 mbair.ObStmk.",
+        "p5.1 Innv.",
+        "p5.2 Hausrv.",
+        "p5.3 Traunv.",
+        "p7.3 SBgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "a grampsögəʳ Hąⁿ",
+          "Herkunftsort": "Gmunden"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "mürrisch; missmutig; schlecht gelaunt",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p3.1 sbair.ObStmk.",
+        "p3.2 mbair.ObStmk.",
+        "p5.2 Hausrv.",
+        "p5.3 Traunv.",
+        "p6 NÖ",
+        "p6.5 Wien",
+        "p7.3 SBgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "grę̄massigs Kind",
+          "Herkunftsort": "Türnitz"
+        },
+        {
+          "Belegsatz": "Er schaut heit so kremassich dreĩn!",
+          "Herkunftsort": "Wien"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "kränklich; schwächlich; unpässlich",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p5.1 Innv.",
+        "p6 NÖ",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "a kremasiga Bui, dear ollaweul hüastlt, goar so blåß is; 's Essn tuit eām nit recht schmecka, si froistn a olli But laung und bei da kloan Oarwat a rechta Dǫdalau",
+          "Herkunftsort": "Poysdorf"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "zuwider; unangenehm",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p5.3 Traunv.",
+        "p6.1 Mostv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "a gramßigs Mandl",
+          "Herkunftsort": "Obertraun"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "trotzig; keck; hochmütig",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p3.1 sbair.ObStmk.",
+        "p3.2 mbair.ObStmk."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

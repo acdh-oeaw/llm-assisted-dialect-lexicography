@@ -1,0 +1,99 @@
+{
+    "Lemma": "kätzeln",
+    "POS": "Verb",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Junge werfen (von Katzen)",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.4 öSTir.",
+                "1C.3 öNTir.",
+                "2.1 ObKtn.",
+                "2.2 MKtn.",
+                "5.1 Innv.",
+                "5.2 Hausrv.",
+                "5.4 Mühlv.",
+                "6.1 Mostv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k463_qdb-d1e67326",
+                    "Belegsatz": "junge Katzen gebähren",
+                    "Herkunftsort": "6.1d01 Allhartsberg"
+                },
+                {
+                    "ID": "k463_qdb-d1e67570",
+                    "Belegsatz": "junge Katzen werfen",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k463_qdb-d1e67746",
+                    "Belegsatz": "Junge gebären",
+                    "Herkunftsort": "5.1c07 Mühlheim am Inn"
+                }
+            ],
+            "Belege": [
+                "k463_qdb-d1e67326",
+                "k463_qdb-d1e67570",
+                "k463_qdbd1e67746"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Nach Katzenart tun",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.3 öNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k463_qdb-d1e68446",
+                    "Belegsatz": "nach der Katze werfen",
+                    "Herkunftsort": "1C.3b03 Thiersee"
+                }
+            ],
+            "Belege": [
+                "k463_qdb-d1e68446"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Volksgläubische Bedeutung (Tanzlied)",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "weitere Bedeutung 1",
+            "Regionen": [
+                "5.3 Traunv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k463_qdb-d1e69207",
+                    "Belegsatz": "insa Khåtz khatzlt schąⁿ mę̂ / briŋd oöls'hąnd Khatzl dahę̄",
+                    "Herkunftsort": "5.3b02 Gmunden"
+                }
+            ],
+            "Belege": [
+                "k463_qdb-d1e69207"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Sonstige (z.B. nach Katzen riechen oder schmecken)",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "weitere Bedeutung 2",
+            "Regionen": [
+                "6.1 Mostv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k463_qdb-d1e68686",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.1o01 Herzogenburg"
+                }
+            ],
+            "Belege": [
+                ""
+            ]
+        }
+    ]
+}

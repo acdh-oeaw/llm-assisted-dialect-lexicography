@@ -1,0 +1,114 @@
+{
+  "Lemma": "Garn",
+  "POS": "Substantiv",
+  "Genus": "Neutrum, Maskulinum, Femininum",
+  "Form": {
+    "form": "Gärnel, Gärnerl, Gärnelein",
+    "typ": "Diminutive",
+    "genus": "Neutrum"
+  },
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "grober Faden aus Flachs oder Wolle bzw. Teil eines Spinn- oder Baumwollgewebes",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir.",
+        "p2.1 ObKtn.",
+        "p2.2 MKtn.",
+        "p3.1 sbair.ObStmk.",
+        "p3.2 mbair.ObStmk.",
+        "p3.3 WStmk.",
+        "p3.5 OStmk.",
+        "p4 Sbg.",
+        "p5 OÖ",
+        "p6 NÖ",
+        "p6.5 Wien",
+        "p7 Bgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "ɒ̊ppės heint s Gorn af dr Bloach?",
+          "Herkunftsort": "Sarntal"
+        },
+        {
+          "Belegsatz": "A spunanes Gorn",
+          "Herkunftsort": "Sarntal"
+        },
+        {
+          "Belegsatz": "a Goʳn zan schtrickⁿ",
+          "Herkunftsort": "Schwaz"
+        },
+        {
+          "Belegsatz": "Gårn špånnen",
+          "Herkunftsort": "Rangersdorf"
+        },
+        {
+          "Belegsatz": "zᵃritᵃz zerrüttetes Goarn",
+          "Herkunftsort": "Straßburg"
+        },
+        {
+          "Belegsatz": "s Goᵈn håt hitz ən hȯachən Prais",
+          "Herkunftsort": "Söding-St. Johann"
+        },
+        {
+          "Belegsatz": "baⁿwoˡąs Gåʳn",
+          "Herkunftsort": "Fusch an der Großglocknerstraße"
+        },
+        {
+          "Belegsatz": "rupƒaß goɒn, harwas goɒn / s' Wėbɒl is damiš woɒn",
+          "Herkunftsort": "Großarl"
+        },
+        {
+          "Belegsatz": "a fei(n)s Garnei",
+          "Herkunftsort": "Oepping"
+        },
+        {
+          "Belegsatz": "ἰn dēară Lāinwăd is̄ fŏu ūns khŏan Gārndăʳl drīn",
+          "Herkunftsort": "Rohr im Gebirge"
+        },
+        {
+          "Belegsatz": "As Gorn wird ausn Hor gspuna",
+          "Herkunftsort": "Waldkirchen an der Thaya"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Netz (zur Jagd oder zur Fischerei)",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir.",
+        "p2.1 ObKtn.",
+        "p4 Sbg.",
+        "p5 OÖ",
+        "p6.1 Mostv.",
+        "p6.2 Industriev.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Gårn aufštölln",
+          "Herkunftsort": "Rangersdorf"
+        },
+        {
+          "Belegsatz": "Es san ma vüⁱ Fisch in Goᵃn goŋan",
+          "Herkunftsort": "Berndorf"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "sehr große, dünne Person",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p3.2 mbair.ObStmk."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

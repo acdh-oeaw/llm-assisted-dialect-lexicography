@@ -1,0 +1,155 @@
+{
+  "Lemma": "Gigel",
+  "POS": "Substantiv",
+  "Genus": "Maskulinum, Femininum, Neutrum",
+  "Form": {
+    "form": "Gigerl, Gigerlein",
+    "typ": "Diminutive",
+    "genus": "Neutrum Maskulinum Neutrum"
+  },
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "Hahn",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "eitler (junger) Mann mit auffallend bzw. übertrieben modischer Kleidung; Modegeck",
+      "Typ": "Variante",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1C.3 öNTir.",
+        "p2.2 MKtn.",
+        "p3.3 WStmk.",
+        "p4.5 Flachg.",
+        "p5.1 Innv.",
+        "p5.2 Hausrv.",
+        "p5.3 Traunv.",
+        "p6 NÖ",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "a rechts Gigerl",
+          "Herkunftsort": "St. Gilgen"
+        },
+        {
+          "Belegsatz": "schauts dås (den) Gigəʳl ąⁿ!",
+          "Herkunftsort": "Gmunden"
+        },
+        {
+          "Belegsatz": "dōs is a rechda Gīgal",
+          "Herkunftsort": "Kautzen"
+        },
+        {
+          "Belegsatz": "Håst den Gigerl g'seg'n?",
+          "Herkunftsort": "Wien"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Person, die viel Kindisches oder Unsinn redet",
+      "Typ": "Variante",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p2.2 MKtn."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "scherzhafte Bezeichnung für einen Brillenträger",
+      "Typ": "Variante",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "abwertende Bezeichnung für eine Person mit einer Zahnlücke",
+      "Typ": "Variante",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p6.2 Industriev."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Zåhnluckarati Gigel - treib d' Schoᵘf übern Riegel - hiaz kånn s' as nit dertreib'n - und muaß d' Schoᵘfbenl nåchischeib'n!",
+          "Herkunftsort": "Warth"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "untere Gliedmaßen (Beine, Füße)",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p5.1 Innv.",
+        "p5.4 Mühlv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "stöllt dė Gīgl au",
+          "Herkunftsort": "Sarntal"
+        },
+        {
+          "Belegsatz": "di gîgl üb(e)rschi stöll(e)n",
+          "Herkunftsort": "Kastelruth"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Bezeichnung für etwas Kleines, Schwächliches (u. a. für einen schwachen, feigen Menschen)",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p2 Ktn."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "junges Schaf, das noch nicht gelammt hat",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p1C.2 mNTir.",
+        "p3.2 mbair.ObStmk."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Bezeichnung für ein sehr kleines Gebäude, z. B. eine Bauernmühle",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p6.1 Mostv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "kleine Geldbörse für Münzgeld",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Gallapfel",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p3 Stmk."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

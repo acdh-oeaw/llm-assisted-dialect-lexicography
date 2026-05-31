@@ -1,0 +1,48 @@
+{
+  "Lemma": "kernen kirnen kürnen",
+  "POS": "Verb",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "Körner ansetzen, bekommen (von Pflanzen)",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A.2 mSTir.",
+        "p1A.4 öSTir.",
+        "p1B.0 OTir.",
+        "p1C.2 mNTir."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Der Roggn kirnt",
+          "Herkunftsort": "Vahrn"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "sich verschlucken, verkutzen; etwas (einen Kern) in die Luftröhre bekommen",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p4 Sbg.",
+        "p5.2 Hausrv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "er hat si kirnt",
+          "Herkunftsort": "Sbg."
+        },
+        {
+          "Belegsatz": "er hat sich kiang",
+          "Herkunftsort": "Lung."
+        },
+        {
+          "Belegsatz": "iaz håni mi kīⁿt",
+          "Herkunftsort": "Fusch an der Großglocknerstraße"
+        }
+      ]
+    }
+  ]
+}

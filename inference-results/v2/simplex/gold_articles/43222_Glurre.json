@@ -1,0 +1,82 @@
+{
+  "Lemma": "Glurre Glure",
+  "POS": "Substantiv",
+  "Genus": "Femininum",
+  "Form": {
+    "form": "Glurrlein",
+    "typ": "Diminutive",
+    "genus": "Neutrum"
+  },
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "(großes, starres, hervortretendes, feuriges, blitzendes) Auge; Glotzauge",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C.1 wNTir.",
+        "p1C.2 mNTir.",
+        "p2.2 MKtn.",
+        "p3 Stmk.",
+        "p4 Sbg.",
+        "p5 OÖ",
+        "p6 NÖ",
+        "p6.5 Wien",
+        "p7 Bgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Måch deini Gluaʳn auf",
+          "Herkunftsort": "St. Pölten"
+        },
+        {
+          "Belegsatz": "Dear hod a boar Glurn",
+          "Herkunftsort": "Lichtenegg"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Augen von Uhu oder Eule",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p6.2 Industriev."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Auge der Katze",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p6.4 Weinv.",
+        "p7.3 SBgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "de koz håt schiache glurrn",
+          "Herkunftsort": "Stegersbach"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Auge der Kuh",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Brille",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p3 Stmk."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

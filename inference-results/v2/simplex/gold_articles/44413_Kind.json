@@ -1,0 +1,373 @@
+{
+  "Lemma": "Kind",
+  "POS": "Substantiv",
+  "Genus": "Neutrum",
+  "Form": {
+    "form": "Kindel, Kinderl, Kindlein, Kindli, Kindi",
+    "typ": "Diminutive",
+    "genus": "Neutrum"
+  },
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "Nachkomme in erster Generation; Tochter oder Sohn",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A.1 wSTir.",
+        "p1B OTir.",
+        "p1C.1 wNTir.",
+        "p1C.3 öNTir.",
+        "p2.1 ObKtn.",
+        "p2.2 MKtn.",
+        "p3.2 mbair.ObStmk.",
+        "p3.4 MStmk.",
+        "p3.5 OStmk.",
+        "p4.2 Pinzg.",
+        "p4.5 Flachg.",
+        "p5 OÖ",
+        "p6 NÖ",
+        "p6.5 Wien",
+        "p7.2 MBgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "wiənig kchindr håbm",
+          "Herkunftsort": "Umg.Meran"
+        },
+        {
+          "Belegsatz": "Dia kuntn schō an ödla Kīna håm, wäus so guad dabei wăʳnd.",
+          "Herkunftsort": "Kitzbühel"
+        },
+        {
+          "Belegsatz": "sö seint mit Kindar gsögnt",
+          "Herkunftsort": "Gurk"
+        },
+        {
+          "Belegsatz": "gleia po Kinna nur ein paar Kinna",
+          "Herkunftsort": "Heiligenkreuz am Waasen"
+        },
+        {
+          "Belegsatz": "mãĩ šwöstã håd ȇ kid ghåd",
+          "Herkunftsort": "nördl.obInnv."
+        },
+        {
+          "Belegsatz": "Dęnan schikt unsa Hęargōt nėt amåəˡ a Kind.",
+          "Herkunftsort": "Eidenberg"
+        },
+        {
+          "Belegsatz": "oissa vahairatė hąma drai Kina",
+          "Herkunftsort": "Schwertberg"
+        },
+        {
+          "Belegsatz": "wån d' ɒ̊̄nămi͡aʳl ă Kind gri͡ahăt",
+          "Herkunftsort": "Pottendorf"
+        },
+        {
+          "Belegsatz": "dėi houm khua Glikh mit de Khina",
+          "Herkunftsort": "Kautzen"
+        },
+        {
+          "Belegsatz": "di Kina haum schõũ ean Añdeuü griagt",
+          "Herkunftsort": "Poysdorf"
+        },
+        {
+          "Belegsatz": "dė san gscheid, de haum kane Kindaʳ",
+          "Herkunftsort": "Favoriten"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "weiblicher Nachkomme in erster Generation; Tochter",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A.2 mSTir.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Nachkomme in zweiter Generation; Enkelkind",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A.2 mSTir.",
+        "p1B OTir."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "insra kxindǫ",
+          "Herkunftsort": "Anras"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "erstgeborener Nachkomme jedweden Geschlechts in einer Familie",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1B OTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "älteste noch ledige Tochter einer Familie",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "jüngstgeborener Nachkomme jedweden Geschlechts in einer Familie",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A.2 mSTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "junger Mensch; Mensch in seinen ersten Lebensjahren",
+      "Typ": "Variante",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1A.4 öSTir.",
+        "p1C.1 wNTir.",
+        "p1C.3 öNTir.",
+        "p2.2 MKtn.",
+        "p3.1 sbair.ObStmk.",
+        "p3.3 WStmk.",
+        "p3.4 MStmk.",
+        "p4.2 Pinzg.",
+        "p4.5 Flachg.",
+        "p5 OÖ",
+        "p6 NÖ"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "wail man nou a kχint iš",
+          "Herkunftsort": "Lüsen"
+        },
+        {
+          "Belegsatz": "Dėis Kinn schaut meaʳ an Offn z'gleich wi-an Mentschn",
+          "Herkunftsort": "St. Veit in der Südsteiermark"
+        },
+        {
+          "Belegsatz": "kßũnte kχĩndɒ",
+          "Herkunftsort": "Wald im Pinzgau"
+        },
+        {
+          "Belegsatz": "ɒ κsũnτs k̑xĩnd",
+          "Herkunftsort": "Strobl"
+        },
+        {
+          "Belegsatz": "gsū̃nẹ khῑ̃nɒ",
+          "Herkunftsort": "Kopfing im Innkreis"
+        },
+        {
+          "Belegsatz": "wia-r-i a Kind woa",
+          "Herkunftsort": "Linz"
+        },
+        {
+          "Belegsatz": "ĩn ǫrmɒ khĩnɒ den armen Kindern",
+          "Herkunftsort": "nöSkgt."
+        },
+        {
+          "Belegsatz": "sǫgs ẽn å̃ndɒ̃n ghῖnd á̄",
+          "Herkunftsort": "Molln"
+        },
+        {
+          "Belegsatz": "wi͡aʳ i noͮ ă Kind wo͡a",
+          "Herkunftsort": "Pottendorf"
+        },
+        {
+          "Belegsatz": "is jo glaina ra Khindal",
+          "Herkunftsort": "Kautzen"
+        },
+        {
+          "Belegsatz": "damit sis di Kina leichta merkąn",
+          "Herkunftsort": "Heldenberg"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Neugeborenes; Baby; Säugling; Kind im ersten Lebensjahr",
+      "Typ": "Variante",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1A.2 mSTir.",
+        "p1C.1 wNTir.",
+        "p1C.3 öNTir.",
+        "p2.1 ObKtn.",
+        "p3.1 sbair.ObStmk.",
+        "p3.5 OStmk.",
+        "p4.2 Pinzg.",
+        "p4.3 Pong.",
+        "p5.2 Hausrv.",
+        "p5.3 Traunv.",
+        "p6.1 Mostv.",
+        "p6.4 Weinv.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "mən tuət s kχin pailöigŋ",
+          "Herkunftsort": "Welschnofen"
+        },
+        {
+          "Belegsatz": "di klǫan Kin keman aus n Wåssar aussa",
+          "Herkunftsort": "Thiersee"
+        },
+        {
+          "Belegsatz": "s Kin węascht m n Våtaʳn seiⁿ oɫlgwåschné Ffoad eigwickɫt damit sic! da Våtaʳ liəbä hǫt",
+          "Herkunftsort": "Kundl"
+        },
+        {
+          "Belegsatz": "Ti Kina brink ta Schtoaʳch",
+          "Herkunftsort": "Lobmingtal"
+        },
+        {
+          "Belegsatz": "Da Stoach ziacht di kloan Kinna fon Bå aussa",
+          "Herkunftsort": "Hartberg"
+        },
+        {
+          "Belegsatz": "ma deaf an Kind d' Nęgl nöd schneiᵈn, sunsd wiads a Diab; ma muas eams å̄beissn",
+          "Herkunftsort": "Linz"
+        },
+        {
+          "Belegsatz": "Iwaʳa sizzads Kind deaʳf ma nėd driwaʳschdeiᵍŋ, sunszt wȧgsz nėd",
+          "Herkunftsort": "Sitzenberg-Reidling"
+        },
+        {
+          "Belegsatz": "Da Våta und d' Muida kaffn si a kloans Kind und d' Hebamm bringt's",
+          "Herkunftsort": "Poysdorf"
+        },
+        {
+          "Belegsatz": "Iⁿ-aⁿ-grō̇ssⁿ Wā̊ssa san-di glāⁿ Khīⁿda, fåⁿⁿ duᵃʳt brigd-s-da Šduᵃʳch",
+          "Herkunftsort": "Mauer"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Mädchen",
+      "Typ": "Variante",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1A.2 mSTir.",
+        "p6.1 Mostv.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "a liab's Kind",
+          "Herkunftsort": "Wien"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "erwachsener Mensch mit kindischem Benehmen",
+      "Typ": "Variante",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p4.3 Pong.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Anrede für eine erwachsene Frau",
+      "Typ": "Variante",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1A.2 mSTir.",
+        "p6.1 Mostv.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Pupille",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p5.1 Innv.",
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "kleiner Finger",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Brot, Gebäck oder Lebkuchen in Form eines Kindes",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p3.5 OStmk.",
+        "p6 NÖ"
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Nachbildung eines Kindes aus Zucker als Bestandteil einer Hochzeitstorte",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p1A.1 wSTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Keim; Spross; Trieb (von Getreide oder Kartoffelpflanzen)",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 3",
+      "Regionen": [
+        "p3 Stmk.",
+        "p6.3 Waldv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "soufü Khindln",
+          "Herkunftsort": "Kautzen"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "„wegbrechender Teil vom Frosch“, also vom über den Fassboden reichenden Teil der Dauben",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 3",
+      "Regionen": [
+        "p1C.3 öNTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Steinchen, das beim Spiel als Zeichen eines Fehlwurfes beiseite gelegt wird",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 3",
+      "Regionen": [
+        "p3 Stmk."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "frisch geschnittene und gebundene Garbe",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 3",
+      "Regionen": [
+        "p3 Stmk."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "Lemma": "Flecke",
+  "POS": "Substantiv",
+  "Genus": "Femininum",
+  "Form": {
+    "form": "Fleckel, Fleckerl",
+    "typ": "Diminutive",
+    "genus": "Neutrum"
+  },
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "Brett; Bodenbrett; Bodendiele",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p2 Ktn."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "(im Zimmer) fl­ekn lêg'n",
+          "Herkunftsort": "nwBoz.Uld."
+        },
+        {
+          "Belegsatz": "tsölliga flökχn",
+          "Herkunftsort": "Lüsen"
+        },
+        {
+          "Belegsatz": "hǫlbtsölliga flökχẹ",
+          "Herkunftsort": "Lüsen"
+        },
+        {
+          "Belegsatz": "flökχn mössn",
+          "Herkunftsort": "Lüsen"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "festgepresstes Heu im Inneren des Schobers, Heuhaufens",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1C.2 mNTir."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "die Flecke, die um die Latte herum am gleimsten ist",
+          "Herkunftsort": "mNTir."
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "rundes, flaches Weißbrot",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p2.2 MKtn.",
+        "p6.3 Waldv.",
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Kuchen; belegte oder gefüllte Mehlspeise, besonders zu Feier- oder Festtagen gebacken",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p2.2 MKtn.",
+        "p3.5 OStmk.",
+        "p6.2 Industriev.",
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "(eine) iwətsó'ŋe flékŋ",
+          "Herkunftsort": "Mureck"
+        }
+      ]
+    }
+  ]
+}

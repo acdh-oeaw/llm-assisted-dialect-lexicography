@@ -1,0 +1,62 @@
+{
+    "Lemma": "flicken",
+    "POS": "Verb",
+    "Genus": "null",
+    "Kasus": "null",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Von Blatternnarben gezeichnet oder entstellt sein.",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.2 Hausrv.",
+                "6.1 Mostv.",
+                "6.3 Waldv.",
+                "6.4 Weinv.",
+                "6.5 Wien",
+                "7.1 NBgl."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "f269_qdb-d1e5823",
+                    "Belegsatz": "dea is gfliggt",
+                    "Herkunftsort": "6.3f03 Göpfritz an der Wild"
+                }
+            ],
+            "Belege": [
+                "Liste aller IDs"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Geflickt, von Flecken oder Narben gezeichnet.",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.4 Mühlv.",
+                "6.1 Mostv.",
+                "6.2 Industriev.",
+                "6.4 Weinv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "f269_qdb-d1e5846",
+                    "Belegsatz": "dea is gfliggt",
+                    "Herkunftsort": "6.5l01 Altmannsdorf"
+                }
+            ],
+            "Belege": [
+                "Liste aller IDs"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Mit Flecken ausgebessert (Wäsche, Kleidung)",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "weitere Bedeutung 1",
+            "Regionen": [],
+            "Belegsaetze": [],
+            "Belege": [
+                "Liste aller IDs"
+            ]
+        }
+    ]
+}

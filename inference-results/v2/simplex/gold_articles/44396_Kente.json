@@ -1,0 +1,35 @@
+{
+  "Lemma": "Kente",
+  "POS": "Substantiv",
+  "Genus": "Femininum, Neutrum",
+  "Form": {
+    "form": "Kentel",
+    "typ": "Diminutive",
+    "genus": "Neutrum"
+  },
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "alte Form der Heizung",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1C.3 öNTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Feuer",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1C.3 öNTir."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "a tichtögö tüchtiges Kent einömachen",
+          "Herkunftsort": "Kufstein"
+        }
+      ]
+    }
+  ]
+}

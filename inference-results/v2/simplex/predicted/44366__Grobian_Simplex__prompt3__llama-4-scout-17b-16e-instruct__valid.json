@@ -1,0 +1,96 @@
+{
+    "Lemma": "Grobian",
+    "POS": "Subst",
+    "Genus": "männlich",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "grober, ungeschlachter Mensch",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.1 Innv.",
+                "6.1 Mostv.",
+                "6.4 Weinv.",
+                "1C.3 öNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g347_qdb-d1e24553",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "g347_qdb-d1e24578",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g347_qdb-d1e24553",
+                "g347_qdb-d1e24578"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "gebräuchlicher Schimpfname",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.2 Industriev.",
+                "5.3 Traunv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g347_qdb-d1e24895",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "g347_qdb-d1e16796",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g347_qdb-d1e24895",
+                "g347_qdb-d1e16796"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "geiziger Mensch",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.2 Hausrv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g347_qdb-d1e24384",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g347_qdb-d1e24384"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Bengel",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.4 Weinv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g347_qdb-d1e24491",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g347_qdb-d1e24491"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+Glossar:
+  Lemma: "'Lemma' beinhaltet sämtliche Einträge (inklusive Komposita und Wortbildungsvarianten), die einem bestimmten Lemma zugeordnet werden können. Zu diesem Zweck wurden alle Handzettel beziehungsweise die Einträge der Belegdatenbank lemmatisiert und nach historisch-etymologischen Gesichtspunkten - also linguistischen Prinzipien - einem Hauptlemma zugeordnet."
+  Fragebogennummer: "Auflistung von relevanten Fragebogennummern und Beschreibungen:\n* **74B3:** Hündin (Zauk, Mätz, Keife, Gäntsche); Pl./Dem.; Schimpfw.?; Füg./Ra. (Mätzel fangen \"Kartenspiel\")\n* **EFb.9/42:** weibl.Hund, Hündin\n* **74B3 (a):** Hündin (Zauk, Mätz, Keife, Gäntsche); Pl./Dem.; Schimpfw.?; Füg./Ra. (Mätzel fangen \"Kartenspiel\")\n* **EFb.8/65:** Pfarrer, Schneider, er ist kleiner, e.kleiner Hund, Ltg.; -er-Ausspr. gleich?\n* **74A11:** Eigensch. v. Hund (kl., bissig, herrenlos,)\n"
+  Part_of_Speech: Diese Angabe benennt die Wortart des jeweiligen Belegs.
+  Bedeutung_der_Lautung: Diese Information beschreibt die Bedeutung der Lautungsangabe auf dem Beleg.
+  Bedeutung_des_Belegsatzes: "Diese Information beschreibt die Bedeutung des in Spalte \"Belegsatz 1\", \"Belegsatz 2\" etc. angegebenen Belegsatzes. Es kann sich dabei um eine direkte standardsprachliche Übersetzung, eine standardsprachliche Periphrase oder um einen metasprachlichen Kommentar handeln."
+  Belegsatz_1: "Dieser Eintrag gibt einen Belegsatz, eine Redewendung oder eine Paraphrase wider, um die Bedeutung des Belegs exemplarisch darzustellen bzw. näher zu kontextualisieren. Der Belegsatz ist in der Regel im Dialekt angegeben und in der Lautschrift Teuthonista verschriftlicht."
+  Belegsatz_2: Belegsatz 2 weist dieselbe Funktionalität auf wie Belegsatz 1.
+  Sammlung: Eine Sammlung bündelt einzelne Einträge nach lexikographisch sinnvollen Gesichtspunkten. Alle Einträge der Sammlung teilen diese Gesichtspunkte.
+  Lautung_1: "Die angegebene Information umfasst die lautliche Transkription des vorliegenden Belegs. Die Transkription wurde auf der Grundlage eines Lautschriftsystems notiert, das jenem der Teuthonista gleicht oder zumindest ähnelt. Da die Datengrundlage des WBÖ auf unterschiedlichsten Quellen basiert und die Erhebungen der Fragebögen häufig von Laien-Sammlerinnen und -sammlern durchgeführt wurden, können sich Uneinheitlichkeiten bei der Transkription ergeben."
+  Lautung_2: Lautung 2 weist dieselbe Funktionalität auf wie Lautung 1.
+  Anmerkung: Zusätzliche Anmerkung über den Beleg.
+  Diverses: Zusätzliche undefinierte Anmerkung über den Beleg.
+  Substantiv: Dieser Beleg zählt zur Wortart Substantiv.
+  Verb: Dieser Beleg zählt zur Wortart Verb.
+  Adjektiv: Dieser Beleg zählt zur Wortart Adjektiv.
+  Adverb: Dieser Beleg zählt zur Wortart Adverb.
+  Praeposition: Dieser Beleg zählt zur Wortart Präposition.
+  Konjunktion: Dieser Beleg zählt zur Wortart Konjunktion.
+  Pronomen: Dieser Beleg zählt zur Wortart Pronomen.
+  Interjektion: Dieser Beleg zählt zur Wortart Interjektion.
+  Partikel: Dieser Beleg zählt zur Wortart Partikel.
+  Geschlecht: "Das grammatische Geschlecht eines Wortes wird in der Fachsprache als Genus bezeichnet. Im Deutschen gibt es drei Genera: Maskulinum (männlich), Femininum (weiblich) und Neutrum (sächlich). Das Genus eines Substantivs wird oft durch den Artikel (der, die, das) angezeigt."
+  Bedeutung: "Semantik, auch Bedeutungslehre genannt, ist die wissenschaftliche Beschäftigung mit Bedeutung und mit den verschiedenen Beziehungen zwischen einem Zeichen und dem Bezeichneten. In den Wörterbuchartikeln gehört die Angabe der Bedeutung bzw. Bedeutungen eines Wortes zu den zentralen Inhalten."
+  Belegsatz: "Ein Belegsatz1 oder Belegsatz2  wird verwendet, um die Bedeutung des Beleg in Form eines Satzes exemplarisch zu verdeutlichen. In den Daten wird statt der Bezeichnung \"Beispielsatz\" auch die Bezeichnung \"Belegsatz\" verwendet."
+  Wortvarianten: Unterschiedliche Varianten eines Wortes.
+  Woerterbuchartikel: "Eine strukturierte Beschreibung eines Lemmas, die Angaben zu Bedeutung (bzw. Bedeutungen), Aussprache, Grammatik, Verbreitung, Etymologie sowie ggfs. Wortbildungen und Redewendungen enthält."
+  Quelle_Datenbank: "Es handelt sich hierbei um eine formalisierte Angabe der geographischen Zuordnung des Belegs. Diese Besteht aus einer Sigle sowie einer in Abkürzungen formulierten und ggfs. hierarchisch (Gemeinde, Kleinregion, Großregion, Bundesland) gegliederten Verschriftlichung der geographischen Zuordnung."
+  CollectionCat: "Die CollectionCat (Abkürzung für Collection Categorizer) ist eine Software-Applikation, die zum Kategorisieren und Zusammenfassen von Belegen im Rahmen der lexikographischen Arbeit genutzt wird."
+  Simplex: "Ein Simplex ist ein einfaches Wort oder Lexem, das weder abgeleitet noch zusammengesetzt ist."
+  Kompositum: Ein Kompositum ist ein aus bereits vorhandenen Wörtern zusammengesetztes komplexes Wort. Der zugrunde liegende Wortbildungsprozess wird Komposition genannt.
+  Derivation: "Eine Derivation ist das Ergebnis eines Wortbildungsprozesses, bei dem durch Anhängen eines Affixes (Präfix, Suffix oder Zirkumfix) aus einem Wort ein neues Wort gebildet wird."
+  Grossregion: "Das Bearbeitungsgebiet (Großregion1 und Großregion2) des WBÖ ist regional untergliedert. Jeder regionalen Einheit ist eine eindeutige Sigle zugeordnet. Die größte regionale Einheit stellt dabei das \"Bundesland\" dar, welches folgendermaßen unterteilt ist: Südtirol (Sigle 1A), Osttirol (Sigle 1B), Nordtirol (Sigle 1C), Kärnten (Sigle 2), Steiermark (Sigle 3), Salzburg (Sigle 4), Oberösterreich (Sigle 5), Niederösterreich (Sigle 6), Wien (Sigle 6.5) sowie Burgenland (Sigle 7). \nDie zweitgrößte regionale Einheit ist die \"Großregion\", welche die Bundesländer in weitere Teilbereiche untergliedert. \nDie drittgrößte regionale Einheit ist die \"Kleinregion\", welche die Großregionen in weitere Teilbereiche untergliedert.\nDie viertgrößte regionale Einheit ist die \"Gemeinde\", welche die Kleinregionen in weitere Teilbereiche untergliedert."
+  Herkunftsort: "Geographische Lokation, aus der ein Beleg stammt. Die Angabe erfolgt auf der jeweils spezifischsten verfügbaren Ebene: Ist eine Gemeinde bekannt, wird diese angegeben; andernfalls eine Kleinregion, eine Großregion oder - als letzte Möglichkeit - das Bundesland."
+Belege[65]{ID,Fragebogennummer,Lemma,POS,Bedeutung_des_Belegsatzes,Bedeutung_der_Lautung,Belegsatz1,Belegsatz2,Lautung1,Lautung2,"Großregion",Herkunftsort,Diverses,Anmerkung}:
+  k467_qdb-d1e36941,74B3;,Keife;,Subst;,"","Keife = HündinANMO: abfällige Bezeichnung DAFÜR;Keife = Hündin ANM O: abfällige Bezeichnung DAFÜR;Keife = schäbiger HundANMO: überhaupt DAFÜR;Keife = schäbiger Hund ANM O: überhaupt DAFÜR;","","","","",2.2 MKtn.;2.2 MKtn.;2.2 MKtn.;2.2 MKtn.;,"","",""
+  g311_qdb-d1e11294,"",Geife;,Subst;,"",weibliche Hündin;weibliche Hündin;,"","","","",3.1 sbair.ObStmk.;,3.1b01 Neumarkt in der Steiermark;,"",""
+  k467_qdb-d1e36130,EFb.9/42;,Keife;,Subst;,"",Hündin;Hündin;,"","","","",2.1 ObKtn.;,2.1h03 Kirchbach;,"",""
+  k467_qdb-d1e37028,74B3;,Keife;,Subst;,"","kleinere Hunde, die gerne viel bellenANMO: auf DIESE bezogen;","","","","",6.4 Weinv.;,6.4d18 Poysdorf;,"",""
+  k467_qdb-d1e36761,EFb.9/42;,Keife;,Subst;,"",Hündin;Hündin;,"","","","",2.2 MKtn.;,2.3h01 Maria Saal;,"",""
+  k467_qdb-d1e36786,EFb.9/42;,Keife;,Subst;,"",Hündin;Hündin;,"","","","",2.2 MKtn.;,2.3e01 Steuerberg;,"",""
+  k467_qdb-d1e36250,EFb.9/42;,Keife;,Subst;,"",Hündin;Hündin;,"","","","",2.2 MKtn.;,2.2d02 Reichenau;,"",""
+  k467_qdb-d1e36979,74B3 (a);,Keife;,Subst;,"","zanksüchtige WEIBERANMO: auch DIESE (leider) so geheißen;zanksüchtige WEIBER ANM O: auch DIESE leider so geheißen;","","","","",6.4 Weinv.;,6.4d18 Poysdorf;,"",""
+  g311_qdb-d1e10814,"",Geife;,Subst;,"",Hündin;Hündin;,"","","","",3.2 mbair.ObStmk.;6.1 Mostv.;5.3 Traunv.;3.2 mbair.ObStmk.;5.3 Traunv.;3.2 mbair.ObStmk.;3.2 mbair.ObStmk.;6.1 Mostv.;,"","",""
+  k467_qdb-d1e36686,EFb.9/42;,Keife;,Subst;,"",Hündin;Hündin;,"","","","",2.2 MKtn.;,2.2a01 Rennweg am Katschberg;,"",""
+  g311_qdb-d1e11342,"",Geife;,Subst;,"",Geife = lästig keifender Hund;Geife = lästig keifender Hund;Geife = lästig keifender Hund;Geife = lästig keifender Hund;,"","","","",3.3 WStmk.;,"","",""
+  g311_qdb-d1e10925,"",Geife;,Subst;,"","HundANMO: wegwerfend;Köter, der immerfort bellt;Köter, der immerfort bellt;","","","","",2.2 MKtn.;,2.3b05 Straßburg;,"",""
+  k467_qdb-d1e36031,"",Keife;,Subst;,"",Geife = böse scheltendes Weib;Geife = böse scheltendes Weib;,"","","","",3.3 WStmk.;,"","",""
+  g311_qdb-d1e11135,"",Geife;,Subst;,"","Hund (bes. weiblicher)ANMO: verächtl. Bez.;Hund bes. weiblicher ANM O: verächtl. Bez.;","","","","","","","",""
+  g311_qdb-d1e11167,EFb.8/65;,Geife;,Subst;,"",ein kleiner Hund;,"","","","","","","",""
+  g311_qdb-d1e10877,"",Geife;,Subst;,"","HundANMO: Schimpfname;","","","","",2.2 MKtn.;,2.3f01 Feldkirchen in Kärnten;,"",""
+  g311_qdb-d1e10902,"",Geife;,Subst;,"",Hündin;Hündin;,"","","","",2.1 ObKtn.;,2.1a02 Heiligenblut am Großglockner;,"",""
+  g311_qdb-d1e11187,"",Geife;,Subst;,ein junger Hund;,"","ɒ kx̩lā̰s kấif̩įlḙ [D2,n];a kchlas kaifile D2,n;","","","",2.1 ObKtn.;,2.1f01 Lesachtal;,"",""
+  g311_qdb-d1e11315,"",Geife;,Subst;,"",Hündin;Hündin;,"","","","",2.2 MKtn.;,2.2c03 Trebesing;,"",""
+  g311_qdb-d1e11375,"",Geife;,Subst;,"",Geife = lästig keifender Hund;Geife = lästig keifender Hund;,"","","","",3.3 WStmk.;,"","",""
+  g311_qdb-d1e10767,"",Geife;,Subst;,"",Schimpfwort für Hündin und ständig nörgelnde Frauensperson;Schimpfwort für Hündin und ständig nörgelnde Frauensperson;,"","","","",2.2 MKtn.;,2.2i07 Villach;,Siehe auch S. 123;,""
+  g311_qdb-d1e10795,"",Geife;,Subst;,"",Hund;,"","","","","","","",""
+  g311_qdb-d1e10835,"",Geife;,Subst;,"",minderwertiger Hund; Hündin überhaupt;minderwertiger Hund Hündin überhaupt;,"","","","","","","",""
+  g311_qdb-d1e10856,"",Geife;,Subst;,"",Hündin;Hündin;,"","","","",2.2 MKtn.;,2.3g04 St. Urban;,"",""
+  k467_qdb-d1e36736,EFb.9/42;,Keife;,Subst;,"",Hündin;Hündin;,"","","","",2.1 ObKtn.;,2.1h02 Hermagor-Pressegger See;,"",""
+  g311_qdb-d1e11110,"",Geife;,Subst;,"",Köter;Köter;,"","","","",2.2 MKtn.;,2.3f01 Feldkirchen in Kärnten;,"",""
+  g311_qdb-d1e11246,"",Geife;,Subst;,"",Hündin;Hündin;,"","","","",2.2 MKtn.;,2.3n01 Klagenfurt;,"",""
+  g311_qdb-d1e10963,"",Gēife;Geife;,Subst;,"","ein alter, abgenützter Hut;ein alter, abgenützter Hut;","","","","","","","",""
+  k467_qdb-d1e36398,EFb.9/42;,Keife;,Subst;,"",Hündin;Hündin;,"","","","",2.2 MKtn.;,2.2f02 Arriach;,"",""
+  k467_qdb-d1e36443,EFb.9/42;,Keife;,Subst;,"",Hündin;Hündin;,"","","","",2.1 ObKtn.;,2.1d06 Oberdrauburg;,"",""
+  k467_qdb-d1e36496,EFb.9/42;,Keife;,Subst;,"",Hündin;Hündin;,"","","","",2.2 MKtn.;,2.2c03 Trebesing;,"",""
+  k467_qdb-d1e36811,EFb.9/42;,Keife;,Subst;,"",Hündin;Hündin;,"","","","",2.2 MKtn.;,2.3j02 Moosburg;,"",""
+  k467_qdb-d1e36906,74A11;,Keife;,Subst;,"","Hunde jeder ArtANMO: abfällige Bezeichnung DAFÜR;Hunde jeder Art ANM O: abfällige Bezeichnung DAFÜR;","","","","",2.2 MKtn.;2.2 MKtn.;2.2 MKtn.;2.2 MKtn.;,"","",""
+  k467_qdb-d1e36322,EFb.9/42;,Keife;,Subst;,"",Hündin;Hündin;,"","","","",2.2 MKtn.;,2.3a02 Metnitz;,"",""
+  k467_qdb-d1e36423,EFb.9/42;,Keife;,Subst;,"",Hündin;Hündin;,"","","","","","","",""
+  k467_qdb-d1e36468,EFb.9/42;,Keife;,Subst;,"",Hündin; minderwertiger Hund;Hündin minderwertiger Hund;,"","","","",2.2 MKtn.;,2.3a01 Friesach;,Weible;,""
+  k467_qdb-d1e36601,"",Keife;,Subst;,"","HundANMO: Scheltwort DAFÜR;Hund ANM O: Scheltwort DAFÜR;HündinANMO: auch wohl DIES;Hündin ANM O: auch wohl DIES;","","","","","","","",""
+  k493_qdbn-d16e8636,EFb.9/42;,Geife;,Subst;,"",Hündin;Hündin;,"","","","",2.2 MKtn.;,2.2d02 Reichenau;,"",""
+  k467_qdb-d1e37008,74B3 (a);,"Keife:1  kopiert;","","","","","","","",6.4 Weinv.;,6.4d18 Poysdorf;,"",""
+  k467_qdb-d1e36836,EFb.9/42;,Keife;,Subst;,"",weiblicher Hund; Hündin;weiblicher Hund Hündin;,"","","","",2.1 ObKtn.;,2.1b01 Flattach;,"",""
+  k467_qdb-d1e36881,74A11;,Keife;,Subst;,"",bissiger Hund;,"","","","",2.1 ObKtn.;,2.1b04 Rangersdorf;,"",""
+  k467_qdb-d1e37155,"",Keife;,Subst;,"","ein schäbiger, mürrischer Hund;ein schäbiger, mürrischer Hund;","","","","",2.2 MKtn.;2.2 MKtn.;2.2 MKtn.;2.2 MKtn.;,"","",""
+  k467_qdb-d1e37178,"",Keife;,Subst;,"","eine Hündin;eine Hündin;ein bellender Hund; ein belfernder HundANMO: überhaupt DIES;ein bellender Hund ein belfernder Hund ANM O: überhaupt DIES;","","","","","","","",""
+  k467_qdb-d1e35983,"",Keife;,Subst;,"",schimpfendes Weib;,"","","","",5.4 Mühlv.;,"","",""
+  k467_qdb-d1e36200,EFb.9/42;,Keife;,Subst;,"",Hündin;Hündin;,"","","","",2.2 MKtn.;,2.3g04 St. Urban;,"",""
+  k467_qdb-d1e36225,EFb.9/42;,Keife;,Subst;,"",Hündin;Hündin;,"","","","",2.2 MKtn.;,2.2d01 Gnesau;,"",""
+  k467_qdb-d1e36373,EFb.9/42;,Keife;,Subst;,"",Hündin;Hündin;,"","","","",3.1 sbair.ObStmk.;,3.1a05 Stadl-Predlitz;,"",""
+  k467_qdb-d1e36574,"",Keife;,Subst;,"","weiblicher Hund;minderwertiger HundANMO: bedeutet auch DIES;","","","","",2.2 MKtn.;,2.2d02 Reichenau;,"",""
+  k467_qdb-d1e36006,EFb.9/42;,Keife;,Subst;,"",Hündin;Hündin;,"","","","",2.2 MKtn.;,2.3c03 Kappel am Krappfeld;,"",""
+  k467_qdb-d1e36297,EFb.9/42;,Keife;,Subst;,"",Hündin;Hündin;,"","","","",2.2 MKtn.;,2.2d02 Reichenau;,"",""
+  k467_qdb-d1e36521,EFb.9/42;,Keife;,Subst;,"",Hündin;Hündin;,"","","","",2.2 MKtn.;,2.3n01 Klagenfurt;,kantšn;ANM kantsn;,""
+  k467_qdb-d1e36054,"",Keife;,Subst;,"","","Der Hocker nimmt ihnen die \"lusttötende Art\" übel, die Gastgeber sind - wegen ihrer Erfolglosigkeit - auch nicht sehr angetan, und andere Gäste, die den Vorgang mitkriegen, tuscheln: \"So eine fade Keifen [f]   ! Kein Wunder, daß der arme Kerl nicht heimgehen will„;Der Hocker nimmt ihnen die lusttötende Art übel, die Gastgeber sind  wegen ihrer Erfolglosigkeit  auch nicht sehr angetan, und andere Gäste, die den Vorgang mitkriegen, tuscheln: So eine fade Keifen f ! Kein Wunder, daß der arme Kerl nicht heimgehen will„;","","","","","","",""
+  k467_qdb-d1e36630,"",Keife;,Subst;,"",Hündin;Hündin;,"","","","","","","",""
+  k467_qdb-d1e36079,EFb.9/42;,Keife;,Subst;,"",Hündin;Hündin;,"","","","","","","",""
+  k467_qdb-d1e36661,EFb.9/42;,Keife;,Subst;,"",weiblicher Hund; Hündin;weiblicher Hund Hündin;,"","","","",2.1 ObKtn.;,2.1a03 Mörtschach;,"",""
+  g311_qdb-d1e11083,"",Geife;,Subst;,"",Schnittkurve eines Gefäßmantels;Schnittkurve eines Gefäßmantels;,"","","","",6.5 Wien;,"","",""
+  k467_qdb-d1e36711,EFb.9/42;,Keife;,Subst;,"",weiblicher Hund; Hündin;weiblicher Hund Hündin;,"","","","",2.2 MKtn.;,2.2f02 Arriach;,"",""
+  k467_qdb-d1e36155,EFb.9/42;,Keife;,Subst;,"",Hündin;Hündin;,"","","","",2.4 UKtn.;,2.4a01 Hüttenberg;,"",""
+  k467_qdb-d1e36861,EFb.9/42;,Keife;,Subst;,"",weiblicher Hund; Hündin;weiblicher Hund Hündin;,"","","","","","","",""
+  k467_qdb-d1e36180,EFb.9/42;,Keife;,Subst;,"",Hündin;Hündin;,"","","","","","","",""
+  k467_qdb-d1e37130,"",Keife;,Subst;,"","",die ålte Keifen;die alte Keifen;,"","","",1C.2 mNTir.;,1C.2m01 Innsbruck;,"",""
+  k467_qdb-d1e36347,EFb.9/42;,Keife;,Subst;,"",Hündin;Hündin;,"","","","",2.2 MKtn.;,2.3g05 St. Veit an der Glan;,"",""
+  k467_qdb-d1e36549,EFb.9/42;,"Keife:1  kopiert;","","",Hündin;Hündin;,"","","","",2.2 MKtn.;,2.3n01 Klagenfurt;,kaifn;,""
+  k467_qdb-d1e36105,EFb.9/42;,Keife;,Subst;,"",Hündin;Hündin;,"","","","",2.2 MKtn.;,2.2i06 Stockenboi;,"",""
+  g311_qdb-d1e11219,"",Geife;,Subst;,"",Hündin;Hündin;,"","","","",2.2 MKtn.;,"","",""

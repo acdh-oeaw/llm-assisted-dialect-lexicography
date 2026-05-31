@@ -1,0 +1,139 @@
+{
+  "Lemma": "Kübel",
+  "POS": "Substantiv",
+  "Genus": "Maskulinum, Femininum",
+  "Form": {
+    "form": "Küberl Kübelein",
+    "typ": "Diminutive",
+    "genus": "Neutrum"
+  },
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "konisches, sich nach oben hin öffnendes Gefäß zur Aufbewahrung und/oder zum Transport; Gefäß für verschiedene (bäuerliche) Alltagstätigkeiten (z. B. Backen, Waschen, Melken); Eimer",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p2 Ktn.",
+        "p3 Stmk.",
+        "p4 Sbg.",
+        "p5 OÖ",
+        "p6 NÖ",
+        "p6.5 Wien",
+        "p7 Bgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "I und mai Olte haut ma net ibl waun ma kiha Schmolz haubm schaïß ma in Kchibl",
+          "Herkunftsort": "Greifenburg"
+        },
+        {
+          "Belegsatz": "ẽn ɒ̃n kχīwλ",
+          "Herkunftsort": "Wald im Pinzgau"
+        },
+        {
+          "Belegsatz": "an Kiwö voö Schmoätz",
+          "Herkunftsort": "Saalfelden am Steinernen Meer"
+        },
+        {
+          "Belegsatz": "ι̊ schtēikt dĭ ĭn Khīblaīnĭ",
+          "Herkunftsort": "Rohr im Gebirge"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Gefäß zur Erzeugung von Butter; Butterfass",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p2 Ktn.",
+        "p3.1 sbair.ObStmk.",
+        "p3.3 WStmk.",
+        "p5 OÖ",
+        "p7.1 NBgl."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "viereckiges Gefäß als Teil einer Obstpresse",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p5.3 Traunv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "(älteres) Hohlmaß; Maßeinheit (z. B. beim Backen)",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p4.3 Pong.",
+        "p3 Stmk."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Gefäß zum Verrichten der Notdurft; Nachttopf",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p6.1 Mostv.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Hafergarbe",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p3.5 OStmk."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "abwertende Bezeichnung für eine sehr große, dicke, ordinäre Frau",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p5.4 Mühlv.",
+        "p6.1 Mostv.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "abwertende Bezeichnung für eine Prostituierte",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Hut",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p2.3 MKtn."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "altes Fahrzeug; altes Auto",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

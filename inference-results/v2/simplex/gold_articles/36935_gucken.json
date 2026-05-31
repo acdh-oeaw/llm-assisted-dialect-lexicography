@@ -1,0 +1,96 @@
+{
+  "Lemma": "gucken",
+  "POS": "Verb",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "(verstohlen, neugierig, heimlich) schauen",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p2 Ktn.",
+        "p3.1 sbair.ObStmk.",
+        "p3.5 OStmk.",
+        "p4 Sbg.",
+        "p5 OÖ",
+        "p6 NÖ",
+        "p6.5 Wien",
+        "p7 Bgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "durchs schlisslloch guggn",
+          "Herkunftsort": "Umg.Meran"
+        },
+        {
+          "Belegsatz": "is dös da Dånk, daß d'eam Schlög ånfoalst, guk!",
+          "Herkunftsort": "Sbg."
+        },
+        {
+          "Belegsatz": "Guκá̊ då!",
+          "Herkunftsort": "Gr.Arlt."
+        },
+        {
+          "Belegsatz": "d' Sunn guckt durch die Wolken",
+          "Herkunftsort": "nördl.obInnv."
+        },
+        {
+          "Belegsatz": "guggȇr und šau",
+          "Herkunftsort": "Mühlheim am Inn"
+        },
+        {
+          "Belegsatz": "i hąⁿ durės šlissllō gukt",
+          "Herkunftsort": "Poysdorf"
+        },
+        {
+          "Belegsatz": "guck in d' Hē!",
+          "Herkunftsort": "Pilgersdorf"
+        },
+        {
+          "Belegsatz": "turɒs šlisslləu κuκkɒ",
+          "Herkunftsort": ""
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Watten spielen (Kartenspiel)",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1A STir."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "sie haben gəguggit",
+          "Herkunftsort": "STir."
+        },
+        {
+          "Belegsatz": "tiəmr guggn",
+          "Herkunftsort": "STir."
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Verstecken spielen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p3.2 mbair.ObStmk."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Fangen spielen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p3.2 mbair.ObStmk."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

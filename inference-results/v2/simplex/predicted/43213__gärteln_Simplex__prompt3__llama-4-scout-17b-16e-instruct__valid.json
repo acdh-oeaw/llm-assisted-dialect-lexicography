@@ -1,0 +1,69 @@
+{
+    "Lemma": "gärteln",
+    "POS": "Verb",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Gartenarbeit verrichten",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.4 öSTir.",
+                "5.2 Hausrv.",
+                "5.3 Traunv.",
+                "5.4 Mühlv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g304_qdb-d1e13531",
+                    "Belegsatz": "er tuet gern gartln [I]",
+                    "Herkunftsort": "4.5d05 St. Gilgen"
+                }
+            ],
+            "Belege": [
+                "g304_qdb-d1e13531",
+                "g304_qdb-d1e13458",
+                "g304_qdb-d1e13556"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "den Garten bestellen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.2 mNTir.",
+                "1C.3 öNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g304_qdb-d1e13245",
+                    "Belegsatz": "den Garten bestellen; Erdreich umstechen",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g304_qdb-d1e13245",
+                "g304_qdb-d1e13974"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "leichte Arbeit im Zier- oder Genüsegarten tun",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.1 Innv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g304_qdb-d1e13646",
+                    "Belegsatz": "(leichte) Arbeit im Zier- oder Genüsegarten tun",
+                    "Herkunftsort": "5.1c07 Mühlheim am Inn"
+                }
+            ],
+            "Belege": [
+                "g304_qdb-d1e13646"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+Glossar:
+  Lemma: "'Lemma' beinhaltet sämtliche Einträge (inklusive Komposita und Wortbildungsvarianten), die einem bestimmten Lemma zugeordnet werden können. Zu diesem Zweck wurden alle Handzettel beziehungsweise die Einträge der Belegdatenbank lemmatisiert und nach historisch-etymologischen Gesichtspunkten - also linguistischen Prinzipien - einem Hauptlemma zugeordnet."
+  Fragebogennummer: "Auflistung von relevanten Fragebogennummern und Beschreibungen:\n* **13C20h:** Brillenträger; ScherzN f. Person m. Sehbehelf\n* **75C4:** kl.Hühner, Küchlein (Gigerln, Gspedl, Biberln,)\n* **40A11:** Mensch m. mod./guter Kleidg. (Gigerl,); Komp.\n* **40A11 (a):** Mensch m. mod./guter Kleidg. (Gigerl,); Komp.\n* **40A11 (F2):** Mensch m. mod./guter Kleidg. (Gigerl,); Komp.\n* **74A14 (h):** Hundenamen\n* **40A11 (1):** Mensch m. mod./guter Kleidg. (Gigerl,); Komp.\n* **32A4:** Gliedmaßen m. Vb. (sie strecken, spüren,)\n* **46C4:** zittern, Syn. (schlottern, schlegeln, giggeln,)\n"
+  Part_of_Speech: Diese Angabe benennt die Wortart des jeweiligen Belegs.
+  Bedeutung_der_Lautung: Diese Information beschreibt die Bedeutung der Lautungsangabe auf dem Beleg.
+  Bedeutung_des_Belegsatzes: "Diese Information beschreibt die Bedeutung des in Spalte \"Belegsatz 1\", \"Belegsatz 2\" etc. angegebenen Belegsatzes. Es kann sich dabei um eine direkte standardsprachliche Übersetzung, eine standardsprachliche Periphrase oder um einen metasprachlichen Kommentar handeln."
+  Belegsatz_1: "Dieser Eintrag gibt einen Belegsatz, eine Redewendung oder eine Paraphrase wider, um die Bedeutung des Belegs exemplarisch darzustellen bzw. näher zu kontextualisieren. Der Belegsatz ist in der Regel im Dialekt angegeben und in der Lautschrift Teuthonista verschriftlicht."
+  Belegsatz_2: Belegsatz 2 weist dieselbe Funktionalität auf wie Belegsatz 1.
+  Sammlung: Eine Sammlung bündelt einzelne Einträge nach lexikographisch sinnvollen Gesichtspunkten. Alle Einträge der Sammlung teilen diese Gesichtspunkte.
+  Lautung_1: "Die angegebene Information umfasst die lautliche Transkription des vorliegenden Belegs. Die Transkription wurde auf der Grundlage eines Lautschriftsystems notiert, das jenem der Teuthonista gleicht oder zumindest ähnelt. Da die Datengrundlage des WBÖ auf unterschiedlichsten Quellen basiert und die Erhebungen der Fragebögen häufig von Laien-Sammlerinnen und -sammlern durchgeführt wurden, können sich Uneinheitlichkeiten bei der Transkription ergeben."
+  Lautung_2: Lautung 2 weist dieselbe Funktionalität auf wie Lautung 1.
+  Anmerkung: Zusätzliche Anmerkung über den Beleg.
+  Diverses: Zusätzliche undefinierte Anmerkung über den Beleg.
+  Substantiv: Dieser Beleg zählt zur Wortart Substantiv.
+  Verb: Dieser Beleg zählt zur Wortart Verb.
+  Adjektiv: Dieser Beleg zählt zur Wortart Adjektiv.
+  Adverb: Dieser Beleg zählt zur Wortart Adverb.
+  Praeposition: Dieser Beleg zählt zur Wortart Präposition.
+  Konjunktion: Dieser Beleg zählt zur Wortart Konjunktion.
+  Pronomen: Dieser Beleg zählt zur Wortart Pronomen.
+  Interjektion: Dieser Beleg zählt zur Wortart Interjektion.
+  Partikel: Dieser Beleg zählt zur Wortart Partikel.
+  Geschlecht: "Das grammatische Geschlecht eines Wortes wird in der Fachsprache als Genus bezeichnet. Im Deutschen gibt es drei Genera: Maskulinum (männlich), Femininum (weiblich) und Neutrum (sächlich). Das Genus eines Substantivs wird oft durch den Artikel (der, die, das) angezeigt."
+  Bedeutung: "Semantik, auch Bedeutungslehre genannt, ist die wissenschaftliche Beschäftigung mit Bedeutung und mit den verschiedenen Beziehungen zwischen einem Zeichen und dem Bezeichneten. In den Wörterbuchartikeln gehört die Angabe der Bedeutung bzw. Bedeutungen eines Wortes zu den zentralen Inhalten."
+  Belegsatz: "Ein Belegsatz1 oder Belegsatz2  wird verwendet, um die Bedeutung des Beleg in Form eines Satzes exemplarisch zu verdeutlichen. In den Daten wird statt der Bezeichnung \"Beispielsatz\" auch die Bezeichnung \"Belegsatz\" verwendet."
+  Wortvarianten: Unterschiedliche Varianten eines Wortes.
+  Woerterbuchartikel: "Eine strukturierte Beschreibung eines Lemmas, die Angaben zu Bedeutung (bzw. Bedeutungen), Aussprache, Grammatik, Verbreitung, Etymologie sowie ggfs. Wortbildungen und Redewendungen enthält."
+  Quelle_Datenbank: "Es handelt sich hierbei um eine formalisierte Angabe der geographischen Zuordnung des Belegs. Diese Besteht aus einer Sigle sowie einer in Abkürzungen formulierten und ggfs. hierarchisch (Gemeinde, Kleinregion, Großregion, Bundesland) gegliederten Verschriftlichung der geographischen Zuordnung."
+  CollectionCat: "Die CollectionCat (Abkürzung für Collection Categorizer) ist eine Software-Applikation, die zum Kategorisieren und Zusammenfassen von Belegen im Rahmen der lexikographischen Arbeit genutzt wird."
+  Simplex: "Ein Simplex ist ein einfaches Wort oder Lexem, das weder abgeleitet noch zusammengesetzt ist."
+  Kompositum: Ein Kompositum ist ein aus bereits vorhandenen Wörtern zusammengesetztes komplexes Wort. Der zugrunde liegende Wortbildungsprozess wird Komposition genannt.
+  Derivation: "Eine Derivation ist das Ergebnis eines Wortbildungsprozesses, bei dem durch Anhängen eines Affixes (Präfix, Suffix oder Zirkumfix) aus einem Wort ein neues Wort gebildet wird."
+  Grossregion: "Das Bearbeitungsgebiet (Großregion1 und Großregion2) des WBÖ ist regional untergliedert. Jeder regionalen Einheit ist eine eindeutige Sigle zugeordnet. Die größte regionale Einheit stellt dabei das \"Bundesland\" dar, welches folgendermaßen unterteilt ist: Südtirol (Sigle 1A), Osttirol (Sigle 1B), Nordtirol (Sigle 1C), Kärnten (Sigle 2), Steiermark (Sigle 3), Salzburg (Sigle 4), Oberösterreich (Sigle 5), Niederösterreich (Sigle 6), Wien (Sigle 6.5) sowie Burgenland (Sigle 7). \nDie zweitgrößte regionale Einheit ist die \"Großregion\", welche die Bundesländer in weitere Teilbereiche untergliedert. \nDie drittgrößte regionale Einheit ist die \"Kleinregion\", welche die Großregionen in weitere Teilbereiche untergliedert.\nDie viertgrößte regionale Einheit ist die \"Gemeinde\", welche die Kleinregionen in weitere Teilbereiche untergliedert."
+  Herkunftsort: "Geographische Lokation, aus der ein Beleg stammt. Die Angabe erfolgt auf der jeweils spezifischsten verfügbaren Ebene: Ist eine Gemeinde bekannt, wird diese angegeben; andernfalls eine Kleinregion, eine Großregion oder - als letzte Möglichkeit - das Bundesland."
+Belege[62]{ID,Fragebogennummer,Lemma,POS,Bedeutung_des_Belegsatzes,Bedeutung_der_Lautung,Belegsatz1,Belegsatz2,Lautung1,Lautung2,"Großregion",Herkunftsort,Diverses,Anmerkung}:
+  g310_qdb-d1e700,"",Gigel;,Subst;,"","feiger, schwacher Mensch;","","","","","","","",""
+  g310_qdb-d1e744,"",Gigel;,Subst;,"","etwas kleines, schwächliches;etwas kleines, schwächliches;","","","","","","","",""
+  g327_qdb-d1e46482,"",Gigel;,Subst;,"",einjahriges Schaf;,"","","","",1C.2 mNTir.;,1C.2k09 Zell am Ziller;,"",""
+  g327_qdb-d1e46604,"",Gigel;,Subst;,"",Füße;Füße;,"","","","","","","",vgl. gleiche Belege u. Gickel;
+  g327_qdb-d1e46629,"",Gigel;,Subst;,die Beine (unanständig) in die Höhe strecken;,Beine;,"di gîgl [pl4]   üb[e]rschi stöll[e]n;di gigl pl4 überschi stöllen;","","","",1A.2 mSTir.;,1A.3i02 Kastelruth;,"",""
+  g327_qdb-d1e46663,"",Gigel;,Subst;,sterben;,Füße; Beine;Füße Beine;,"di gîgl [pl4]   aurẹkkn;di gigl pl4 aurekkn;","","","","","","",""
+  g327_qdb-d1e46845,"",Gigel;,Subst;,"",Füße im Ganzen;Füße im Ganzen;,"","","","",5.1 Innv.;5.1 Innv.;,"","",""
+  g327_qdb-d1e46893,"",Gigel;,Subst;,"",beredter Mund;,"","","","","","","",""
+  g327_qdb-d1e47151,13C20h;,Gigel;,Subst;,"",Gigerl;,"","","","",6.5 Wien;,6.5j01 Favoriten;,"",""
+  g327_qdb-d1e47174,"",Gigel;,Subst;,"","winziges GebäuANMO: z.B. eine Bauernmühle;winziges Gebäu ANM O: z.B. eine Bauernmühle;","","","","",6.1 Mostv.;,6.1l02 Hofstetten-Grünau;,"",""
+  g327_qdb-d1e47281,75C4;,Gigel;,Subst;,"","","","","","",5.2 Hausrv.;,5.2a09 Grieskirchen;,"",""
+  g327_qdb-d1e47974,40A11;,Gigel;,Subst;,"","","","","","",6.2 Industriev.;,6.2j15 Pottendorf;,"","B: in Steno, das Wort 'Mode' kommt vor, ansonsten unklar;ANM B: in Steno, das Wort Mode kommt vor, ansonsten unklar;"
+  g327_qdb-d1e48064,40A11;,Gigel;,Subst;,"","","a rechts Gigerl [n];a rechts Gigerl n;","","","",4.5 Flachg.;,4.5d05 St. Gilgen;,"",""
+  f255_qdb-d1e105173,40A11;,Gigel;,Subst;,"","","","","","",5.1 Innv.;,5.1c07 Mühlheim am Inn;,"",""
+  g327_qdb-d1e47429,"",Gigel;,Subst;,"","","Ein spezieller Tip: Kosten Sie den „Gigerl [m,sg4]   “. Er ist ein trockener Spitzenwein aus dem eigenen Weingut der „Weinstadl“-Besitzer;Ein spezieller Tip: Kosten Sie den „Gigerl m,sg4 “. Er ist ein trockener Spitzenwein aus dem eigenen Weingut der „Weinstadl“Besitzer;","","","","","","",""
+  g327_qdb-d1e46824,"",Gigel;,Subst;,"",Fuß;Fuß;,"","","","",5.4 Mühlv.;,5.4a13 Sarleinsbach;,"",""
+  g327_qdb-d1e46951,"",Gigel;,Subst;,"","","","","","",5.1 Innv.;5.1 Innv.;,"","",""
+  g327_qdb-d1e47260,"",Gigel;,Subst;,"",Hahn; überspannter Bursche;Hahn überspannter Bursche;,"","","","",6.4 Weinv.;,6.4j04 Großengersdorf;,"",""
+  g327_qdb-d1e47823,40A11;,Gigel;,Subst;,"","Gigerl = ein Mensch, der immer frisch gebügelte Kleider nach der Mode trägt; Gigerl = Geck = ein nach der Mode auffallend Gekleideter;Gigerl = ein Mensch, der immer frisch gebügelte Kleider nach der Mode trägt Gigerl = Geck = ein nach der Mode auffallend Gekleideter;","","","","",6.5 Wien;,"","",""
+  g327_qdb-d1e47853,40A11 (a);,Gigel;,Subst;,"",Gigerl;,"","","","",6.1 Mostv.;,6.1n02 Dunkelsteinerwald;,"",""
+  g327_qdb-d1e47877,40A11;,Gigel;,Subst;,"",Geck;,"","","","",6.5 Wien;,6.5r01 Gersthof;,"",""
+  g327_qdb-d1e47905,40A11;,Gigel;,Subst;,"","","","","","",3.3 WStmk.;,3.3c08 Stainz;,"",""
+  g327_qdb-d1e47951,40A11;,Gigel;,Subst;,"","Gigerl: der auffallende Kleidung trägt;Gigerl: der auffallende Kleidung trägt;","","","","",6.3 Waldv.;,6.3h05 Zwettl-Niederösterreich;,"",""
+  g327_qdb-d1e48024,40A11;,Gigel;,Subst;,"","","schauts dås [den]   Gigəʳl [n;m]   ąⁿ!;schauts das den Gigerl nm an!;","","","",5.3 Traunv.;,5.3b02 Gmunden;,"",""
+  g327_qdb-d1e48110,40A11;,Gigel;,Subst;,"",ein Gigerl;,"","","","",5.2 Hausrv.;,5.2e01 Linz;,"",""
+  g327_qdb-d1e48133,40A11;,Gigel;,Subst;,"","","","","","",5.2 Hausrv.;,5.2a39 Traun;,"",""
+  g327_qdb-d1e48220,40A11;,Gigel;,Subst;,"",Gigerl = Zierpuppe;,"","","","",6.1 Mostv.;,6.1s06 Sitzenberg-Reidling;,"",""
+  g327_qdb-d1e48270,40A11;,Gigel;,Subst;,"","","","","","",6.3 Waldv.;,6.3b06 Langau;,"",""
+  g327_qdb-d1e48356,"",Gigel;,Subst;,"",Gigerl; Geck;Gigerl Geck;,"","","","",6.1 Mostv.;,6.1o01 Herzogenburg;,"",""
+  g327_qdb-d1e48428,"",Gigel;,Subst;,"",Stutzer; Modenarr;Stutzer Modenarr;,"","","","",6.5 Wien;,"","",""
+  g327_qdb-d1e48574,"",Gigel;,Subst;,"",Modegeck; Stutzer;Modegeck Stutzer;,"","","","",6.5 Wien;,"","",""
+  g327_qdb-d1e49475,"",Gigel;,Subst;,"",Gallapfel;,"","","","","","","",""
+  g327_qdb-d1e49500,"",Gigel;,Subst;,"","","Gigerl [D]   oder Schäckhel, auch Dudas, eine Sorte Bethzeug oder Zwillich;Gigerl D oder Schäckhel, auch Dudas, eine Sorte Bethzeug oder Zwillich;","","","","","","",""
+  g327_qdb-d1e49532,"",Gigel;,Subst;,"",Tasche für Hartgeld;Tasche für Hartgeld;,"","","","",6.5 Wien;,"","",""
+  g328_qdb-d1e38880,"",Gigel;,Subst;,"","","","","","",5.3 Traunv.;,5.3i08 Thalheim bei Wels;,"",""
+  f278_qdb-d1e6428,40A11 (F2);,Gigel;,Subst;,"","","","","","",6.2 Industriev.;,6.2h28 Warth;,"","O: bei Männern;ANM O: bei Männern;"
+  g327_qdb-d1e46422,"",Gigel;,Subst;,"","junges Schaf [weibliches Schaf, das noch nicht gelammt hat];junges Schaf weibliches Schaf, das noch nicht gelammt hat;","","","","",1C.2 mNTir.;1C.2 mNTir.;1C.2 mNTir.;,"","",vgl. gleiche Belege u. Gickelein;
+  g327_qdb-d1e46724,"",Gigel;,Subst;,Beine in die Höhe strecken;,"","Die Gigl [pl4]   au'rück'n;Die Gigl pl4 aurückn;","Die Gigl [pl4]   au'röcken;Die Gigl pl4 auröcken;","","","","","",""
+  g327_qdb-d1e47366,"",Gigel;,Subst;,"","plaudersüchtiger, kindischer Mann;plaudersüchtiger, kindischer Mann;","","","","",2.2 MKtn.;,2.3g04 St. Urban;,"",""
+  g327_qdb-d1e47387,"",Gigel;,Subst;,"",Geck; Stutzer;Geck Stutzer;,"","","","",6.1 Mostv.;,6.1i01 Göstling an der Ybbs;,"",""
+  g327_qdb-d1e47410,"",Gigel;,Subst;,"","","","","","",6.5 Wien;,"","",""
+  g327_qdb-d1e47611,40A11;,Gigel;,Subst;,"","Gigerl: männliches Gegenstück zur HOFFARTLUCKEN;Gigerl: männliches Gegenstück zur HOFFARTLUCKEN;","","","","",2.2 MKtn.;2.2 MKtn.;2.2 MKtn.;2.2 MKtn.;,"","",""
+  g327_qdb-d1e47702,40A11;,Gigel;,Subst;,"","ein Gigerl: wenn einer immer die allerneueste Mode trägt (Vertreter des männl. Geschlechts);ein Gigerl: wenn einer immer die allerneueste Mode trägt Vertreter des männl. Geschlechts;","","","","",6.5 Wien;,6.5j01 Favoriten;,"",""
+  g327_qdb-d1e47997,40A11;,Gigel;,Subst;,das ist ein rechter Gigerl (auffallend gekleidet);,"","dōs is a rechda Gīgal [D,m];dos is a rechda Gigal D,m;","","","",6.3 Waldv.;,6.3a15 Kautzen;,"",""
+  g327_qdb-d1e48197,40A11;,Gigel;,Subst;,"","ein Gigerl = ein eitler, auffällig gekleideter Mensch;ein Gigerl = ein eitler, auffällig gekleideter Mensch;","","","","",6.1 Mostv.;,6.1f05 Purgstall an der Erlauf;,"",""
+  g327_qdb-d1e48453,"",Gigel;,Subst;,"","\"Gigerl\": Modegeck;Gigerl: Modegeck;","","","","",6.5 Wien;,"","",""
+  g327_qdb-d1e48515,"",Gigel;,Subst;,"","","","","","",6.5 Wien;,"","",""
+  g327_qdb-d1e46510,"",Gigel;,Subst;,"","","","","","",1C.2 mNTir.;1C.2 mNTir.;1C.2 mNTir.;,"","",""
+  g327_qdb-d1e46569,"1G7: schmales Gesicht;",Gigel;,Subst;,"orig: ER SCHAUT AUS wie das Gigerl Geiß beim Zaun;translated: ER HAT EIN schmales Gesicht;","","ęaʳ schaut aus wia s Giga'l [D,n]   Goas ban Zauⁿ;ear schaut aus wia s Gigal D,n Goas ban Zaun;","","","",3.2 mbair.ObStmk.;,3.2f02 Kapfenberg;,"",""
+  g327_qdb-d1e48538,"",Gigel;,Subst;,"",Geck in Kleidung und Benehmen auf allen Gebieten;,"Gigerl [D]   , Geck in Kleidung und Benehmen auf allen Gebieten. Vor ungefähr 20 Jahren in einem kleinen Kreise als Pendant zu 'Gagerl' (Einfaltspinsel) entstanden, doch erst populär geworden durch eine Reihe von Feuilletons im \"Neuen Wr. Tagbl.|\" von 1886-88, sowie durch die typischen Zeichnungen von Hans Schließmann in derselben Zeit;Gigerl D , Geck in Kleidung und Benehmen auf allen Gebieten. Vor ungefähr 20 Jahren in einem kleinen Kreise als Pendant zu Gagerl Einfaltspinsel entstanden, doch erst populär geworden durch eine Reihe von Feuilletons im Neuen Wr. Tagbl.| von 188688, sowie durch die typischen Zeichnungen von Hans Schließmann in derselben Zeit;","","","",6.5 Wien;,"","",""
+  g327_qdb-d1e46697,"",Gigel;,Subst;,sich dehnen; sich strecken;,"","die gigl [pl4]   au'röcken;die gigl pl4 auröcken;","","","","","","",""
+  g327_qdb-d1e46911,"",Gigel;,Subst;,"","für eine zahnluckete PersonANMO: Schimpf;für eine zahnluckete Person ANM O: Schimpf;","Zåhnluckarati Gigel [f]   - treib d' Schoᵘf übern Riegel - hiaz kånn s' as nit dertreib'n - und muaß d' Schoᵘfbenl nåchischeib'n!;Zahnluckarati Gigel f  treib d Schouf übern Riegel  hiaz kann s as nit dertreibn  und muaß d Schoufbenl nachischeibn!;","","","",6.2 Industriev.;,6.2h28 Warth;,"",""
+  g327_qdb-d1e49553,74A14 (h);,Gigel;,Subst;,"","","","","","","","","",""
+  g327_qdb-d1e48089,40A11 (1);,Gigel;,Subst;,"","","","","","",6.4 Weinv.;,"","",""
+  g327_qdb-d1e48291,"",Gigel;,Subst;,"","ein stutzerhaft gekleideter Mensch; junger Mann, der recht auffallend und nach neuester Mode gekleidet istANMO: Handschuhe, Spazierstock, Girardihut, auffallende Krawatte etc.;ein stutzerhaft gekleideter Mensch junger Mann, der recht auffallend und nach neuester Mode gekleidet ist ANM O: Handschuhe, Spazierstock, Girardihut, auffallende Krawatte etc.;","Håst den Gigerl [D,m,sg4]   g'seg'n?;Hast den Gigerl D,m,sg4 gsegn?;","Gigerl sein, das ist fein;","","",6.5 Wien;,"","",""
+  g327_qdb-d1e48483,"",Gigel;,Subst;,"",Modegeck; auffallend Gekleideter;Modegeck auffallend Gekleideter;,"","","","","","","",""
+  g327_qdb-d1e46756,32A4;,Gigel;,Subst;,"--;stellt die Füße in die Höhe;","","dë Gīgl [pl4]   austölln;de Gigl pl4 austölln;","stöllt dė Gīgl [pl4]   au;stöllt de Gigl pl4 au;","","",1A.2 mSTir.;,1A.3b01 Sarntal;,"",""
+  g327_qdb-d1e47787,40A11;,Gigel;,Subst;,"","","Gīgal sa͡iⁿ, / dås is fa͡iⁿ; / Gīgal khå̄ⁿ nėd ję̄da (!) sa͡iⁿ!;Gigal sain, / das is fain / Gigal khan ned jeda ! sain!;","","","",5.2 Hausrv.;,5.2b39 Schlatt;,"",""
+  g327_qdb-d1e46461,"",Gigel;,Subst;,"","weibliches Schaf, das nich nicht gelammt hat;","","","","","","","",""
+  g327_qdb-d1e47926,40A11;,Gigel;,Subst;,"","\"Gigerl\";Gigerl;","","","","",1C.3 öNTir.;,1C.3k01 Fieberbrunn;,"",""
+  g327_qdb-d1e47494,"",Gigel;,Subst;,"",besondere Art von Geck;,"„Gigaʳl seiñ, dås is' feiñ“;„Gigarl sein, das is fein“;","","","",6.5 Wien;,"","",""
+  g327_qdb-d1e46866,46C4;,Gigel;,Subst;,"","","der puɒ maχt ɒn gīgl [m,sg4];der pua macht an gigl m,sg4;","","","",1C.1 wNTir.;,1C.1f02 Biberwier;,"",vgl. gleiche Belege u. Gickel;

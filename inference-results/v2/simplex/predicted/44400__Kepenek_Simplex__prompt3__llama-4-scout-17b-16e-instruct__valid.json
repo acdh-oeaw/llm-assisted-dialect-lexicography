@@ -1,0 +1,73 @@
+{
+    "Lemma": "Gepenek",
+    "POS": "Subst",
+    "Genus": "m,n?",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Mantel, Überrock; auch weiter Männerüberrock, Reitmantel oder grober Mantel.",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.3 Waldv.",
+                " 6.5 Wien",
+                " 6.1 Mostv.",
+                " 6.4 Weinv.",
+                "7.1 NBgl."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g323_qdb-d1e81915",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "g323_qdb-d1e81820",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "g323_qdb-d1e81487",
+                    "Belegsatz": "Wos host du für an Gehbanek on?",
+                    "Herkunftsort": "6.3a24 Waldkirchen an der Thaya"
+                },
+                {
+                    "ID": "g323_qdb-d1e81624",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.5 Wien"
+                }
+            ],
+            "Belege": [
+                "g323_qdb-d1e81915",
+                "g323_qdb-d1e81820",
+                "g323_qdb-d1e81487",
+                "g323_qdb-d1e81624"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Kopf",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "3.2 mbair.ObStmk.",
+                " 3.4 MStmk."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g323_qdb-d1e81963",
+                    "Belegsatz": "",
+                    "Herkunftsort": "3.2f02 Kapfenberg"
+                },
+                {
+                    "ID": "g323_qdb-d1e82016",
+                    "Belegsatz": "hǫuld her dein Gepaneg",
+                    "Herkunftsort": "3.4c14 Kirchbach-Zerlach"
+                }
+            ],
+            "Belege": [
+                "g323_qdb-d1e81963",
+                "g323_qdb-d1e82016"
+            ]
+        }
+    ]
+}

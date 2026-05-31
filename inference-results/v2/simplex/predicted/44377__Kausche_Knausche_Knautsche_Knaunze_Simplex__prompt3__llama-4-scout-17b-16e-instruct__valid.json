@@ -1,0 +1,153 @@
+{
+    "Lemma": "Knausche/Knaunsche",
+    "POS": "Substantiv",
+    "Genus": "Femininum",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Weinerliche, zimperliche Person",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.1 Mostv.",
+                "6.4 Weinv.",
+                "6.5 Wien"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k495_qdb-d1e49304",
+                    "Belegsatz": "weinerliches Mädchen; Herzogenburg",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k495_qdb-d1e53141",
+                    "Belegsatz": "wehleidiges, zimperliches, beim Essen wählerisches Mädchen; Ernstbrunn",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k495_qdb-d1e57313",
+                    "Belegsatz": "Person meist weiblich, die stets zimperlich nörgelt; Herzogenburg",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k495_qdb-d1e53767",
+                    "Belegsatz": "zartes, wehleidiges Frauenzimmer; Poysdorf",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k495_qdb-d1e49304",
+                "k495_qdb-d1e53141",
+                "k495_qdb-d1e57313",
+                "k495_qdb-d1e53767"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Keifende, zankende Person",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "2.2 MKtn.",
+                "3.1 sbair.ObStmk.",
+                "6.1 Mostv.",
+                "6.3 Waldv.",
+                "6.5 Wien"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k495_qdb-d1e53910",
+                    "Belegsatz": "keifende Hündin; Stadl-Predlitz",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k495_qdb-d1e54115",
+                    "Belegsatz": "keifende Frauensperson; Stadl-Predlitz",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k495_qdb-d1e55648",
+                    "Belegsatz": "ein viel keifendes Weib; Langenlois",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k495_qdb-d1e53425",
+                    "Belegsatz": "zankende, keifende FrauenspersonANMO: Schimpfwort; Wien",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k495_qdb-d1e53910",
+                "k495_qdb-d1e54115",
+                "k495_qdb-d1e55648",
+                "k495_qdb-d1e53425"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Schwätzerin, Plaudertasche",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.1 Mostv.",
+                "7.1 NBgl."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k465_qdb-d1e13020",
+                    "Belegsatz": "Schwätzerin; Hofstetten-Grünau",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k495_qdb-d1e21227",
+                    "Belegsatz": "Plappermaul, Dorftratsche; Pöttsching",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k495_qdb-d1e53661",
+                    "Belegsatz": "eine Knautsche = eine fortwährend zankende, schimpfende Frauensperson;",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k465_qdb-d1e13020",
+                "k495_qdb-d1e21227",
+                "k495_qdb-d1e53661"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Geiziges, knauschiges Weib",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.2 Industriev."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k495_qdb-d1e53981",
+                    "Belegsatz": "ein geiziges, knauschiges Weib; Warth",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k495_qdb-d1e53981"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Weibliche Kinder",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.4 Weinv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k495_qdb-d1e54401",
+                    "Belegsatz": "weibliche Kinder; Poysdorf",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k495_qdb-d1e54401"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+  "Lemma": "Giebel",
+  "POS": "Substantiv",
+  "Genus": "Maskulinum",
+  "Form": {
+    "form": "Gieberl Giebelein",
+    "typ": "Diminutive",
+    "genus": "Neutrum"
+  },
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "meist dreieckige, senkrechte Wand zwischen den spitz zulaufenden Flächen eines Daches",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A.1 wSTir.",
+        "p1A.4 öSTir.",
+        "p1C NTir.",
+        "p2.1 ObKtn.",
+        "p2.2 MKtn.",
+        "p3.1 sbair.ObStmk.",
+        "p3.3 WStmk.",
+        "p5.2 Hausrv.",
+        "p5.3 Traunv.",
+        "p5.4 Mühlv.",
+        "p6 NÖ",
+        "p7.2 MBgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "hǖtzani Gibün",
+          "Herkunftsort": "Kautzen"
+        },
+        {
+          "Belegsatz": "an ouffan Gib",
+          "Herkunftsort": "Kautzen"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Zusammenstoß der Dachflächen beim First",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p5.3 Traunv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "vordere Hausfront",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p6.3 Waldv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Hochfenster im Stadel",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p3.1 sbair.ObStmk."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Silberkarausche; Carassius gibelio",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p3 Stmk."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

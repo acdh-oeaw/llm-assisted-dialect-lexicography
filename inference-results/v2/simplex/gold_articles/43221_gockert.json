@@ -1,0 +1,47 @@
+{
+  "Lemma": "gockert",
+  "POS": "Adjektiv",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "mit (eitrigen) Unreinheiten versehen (von der Haut)",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1C NTir.",
+        "p2 Ktn.",
+        "p4.2 Pinzg.",
+        "p4.5 Flachg.",
+        "p6.2 Industriev."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "s Moidele war schu recht, wen̄s la nöt sȯvl gȯgget war - O de Gȯggn vrgiehn̨ schuⁿ widr",
+          "Herkunftsort": "Sarntal"
+        },
+        {
+          "Belegsatz": "Na ist der Bua asoᵘ gȯggėt!",
+          "Herkunftsort": "Sarntal"
+        },
+        {
+          "Belegsatz": "a sölla goggatr Trak",
+          "Herkunftsort": "Nauders"
+        },
+        {
+          "Belegsatz": "gōggătö Nǫsn",
+          "Herkunftsort": "Kufstein"
+        },
+        {
+          "Belegsatz": "a goggets Ksicht",
+          "Herkunftsort": "Rangersdorf"
+        },
+        {
+          "Belegsatz": "S wĭard gŏggăd",
+          "Herkunftsort": "Rohr im Gebirge"
+        }
+      ]
+    }
+  ]
+}

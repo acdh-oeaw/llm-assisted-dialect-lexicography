@@ -1,0 +1,118 @@
+{
+    "Lemma": "Galfe",
+    "POS": "Subst",
+    "Genus": "Femininum",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Getreidemaß; ein bestimmtes Hohlmaß fÃ¼r Getreide (teils mit spezifischen Maßen)",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.4 Ã¶STir.;1B.0 OTir.",
+                "1C.3 Ã¶NTir.",
+                "1B.0 OTir.;1B.0a05 Sillian"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g298_qdb-d1e4071",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "g298_qdb-d1e4174",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "g298_qdb-d1e4025",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1B.0a05 Sillian"
+                },
+                {
+                    "ID": "g298_qdb-d1e4151",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "g298_qdb-d1e4225",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g298_qdb-d1e4071",
+                "g298_qdb-d1e4174",
+                "g298_qdb-d1e3952",
+                "g298_qdb-d1e4151",
+                "g298_qdb-d1e4225"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Ein Drittel eines GetreidemaÃŸes (z.B. Star oder Metzen)",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.3 Ã¶NTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g298_qdb-d1e3742",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "g298_qdb-d1e3648",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "g298_qdb-d1e3564",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "g298_qdb-d1e3592",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g298_qdb-d1e3742",
+                "g298_qdb-d1e3648",
+                "g298_qdb-d1e3564",
+                "g298_qdb-d1e3592"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Spezielles HohlmaÃŸ = 10,5 l; 11,2 l oder 12 Â½ l",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "weitere Bedeutung 1",
+            "Regionen": [
+                "1B.0 OTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g298_qdb-d1e4248",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "g298_qdb-d1e4203",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "g298_qdb-d1e3786",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g298_qdb-d1e4248",
+                "g298_qdb-d1e4203",
+                "g298_qdb-d1e3786"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+Glossar:
+  Lemma: "'Lemma' beinhaltet sämtliche Einträge (inklusive Komposita und Wortbildungsvarianten), die einem bestimmten Lemma zugeordnet werden können. Zu diesem Zweck wurden alle Handzettel beziehungsweise die Einträge der Belegdatenbank lemmatisiert und nach historisch-etymologischen Gesichtspunkten - also linguistischen Prinzipien - einem Hauptlemma zugeordnet."
+  Fragebogennummer: "Auflistung von relevanten Fragebogennummern und Beschreibungen:\n* **64D11:** Kotklümpchen an Schweif/Hinterschenkeln v. Rind\n* **EFb.2/28:** Klette (Kleppm, Kebern, Zecke)\n* **70G22:** Fitze/Knoten/Schmutzklümpchen in d. Schafwolle\n"
+  Part_of_Speech: Diese Angabe benennt die Wortart des jeweiligen Belegs.
+  Bedeutung_der_Lautung: Diese Information beschreibt die Bedeutung der Lautungsangabe auf dem Beleg.
+  Bedeutung_des_Belegsatzes: "Diese Information beschreibt die Bedeutung des in Spalte \"Belegsatz 1\", \"Belegsatz 2\" etc. angegebenen Belegsatzes. Es kann sich dabei um eine direkte standardsprachliche Übersetzung, eine standardsprachliche Periphrase oder um einen metasprachlichen Kommentar handeln."
+  Belegsatz_1: "Dieser Eintrag gibt einen Belegsatz, eine Redewendung oder eine Paraphrase wider, um die Bedeutung des Belegs exemplarisch darzustellen bzw. näher zu kontextualisieren. Der Belegsatz ist in der Regel im Dialekt angegeben und in der Lautschrift Teuthonista verschriftlicht."
+  Belegsatz_2: Belegsatz 2 weist dieselbe Funktionalität auf wie Belegsatz 1.
+  Sammlung: Eine Sammlung bündelt einzelne Einträge nach lexikographisch sinnvollen Gesichtspunkten. Alle Einträge der Sammlung teilen diese Gesichtspunkte.
+  Lautung_1: "Die angegebene Information umfasst die lautliche Transkription des vorliegenden Belegs. Die Transkription wurde auf der Grundlage eines Lautschriftsystems notiert, das jenem der Teuthonista gleicht oder zumindest ähnelt. Da die Datengrundlage des WBÖ auf unterschiedlichsten Quellen basiert und die Erhebungen der Fragebögen häufig von Laien-Sammlerinnen und -sammlern durchgeführt wurden, können sich Uneinheitlichkeiten bei der Transkription ergeben."
+  Lautung_2: Lautung 2 weist dieselbe Funktionalität auf wie Lautung 1.
+  Anmerkung: Zusätzliche Anmerkung über den Beleg.
+  Diverses: Zusätzliche undefinierte Anmerkung über den Beleg.
+  Substantiv: Dieser Beleg zählt zur Wortart Substantiv.
+  Verb: Dieser Beleg zählt zur Wortart Verb.
+  Adjektiv: Dieser Beleg zählt zur Wortart Adjektiv.
+  Adverb: Dieser Beleg zählt zur Wortart Adverb.
+  Praeposition: Dieser Beleg zählt zur Wortart Präposition.
+  Konjunktion: Dieser Beleg zählt zur Wortart Konjunktion.
+  Pronomen: Dieser Beleg zählt zur Wortart Pronomen.
+  Interjektion: Dieser Beleg zählt zur Wortart Interjektion.
+  Partikel: Dieser Beleg zählt zur Wortart Partikel.
+  Geschlecht: "Das grammatische Geschlecht eines Wortes wird in der Fachsprache als Genus bezeichnet. Im Deutschen gibt es drei Genera: Maskulinum (männlich), Femininum (weiblich) und Neutrum (sächlich). Das Genus eines Substantivs wird oft durch den Artikel (der, die, das) angezeigt."
+  Bedeutung: "Semantik, auch Bedeutungslehre genannt, ist die wissenschaftliche Beschäftigung mit Bedeutung und mit den verschiedenen Beziehungen zwischen einem Zeichen und dem Bezeichneten. In den Wörterbuchartikeln gehört die Angabe der Bedeutung bzw. Bedeutungen eines Wortes zu den zentralen Inhalten."
+  Belegsatz: "Ein Belegsatz1 oder Belegsatz2  wird verwendet, um die Bedeutung des Beleg in Form eines Satzes exemplarisch zu verdeutlichen. In den Daten wird statt der Bezeichnung \"Beispielsatz\" auch die Bezeichnung \"Belegsatz\" verwendet."
+  Wortvarianten: Unterschiedliche Varianten eines Wortes.
+  Woerterbuchartikel: "Eine strukturierte Beschreibung eines Lemmas, die Angaben zu Bedeutung (bzw. Bedeutungen), Aussprache, Grammatik, Verbreitung, Etymologie sowie ggfs. Wortbildungen und Redewendungen enthält."
+  Quelle_Datenbank: "Es handelt sich hierbei um eine formalisierte Angabe der geographischen Zuordnung des Belegs. Diese Besteht aus einer Sigle sowie einer in Abkürzungen formulierten und ggfs. hierarchisch (Gemeinde, Kleinregion, Großregion, Bundesland) gegliederten Verschriftlichung der geographischen Zuordnung."
+  CollectionCat: "Die CollectionCat (Abkürzung für Collection Categorizer) ist eine Software-Applikation, die zum Kategorisieren und Zusammenfassen von Belegen im Rahmen der lexikographischen Arbeit genutzt wird."
+  Simplex: "Ein Simplex ist ein einfaches Wort oder Lexem, das weder abgeleitet noch zusammengesetzt ist."
+  Kompositum: Ein Kompositum ist ein aus bereits vorhandenen Wörtern zusammengesetztes komplexes Wort. Der zugrunde liegende Wortbildungsprozess wird Komposition genannt.
+  Derivation: "Eine Derivation ist das Ergebnis eines Wortbildungsprozesses, bei dem durch Anhängen eines Affixes (Präfix, Suffix oder Zirkumfix) aus einem Wort ein neues Wort gebildet wird."
+  Grossregion: "Das Bearbeitungsgebiet (Großregion1 und Großregion2) des WBÖ ist regional untergliedert. Jeder regionalen Einheit ist eine eindeutige Sigle zugeordnet. Die größte regionale Einheit stellt dabei das \"Bundesland\" dar, welches folgendermaßen unterteilt ist: Südtirol (Sigle 1A), Osttirol (Sigle 1B), Nordtirol (Sigle 1C), Kärnten (Sigle 2), Steiermark (Sigle 3), Salzburg (Sigle 4), Oberösterreich (Sigle 5), Niederösterreich (Sigle 6), Wien (Sigle 6.5) sowie Burgenland (Sigle 7). \nDie zweitgrößte regionale Einheit ist die \"Großregion\", welche die Bundesländer in weitere Teilbereiche untergliedert. \nDie drittgrößte regionale Einheit ist die \"Kleinregion\", welche die Großregionen in weitere Teilbereiche untergliedert.\nDie viertgrößte regionale Einheit ist die \"Gemeinde\", welche die Kleinregionen in weitere Teilbereiche untergliedert."
+  Herkunftsort: "Geographische Lokation, aus der ein Beleg stammt. Die Angabe erfolgt auf der jeweils spezifischsten verfügbaren Ebene: Ist eine Gemeinde bekannt, wird diese angegeben; andernfalls eine Kleinregion, eine Großregion oder - als letzte Möglichkeit - das Bundesland."
+Belege[22]{ID,Fragebogennummer,Lemma,POS,Bedeutung_des_Belegsatzes,Bedeutung_der_Lautung,Belegsatz1,Belegsatz2,Lautung1,Lautung2,"Großregion",Herkunftsort,Diverses,Anmerkung}:
+  k487_qdbn-d16e39830,"",Klatte;,Subst;,"",Schmutzballen im Haar; Unratknollen am Haar der Stalltiere;Schmutzballen im Haar Unratknollen am Haar der Stalltiere;,"","","","",1C.1 wNTir.;1C.1 wNTir.;1C.1 wNTir.;,"","",""
+  k487_qdbn-d16e39894,"",Klatte;,Subst;,"",Schmutzballen im Haar; Unratknollen am Haar der Stalltiere;Schmutzballen im Haar Unratknollen am Haar der Stalltiere;,"","","","",1C.2 mNTir.;1C.2 mNTir.;,"","",""
+  k487_qdb-d1e85297,64D11;,Klatte;,Subst;,"",Kotklumpen am Rind;,"Dö Khae is ja auf und auf voö Klăttln [D1,pl3];Dö Khae is ja auf und auf voö Klattln D1,pl3;","","","",1C.3 öNTir.;,1C.3i05 St. Johann in Tirol;,"",""
+  k487_qdbn-d16e39937,"",Klatte;,Subst;,"",Schmutzballen im Haar; Unratknollen am Haar der Stalltiere;Schmutzballen im Haar Unratknollen am Haar der Stalltiere;,"","","","","","","",""
+  k487_qdbn-d16e39980,"",Klatte;,Subst;,"","ein bißchen ZusammengepreßtesANMO: z.B. Heu;ein bißchen Zusammengepreßtes ANM O: z.B. Heu;","","","","",1C.2 mNTir.;1C.2 mNTir.;,"","",""
+  k487_qdbn-d16e40052,5.4;,Klatte;,Subst;,"",Kotklunker an den Schenkeln der Kuh;,"","","","",4.2 Pinzg.;,4.2a10 Wald im Pinzgau;,"",""
+  k487_qdb-d1e46988,EFb.2/28;,Klatte;,Subst;,"",Klette;,"","","","",4.2 Pinzg.;,4.2g02 Saalfelden am Steinernen Meer;,"",""
+  k487_qdbn-d16e40130,70G22;,Klatte;,Subst;,"","","","","","",4.2 Pinzg.;,4.2c01 Fusch an der Großglocknerstraße;,"",""
+  k487_qdb-d1e47401,64D11;,Klatte;,Subst;,"",Kotklumpen am Rind;,"Dö Khae is ja auf und auf voö Klăttln [D1,pl3];Dö Khae is ja auf und auf voö Klattln D1,pl3;","","","",1C.3 öNTir.;,1C.3f02 Hopfgarten im Brixental;,"",""
+  k487_qdbn-d16e39873,"",Klatte;,Subst;,"",Schmutzballen im Haar; Unratknollen am Haar der Stalltiere;Schmutzballen im Haar Unratknollen am Haar der Stalltiere;,"","","","",1C.2 mNTir.;1C.2 mNTir.;1C.2 mNTir.;,"","",""
+  k487_qdb-d1e47139,"",Klatte;,Subst;,"",verharschter Kuhdreck an den Schenkeln des Rindes;,"","","","",1C.2 mNTir.;,1C.2k09 Zell am Ziller;,"",""
+  k487_qdb-d1e47275,"",Klatte;,Subst;,"",Kotklunker an den Schenkeln der Kühe;Kotklunker an den Schenkeln der Kühe;,"","","","",4.2 Pinzg.;,4.2a09 Uttendorf;,"",""
+  k487_qdb-d1e47378,64D11;,Klatte;,Subst;,"","","","","","",4.3 Pong.;,"","",""
+  k487_qdb-d1e47439,"",Klatte;,Subst;,"",Schmutzfladen; Dreck;Schmutzfladen Dreck;,"","","","",4.3 Pong.;,"","",""
+  k487_qdbn-d16e40259,"",Klatte;,Subst;,"",Kotklunker an den Schenkeln der Rinder;,"","","","",4.2 Pinzg.;,4.2a06 Niedernsill;,"",""
+  k487_qdb-d1e47194,"",Klatte;,Subst;,"",Kot an den Schenkeln der Rinder;,"","","","",4.2 Pinzg.;,4.2a02 Hollersbach im Pinzgau;,"",""
+  k487_qdbn-d16e39852,"",Klatte;,Subst;,"",Schmutzballen im Haar; Unratknollen am Haar der Stalltiere;Schmutzballen im Haar Unratknollen am Haar der Stalltiere;,"","","","",1C.2 mNTir.;,1C.2j04 Tux;,"",""
+  k487_qdbn-d16e39915,"",Klatte;,Subst;,"",Schmutzballen im Haar; Unratknollen am Haar der Stalltiere;Schmutzballen im Haar Unratknollen am Haar der Stalltiere;,"","","","",1C.3 öNTir.;1C.3 öNTir.;,"","",""
+  k487_qdbn-d16e40420,"",Klatte;,Subst;,"",Kruste; etwas Verklebtes;Kruste etwas Verklebtes;,"","","","",1C.2 mNTir.;1C.2 mNTir.;1C.2 mNTir.;,"","",""
+  k487_qdbn-d16e39958,"",Klatte;,Subst;,"",Zusammengepreßtes;Zusammengepreßtes;,"","","","",1C.3 öNTir.;1C.3 öNTir.;,"","",""
+  k487_qdbn-d16e40304,"",Klatte;,Subst;,"",am Haar haftender Schmutz;,"","","","",1C.2 mNTir.;,1C.2j04 Tux;,"",""
+  k487_qdbn-d16e40588,"",Klatte;,Subst;,"",Schmutz in den Haaren;,"","","","",1C.2 mNTir.;,1C.2j04 Tux;,"",""

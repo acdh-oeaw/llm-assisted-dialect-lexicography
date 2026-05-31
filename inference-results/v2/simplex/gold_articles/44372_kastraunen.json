@@ -1,0 +1,30 @@
+{
+  "Lemma": "kastraunen",
+  "POS": "Adjektiv",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "vom Hammel herstammend (v. a. von Fleisch); auf den Hammel bezogen",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir.",
+        "p2.1 ObKtn.",
+        "p3 Stmk."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "a Kštraunens (flaiš)",
+          "Herkunftsort": "Sand in Taufers"
+        },
+        {
+          "Belegsatz": "a gschtreinas Fleisch",
+          "Herkunftsort": "Kufstein"
+        }
+      ]
+    }
+  ]
+}

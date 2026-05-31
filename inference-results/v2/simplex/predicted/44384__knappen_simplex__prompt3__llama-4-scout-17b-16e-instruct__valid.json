@@ -1,0 +1,149 @@
+{
+    "Lemma": "knappen",
+    "POS": "Verb",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "nicken",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.1 wNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k495_qdb-d1e9533",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.1m02 Fendels"
+                },
+                {
+                    "ID": "k495_qdb-d1e9510",
+                    "Belegsatz": "ja nicken",
+                    "Herkunftsort": "1C.1n05 Landeck"
+                }
+            ],
+            "Belege": [
+                "k495_qdb-d1e9533",
+                "k495_qdb-d1e9510"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Vorstufe des Balzens (bei Wildtieren)",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "2.2 MKtn.",
+                "1C.1 wNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k495_qdb-d1e9662",
+                    "Belegsatz": "knappen Vorstufe des Balzens",
+                    "Herkunftsort": "2.2 MKtn."
+                },
+                {
+                    "ID": "k495_qdb-d1e9635",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.1m02 Fendels"
+                }
+            ],
+            "Belege": [
+                "k495_qdb-d1e9662",
+                "k495_qdb-d1e9635"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "im Bergwerk arbeiten",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "k495_qdb-d1e9377",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k495_qdb-d1e9377"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "einen Stein herausstemmen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.1 wSTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k495_qdb-d1e9423",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1A.1a02 Mals"
+                }
+            ],
+            "Belege": [
+                "k495_qdb-d1e9423"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "einnicken, einschlafen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.1 wNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k495_qdb-d1e9470",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.1m06 Nauders"
+                }
+            ],
+            "Belege": [
+                "k495_qdb-d1e9470"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "in der Nase bohren",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.1 wSTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k495_qdb-d1e9741",
+                    "Belegsatz": "in der nǫs knåppm",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k495_qdb-d1e9741"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "bejahend nicken / rasche Bewegungen ausführen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "g334_qdb-d1e65553",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "g334_qdb-d1e65505",
+                    "Belegsatz": "rasche Bewegungen ausführen",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g334_qdb-d1e65553",
+                "g334_qdb-d1e65505"
+            ]
+        }
+    ]
+}

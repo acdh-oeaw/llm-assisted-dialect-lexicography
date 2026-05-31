@@ -1,0 +1,101 @@
+Glossar:
+  Lemma: "'Lemma' beinhaltet sämtliche Einträge (inklusive Komposita und Wortbildungsvarianten), die einem bestimmten Lemma zugeordnet werden können. Zu diesem Zweck wurden alle Handzettel beziehungsweise die Einträge der Belegdatenbank lemmatisiert und nach historisch-etymologischen Gesichtspunkten - also linguistischen Prinzipien - einem Hauptlemma zugeordnet."
+  Fragebogennummer: "Auflistung von relevanten Fragebogennummern und Beschreibungen:\n* **66A36:** stark im Holz, v. Weinstock (frech)\n* **18E29:** gut gedüngter Acker\n* **18E29b:** übermäßig gedüngter Acker\n* **17C20:** fett/humushältig/-er Ackerboden (Dunkelboden,)\n* **21C3a:** Fleisch v. best.Beschaffenh. (flechsiges,); Ra.\n* **EFb.9/30:** bitter, herb, v. Speisen/Getränken\n* **18E9c:** die/das Geil(e) \"Dünger\"; Füg./Ra.; Syn.\n* **21C3a (F):** Fleisch v. best.Beschaffenh. (flechsiges,); Ra.\n* **23I6b:** Haut m. Adj., Syn. (behaart/Pelz, gelbl.,); Zshg. Hautfarbe-Haarfarbe/Charakter?\n* **30C46:** Brot ist zu süß; Bed.; Subst.; Ra.\n* **17C4:** wenig fruchtbar/-er Acker (letz; Saugrund,)\n* **18E18:** Geil \"Dünger\" in Komp. (Geilgeld \"Abgabe\")\n"
+  Part_of_Speech: Diese Angabe benennt die Wortart des jeweiligen Belegs.
+  Bedeutung_der_Lautung: Diese Information beschreibt die Bedeutung der Lautungsangabe auf dem Beleg.
+  Bedeutung_des_Belegsatzes: "Diese Information beschreibt die Bedeutung des in Spalte \"Belegsatz 1\", \"Belegsatz 2\" etc. angegebenen Belegsatzes. Es kann sich dabei um eine direkte standardsprachliche Übersetzung, eine standardsprachliche Periphrase oder um einen metasprachlichen Kommentar handeln."
+  Belegsatz_1: "Dieser Eintrag gibt einen Belegsatz, eine Redewendung oder eine Paraphrase wider, um die Bedeutung des Belegs exemplarisch darzustellen bzw. näher zu kontextualisieren. Der Belegsatz ist in der Regel im Dialekt angegeben und in der Lautschrift Teuthonista verschriftlicht."
+  Belegsatz_2: Belegsatz 2 weist dieselbe Funktionalität auf wie Belegsatz 1.
+  Sammlung: Eine Sammlung bündelt einzelne Einträge nach lexikographisch sinnvollen Gesichtspunkten. Alle Einträge der Sammlung teilen diese Gesichtspunkte.
+  Lautung_1: "Die angegebene Information umfasst die lautliche Transkription des vorliegenden Belegs. Die Transkription wurde auf der Grundlage eines Lautschriftsystems notiert, das jenem der Teuthonista gleicht oder zumindest ähnelt. Da die Datengrundlage des WBÖ auf unterschiedlichsten Quellen basiert und die Erhebungen der Fragebögen häufig von Laien-Sammlerinnen und -sammlern durchgeführt wurden, können sich Uneinheitlichkeiten bei der Transkription ergeben."
+  Lautung_2: Lautung 2 weist dieselbe Funktionalität auf wie Lautung 1.
+  Anmerkung: Zusätzliche Anmerkung über den Beleg.
+  Diverses: Zusätzliche undefinierte Anmerkung über den Beleg.
+  Substantiv: Dieser Beleg zählt zur Wortart Substantiv.
+  Verb: Dieser Beleg zählt zur Wortart Verb.
+  Adjektiv: Dieser Beleg zählt zur Wortart Adjektiv.
+  Adverb: Dieser Beleg zählt zur Wortart Adverb.
+  Praeposition: Dieser Beleg zählt zur Wortart Präposition.
+  Konjunktion: Dieser Beleg zählt zur Wortart Konjunktion.
+  Pronomen: Dieser Beleg zählt zur Wortart Pronomen.
+  Interjektion: Dieser Beleg zählt zur Wortart Interjektion.
+  Partikel: Dieser Beleg zählt zur Wortart Partikel.
+  Geschlecht: "Das grammatische Geschlecht eines Wortes wird in der Fachsprache als Genus bezeichnet. Im Deutschen gibt es drei Genera: Maskulinum (männlich), Femininum (weiblich) und Neutrum (sächlich). Das Genus eines Substantivs wird oft durch den Artikel (der, die, das) angezeigt."
+  Bedeutung: "Semantik, auch Bedeutungslehre genannt, ist die wissenschaftliche Beschäftigung mit Bedeutung und mit den verschiedenen Beziehungen zwischen einem Zeichen und dem Bezeichneten. In den Wörterbuchartikeln gehört die Angabe der Bedeutung bzw. Bedeutungen eines Wortes zu den zentralen Inhalten."
+  Belegsatz: "Ein Belegsatz1 oder Belegsatz2  wird verwendet, um die Bedeutung des Beleg in Form eines Satzes exemplarisch zu verdeutlichen. In den Daten wird statt der Bezeichnung \"Beispielsatz\" auch die Bezeichnung \"Belegsatz\" verwendet."
+  Wortvarianten: Unterschiedliche Varianten eines Wortes.
+  Woerterbuchartikel: "Eine strukturierte Beschreibung eines Lemmas, die Angaben zu Bedeutung (bzw. Bedeutungen), Aussprache, Grammatik, Verbreitung, Etymologie sowie ggfs. Wortbildungen und Redewendungen enthält."
+  Quelle_Datenbank: "Es handelt sich hierbei um eine formalisierte Angabe der geographischen Zuordnung des Belegs. Diese Besteht aus einer Sigle sowie einer in Abkürzungen formulierten und ggfs. hierarchisch (Gemeinde, Kleinregion, Großregion, Bundesland) gegliederten Verschriftlichung der geographischen Zuordnung."
+  CollectionCat: "Die CollectionCat (Abkürzung für Collection Categorizer) ist eine Software-Applikation, die zum Kategorisieren und Zusammenfassen von Belegen im Rahmen der lexikographischen Arbeit genutzt wird."
+  Simplex: "Ein Simplex ist ein einfaches Wort oder Lexem, das weder abgeleitet noch zusammengesetzt ist."
+  Kompositum: Ein Kompositum ist ein aus bereits vorhandenen Wörtern zusammengesetztes komplexes Wort. Der zugrunde liegende Wortbildungsprozess wird Komposition genannt.
+  Derivation: "Eine Derivation ist das Ergebnis eines Wortbildungsprozesses, bei dem durch Anhängen eines Affixes (Präfix, Suffix oder Zirkumfix) aus einem Wort ein neues Wort gebildet wird."
+  Grossregion: "Das Bearbeitungsgebiet (Großregion1 und Großregion2) des WBÖ ist regional untergliedert. Jeder regionalen Einheit ist eine eindeutige Sigle zugeordnet. Die größte regionale Einheit stellt dabei das \"Bundesland\" dar, welches folgendermaßen unterteilt ist: Südtirol (Sigle 1A), Osttirol (Sigle 1B), Nordtirol (Sigle 1C), Kärnten (Sigle 2), Steiermark (Sigle 3), Salzburg (Sigle 4), Oberösterreich (Sigle 5), Niederösterreich (Sigle 6), Wien (Sigle 6.5) sowie Burgenland (Sigle 7). \nDie zweitgrößte regionale Einheit ist die \"Großregion\", welche die Bundesländer in weitere Teilbereiche untergliedert. \nDie drittgrößte regionale Einheit ist die \"Kleinregion\", welche die Großregionen in weitere Teilbereiche untergliedert.\nDie viertgrößte regionale Einheit ist die \"Gemeinde\", welche die Kleinregionen in weitere Teilbereiche untergliedert."
+  Herkunftsort: "Geographische Lokation, aus der ein Beleg stammt. Die Angabe erfolgt auf der jeweils spezifischsten verfügbaren Ebene: Ist eine Gemeinde bekannt, wird diese angegeben; andernfalls eine Kleinregion, eine Großregion oder - als letzte Möglichkeit - das Bundesland."
+Belege[66]{ID,Fragebogennummer,Lemma,POS,Bedeutung_des_Belegsatzes,Bedeutung_der_Lautung,Belegsatz1,Belegsatz2,Lautung1,Lautung2,"Großregion",Herkunftsort,Diverses,Anmerkung}:
+  g311_qdb-d1e82856,66A36;,gēilig;geilig;,Adj;,"",üppig; wässerig;üppig wässerig;,"","","","",6.4 Weinv.;,6.4f18 Spannberg;,"",""
+  g311_qdb-d1e83019,"",gēilig;geilig;,Adj;,"",geil; üppig gewachsen (von Pflanzen);geil üppig gewachsen von Pflanzen;,"","","","",6.4 Weinv.;,6.4i13 Stetten;,"",""
+  g311_qdb-d1e47540,18E29;,gēilig;geilig;,Adj;,"","","a gāligr [P,fl]   ǫκxr;a galigr P,fl okchr;","","","",2.2 MKtn.;,2.3f01 Feldkirchen in Kärnten;,"",""
+  g311_qdb-d1e46955,"",gēilig;geilig;,Adj;,"",faulig; schlüpfrig;faulig schlüpfrig;,"","","","",1C.2 mNTir.;1C.2 mNTir.;1C.2 mNTir.;,"","",""
+  g311_qdb-d1e46905,"",gēilig;geilig;,Adj;,"",schleimig;,"","","","",1C.2 mNTir.;,1C.2j04 Tux;,"",""
+  g311_qdb-d1e48497,"",gēilig;geilig;,Adj;,"","zu fett, üppig (Essen);zu fett, üppig Essen;","","","","",5.1 Innv.;,5.1e11 Suben;,"",""
+  g311_qdb-d1e48436,"",gēilig;geilig;,Adj;,"Ein geiliger Baum hat gute Äpfel; ein gut gedüngter Baum trägt auch gute Früchteein Mensch, der gut und ausreichend ißt, kann auch tüchtig arbeiten;ein Mensch, der gut und ausreichend ißt, kann auch tüchtig arbeiten;",fett; kräftig; gut gedüngt;fett kräftig gut gedüngt;,"ɒ κaö̩lėgɒ [P,fl]   πãm ho̩k - kųɒdė e̊pfö;a kaölega P,fl bam hok  kuade epfö;","","","",5.2 Hausrv.;,5.2b44 Ungenach;,"",""
+  g311_qdb-d1e48270,66A36;,gēilig;geilig;,Adj;,"",üppig; wässerig;üppig wässerig;,"","","","",6.4 Weinv.;,6.4e06 Hollabrunn;,"",""
+  g311_qdb-d1e48320,"",gēilig;geilig;,Adj;,"",sexuell überempfindlich; mannstoll;sechuell überempfindlich mannstoll;,"","","","","","","",""
+  g311_qdb-d1e47344,"",gēilig;geilig;,Adj;,das Fleisch ist fett;,"","dės φlaėš is g:ælė [P];des flaes is g:aele P;","","","",6.4 Weinv.;,"","",""
+  g311_qdb-d1e48173,"",gēilig;geilig;,Adj;,zu geilig;,"","ts gālė [P];ts gale P;","","","","","","wenn eine Kuh nicht aufnimmt, sagt man, sie sei ts gālė , zu geilig; S. Unger 275, geilig 2);ANM wenn eine Kuh nicht aufnimmt, sagt man, sie sei ts gale , zu geilig S. Unger 275, geilig 2;",""
+  g311_qdb-d1e47907,"",gēilig;geilig;,Adj;,"","überfettANMB: Lautung ergänztANMO: eine Wiese / Essen kann gạọ̈lẹ  sein, das Gras wächst gạọ̈lẹ;überfett ANM B: Lautung ergänzt ANM O: eine Wiese / Essen kann gaöle sein, das Gras wächst gaöle;","","","","",5.2 Hausrv.;,5.2a21 Natternbach;,"",""
+  f243_qdb-d1e30039,"",gēilig;geilig;,Adj;,"","","","","","","","","",""
+  g297_qdb-d1e72980,"",gēilig;geilig;,Adj;,"",geil;,"","","","",5.1 Innv.;,"","",""
+  g311_qdb-d1e47288,"",gēilig;geilig;,Adj;,"",fett; fadesüß; widerstehend;fett fadesüß widerstehend;,"","","","",6.1 Mostv.;,6.1d01 Allhartsberg;,"",""
+  g311_qdb-d1e47422,18E29b;,gēilig;geilig;,Adj;,der Acker ist gar zu geilig;,"","dər ɒ̊khər is går zə gālė [P];der akher is gar ze gale P;","","","",2.1 ObKtn.;,2.1i01 Gitschtal;,"",""
+  g311_qdb-d1e47446,17C20;,gēilig;geilig;,Adj;,"orig: geiler;translated: fetter, kräftiger Grund;","","gę̄ulichă [P,fl]   Boᵈn;geulicha P,fl Bodn;","","","",6.5 Wien;,6.5w06 Mauer;,"",""
+  g311_qdb-d1e47588,"",gēilig;geilig;,Adj;,"",geil; wollüstig;geil wollüstig;,"","","","",6.5 Wien;,"","",""
+  g311_qdb-d1e47632,"",gēilig;geilig;,Adj;,"",geil; rasch sättigend; allzu fett (v. Speisen);geil rasch sättigend allzu fett v. Speisen;,"","","","","","","",""
+  g311_qdb-d1e47655,21C3a;,gēilig;geilig;,Adj;,"weiches, mürbes Fleisch;","","a g͡aėlėgs [P,fl]   Fl.;a gaelegs P,fl Fl.;","","","",5.2 Hausrv.;,5.2b39 Schlatt;,"",""
+  g311_qdb-d1e47813,EFb.9/30;,gēilig;geilig;,Adj;,"",bitter; herb;bitter herb;,"","","","",6.2 Industriev.;,6.2h03 Aspangberg-St. Peter;,"",""
+  g311_qdb-d1e47939,"",gēilig;geilig;,Adj;,"",überfett;überfett;,"","","","",6.2 Industriev.;,6.2e03 Puchberg am Schneeberg;,"",""
+  g311_qdb-d1e48018,"",gēilig;geilig;,Adj;,"",geil; üppig gewachsen (von Pflanzen);geil üppig gewachsen von Pflanzen;,"","","","",6.4 Weinv.;,6.4d03 Drasenhofen;,"",""
+  g311_qdb-d1e48783,"",gēilig;geilig;,Adj;,"",geil;,"Der Steinpilz ist dem Bauerngeschmack zu ... g­äulü [P];Der Steinpilz ist dem Bauerngeschmack zu ... g­äulü P;","","","",6.4 Weinv.;,6.4d18 Poysdorf;,"",""
+  g311_qdb-d1e48066,"",gēilig;geilig;,Adj;,"",geil;,"","","","",6.3 Waldv.;,6.3c07 Weitra;,"",""
+  g311_qdb-d1e48129,"",gēilig;geilig;,Adj;,"","","","","","",6.2 Industriev.;,6.2h28 Warth;,"",""
+  g311_qdb-d1e48198,"",gēilig;geilig;,Adj;,"","","","","","","","","Zu dem galė , worüber ich vor Kurzem berichtet (das die Empfängnis bei Kühen hindert) noch folgendes: Eine Kuhmagd bestätigt die Sache: weil die Mutter verwächst. Und im alten Haushaltungsbuch von Colerus lese ich: \"Es sollen die Kühe, die man zulassen will, nicht feist oder fett sein, denn wenn sie fein fett sein, empfangen sie nicht leicht\";ANM Zu dem gale , worüber ich vor Kurzem berichtet das die Empfängnis bei Kühen hindert noch folgendes: Eine Kuhmagd bestätigt die Sache: weil die Mutter verwächst. Und im alten Haushaltungsbuch von Colerus lese ich: Es sollen die Kühe, die man zulassen will, nicht feist oder fett sein, denn wenn sie fein fett sein, empfangen sie nicht leicht;",""
+  g311_qdb-d1e48524,"",gēilig;geilig;,Adj;,"",überfett; widerstehend;überfett widerstehend;,"","","","",5.1 Innv.;,"","",""
+  g311_qdb-d1e82833,"",gēilig;geilig;,Adj;,"",geil; üppig gewachsen (von Pflanzen);geil üppig gewachsen von Pflanzen;,"","","","",6.4 Weinv.;,6.4d11 Herrnbaumgarten;,"",""
+  g298_qdb-d1e22121,"",gēilig;geilig;,Adj;,"","zu weich gewachsenANMO: vom Holz;","","","","",4.3 Pong.;,"",ein zu weich gewachsener Baum bricht leicht ab;,""
+  g297_qdb-d1e85206,"",gēilig;geilig;,Adj;,"die Esche wächst rasch, in großen, saftigen Trieben;","","d' ə́sch'n wo̰xt go̰əlė [\"galig\"];d eschn wocht goele galig;","","","",5.4 Mühlv.;,5.4c01 Eidenberg;,"",""
+  g311_qdb-d1e38039,"",gēilig;geilig;,Adj;,"",fettreich; geil; üppig;fettreich geil üppig;,"","","","",2.2 MKtn.;,2.2i07 Villach;,Siehe auch S. 130;,""
+  g311_qdb-d1e39352,"",gēilig;geilig;,Adj;,"",fruchtbar;,"","","","",2.1 ObKtn.;,2.1h02 Hermagor-Pressegger See;,"",""
+  g311_qdb-d1e39537,"",gēilig;geilig;,Adj;,"",fad schmeckend; nicht süß u. nicht sauer;fad schmeckend nicht süß u. nicht sauer;fad schmeckend; nicht süß u. nicht sauer;fad schmeckend nicht süß u. nicht sauer;,"","","","",1A.2 mSTir.;1A.2 mSTir.;,1A.2c04 Welschnofen;1A.2c04 Welschnofen;,"",""
+  g311_qdb-d1e47234,"",gēilig;geilig;,Adj;,"","weich; zartANMO: alt;weich zart ANM O: alt;üppig gewachsen; fett;üppig gewachsen fett;","","","","","","","",""
+  g311_qdb-d1e47186,"",gēilig;geilig;,Adj;,"zartes, fettes Fleisch von einem jungen Schwein;","","ɒ κaölėκσ [P,fl]   φla̩e̩š;a kaöleks P,fl flaes;","","","",5.2 Hausrv.;,5.2b46 Weibern;,"",""
+  g311_qdb-d1e48733,18E9c;,gēilig;geilig;,Adj;,gut gedüngte Erde;,"","a gālige [P,fl]   ę̄rn;a galige P,fl ern;","","","",2.2 MKtn.;,2.3f01 Feldkirchen in Kärnten;,"",""
+  g311_qdb-d1e47519,"",gēilig;geilig;,Adj;,"",geilig;,"","","","","","","",""
+  g311_qdb-d1e47611,"",gēilig;geilig;,Adj;,"",fettstrotzend; strotzend; vollsäftig (v. Lebewesen);fettstrotzend strotzend vollsäftig v. Lebewesen;,"","","","","","","",""
+  g311_qdb-d1e47842,"",gēilig;geilig;,Adj;,"",wollüstig;wollüstig;,"","","","",6.5 Wien;,"","",""
+  g311_qdb-d1e48220,"",gēilig;geilig;,Adj;,"",fett;fett;,"s Furder is gållö [P];s Furder is gallö P;","s Furder is galli [P];s Furder is galli P;","","",5.3 Traunv.;,5.3i08 Thalheim bei Wels;,"",""
+  g311_qdb-d1e48293,"",gēilig;geilig;,Adj;,"","geiligesANMO: hier bezogen auf Holz, das auf zu nassem Boden wuchs;","","","","",4.3 Pong.;,4.3d01 Hüttschlag;,"",""
+  g311_qdb-d1e48341,21C3a (F);,gēilig;geilig;,Adj;,"","sehr fettANMO: vom Fleisch;geil;","","","","",6.4 Weinv.;,6.4e08 Ravelsbach;,"",""
+  g311_qdb-d1e48609,"",gēilig;geilig;,Adj;,"",geil;,"","","","",3.1 sbair.ObStmk.;,3.1c09 Oberwölz;,"",""
+  g311_qdb-d1e48632,23I6b;,gēilig;geilig;,Adj;,eine geile Haut;,"","á gaöle̊ge̊ [P,fl]   Haut;a gaölege P,fl Haut;","","","",5.2 Hausrv.;,5.2a17 Kirchberg-Thening;,"",""
+  g311_qdb-d1e48841,"",gēilig;geilig;,Adj;,"",FLEISCHIG; weich; zart;FLEISCHIG weich zart;,"","","","",5.3 Traunv.;,5.3i08 Thalheim bei Wels;,"",""
+  g311_qdb-d1e47112,"",gēilig;geilig;,Adj;,"ein rundliches Gesicht, mit zarter Haut;","","ɒ κaölėκσ [P,fl]   κσiχτ;a kaöleks P,fl ksicht;","","","",5.2 Hausrv.;,5.2b46 Weibern;,"",""
+  g311_qdb-d1e47209,"",gēilig;geilig;,Adj;,"",fett;,"","","","","","","",""
+  g311_qdb-d1e47365,"",gēilig;geilig;,Adj;,"",widerlich fett; geil;widerlich fett geil;widerlich fett; geil;widerlich fett geil;,"","","","",6.3 Waldv.;,6.3c03 Bad Großpertholz;,"",""
+  g311_qdb-d1e47399,30C46;,gēilig;geilig;,Adj;,"","","s proẹt iš tsi gǫalẹ [P];s proet is tsi goale P;","","","",1A.4 öSTir.;,1A.4d02 Kiens;,"",""
+  g311_qdb-d1e47494,"",gēilig;geilig;,Adj;,"","geil; üppigANMO: vom Wachstum der Pflanzen gesagt;geil üppig ANM O: vom Wachstum der Pflanzen gesagt;","","","","",5.2 Hausrv.;,5.2b28 Pichl bei Wels;,"",""
+  g311_qdb-d1e47680,"",gēilig;geilig;,Adj;,"",geil; fett;geil fett;,"","","","",6.3 Waldv.;,6.3q03 St. Leonhard am Hornerwald;,"",""
+  g311_qdb-d1e47750,17C4;,gēilig;geilig;,Adj;,"","","","","","",3.5 OStmk.;,3.5k29 Straden;,"",""
+  g311_qdb-d1e47771,"",gēilig;geilig;,Adj;,"",geil; fett;geil fett;,"","","","",5.4 Mühlv.;,5.4b13 Ulrichsberg;,"",""
+  g311_qdb-d1e47792,"",gēilig;geilig;,Adj;,"",geil (von fetten Speisen);geil von fetten Speisen;,"","","","",6.4 Weinv.;,6.4d11 Herrnbaumgarten;,"",""
+  g311_qdb-d1e47704,18E29;,gēilig;geilig;,Adj;,"","","gāliga [P,fl]   ɒ̊ka;galiga P,fl aka;","","","",2.2 MKtn.;,2.2i04 Paternion;,"",""
+  g311_qdb-d1e47863,"",gēilig;geilig;,Adj;,"",widerlich fett;,"","","","",6.5 Wien;,"","",""
+  g311_qdb-d1e47884,"",gēilig;geilig;,Adj;,"",fett; geil;fett geil;,"","","","",6.3 Waldv.;,6.3a18 Reingers;,"",""
+  g311_qdb-d1e48108,"",gēilig;geilig;,Adj;,"","","die Speise ist gāli [P];die Speise ist gali P;","","","",6.1 Mostv.;,6.1p12 Türnitz;,"",""
+  g311_qdb-d1e48152,18E18;,gēilig;geilig;,Adj;,"","","","","","",5.4 Mühlv.;,5.4d13 St. Veit im Mühlkreis;,"",""
+  g311_qdb-d1e48472,"",gēilig;geilig;,Adj;,"",überfruchtbar;überfruchtbar;,"","","","",5.1 Innv.;,5.1e11 Suben;,"",""
+  g311_qdb-d1e47963,"",gēilig;geilig;,Adj;,"",überfett;überfett;,"","","","",6.2 Industriev.;,6.2e03 Puchberg am Schneeberg;,"",""
+  g311_qdb-d1e48546,"",gēilig;geilig;,Adj;,"",geil; stark süß;geil stark süß;,"","","","",6.3 Waldv.;,6.3c07 Weitra;,"",""
+  g311_qdb-d1e48659,"",gēilig;geilig;,Adj;,"",FETT;,"","","","",3.3 WStmk.;,3.3c08 Stainz;,"",""
+  g311_qdb-d1e48760,"",gēilig;geilig;,Adj;,ein allzu fetter Geschmack;,"","a gālicha [P,fl]   Gschmōchn;a galicha P,fl Gschmochn;","","","",6.4 Weinv.;,6.4d18 Poysdorf;,"",""
+  g311_qdb-d1e48809,"",gēilig;geilig;,Adj;,"",geil schmeckend;,"","","","",5.3 Traunv.;,5.3o07 Weyer Markt;,"",""

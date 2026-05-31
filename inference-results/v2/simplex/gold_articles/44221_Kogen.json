@@ -1,0 +1,30 @@
+{
+  "Lemma": "Kogen",
+  "POS": "Substantiv",
+  "Genus": "Maskulinum",
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "Aas; nichtsnutziger, böser Mensch",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1C.1 wNTir."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "a lader Koga",
+          "Herkunftsort": "St. Anton am Arlberg"
+        },
+        {
+          "Belegsatz": "dös ischt a bissigər Koga",
+          "Herkunftsort": "See"
+        },
+        {
+          "Belegsatz": "Es ischt nuit un z'höbn mit den trimslign Koga",
+          "Herkunftsort": "Fendels"
+        }
+      ]
+    }
+  ]
+}

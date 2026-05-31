@@ -1,0 +1,116 @@
+{
+    "Lemma": "gä̂h; gäh;",
+    "POS": "Adj",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "jäh, plötzlich",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A",
+                "1B",
+                "1C",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g297_qdb-d1e57678",
+                    "Belegsatz": "a gā-ö [P,fl] Laidn;",
+                    "Herkunftsort": "5.3b02 Gmunden"
+                },
+                {
+                    "ID": "g297_qdb-d1e73543",
+                    "Belegsatz": "pan gâhɛ [P,fl] plik;",
+                    "Herkunftsort": "1C.1 wNTir."
+                }
+            ],
+            "Belege": [
+                "g297_qdb-d1e57678",
+                "g297_qdb-d1e73543"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "rasch, eilig",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "3",
+                "4",
+                "6"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g297_qdb-d1e63181",
+                    "Belegsatz": "",
+                    "Herkunftsort": "3.5a05 Kumberg"
+                },
+                {
+                    "ID": "g297_qdb-d1e63252",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.3e06 Kufstein"
+                }
+            ],
+            "Belege": [
+                "g297_qdb-d1e63181",
+                "g297_qdb-d1e63252"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "unüberlegt, übereilig",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g297_qdb-d1e69053",
+                    "Belegsatz": "dös is a gachi [P,fl] Gstötn;",
+                    "Herkunftsort": "3.3c08 Stainz"
+                },
+                {
+                    "ID": "g297_qdb-d1e73408",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.3 Waldv."
+                }
+            ],
+            "Belege": [
+                "g297_qdb-d1e69053",
+                "g297_qdb-d1e73408"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "jähzornig",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C",
+                "2",
+                "6"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g297_qdb-d1e74064",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "g297_qdb-d1e66322",
+                    "Belegsatz": "sie hat a gachs [P,fl] Bluet;",
+                    "Herkunftsort": "4.5d05 St. Gilgen"
+                }
+            ],
+            "Belege": [
+                "g297_qdb-d1e74064",
+                "g297_qdb-d1e66322"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+  "Lemma": "giftig",
+  "POS": "Adjektiv",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "Gift enthaltend; Gift absondernd",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p3.3 WStmk.",
+        "p3.4 MStmk.",
+        "p5.1 Innv.",
+        "p5.2 Hausrv.",
+        "p5.3 Traunv.",
+        "p6.1 Mostv.",
+        "p6.2 Industriev."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "is ɒ giftėnė wuɒtsn",
+          "Herkunftsort": "Graz"
+        },
+        {
+          "Belegsatz": "d Nådəʳn hąmd giftigö Zuŋən",
+          "Herkunftsort": "Gmunden"
+        },
+        {
+          "Belegsatz": "Giftiger Flian̄stich - is nur mit Saura Müli (Milch) - die Bluatvergiftung zan heiln̄",
+          "Herkunftsort": "Pyhra"
+        },
+        {
+          "Belegsatz": "gīftĭgĭ Nōdărn",
+          "Herkunftsort": "Rohr im Gebirge"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "vergiftet; verunreinigt",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A.4 öSTir.",
+        "p1C.2 mNTir.",
+        "p1C.3 öNTir.",
+        "p2.1 ObKtn.",
+        "p2.2 MKtn.",
+        "p4.5 Flachg.",
+        "p5.2 Hausrv.",
+        "p5.4 Mühlv.",
+        "p6.2 Industriev.",
+        "p6.3 Waldv.",
+        "p6.4 Weinv.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "giftiga ōdorn",
+          "Herkunftsort": "Kiens"
+        },
+        {
+          "Belegsatz": "giftigs Bluat",
+          "Herkunftsort": "Hall in Tirol"
+        },
+        {
+          "Belegsatz": "giftöga ɒ̊ata",
+          "Herkunftsort": "Kufstein"
+        },
+        {
+          "Belegsatz": "giffdȯgȯ Wundn",
+          "Herkunftsort": "Niederkappel"
+        },
+        {
+          "Belegsatz": "Dö̆ W[unde] schaud gīftĭ āus",
+          "Herkunftsort": "Rohr im Gebirge"
+        },
+        {
+          "Belegsatz": "gīfdigs Wīmăˡ",
+          "Herkunftsort": "Mauer"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "zornig; böse; wütend; aufgebracht",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p2 Ktn.",
+        "p3.2 mbair.ObStmk.",
+        "p4 Sbg.",
+        "p5 OÖ",
+        "p6 NÖ",
+        "p6.5 Wien",
+        "p7.1 NBgl.",
+        "p7.3 SBgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "kiftiga augŋ̥",
+          "Herkunftsort": "Sillian"
+        },
+        {
+          "Belegsatz": "giftigs Gsicht",
+          "Herkunftsort": "Kötschach-Mauthen"
+        },
+        {
+          "Belegsatz": "ə giftėgs gšau",
+          "Herkunftsort": "Mühlheim am Inn"
+        },
+        {
+          "Belegsatz": "er schaut recht gifti",
+          "Herkunftsort": "Ybbs an der Donau"
+        },
+        {
+          "Belegsatz": "giffti sein",
+          "Herkunftsort": "Türnitz"
+        },
+        {
+          "Belegsatz": "måch mi nit gifti!",
+          "Herkunftsort": "Raabs an der Thaya"
+        },
+        {
+          "Belegsatz": "τe σãn κįftį åǫfɒ̃nå̃ǫ̃nd",
+          "Herkunftsort": "Ernstbrunn"
+        },
+        {
+          "Belegsatz": "a giftigs Gsicht",
+          "Herkunftsort": "Mistelbach"
+        },
+        {
+          "Belegsatz": "Auf d' Letzt wird er gifti",
+          "Herkunftsort": "Wien"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "gereizt; angriffslustig (von Tieren)",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p6.3 Waldv.",
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "dbėi san gifti",
+          "Herkunftsort": "Kautzen"
+        },
+        {
+          "Belegsatz": "die gifting Gäns",
+          "Herkunftsort": "Poysdorf"
+        }
+      ]
+    }
+  ]
+}

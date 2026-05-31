@@ -1,0 +1,166 @@
+{
+    "Lemma": "Käuschler",
+    "POS": "Subst",
+    "Genus": "männlich",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Besitzer eines kleinen Anwesens oder einer Keusche; Kleinbauer, Häusler",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A",
+                "1B",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k465_qdb-d1e30891",
+                    "Belegsatz": "",
+                    "Herkunftsort": "3.5 OStmk."
+                },
+                {
+                    "ID": "k465_qdb-d1e30951",
+                    "Belegsatz": "",
+                    "Herkunftsort": "3.5h11 Kaindorf"
+                }
+            ],
+            "Belege": [
+                "k465_qdb-d1e30891",
+                "k465_qdb-d1e30951"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Besitzer einer Keusche (spezifisch)",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "differenzierte Bedeutung",
+            "Regionen": [
+                "2.1 ObKtn.",
+                "6.1 Mostv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k465_qdb-d1e31997",
+                    "Belegsatz": "",
+                    "Herkunftsort": "2.1d03 Greifenburg"
+                },
+                {
+                    "ID": "k465_qdb-d1e32426",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.1f05 Purgstall an der Erlauf"
+                }
+            ],
+            "Belege": [
+                "k465_qdb-d1e31997",
+                "k465_qdb-d1e32426"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Kleinbauer, der von seinen Gütern nicht leben kann; Kleinhausler",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "differenzierte Bedeutung",
+            "Regionen": [
+                "6.3 Waldv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k465_qdb-d1e32659",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.3t04 Krems an der Donau"
+                }
+            ],
+            "Belege": [
+                "k465_qdb-d1e32659"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Besitzer und Bewohner einer Keusche; ohne Zugvieh, meist Tagwerker",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "differenzierte Bedeutung",
+            "Regionen": [
+                "6.2 Industriev."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k465_qdb-d1e29634",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k465_qdb-d1e29634"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Einer, der ein Kleinhaus besitzt; Häusler",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "differenzierte Bedeutung",
+            "Regionen": [
+                "5.4 Mühlv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k465_qdb-d1e29755",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.4b13 Ulrichsberg"
+                }
+            ],
+            "Belege": [
+                "k465_qdb-d1e29755"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Kleinbauer, Keuschler; einer mit kleinem Besitz",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "differenzierte Bedeutung",
+            "Regionen": [
+                "3.2 mbair.ObStmk."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k465_qdb-d1e32986",
+                    "Belegsatz": "",
+                    "Herkunftsort": "3.2g07 Neuberg an der Mürz"
+                }
+            ],
+            "Belege": [
+                "k465_qdb-d1e32986"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Keuschler (besitzt nur einige Felder neben seiner Keusche = kleines Haus)",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "differenzierte Bedeutung",
+            "Regionen": [
+                "3.4 MStmk."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k465_qdb-d1e33932",
+                    "Belegsatz": "",
+                    "Herkunftsort": "3.4b13 Heiligenkreuz am Waasen"
+                }
+            ],
+            "Belege": [
+                "k465_qdb-d1e33932"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Keuschler: Bauer mit sehr kleinem Grund",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "differenzierte Bedeutung",
+            "Regionen": [
+                "6.3 Waldv."
+            ],
+            "Belegsaetze": [],
+            "Belege": [
+                "h385_qdbn-d16e78694"
+            ]
+        }
+    ]
+}

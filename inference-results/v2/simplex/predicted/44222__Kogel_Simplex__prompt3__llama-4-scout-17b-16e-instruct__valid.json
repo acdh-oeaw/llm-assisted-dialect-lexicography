@@ -1,0 +1,126 @@
+{
+    "Lemma": "Kogel",
+    "POS": "Subst",
+    "Genus": "m.",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "kegelförmige Erhebung, Hügel; Bergkuppe",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "2.2 MKtn.",
+                "3.4 MStmk.",
+                "6.1 Mostv.",
+                "1C.1 wNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k503_qdb-d1e28824",
+                    "Belegsatz": "kegelförmige Erhebung",
+                    "Herkunftsort": "-"
+                },
+                {
+                    "ID": "k503_qdb-d1e27569",
+                    "Belegsatz": "Hügel",
+                    "Herkunftsort": "3.4d01 Graz"
+                }
+            ],
+            "Belege": [
+                "k503_qdb-d1e28824",
+                "k503_qdb-d1e27569",
+                "k503_qdb-d1e28508",
+                "k503_qdb-d1e28782"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Schutzdach oder Wölbung über dem offenen Herd",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "2.2 MKtn.",
+                "1C.1 wNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k503_qdb-d1e26864",
+                    "Belegsatz": "Kogel: kugelförmiges Schutzdach über dem offenen Herd",
+                    "Herkunftsort": "-"
+                },
+                {
+                    "ID": "k503_qdb-d1e26940",
+                    "Belegsatz": "Kogel: Rauchmantel über dem offenen Herd",
+                    "Herkunftsort": "2.2i07 Villach"
+                }
+            ],
+            "Belege": [
+                "k503_qdb-d1e26864",
+                "k503_qdb-d1e26940",
+                "k503_qdb-d1e27062",
+                "k503_qdb-d1e27223"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Berg, Bergspitze; Kuppe eines Berges",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "3.2 mbair.ObStmk.",
+                "1C.1 wNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k503_qdb-d1e27912",
+                    "Belegsatz": "kleiner Berg",
+                    "Herkunftsort": "-"
+                },
+                {
+                    "ID": "k503_qdb-d1e26688",
+                    "Belegsatz": "Berg; Bergspitze",
+                    "Herkunftsort": "1C.1 wNTir."
+                }
+            ],
+            "Belege": [
+                "k503_qdb-d1e27912",
+                "k503_qdb-d1e26688",
+                "k503_qdb-d1e26720"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Wölbung des Ofens",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "weitere Bedeutung 1",
+            "Regionen": [
+                "2.2 MKtn."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k503_qdb-d1e23577",
+                    "Belegsatz": "die außen sichtbare Wölbung des Ofens",
+                    "Herkunftsort": "-"
+                }
+            ],
+            "Belege": [
+                "k503_qdb-d1e23577"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "ansteigende Wiese",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "weitere Bedeutung 2",
+            "Regionen": [
+                "6.1 Mostv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k503_qdb-d1e27460",
+                    "Belegsatz": "ansteigende Wiese",
+                    "Herkunftsort": "6.1h01 Gaming"
+                }
+            ],
+            "Belege": [
+                "k503_qdb-d1e27460"
+            ]
+        }
+    ]
+}

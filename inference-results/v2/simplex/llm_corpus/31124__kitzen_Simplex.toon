@@ -1,0 +1,92 @@
+Glossar:
+  Lemma: "'Lemma' beinhaltet sämtliche Einträge (inklusive Komposita und Wortbildungsvarianten), die einem bestimmten Lemma zugeordnet werden können. Zu diesem Zweck wurden alle Handzettel beziehungsweise die Einträge der Belegdatenbank lemmatisiert und nach historisch-etymologischen Gesichtspunkten - also linguistischen Prinzipien - einem Hauptlemma zugeordnet."
+  Fragebogennummer: "Auflistung von relevanten Fragebogennummern und Beschreibungen:\n* **70N7:** Junge werfen, v. Ziegen (kitzeln, gaißeln)\n* **70N7 (korr.):** Junge werfen, v. Ziegen (kitzeln, gaißeln)\n* **58J8:** gebären, v. Wildtieren (setzen)\n* **58J8 (4):** gebären, v. Wildtieren (setzen)\n* **25N1c:** (Haut-)Ausschlag m. Vb. (er juckt, geht zurück,)\n"
+  Part_of_Speech: Diese Angabe benennt die Wortart des jeweiligen Belegs.
+  Bedeutung_der_Lautung: Diese Information beschreibt die Bedeutung der Lautungsangabe auf dem Beleg.
+  Bedeutung_des_Belegsatzes: "Diese Information beschreibt die Bedeutung des in Spalte \"Belegsatz 1\", \"Belegsatz 2\" etc. angegebenen Belegsatzes. Es kann sich dabei um eine direkte standardsprachliche Übersetzung, eine standardsprachliche Periphrase oder um einen metasprachlichen Kommentar handeln."
+  Belegsatz_1: "Dieser Eintrag gibt einen Belegsatz, eine Redewendung oder eine Paraphrase wider, um die Bedeutung des Belegs exemplarisch darzustellen bzw. näher zu kontextualisieren. Der Belegsatz ist in der Regel im Dialekt angegeben und in der Lautschrift Teuthonista verschriftlicht."
+  Belegsatz_2: Belegsatz 2 weist dieselbe Funktionalität auf wie Belegsatz 1.
+  Sammlung: Eine Sammlung bündelt einzelne Einträge nach lexikographisch sinnvollen Gesichtspunkten. Alle Einträge der Sammlung teilen diese Gesichtspunkte.
+  Lautung_1: "Die angegebene Information umfasst die lautliche Transkription des vorliegenden Belegs. Die Transkription wurde auf der Grundlage eines Lautschriftsystems notiert, das jenem der Teuthonista gleicht oder zumindest ähnelt. Da die Datengrundlage des WBÖ auf unterschiedlichsten Quellen basiert und die Erhebungen der Fragebögen häufig von Laien-Sammlerinnen und -sammlern durchgeführt wurden, können sich Uneinheitlichkeiten bei der Transkription ergeben."
+  Lautung_2: Lautung 2 weist dieselbe Funktionalität auf wie Lautung 1.
+  Anmerkung: Zusätzliche Anmerkung über den Beleg.
+  Diverses: Zusätzliche undefinierte Anmerkung über den Beleg.
+  Substantiv: Dieser Beleg zählt zur Wortart Substantiv.
+  Verb: Dieser Beleg zählt zur Wortart Verb.
+  Adjektiv: Dieser Beleg zählt zur Wortart Adjektiv.
+  Adverb: Dieser Beleg zählt zur Wortart Adverb.
+  Praeposition: Dieser Beleg zählt zur Wortart Präposition.
+  Konjunktion: Dieser Beleg zählt zur Wortart Konjunktion.
+  Pronomen: Dieser Beleg zählt zur Wortart Pronomen.
+  Interjektion: Dieser Beleg zählt zur Wortart Interjektion.
+  Partikel: Dieser Beleg zählt zur Wortart Partikel.
+  Geschlecht: "Das grammatische Geschlecht eines Wortes wird in der Fachsprache als Genus bezeichnet. Im Deutschen gibt es drei Genera: Maskulinum (männlich), Femininum (weiblich) und Neutrum (sächlich). Das Genus eines Substantivs wird oft durch den Artikel (der, die, das) angezeigt."
+  Bedeutung: "Semantik, auch Bedeutungslehre genannt, ist die wissenschaftliche Beschäftigung mit Bedeutung und mit den verschiedenen Beziehungen zwischen einem Zeichen und dem Bezeichneten. In den Wörterbuchartikeln gehört die Angabe der Bedeutung bzw. Bedeutungen eines Wortes zu den zentralen Inhalten."
+  Belegsatz: "Ein Belegsatz1 oder Belegsatz2  wird verwendet, um die Bedeutung des Beleg in Form eines Satzes exemplarisch zu verdeutlichen. In den Daten wird statt der Bezeichnung \"Beispielsatz\" auch die Bezeichnung \"Belegsatz\" verwendet."
+  Wortvarianten: Unterschiedliche Varianten eines Wortes.
+  Woerterbuchartikel: "Eine strukturierte Beschreibung eines Lemmas, die Angaben zu Bedeutung (bzw. Bedeutungen), Aussprache, Grammatik, Verbreitung, Etymologie sowie ggfs. Wortbildungen und Redewendungen enthält."
+  Quelle_Datenbank: "Es handelt sich hierbei um eine formalisierte Angabe der geographischen Zuordnung des Belegs. Diese Besteht aus einer Sigle sowie einer in Abkürzungen formulierten und ggfs. hierarchisch (Gemeinde, Kleinregion, Großregion, Bundesland) gegliederten Verschriftlichung der geographischen Zuordnung."
+  CollectionCat: "Die CollectionCat (Abkürzung für Collection Categorizer) ist eine Software-Applikation, die zum Kategorisieren und Zusammenfassen von Belegen im Rahmen der lexikographischen Arbeit genutzt wird."
+  Simplex: "Ein Simplex ist ein einfaches Wort oder Lexem, das weder abgeleitet noch zusammengesetzt ist."
+  Kompositum: Ein Kompositum ist ein aus bereits vorhandenen Wörtern zusammengesetztes komplexes Wort. Der zugrunde liegende Wortbildungsprozess wird Komposition genannt.
+  Derivation: "Eine Derivation ist das Ergebnis eines Wortbildungsprozesses, bei dem durch Anhängen eines Affixes (Präfix, Suffix oder Zirkumfix) aus einem Wort ein neues Wort gebildet wird."
+  Grossregion: "Das Bearbeitungsgebiet (Großregion1 und Großregion2) des WBÖ ist regional untergliedert. Jeder regionalen Einheit ist eine eindeutige Sigle zugeordnet. Die größte regionale Einheit stellt dabei das \"Bundesland\" dar, welches folgendermaßen unterteilt ist: Südtirol (Sigle 1A), Osttirol (Sigle 1B), Nordtirol (Sigle 1C), Kärnten (Sigle 2), Steiermark (Sigle 3), Salzburg (Sigle 4), Oberösterreich (Sigle 5), Niederösterreich (Sigle 6), Wien (Sigle 6.5) sowie Burgenland (Sigle 7). \nDie zweitgrößte regionale Einheit ist die \"Großregion\", welche die Bundesländer in weitere Teilbereiche untergliedert. \nDie drittgrößte regionale Einheit ist die \"Kleinregion\", welche die Großregionen in weitere Teilbereiche untergliedert.\nDie viertgrößte regionale Einheit ist die \"Gemeinde\", welche die Kleinregionen in weitere Teilbereiche untergliedert."
+  Herkunftsort: "Geographische Lokation, aus der ein Beleg stammt. Die Angabe erfolgt auf der jeweils spezifischsten verfügbaren Ebene: Ist eine Gemeinde bekannt, wird diese angegeben; andernfalls eine Kleinregion, eine Großregion oder - als letzte Möglichkeit - das Bundesland."
+Belege[57]{ID,Fragebogennummer,Lemma,POS,Bedeutung_des_Belegsatzes,Bedeutung_der_Lautung,Belegsatz1,Belegsatz2,Lautung1,Lautung2,"Großregion",Herkunftsort,Diverses,Anmerkung}:
+  k485_qdb-d1e19296,"",kitzen;,Verb;,"","","Dort ob'n auf dar Alm, Hat a Gamsgoas kitzt [P2]   , Mein Deandl han i g'holf'n, Dass di Wangla ham g'schwizt;Dort obn auf dar Alm, Hat a Gamsgoas kitzt P2 , Mein Deandl han i gholfn, Dass di Wangla ham gschwizt;","","","",3.2 mbair.ObStmk.;3.5 OStmk.;3.1 sbair.ObStmk.;3.1 sbair.ObStmk.;,"","",""
+  k485_qdb-d1e17901,84;,kitzen;,Verb;,"",Werfen der Ziegen;,"","","","",1C.2 mNTir.;,1C.2a19 Schwaz;,"",""
+  k485_qdb-d1e18263,70N7;,kitzen;,Verb;,"","kitzen = Junge werfenANMO: von der Ziege;","","","","",1C.2 mNTir.;,1C.2a29 Weer;,"",""
+  k485_qdb-d1e18864,"",kitzen;,Verb;,"",Kitze gebären;Kitze gebären;,"","","","","","","",""
+  k485_qdb-d1e18002,"",kitzen;,Verb;,"","\"kitzen\";kitzen;","","","","",1C.1 wNTir.;,1C.1m10 Serfaus;,"",""
+  k485_qdb-d1e18054,"",kitzen;,Verb;,"","geworfen, geboren;","","","","","","","",""
+  k485_qdb-d1e18100,70N7 (korr.);,kitzen;,Verb;,"","","dö Gåas hǫd kitzt [P2];dö Gaas hod kitzt P2;","","","",1C.3 öNTir.;,1C.3e06 Kufstein;,"",""
+  k485_qdb-d1e18646,58J8;,kitzen;,Verb;,"","kitzenANMO: von Hausziegen und Rehgaißen gesagt;kitzen ANM O: von Hausziegen und Rehgaißen gesagt;","","","","",2.2 MKtn.;2.2 MKtn.;2.2 MKtn.;2.2 MKtn.;,"","",""
+  k485_qdb-d1e18678,"",kitzen;,Verb;,"","Junge werfenANMO: von der Ziege;","","","","",3.2 mbair.ObStmk.;,3.2f02 Kapfenberg;,"",""
+  k485_qdb-d1e17973,"",kitzen;,Verb;,Kitzt sie?;,"",tuət si kχitsɒ?;tuet si kchitsa?;,"","","",1C.1 wNTir.;,1C.1m10 Serfaus;,"",""
+  k485_qdb-d1e18075,70N7 (korr.);,kitzen;,Verb;,"",Junge werfen;,"","","","",1C.3 öNTir.;,1C.3e06 Kufstein;,"",""
+  k485_qdb-d1e18125,70N7;,kitzen;,Verb;,"",Junge werfen;,"","","","",1C.1 wNTir.;,1C.1r01 Sölden;,"",""
+  k485_qdb-d1e18176,70N7;,kitzen;,Verb;,"",kitzen;,"","","","",3.1 sbair.ObStmk.;,3.1d03 Lobmingtal;,"",""
+  k485_qdb-d1e18233,70N7;,kitzen;,Verb;,"",werfen;,"","","","",1C.3 öNTir.;,1C.3f02 Hopfgarten im Brixental;,"",""
+  k485_qdb-d1e18361,70N7 (korr.);,kitzen;,Verb;,"","","","","","",1C.3 öNTir.;,1C.3b03 Thiersee;,"",""
+  k485_qdb-d1e18384,70N7;,kitzen;,Verb;,die Gaiß wirft Junge;,"","die Goaß kitzt [sg3];die Goaß kitzt sg3;","","","",3.1 sbair.ObStmk.;,3.1a05 Stadl-Predlitz;,"",""
+  k485_qdb-d1e18411,70N7;,kitzen;,Verb;,die Ziege hat gekitzt;,"","dö Go͜aß håt gakizt [P2];dö Goaß hat gakizt P2;","","","",2.2 MKtn.;2.2 MKtn.;2.2 MKtn.;2.2 MKtn.;,"","",""
+  k485_qdb-d1e18490,"",kitzen;,Verb;,"","\"kitzen\", ein Kitz gebären;kitzen, ein Kitz gebären;","","","","",3.2 mbair.ObStmk.;,3.2j08 Ramsau am Dachstein;,"",""
+  k485_qdb-d1e18515,"",kitzen;,Verb;,"",kitzen;,"","","","","","","",""
+  k485_qdb-d1e18614,58J8 (4);,kitzen;,Verb;,"","Kitze bringenANMO: Ziege;","","","","",1C.1 wNTir.;,1C.1m02 Fendels;,"",""
+  k485_qdb-d1e17926,"",kitzen;,Verb;,"","\"kitzen\" = junge Ziegen zur Welt bringen;kitzen = junge Ziegen zur Welt bringen;","","","","","","","",""
+  k485_qdb-d1e18206,70N7;,kitzen;,Verb;,"","","","","","",4.2 Pinzg.;,4.2c01 Fusch an der Großglocknerstraße;,"",""
+  k485_qdb-d1e18290,70N7;,kitzen;,Verb;,"","","","","","",4.3 Pong.;,"","",""
+  k485_qdb-d1e18313,70N7;,kitzen;,Verb;,"",Junge werfen;,"","","","",1C.1 wNTir.;,1C.1m02 Fendels;,"",""
+  k485_qdb-d1e18566,"",kitzen;,Verb;,"",ein Kitz zur Welt bringen;,"","","","",4.2 Pinzg.;,4.2a06 Niedernsill;,"",""
+  k485_qdb-d1e18589,58J8;,kitzen;,Verb;,"","","","","","",4.2 Pinzg.;,4.2c01 Fusch an der Großglocknerstraße;,"",""
+  k485_qdb-d1e18730,"",kitzen;,Verb;,"",junge Ziegen zur Welt bringen;,"","","","",4.2 Pinzg.;,4.2a09 Uttendorf;,"",""
+  k485_qdb-d1e18754,"",kitzen;,Verb;,"",kitzen;,"","","","",3.5 OStmk.;,3.5h17 St. Johann in der Haide;,"",""
+  k485_qdb-d1e18777,25N1c;,kitzen;,Verb;,"orig: die Geiß (Ziege) hat gekitzt;translated: Junge geworfen;","","dö Goaß håt gₑkizt [P2];dö Goaß hat gekizt P2;","","","",2.2 MKtn.;,2.3b05 Straßburg;,"",". die jungen Geißlein heißen im Volksmunde nicht Zicklein, sondern Kizlᵃn;ANM . die jungen Geißlein heißen im Volksmunde nicht Zicklein, sondern Kizlan;"
+  k485_qdb-d1e18887,"",kitzen;,Verb;,"","sich mutwillig, kindisch benehmen;","","","","",1A.1 wSTir.;1A.1 wSTir.;,"","",""
+  k485_qdb-d1e18912,58J8;,kitzen;,Verb;,"","","","","","",1C.3 öNTir.;,1C.3b03 Thiersee;,"",""
+  k485_qdb-d1e18937,58J8;,kitzen;,Verb;,"","kitzen = gebären der Gemsen, Rehe u.dgl.;kitzen = gebären der Gemsen, Rehe u.dgl.;","","","","",1C.3 öNTir.;,1C.3e06 Kufstein;,"",""
+  k485_qdb-d1e89421,70N7;,kitzen;,Verb;,"",werfen;,"","","","",1C.3 öNTir.;,1C.3i05 St. Johann in Tirol;,"",""
+  k485_qdb-d1e17854,"",kitzen;,Verb;,"","Junge werfenANMO: nur von Ziegen, Gemsen und Rehen;","","","","","","","",""
+  k485_qdb-d1e18707,"",kitzen;,Verb;,"","","Die Salbn is guat nützn, Wann a galte Hetl hart tuat kitzn;Die Salbn is guat nützn, Wann a galte Hetl hart tuat kitzn;","","","","","","",""
+  k485_qdb-d1e17732,70N7;,kitzeln;,Verb;,"","","hǫt kχitsl̥t [P2];hot kchitslt P2;","","","",1C.1 wNTir.;,1C.1n01 Imst;,"",""
+  k485_qdb-d1e10700,"",kitzeln;,Verb;,"",Kitze gebären;Kitze gebären;,"","","","","","","",""
+  k485_qdb-d1e86826,"",kitzeln;,Verb;,"",Kitze zur Welt bringen;,"","","","",5.4 Mühlv.;,5.4b13 Ulrichsberg;,"",""
+  k485_qdb-d1e8607,"","kitzeln:6  kopiert;","","",Kitz werfen;,"","","","",5.1 Innv.;,5.1c07 Mühlheim am Inn;,"",""
+  k485_qdb-d1e9140,"",kitzeln;,Verb;,Sie gebiert;,"","d' Goas kitzəlt [sg3];d Goas kitzelt sg3;","","","","","","",""
+  k485_qdb-d1e10831,"",kitzeln;,Verb;,"","Junge werfenANMO: von der Ziege;","","","","",5.2 Hausrv.;,5.2b46 Weibern;,"",""
+  k485_qdb-d1e10087,"",kitzeln;,Verb;,"","ein Kitz werfenANMO: Ziege;","","","","",5.1 Innv.;,5.1c07 Mühlheim am Inn;,"",""
+  k485_qdb-d1e17535,70N7;,kitzeln;,Verb;,"","","","","","",5.1 Innv.;,5.1c07 Mühlheim am Inn;,"",""
+  k485_qdb-d1e17618,70N7;,kitzeln;,Verb;,"",Junge werfen;,"","","","",1C.3 öNTir.;,1C.3e12 Schwoich;,"",""
+  k485_qdb-d1e17696,70N7;,kitzeln;,Verb;,"","kitzelnANMO: Gaiß;kitzeln ANM O: Gaiß;kitzelnANMO: jemand;","","","","",5.1 Innv.;,"","",""
+  k485_qdb-d1e17785,"",kitzeln;,Verb;,"",Werfen b.d.Ziege;,"","","","",4.2 Pinzg.;,4.2c01 Fusch an der Großglocknerstraße;,"",""
+  k485_qdb-d1e17558,70N7;,kitzeln;,Verb;,"","","håd khitzlt [P2];had khitzlt P2;","","","",5.3 Traunv.;,5.3b02 Gmunden;,"",""
+  f289_qdb-d1e33531,"",kitzeln;,Verb;,"","","g gǫəs kitslt [sg3];g goes kitslt sg3;","","","",5.1 Innv.;,5.1a02 Eggelsberg;,"",""
+  k485_qdb-d1e84657,"",kitzeln;,Verb;,"","ein \"kxitß \" gebären;ein kchitß  gebären;","","","","",4.3 Pong.;,4.3d01 Hüttschlag;,"",""
+  k485_qdb-d1e10116,"",kitzeln;,Verb;,"",ein Kitz werfen;,"","","","",5.1 Innv.;,5.1a02 Eggelsberg;,"",""
+  k485_qdb-d1e70924,"",kitzeln;,Verb;,"","","Die Ziegen khįtßɫnd [pl3]   nach einer Trächtigkeitsperiode von 21 Wochen und 3 Tagen;Die Ziegen khitßlnd pl3 nach einer Trächtigkeitsperiode von 21 Wochen und 3 Tagen;","","","",5.2 Hausrv.;,"","",""
+  k485_qdb-d1e17508,"",kitzeln;,Verb;,"",junge Ziegen zur Welt bringen;,"","","","",6.1 Mostv.;,6.1d01 Allhartsberg;,"",""
+  k485_qdb-d1e85306,"",kitzeln;,Verb;,"","\"Gebären der Ziege\";Gebären der Ziege;","","","","",5.1 Innv.;,5.1f08 Kopfing im Innkreis;,"",""
+  k485_qdb-d1e82808,"",kitzeln;,Verb;,"","kitzen, junge Ziegen zur Welt bringen;","","","","",5.3 Traunv.;,5.3n04 Molln;,"",""
+  k485_qdb-d1e17593,70N7;,kitzeln;,Verb;,"","kitzeln, Junge werfen;","","","","",6.1 Mostv.;,6.1f05 Purgstall an der Erlauf;,"",""
+  k485_qdb-d1e85329,"",kitzeln;,Verb;,"","\"ein Kitz zur Welt bringen\";ein Kitz zur Welt bringen;","","","","","","","",""
+  k485_qdb-d1e85582,"",kitzeln;,Verb;,"","Junge werfenANMO: von der Ziege;","","","","","","","",""

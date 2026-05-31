@@ -1,0 +1,278 @@
+{
+  "Lemma": "Kropf",
+  "POS": "Substantiv",
+  "Genus": "Maskulinum",
+  "Form": {
+    "form": "Kröpfel, Kröpferl, Kröpfelein",
+    "typ": "Diminutive",
+    "genus": "Neutrum"
+  },
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "Verdickung des Halses durch Vergrößerung der Schilddrüse bei Menschen; Struma",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p2.1 ObKtn.",
+        "p2.2 MKtn.",
+        "p3 Stmk.",
+        "p4 Sbg.",
+        "p5 OÖ",
+        "p6 NÖ",
+        "p6.5 Wien",
+        "p7 Bgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "in Dirōī in Zīladåi, då håms so grosse grępf, dö hengans iwa d' ɒ̊ksln, åis wia dö Müina d' Sęk",
+          "Herkunftsort": "Werfen"
+        },
+        {
+          "Belegsatz": "Mei Diᵃrnle is saubr fon Fuᵃß bis zan Kopf; am Håls håz a Pinkele, dås nent ma an Kropf",
+          "Herkunftsort": "Straßburg"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Verdickung des Halses bei (Wild-)Tieren",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1C.1 wNTir.",
+        "p1C.3 öNTir.",
+        "p3.1 sbair.ObStmk.",
+        "p5.3 Traunv.",
+        "p6.1 Mostv.",
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Verdickung des Halses bei Vögeln",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1C.1 wNTir.",
+        "p2.2 MKtn.",
+        "p3.1 sbair.ObStmk.",
+        "p5.3 Traunv.",
+        "p6.3 Waldv.",
+        "p6.4 Weinv.",
+        "p6.5 Wien",
+        "p7.1 NBgl.",
+        "p7.2 MBgl."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Adamsapfel",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p6.3 Waldv.",
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Schilddrüse",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1B.0 OTir.",
+        "p5.1 Innv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Halsdrüse",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p5.1 Innv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Thymusdrüse; Bries",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p5.1 Innv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Hautunebenheit",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p3.2 mbair.ObStmk.",
+        "p6.2 Industriev."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "vull Kröⁱpf und vull Tādderl",
+          "Herkunftsort": "Eisenerz"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Auswuchs an Tieren",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Auswuchs an Pflanzen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p4.2 Pinzg.",
+        "p5.1 Innv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "wąn pflantzln Eŋ grobf hąmd, węənd lautə nǫəʳn",
+          "Herkunftsort": "Mühlheim am Inn"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Auswuchs an Bäumen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p1A.4 öSTir.",
+        "p1C.3 öNTir.",
+        "p2.2 MKtn.",
+        "p3.5 OStmk.",
+        "p5.3 Traunv.",
+        "p5.4 Mühlv.",
+        "p6.1 Mostv.",
+        "p6.3 Waldv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "da Bam is voulli Kröipf und Düwln",
+          "Herkunftsort": "Königswiesen"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Beule am Brot",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p1C.2 mNTir.",
+        "p3.2 mbair.ObStmk.",
+        "p5.3 Traunv.",
+        "p6.1 Mostv.",
+        "p6.2 Industriev.",
+        "p6.5 Wien",
+        "p7.3 SBgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "net schlecht der Loarb hout goar an Kropf kriargt",
+          "Herkunftsort": "Pyhra"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "vorstehender Teil einer schlecht geladenen Heufuhre",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 3",
+      "Regionen": [
+        "p2.2 MKtn."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Teil des Schuhs",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 3",
+      "Regionen": [
+        "p1C.3 öNTir."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Schneiᵈn mar an Krobf awekh kriagt da Schuech an schean Flekh",
+          "Herkunftsort": "Hopfgarten im Brixental"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "verdickte Stelle im Faden",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 3",
+      "Regionen": [
+        "p6.1 Mostv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Leitungskanal (bei der Mühle)",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 3",
+      "Regionen": [
+        "p1A.4 öSTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Rückfallkuppe; kropfartige steile Wegstelle im Hang eines Berges",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 3",
+      "Regionen": [
+        "p1A.3 mSTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Gewöhnliche Pestwurz; Petasites hybridus",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 4",
+      "Regionen": [
+        "p1C.2 mNTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Hornklee; Trigonella corniculata",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 4",
+      "Regionen": [],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "untergewichtiges, sich langsam entwickelndes Ferkel; Ferkelkümmerer",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "weitere Bedeutung 5",
+      "Regionen": [
+        "p6.2 Industriev."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "abwertende Fremdbezeichnung für die Nachbarn der Luserner",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "weitere Bedeutung 6",
+      "Regionen": [
+        "p1A STir."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+    "Lemma": "Kitzenes",
+    "POS": "Subst.",
+    "Genus": "n",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Ziegenfleisch; Kitzfleisch",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "3.2 mbair.ObStmk.",
+                "2.1 ObKtn.",
+                "6.4 Weinv.",
+                "1C.3 öNTir.",
+                "5.3 Traunv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k485_qdb-d1e17833",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k485_qdb-d1e19063",
+                    "Belegsatz": "",
+                    "Herkunftsort": "3.2b05 Wald am Schoberpaß"
+                },
+                {
+                    "ID": "k485_qdb-d1e19549",
+                    "Belegsatz": "",
+                    "Herkunftsort": "2.1b04 Rangersdorf"
+                },
+                {
+                    "ID": "k485_qdb-d1e19621",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.4d18 Poysdorf"
+                },
+                {
+                    "ID": "k485_qdb-d1e19184",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.3e12 Schwoich"
+                },
+                {
+                    "ID": "k485_qdb-d1e19271",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.3n02 Hinterstoder"
+                }
+            ],
+            "Belege": [
+                "k485_qdb-d1e17833",
+                "k485_qdb-d1e19063",
+                "k485_qdb-d1e19549",
+                "k485_qdb-d1e19621",
+                "k485_qdb-d1e19184",
+                "k485_qdb-d1e19271"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Osterweihefleisch; Pfingstspeise",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.3 Traunv.",
+                "2.4 UKtn."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k485_qdb-d1e19345",
+                    "Belegsatz": "gebochns Kitzanas",
+                    "Herkunftsort": "2.4c01 Frantschach-St. Gertraud"
+                },
+                {
+                    "ID": "k485_qdb-d1e19404",
+                    "Belegsatz": "Auf ɔ̨stan kriagn ma a Kitzanas, da stech ma a Beckl a",
+                    "Herkunftsort": "6.4d18 Poysdorf"
+                }
+            ],
+            "Belege": [
+                "k485_qdb-d1e19345",
+                "k485_qdb-d1e19404"
+            ]
+        }
+    ]
+}

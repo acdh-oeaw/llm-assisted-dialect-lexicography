@@ -1,0 +1,76 @@
+Glossar:
+  Lemma: "'Lemma' beinhaltet sämtliche Einträge (inklusive Komposita und Wortbildungsvarianten), die einem bestimmten Lemma zugeordnet werden können. Zu diesem Zweck wurden alle Handzettel beziehungsweise die Einträge der Belegdatenbank lemmatisiert und nach historisch-etymologischen Gesichtspunkten - also linguistischen Prinzipien - einem Hauptlemma zugeordnet."
+  Fragebogennummer: "Auflistung von relevanten Fragebogennummern und Beschreibungen:\n* **86A3:** Gartenarbeit verrichten (gartnen, garteln)\n* **15E7 (F1):** Pregarten; Bed. (unverteilter Grund, Ziergarten)\n* **86A2:** Gärtner; Gartengehilfe\n"
+  Part_of_Speech: Diese Angabe benennt die Wortart des jeweiligen Belegs.
+  Bedeutung_der_Lautung: Diese Information beschreibt die Bedeutung der Lautungsangabe auf dem Beleg.
+  Bedeutung_des_Belegsatzes: "Diese Information beschreibt die Bedeutung des in Spalte \"Belegsatz 1\", \"Belegsatz 2\" etc. angegebenen Belegsatzes. Es kann sich dabei um eine direkte standardsprachliche Übersetzung, eine standardsprachliche Periphrase oder um einen metasprachlichen Kommentar handeln."
+  Belegsatz_1: "Dieser Eintrag gibt einen Belegsatz, eine Redewendung oder eine Paraphrase wider, um die Bedeutung des Belegs exemplarisch darzustellen bzw. näher zu kontextualisieren. Der Belegsatz ist in der Regel im Dialekt angegeben und in der Lautschrift Teuthonista verschriftlicht."
+  Belegsatz_2: Belegsatz 2 weist dieselbe Funktionalität auf wie Belegsatz 1.
+  Sammlung: Eine Sammlung bündelt einzelne Einträge nach lexikographisch sinnvollen Gesichtspunkten. Alle Einträge der Sammlung teilen diese Gesichtspunkte.
+  Lautung_1: "Die angegebene Information umfasst die lautliche Transkription des vorliegenden Belegs. Die Transkription wurde auf der Grundlage eines Lautschriftsystems notiert, das jenem der Teuthonista gleicht oder zumindest ähnelt. Da die Datengrundlage des WBÖ auf unterschiedlichsten Quellen basiert und die Erhebungen der Fragebögen häufig von Laien-Sammlerinnen und -sammlern durchgeführt wurden, können sich Uneinheitlichkeiten bei der Transkription ergeben."
+  Lautung_2: Lautung 2 weist dieselbe Funktionalität auf wie Lautung 1.
+  Anmerkung: Zusätzliche Anmerkung über den Beleg.
+  Diverses: Zusätzliche undefinierte Anmerkung über den Beleg.
+  Substantiv: Dieser Beleg zählt zur Wortart Substantiv.
+  Verb: Dieser Beleg zählt zur Wortart Verb.
+  Adjektiv: Dieser Beleg zählt zur Wortart Adjektiv.
+  Adverb: Dieser Beleg zählt zur Wortart Adverb.
+  Praeposition: Dieser Beleg zählt zur Wortart Präposition.
+  Konjunktion: Dieser Beleg zählt zur Wortart Konjunktion.
+  Pronomen: Dieser Beleg zählt zur Wortart Pronomen.
+  Interjektion: Dieser Beleg zählt zur Wortart Interjektion.
+  Partikel: Dieser Beleg zählt zur Wortart Partikel.
+  Geschlecht: "Das grammatische Geschlecht eines Wortes wird in der Fachsprache als Genus bezeichnet. Im Deutschen gibt es drei Genera: Maskulinum (männlich), Femininum (weiblich) und Neutrum (sächlich). Das Genus eines Substantivs wird oft durch den Artikel (der, die, das) angezeigt."
+  Bedeutung: "Semantik, auch Bedeutungslehre genannt, ist die wissenschaftliche Beschäftigung mit Bedeutung und mit den verschiedenen Beziehungen zwischen einem Zeichen und dem Bezeichneten. In den Wörterbuchartikeln gehört die Angabe der Bedeutung bzw. Bedeutungen eines Wortes zu den zentralen Inhalten."
+  Belegsatz: "Ein Belegsatz1 oder Belegsatz2  wird verwendet, um die Bedeutung des Beleg in Form eines Satzes exemplarisch zu verdeutlichen. In den Daten wird statt der Bezeichnung \"Beispielsatz\" auch die Bezeichnung \"Belegsatz\" verwendet."
+  Wortvarianten: Unterschiedliche Varianten eines Wortes.
+  Woerterbuchartikel: "Eine strukturierte Beschreibung eines Lemmas, die Angaben zu Bedeutung (bzw. Bedeutungen), Aussprache, Grammatik, Verbreitung, Etymologie sowie ggfs. Wortbildungen und Redewendungen enthält."
+  Quelle_Datenbank: "Es handelt sich hierbei um eine formalisierte Angabe der geographischen Zuordnung des Belegs. Diese Besteht aus einer Sigle sowie einer in Abkürzungen formulierten und ggfs. hierarchisch (Gemeinde, Kleinregion, Großregion, Bundesland) gegliederten Verschriftlichung der geographischen Zuordnung."
+  CollectionCat: "Die CollectionCat (Abkürzung für Collection Categorizer) ist eine Software-Applikation, die zum Kategorisieren und Zusammenfassen von Belegen im Rahmen der lexikographischen Arbeit genutzt wird."
+  Simplex: "Ein Simplex ist ein einfaches Wort oder Lexem, das weder abgeleitet noch zusammengesetzt ist."
+  Kompositum: Ein Kompositum ist ein aus bereits vorhandenen Wörtern zusammengesetztes komplexes Wort. Der zugrunde liegende Wortbildungsprozess wird Komposition genannt.
+  Derivation: "Eine Derivation ist das Ergebnis eines Wortbildungsprozesses, bei dem durch Anhängen eines Affixes (Präfix, Suffix oder Zirkumfix) aus einem Wort ein neues Wort gebildet wird."
+  Grossregion: "Das Bearbeitungsgebiet (Großregion1 und Großregion2) des WBÖ ist regional untergliedert. Jeder regionalen Einheit ist eine eindeutige Sigle zugeordnet. Die größte regionale Einheit stellt dabei das \"Bundesland\" dar, welches folgendermaßen unterteilt ist: Südtirol (Sigle 1A), Osttirol (Sigle 1B), Nordtirol (Sigle 1C), Kärnten (Sigle 2), Steiermark (Sigle 3), Salzburg (Sigle 4), Oberösterreich (Sigle 5), Niederösterreich (Sigle 6), Wien (Sigle 6.5) sowie Burgenland (Sigle 7). \nDie zweitgrößte regionale Einheit ist die \"Großregion\", welche die Bundesländer in weitere Teilbereiche untergliedert. \nDie drittgrößte regionale Einheit ist die \"Kleinregion\", welche die Großregionen in weitere Teilbereiche untergliedert.\nDie viertgrößte regionale Einheit ist die \"Gemeinde\", welche die Kleinregionen in weitere Teilbereiche untergliedert."
+  Herkunftsort: "Geographische Lokation, aus der ein Beleg stammt. Die Angabe erfolgt auf der jeweils spezifischsten verfügbaren Ebene: Ist eine Gemeinde bekannt, wird diese angegeben; andernfalls eine Kleinregion, eine Großregion oder - als letzte Möglichkeit - das Bundesland."
+Belege[41]{ID,Fragebogennummer,Lemma,POS,Bedeutung_des_Belegsatzes,Bedeutung_der_Lautung,Belegsatz1,Belegsatz2,Lautung1,Lautung2,"Großregion",Herkunftsort,Diverses,Anmerkung}:
+  g304_qdb-d1e13531,86A3;,gärteln;gärteln;,Verb;,ER beschäftigt sich mit Gartenarbeiten;,"","er tuet gern gartln [I];er tuet gern gartln I;","","","",4.5 Flachg.;,4.5d05 St. Gilgen;,"",""
+  g304_qdb-d1e13579,86A3;,gärteln;gärteln;,Verb;,"",Gartenarbeit verrichten;,"","","","",5.3 Traunv.;,5.3o04 Losenstein;,"",""
+  g304_qdb-d1e13625,86A3;,gärteln;gärteln;,Verb;,"","","","","","",5.4 Mühlv.;,5.4c04 Gramastetten;,"",""
+  g304_qdb-d1e13384,86A3;,gärteln;gärteln;,Verb;,"",gärteln = im Frühjahr den Gemüsegarten umstechen;gärteln = im Frühjahr den Gemüsegarten umstechen;,"","","","",1A.4 öSTir.;,1A.4c01 Lüsen;,"",""
+  g304_qdb-d1e13458,86A3;,gärteln;gärteln;,Verb;,"",IM Garten arbeiten;,"","","","",5.3 Traunv.;,5.3o04 Losenstein;,"",""
+  g304_qdb-d1e13556,86A3;,gärteln;gärteln;,Verb;,"",Gartenarbeiten verrichten;,"","","","",5.2 Hausrv.;,5.2e01 Linz;,"",""
+  g304_qdb-d1e13646,86A3;,gärteln;gärteln;,Verb;,"",(leichte) Arbeit im Zier- oder Genüsegarten tun;leichte Arbeit im Zier oder Genüsegarten tun;,"","","","",5.1 Innv.;,5.1c07 Mühlheim am Inn;,"",""
+  g304_qdb-d1e13750,86A3;,gärteln;gärteln;,Verb;,"","","","","","",4.2 Pinzg.;,4.2c01 Fusch an der Großglocknerstraße;,"",""
+  g304_qdb-d1e15174,86A3;,gärteln;gärteln;,Verb;,"",garteln;,"","","","",5.2 Hausrv.;,5.2a09 Grieskirchen;,"",""
+  g304_qdb-d1e13269,86A3;,gärteln;gärteln;,Verb;,"",Gartenarbeit verrichten;,"","","","",5.4 Mühlv.;,5.4h06 Pabneukirchen;,"",""
+  g304_qdb-d1e13435,86A3;,gärteln;gärteln;,Verb;,"",garteln;,"","","","",1C.2 mNTir.;,1C.2a19 Schwaz;,"",""
+  g304_qdb-d1e13602,86A3;,gärteln;gärteln;,Verb;,"",garteln;,"","","","",6.1 Mostv.;,6.1n02 Dunkelsteinerwald;,"",""
+  g304_qdb-d1e13727,86A3;,gärteln;gärteln;,Verb;,"",den Gemüsegarten bestellen;den Gemüsegarten bestellen;,"","","","",1C.3 öNTir.;,1C.3b03 Thiersee;,"",""
+  g304_qdb-d1e13951,86A3;,gärteln;gärteln;,Verb;,"",gärteln = im Frühjahr den Garten umstechen;gärteln = im Frühjahr den Garten umstechen;,"","","","",1C.2 mNTir.;,1C.2a29 Weer;,"",""
+  g304_qdb-d1e64577,86A3;,gärteln;gärteln;,Verb;,"",Gartenarbeiten verrichten;,"","","","",1C.1 wNTir.;,1C.1m02 Fendels;,"",""
+  g304_qdb-d1e12932,"",gärteln;gärteln;,Verb;,"",den Garten umstechen;,"","","","",1A.2 mSTir.;,1A.3b01 Sarntal;,"",""
+  g304_qdb-d1e13245,"",gärteln;gärteln;,Verb;,"",Garten bestellen; Erdreich umstechen;Garten bestellen Erdreich umstechen;,"","","","","","","",""
+  g304_qdb-d1e13771,"",gärteln;gärteln;,Verb;,"",im Garten arbeiten;,"","","","",2.2 MKtn.;,"","",""
+  g304_qdb-d1e13926,"",gärteln;gärteln;,Verb;,"",den Garten umstechen;,"","","","",1C.2 mNTir.;1C.2 mNTir.;1C.2 mNTir.;1C.2 mNTir.;1C.2 mNTir.;1C.2 mNTir.;1C.2 mNTir.;1C.2 mNTir.;1C.2 mNTir.;,"","",""
+  g304_qdb-d1e12962,"",gärteln;gärteln;,Verb;,"",gärteln = den Garten bestellen; das Erdreich umstechen;gärteln = den Garten bestellen das Erdreich umstechen;,"","","","",2.2 MKtn.;,2.2i07 Villach;,"",""
+  g304_qdb-d1e13097,"",gärteln;gärteln;,Verb;,"",im Garten arbeiten;,"","","","",5.4 Mühlv.;,"","",""
+  g304_qdb-d1e13151,"",gärteln;gärteln;,Verb;,"",im Garten arbeiten;,"","","","",1C.2 mNTir.;,1C.2m01 Innsbruck;,"",""
+  g304_qdb-d1e13880,"",gärteln;gärteln;,Verb;,"",Gartenarbeit verrichten;,"","","","",5.4 Mühlv.;,5.4e04 Gallneukirchen;,"",""
+  g304_qdb-d1e13903,15E7 (F1);,gärteln;gärteln;,Verb;,"",Im Gemüsegarten arbeiten;Im Gemüsegarten arbeiten;,"","","","",5.2 Hausrv.;,5.2a17 Kirchberg-Thening;,"",""
+  g304_qdb-d1e12983,"",gärteln;gärteln;,Verb;,"",kleine Gartenarbeit verrichten;,"","","","","","","",""
+  g304_qdb-d1e13030,"",gärteln;gärteln;,Verb;,"","den Garten anpflanzen;Salat ansäenANMO: bes. für ..;Salat ansäen ANM O: bes. für ..;","","","","",1A.1 wSTir.;,1A.1n02 Proveis;,"",""
+  g304_qdb-d1e13118,"",gärteln;gärteln;,Verb;,"",den Garten umstechen;,"","","","",1B.0 OTir.;,1B.0a05 Sillian;,"",""
+  g304_qdb-d1e13846,"",gärteln;gärteln;,Verb;,"",gärteln = den Garten umarbeiten;gärteln = den Garten umarbeiten;,"da Gartla gartlt [sg3];da Gartla gartlt sg3;","","","",2.2 MKtn.;,2.2c03 Trebesing;,"",""
+  g304_qdb-d1e13999,"",gärteln;gärteln;,Verb;,"",Gartenarbeit verrichten;,"","","","","","","",""
+  g304_qdb-d1e13697,"",gärteln;gärteln;,Verb;,"","","Gegart'lt [P2]   ist's, d'rum måcht's miar fein / In Gårt'nböt kåa Loch;Gegartlt P2 ists, drum machts miar fein / In Gartnböt kaa Loch;","","","",1A.2 mSTir.;,1A.2a02 Bozen;,"",""
+  g304_qdb-d1e13974,"",gärteln;gärteln;,Verb;,"",garteln = den Garten im Frühjahr herrichten;garteln = den Garten im Frühjahr herrichten;,"","","","",1C.2 mNTir.;,1C.2a19 Schwaz;,"",""
+  g304_qdb-d1e13076,"",gärteln;gärteln;,Verb;,"",Gartenerde aufgelockert; Gartenbeete fertig gestellt;Gartenerde aufgelockert Gartenbeete fertig gestellt;,"","","","","","","",""
+  g304_qdb-d1e13797,"",gärteln;gärteln;,Verb;,"",den Hausgarten pflegen;,"","","","","","","",""
+  g304_qdb-d1e13176,"",gärteln;gärteln;,Verb;,"",den Garten bestellen;,"","","","","","","",""
+  g304_qdb-d1e13199,"",gärteln;gärteln;,Verb;,"",Gartenarbeit verrichten;,"","","","",1C.3 öNTir.;1C.3 öNTir.;,"","",""
+  g304_qdb-d1e13222,"",gärteln;gärteln;,Verb;,"",Gartenarbeit verrichten;,"","","","",1C.3 öNTir.;1C.3 öNTir.;,"","",""
+  g304_qdb-d1e13055,86A2;,gärteln;gärteln;,Verb;,"","","","","","",5.2 Hausrv.;,5.2a39 Traun;,"",""
+  g304_qdb-d1e13292,86A3;,gärteln;gärteln;,Verb;,"","","","","","",5.3 Traunv.;,5.3b02 Gmunden;,"",""
+  g304_qdb-d1e13342,86A3;,gärteln;gärteln;,Verb;,"","","","","","",2.1 ObKtn.;,2.1b04 Rangersdorf;,"",""
+  g304_qdb-d1e13363,86A3;,gärteln;gärteln;,Verb;,"","","","","","",1C.3 öNTir.;,1C.3e06 Kufstein;,"",""
+  g304_qdb-d1e13481,86A3;,gärteln;gärteln;,Verb;,"",gartnen; garteln;gartnen garteln;,"","","","",6.1 Mostv.;,6.1f05 Purgstall an der Erlauf;,"",""

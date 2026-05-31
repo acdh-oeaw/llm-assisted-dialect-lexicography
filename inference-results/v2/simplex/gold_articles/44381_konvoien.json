@@ -1,0 +1,70 @@
+{
+  "Lemma": "konvoien konvoinen konvoiern",
+  "POS": "Verb",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "begleiten",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p2.1 ObKtn.",
+        "p2.2 MKtn."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "ohne Sinn und Zweck dahin und dorthin schicken",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p5.1 Innv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "verjagen; (prügeln und) fortjagen",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p2.1 ObKtn.",
+        "p2.2 MKtn."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "prügeln; kräftig verprügeln; (heftig) schlagen; züchtigen",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p3.4 MStmk.",
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "o͜an kumfoia",
+          "Herkunftsort": "Retz"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "strafen",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "î wear enk schon kumfoidn",
+          "Herkunftsort": "Kastelruth"
+        }
+      ]
+    }
+  ]
+}

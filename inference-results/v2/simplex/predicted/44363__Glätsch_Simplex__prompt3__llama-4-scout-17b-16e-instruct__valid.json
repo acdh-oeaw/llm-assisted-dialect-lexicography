@@ -1,0 +1,159 @@
+{
+    "Lemma": "Gelätsch",
+    "POS": "Subst.",
+    "Genus": "n.",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "aufgeweichte Wege oder Straßen durch Schmelzwasser und Pfützen",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.1 wNTir.",
+                "1A.2 mSTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g330_qdb-d1e259",
+                    "Belegsatz": "s Glatsch [n]   våar Weinacht",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "g330_qdb-d1e207",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g330_qdb-d1e259",
+                "g330_qdb-d1e207"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Matsch oder Regenpfützen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.1 wNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g330_qdb-d1e290",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.1m04 Fließ"
+                }
+            ],
+            "Belege": [
+                "g330_qdb-d1e290"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Schnee und Kot auf der Straße",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.2 mNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g330_qdb-d1e328",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g330_qdb-d1e328"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Baum mit angehackter Rinde als Markzeichen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.1 wNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g330_qdb-d1e353",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g330_qdb-d1e353"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Zeichen am Markbaum im Walde",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.1 wNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g330_qdb-d1e97",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.1n01 Imst"
+                }
+            ],
+            "Belege": [
+                "g330_qdb-d1e97"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "nasser Schneematsch",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "4.3 Pong."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g330_qdb-d1e376",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g330_qdb-d1e376"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Schneematsch",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "4.1 Lung."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g330_qdb-d1e464",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g330_qdb-d1e464"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "weicher, zerrinnender Schnee",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                ""
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g330_qdb-d1e487",
+                    "Belegsatz": "",
+                    "Herkunftsort": "s.d."
+                }
+            ],
+            "Belege": [
+                "g330_qdb-d1e487"
+            ]
+        }
+    ]
+}

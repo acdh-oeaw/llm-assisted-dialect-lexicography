@@ -1,0 +1,88 @@
+{
+    "Lemma": "keichen",
+    "POS": "Verb",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "schwer atmen; keuchen",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.3 öNTir.",
+                "2.2 MKtn.",
+                "5.4 Mühlv.",
+                "6.1 Mostv.",
+                "6.2 Industriev.",
+                "6.3 Waldv.",
+                "6.4 Weinv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k467_qdb-d1e27652",
+                    "Belegsatz": "schwer atmen mit Tönen (pfeifenden)",
+                    "Herkunftsort": "1C.3 öNTir."
+                },
+                {
+                    "ID": "k467_qdb-d1e27788",
+                    "Belegsatz": "keuchen",
+                    "Herkunftsort": "3.1 sbair.ObStmk."
+                }
+            ],
+            "Belege": [
+                "k467_qdb-d1e27652",
+                "k467_qdb-d1e27788"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "husten; keuchend husten",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "differenzierte Bedeutung",
+            "Regionen": [
+                "1C.2 mNTir.",
+                "1B.0 OTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k467_qdb-d1e27256",
+                    "Belegsatz": "stark husten",
+                    "Herkunftsort": "1B.0 OTir."
+                },
+                {
+                    "ID": "k467_qdb-d1e28092",
+                    "Belegsatz": "husten",
+                    "Herkunftsort": "1C.2 mNTir."
+                }
+            ],
+            "Belege": [
+                "k467_qdb-d1e27256",
+                "k467_qdb-d1e28092"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "weinen; heulen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "differenzierte Bedeutung",
+            "Regionen": [
+                "1A.2 mSTir.",
+                "7.1 NBgl."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k464_qdb-d1e329",
+                    "Belegsatz": "heulen, weinen wörtl. keuchen",
+                    "Herkunftsort": "1A.2 mSTir."
+                },
+                {
+                    "ID": "k467_qdb-d1e27089",
+                    "Belegsatz": "laut, zornig weinen",
+                    "Herkunftsort": "4.2 Pinzg."
+                }
+            ],
+            "Belege": [
+                "k464_qdb-d1e329",
+                "k467_qdb-d1e27089"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "Lemma": "Kartätsche/Kartatsche",
+    "POS": "Subst",
+    "Genus": "Femininum",
+    "Kasus": "Nominativ",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Vorrichtung zum Kämmen, Krämpeln oder Reinigen von Wolle, Haaren oder Pferden.",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.2 mNTir.",
+                "1C.3 öNTir.",
+                "2.2 MKtn.",
+                "6.4 Weinv.",
+                "7.2 MBgl."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k459_qdb-d1e32888",
+                    "Belegsatz": "Kartätsche = Wollkratze; Stallbürste",
+                    "Herkunftsort": "2.2i07 Villach"
+                },
+                {
+                    "ID": "k459_qdbn-d16e28412",
+                    "Belegsatz": "Gerät zum Grampeln, Riffeln der Wolle",
+                    "Herkunftsort": "3.2a08 St. Michael in Obersteiermark"
+                }
+            ],
+            "Belege": [
+                "k459_qdb-d1e32888",
+                "k459_qdbn-d16e28412",
+                "k459_qdb-d1e33775",
+                "k459_qdb-d1e33840"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Spezifisch für die Pflege von Pferden.",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.3 Waldv.",
+                "7.1 NBgl.",
+                "7.2 MBgl."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k459_qdb-d1e34030",
+                    "Belegsatz": "Haarbürste der Pferde",
+                    "Herkunftsort": "7.2a08 Neckenmarkt"
+                }
+            ],
+            "Belege": [
+                "k459_qdb-d1e34030"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Vergleich eines Bartes mit einer Kartätsche.",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "2.1 ObKtn."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k459_qdb-d1e34591",
+                    "Belegsatz": "a Pårt a wiə a Kchartatschn",
+                    "Herkunftsort": "2.1i01 Gitschtal"
+                }
+            ],
+            "Belege": [
+                "k459_qdb-d1e34591"
+            ]
+        }
+    ]
+}

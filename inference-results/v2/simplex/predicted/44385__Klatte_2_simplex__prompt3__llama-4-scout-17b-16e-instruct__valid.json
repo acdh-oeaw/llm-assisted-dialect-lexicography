@@ -1,0 +1,95 @@
+{
+    "Lemma": "Klatte",
+    "POS": "Subst",
+    "Genus": "Femininum",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Schmutz- oder Kotballen, -klumpen; zusammengepreßte Masse",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.2 mNTir.",
+                "1C.3 öNTir.",
+                "4.2 Pinzg."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k487_qdbn-d16e39830",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.1 wNTir."
+                },
+                {
+                    "ID": "k487_qdbn-d16e39894",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.2 mNTir."
+                }
+            ],
+            "Belege": [
+                "k487_qdbn-d16e39830",
+                "k487_qdbn-d16e39894"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Kotklumpen/Kotklunker an den Schenkeln von Rindern",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.3 öNTir.",
+                "4.2 Pinzg."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k487_qdb-d1e85297",
+                    "Belegsatz": "Dö Khae is ja auf und auf voö Klăttln [D1,pl3]",
+                    "Herkunftsort": "1C.3i05 St. Johann in Tirol"
+                },
+                {
+                    "ID": "k487_qdb-d1e47275",
+                    "Belegsatz": "",
+                    "Herkunftsort": "4.2a09 Uttendorf"
+                }
+            ],
+            "Belege": [
+                "k487_qdb-d1e85297",
+                "k487_qdb-d1e47275"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Klette",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "4.2 Pinzg."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k487_qdb-d1e46988",
+                    "Belegsatz": "",
+                    "Herkunftsort": "4.2g02 Saalfelden am Steinernen Meer"
+                }
+            ],
+            "Belege": [
+                "k487_qdb-d1e46988"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Kruste; etwas Verklebtes",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.2 mNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k487_qdbn-d16e40420",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.2 mNTir."
+                }
+            ],
+            "Belege": [
+                "k487_qdbn-d16e40420"
+            ]
+        }
+    ]
+}

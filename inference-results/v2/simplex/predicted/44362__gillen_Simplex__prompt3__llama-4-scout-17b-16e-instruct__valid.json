@@ -1,0 +1,137 @@
+{
+    "Lemma": "gillen",
+    "POS": "Verb",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "weinen; laut weinen",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.1 wNTir.",
+                "5.2 Hausrv.",
+                "5.3 Traunv.",
+                "6.5 Wien"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g327_qdb-d1e56219",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.1b04 Tannheim"
+                },
+                {
+                    "ID": "g327_qdb-d1e56446",
+                    "Belegsatz": "laut weinen; gellen;",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "g327_qdb-d1e56198",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.3 Traunv."
+                },
+                {
+                    "ID": "g327_qdb-d1e56034",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.2b46 Weibern"
+                },
+                {
+                    "ID": "g327_qdb-d1e56085",
+                    "Belegsatz": "durchdringend wehklagen; schreien;",
+                    "Herkunftsort": "5.1 Innv."
+                }
+            ],
+            "Belege": [
+                "g327_qdb-d1e56219",
+                "g327_qdb-d1e56446",
+                "g327_qdb-d1e56198",
+                "g327_qdb-d1e56034",
+                "g327_qdb-d1e56085"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "nach Luft ringen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.2 Hausrv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g327_qdb-d1e55988",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.2a29 Prambachkirchen"
+                },
+                {
+                    "ID": "g327_qdb-d1e56313",
+                    "Belegsatz": "nach Luft ringen; durchdringend schreien;",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g327_qdb-d1e55988",
+                "g327_qdb-d1e56313"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "gellen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.3 Traunv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g327_qdb-d1e56368",
+                    "Belegsatz": "håd güld [P2];",
+                    "Herkunftsort": "5.3b02 Gmunden"
+                },
+                {
+                    "ID": "g327_qdb-d1e56793",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.1c07 Mühlheim am Inn; 5.3g05 Kremsmünster"
+                }
+            ],
+            "Belege": [
+                "g327_qdb-d1e56368",
+                "g327_qdb-d1e56793"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "speien",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.5 Wien"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g327_qdb-d1e56108",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.5 Wien"
+                }
+            ],
+            "Belege": [
+                "g327_qdb-d1e56108"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "einem Schwein die Gillwurze ins Ohr einziehen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.2 Hausrv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g327_qdb-d1e56168",
+                    "Belegsatz": "ɐ sao kün [I];a sao kün I;",
+                    "Herkunftsort": "5.2b46 Weibern"
+                }
+            ],
+            "Belege": [
+                "g327_qdb-d1e56168"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+  "Lemma": "keifen",
+  "POS": "Verb",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "zanken; grollen; schimpfen; tadeln; jammern",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A.4 öSTir.",
+        "p1C.3 öNTir.",
+        "p2.1 ObKtn.",
+        "p2.2 MKtn.",
+        "p3.3 WStmk.",
+        "p6.2 Industriev.",
+        "p6.4 Weinv.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+    "Lemma": "(Ge)frette;Gefrette",
+    "POS": "Subst",
+    "Genus": "Femininum",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Mühe; Plage",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "3.4 MStmk.",
+                "6.4 Weinv.",
+                "5.1 Innv.",
+                "3.5 OStmk.",
+                "6.3 Waldv.",
+                "7.1 NBgl."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "f283_qdb-d1e5233",
+                    "Belegsatz": "Mühe; Plage",
+                    "Herkunftsort": "3.5k10 Gnas"
+                },
+                {
+                    "ID": "f283_qdb-d1e1032",
+                    "Belegsatz": "Mühe; Plage",
+                    "Herkunftsort": "6.4d03 Drasenhofen"
+                }
+            ],
+            "Belege": [
+                "f283_qdb-d1e5233",
+                "f283_qdb-d1e1032"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Schwierigkeit; Unannehmlichkeit",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "differenzierte Bedeutung",
+            "Regionen": [
+                "6.5 Wien",
+                "5.4 Mühlv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "f283_qdb-d1e1486",
+                    "Belegsatz": "Schwierigkeit",
+                    "Herkunftsort": "6.5 Wien"
+                },
+                {
+                    "ID": "f283_qdb-d1e769",
+                    "Belegsatz": "schleppende Angelegenheit",
+                    "Herkunftsort": "6.3a15 Kautzen"
+                }
+            ],
+            "Belege": [
+                "f283_qdb-d1e1486",
+                "f283_qdb-d1e769"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Ärger; Verlegenheit",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "differenzierte Bedeutung",
+            "Regionen": [
+                "6.4 Weinv.",
+                "6.5 Wien",
+                "1C.2 mNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "f283_qdb-d1e2553",
+                    "Belegsatz": "verzweifelte, ärgerliche Lage",
+                    "Herkunftsort": "6.4f06 Ernstbrunn"
+                },
+                {
+                    "ID": "f283_qdb-d1e1670",
+                    "Belegsatz": "kleine Unannehmlichkeit; Ärger",
+                    "Herkunftsort": "6.5 Wien"
+                }
+            ],
+            "Belege": [
+                "f283_qdb-d1e2553",
+                "f283_qdb-d1e1670"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Stümperei; armseliges Bemühen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "differenzierte Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "f283_qdb-d1e2790",
+                    "Belegsatz": "Stümperei; armseliges Bemühen",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "f283_qdb-d1e2790"
+            ]
+        }
+    ]
+}

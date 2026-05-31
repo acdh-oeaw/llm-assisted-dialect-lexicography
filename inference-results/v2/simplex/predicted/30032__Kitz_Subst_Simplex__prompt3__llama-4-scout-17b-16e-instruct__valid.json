@@ -1,0 +1,113 @@
+{
+    "Lemma": "Kitz",
+    "POS": "Subst",
+    "Genus": "Neutrum",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Junges einer Ziege",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A",
+                "1B",
+                "1C",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k485_qdb-d1e67502",
+                    "Belegsatz": "di kχitsər [pl] giən in rokŋ",
+                    "Herkunftsort": "1A.4 öSTir.; Lüsen"
+                },
+                {
+                    "ID": "k485_qdb-d1e67700",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.1 wNTir.; Fendels"
+                }
+            ],
+            "Belege": [
+                "k485_qdb-d1e67502",
+                "k485_qdb-d1e67700"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Übermütiges oder ausgelassenes Mädchen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A",
+                "1C"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k485_qdb-d1e73228",
+                    "Belegsatz": "Kitz = übermütiges, ausgelassenes, lachendes Mädchen",
+                    "Herkunftsort": "1A.4 öSTir.; Ahrntal"
+                }
+            ],
+            "Belege": [
+                "k485_qdb-d1e73228"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Ersatz für Lämmernes an Ostern",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k485_qdb-d1e71331",
+                    "Belegsatz": "Statt der Lämmer werden Kitze geschlachtet, da die Ziege Milch gibt.",
+                    "Herkunftsort": "6.2h13 Kirchberg am Wechsel"
+                }
+            ],
+            "Belege": [
+                "k485_qdb-d1e71331"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Schwächling, Feigling",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k485_qdb-d1e64089",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k485_qdb-d1e64089"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Weibliches Junges einer Ziege",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "2.1"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k485_qdb-d1e76380",
+                    "Belegsatz": "",
+                    "Herkunftsort": "2.1f01 Lesachtal"
+                }
+            ],
+            "Belege": [
+                "k485_qdbd1e76380"
+            ]
+        }
+    ]
+}

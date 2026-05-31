@@ -1,0 +1,74 @@
+{
+  "Lemma": "geifen",
+  "POS": "Verb",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "gähnen",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p4.5 Flachg.",
+        "p5 OÖ"
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "auseinanderstehen; klaffen; abstehen; Falten machen",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir.",
+        "p3.4 MStmk.",
+        "p5 OÖ",
+        "p6.3 Waldv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "(rund) ausschneiden; formen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p4.1 Lung.",
+        "p5 OÖ",
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "einen Eisenreifen breiter/passend/weiter machen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p5.3 Traunv.",
+        "p5.4 Mühlv.",
+        "p6.1 Mostv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "an Rǫaf gǫaffn",
+          "Herkunftsort": "Gmunden"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "abkanten",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p3.3 WStmk.",
+        "p6.2 Industriev."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Schinⁿ gåafn",
+          "Herkunftsort": "Stainz"
+        }
+      ]
+    }
+  ]
+}

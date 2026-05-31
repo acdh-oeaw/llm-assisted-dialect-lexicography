@@ -1,0 +1,54 @@
+{
+  "Lemma": "kindsen",
+  "POS": "Verb",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "einen Säugling tragen; einen Säugling auf dem Arm versorgen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A.1 wSTir.",
+        "p1A.4 öSTir.",
+        "p1C NTir.",
+        "p4.2 Pinzg.",
+        "p4.5 Flachg.",
+        "p5.3 Traunv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "dö Pop Säugling kinzn",
+          "Herkunftsort": "Wildschönau"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Kleinkinder beaufsichtigen; Kleinkinder betreuen; babysitten",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p3.2 mbair.ObStmk.",
+        "p4 Sbg.",
+        "p5 OÖ"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "i hon kχintst",
+          "Herkunftsort": "Imst"
+        },
+        {
+          "Belegsatz": "gib s piəblɒ Büblein dr nā̃lɒ Oma ouderm nȫnɒ Opa , süšt hǫlt an mādlɒ tsum kχindsɒ!",
+          "Herkunftsort": "Serfaus"
+        },
+        {
+          "Belegsatz": "kintzn is a Englgscheft",
+          "Herkunftsort": "Kufstein"
+        }
+      ]
+    }
+  ]
+}

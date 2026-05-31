@@ -1,0 +1,75 @@
+{
+  "Lemma": "graupen",
+  "POS": "Verb",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "hageln",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "sich sträuben; sich breit machen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p2 Ktn.",
+        "p5 OÖ"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "graupt sėᶜʰ",
+          "Herkunftsort": "Mühlheim am Inn"
+        },
+        {
+          "Belegsatz": "Dęaʳ graupt sė",
+          "Herkunftsort": "Peterskirchen"
+        },
+        {
+          "Belegsatz": "d' Hor habn sich g'raupt",
+          "Herkunftsort": "Oepping"
+        },
+        {
+          "Belegsatz": "d Hen graupt sö",
+          "Herkunftsort": "Pabneukirchen"
+        },
+        {
+          "Belegsatz": "Röckt sö, graubt sö und lurgt",
+          "Herkunftsort": "OÖ"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "sich hervortun",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p5.4 Mühlv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "sich zusammenkauern",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p2 Ktn."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "knistern; rauschen (wenn etwas zerdrückt wird)",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p5.4 Mühlv."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

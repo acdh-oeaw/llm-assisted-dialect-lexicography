@@ -1,0 +1,33 @@
+{
+  "Lemma": "Kitzenes",
+  "POS": "Substantiv",
+  "Genus": "Neutrum",
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "Fleisch vom Kitz",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1C.3 öNTir.",
+        "p2.1 ObKtn.",
+        "p3 Stmk.",
+        "p4.2 Pinzg.",
+        "p4.3 Pong.",
+        "p5.1 Innv.",
+        "p5.3 Traunv.",
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "gebochns Kitzanas",
+          "Herkunftsort": "Frantschach-St. Gertraud"
+        },
+        {
+          "Belegsatz": "Auf ɔ̨stan kriagn ma a Kitzanas', då štech ma a Be̊ckl ā̊",
+          "Herkunftsort": "Poysdorf"
+        }
+      ]
+    }
+  ]
+}

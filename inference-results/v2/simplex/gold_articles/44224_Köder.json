@@ -1,0 +1,89 @@
+{
+  "Lemma": "Köder",
+  "POS": "Substantiv",
+  "Genus": "Maskulinum, Neutrum",
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "Lockspeise; Lockmittel (zum Fangen von Tieren)",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir.",
+        "p2 Ktn.",
+        "p3.1 sbair.ObStmk.",
+        "p3.2 mbair.ObStmk.",
+        "p3.3 WStmk.",
+        "p3.5 OStmk.",
+        "p4 Sbg.",
+        "p5 OÖ",
+        "p6 NÖ",
+        "p7.1 NBgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "an Keᵃder anrichtn",
+          "Herkunftsort": "Fendels"
+        },
+        {
+          "Belegsatz": "håsch ęs kęadr scho aichn gitun? hinein getan",
+          "Herkunftsort": "uStub."
+        },
+        {
+          "Belegsatz": "nöt ubeißn auf n Kēda",
+          "Herkunftsort": "Kufstein"
+        },
+        {
+          "Belegsatz": "Kedr auslögn",
+          "Herkunftsort": "obstGurkt."
+        },
+        {
+          "Belegsatz": "Kēdą werfm",
+          "Herkunftsort": "Fusch an der Großglocknerstraße"
+        },
+        {
+          "Belegsatz": "ə Kędə lė'ŋ",
+          "Herkunftsort": "Mühlheim am Inn"
+        },
+        {
+          "Belegsatz": "da Fuks is afs Khę̄dəʳ khema",
+          "Herkunftsort": "Gmunden"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Brot",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "abwertender Ausdruck für eine sexuell begierige Frau",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p3 Stmk."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Teil von Leder; Teil eines Lederschuhs",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir.",
+        "p2 Ktn.",
+        "p4 Sbg.",
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

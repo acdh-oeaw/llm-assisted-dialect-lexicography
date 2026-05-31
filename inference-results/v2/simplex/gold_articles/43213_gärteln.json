@@ -1,0 +1,32 @@
+{
+  "Lemma": "gärteln",
+  "POS": "Verb",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "leichte Gartenarbeit verrichten (z. B. ein Gemüsebeet bestellen; Boden umstechen)",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p2 Ktn.",
+        "p4 Sbg.",
+        "p5 OÖ",
+        "p6.1 Mostv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Gegart'lt ist's, d'rum måcht's miar fein / In Gårt'nböt kåa Loch",
+          "Herkunftsort": "Bozen"
+        },
+        {
+          "Belegsatz": "er tuet gern gartln",
+          "Herkunftsort": "St. Gilgen"
+        }
+      ]
+    }
+  ]
+}

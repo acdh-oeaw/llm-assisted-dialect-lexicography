@@ -1,0 +1,106 @@
+{
+  "Lemma": "kehren¹",
+  "POS": "Verb",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "etwas oder sich umwenden, auf die andere Seite drehen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir.",
+        "p2.1 ObKtn.",
+        "p2.2 MKtn.",
+        "p3.2 mbair.ObStmk.",
+        "p3.3 WStmk.",
+        "p3.4 MStmk.",
+        "p3.5 OStmk.",
+        "p4.2 Pinzg.",
+        "p4.3 Pong.",
+        "p5 OÖ",
+        "p6.1 Mostv.",
+        "p6.2 Industriev.",
+        "p6.4 Weinv.",
+        "p7.2 MBgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "mišt kęaren",
+          "Herkunftsort": "Meran"
+        },
+        {
+          "Belegsatz": "hai kχęərn",
+          "Herkunftsort": "Lüsen"
+        },
+        {
+          "Belegsatz": "dös ūn̄taschö - īw̄aschö kean",
+          "Herkunftsort": "Kufstein"
+        },
+        {
+          "Belegsatz": "n Bråtn kērn",
+          "Herkunftsort": "Rangersdorf"
+        },
+        {
+          "Belegsatz": "khęaʳt(d) áich",
+          "Herkunftsort": "Gmunden"
+        },
+        {
+          "Belegsatz": "fuɒdɒ khęɒʳn",
+          "Herkunftsort": "St. Peter im Sulmtal"
+        },
+        {
+          "Belegsatz": "s Inwendigi noᶜʰ auhsn kehrn",
+          "Herkunftsort": "Aspang-Markt"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Wasser um- bzw. ableiten",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A.2 mSTir.",
+        "p1C.2 mNTir.",
+        "p4 Sbg.",
+        "p5.4 Mühlv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "woßɒ khę̄n",
+          "Herkunftsort": "Gallneukirchen"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "(närrisch) herumlaufen bzw. -rennen; hetzen (von Hunden)",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p5.3 Traunv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "wås dę Hund uməraną́nd khöərt (is nöd zan såŋ)",
+          "Herkunftsort": "Gmunden"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "missverstehen; falsch deuten",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p4.5 Flachg."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Du darfst die Red nöt a s̱o̱ kehrn",
+          "Herkunftsort": "St. Gilgen"
+        }
+      ]
+    }
+  ]
+}

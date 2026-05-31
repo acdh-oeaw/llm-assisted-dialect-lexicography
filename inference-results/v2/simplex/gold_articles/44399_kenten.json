@@ -1,0 +1,50 @@
+{
+  "Lemma": "kenten",
+  "POS": "Verb",
+  "Genus": null,
+  "Form": {
+    "form": "kenteln",
+    "typ": "Diminutive",
+    "genus": "Neutrum"
+  },
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "Feuer machen; anzünden; einheizen",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p3.1 sbair.ObStmk.",
+        "p3.2 mbair.ObStmk.",
+        "p3.5 OStmk.",
+        "p4 Sbg.",
+        "p5 OÖ",
+        "p6.1 Mostv.",
+        "p6.2 Industriev.",
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "i hon kχentət",
+          "Herkunftsort": "Imst"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "zündeln; mit Feuer spielen",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p4 Sbg."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Kinder tun gern kenteln.",
+          "Herkunftsort": "Sbg."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "Lemma": "Keppel",
+  "POS": "Substantiv",
+  "Genus": "Femininum, Neutrum",
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "schwatzhafter Mensch",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p3.2 mbair.ObStmk.",
+        "p3.5 OStmk."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "abwertende Bezeichnung für eine streitsüchtige, zänkische, keifende, tratschende Frau",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p3.2 mbair.ObStmk.",
+        "p3.3 WStmk.",
+        "p4 Sbg.",
+        "p5 OÖ",
+        "p6.2 Industriev.",
+        "p6.3 Waldv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "an oldi / oÿdi Keppüˡ",
+          "Herkunftsort": "Kapfenberg"
+        },
+        {
+          "Belegsatz": "ɒn ǫėˡde Khę̄fė",
+          "Herkunftsort": "Eggelsberg"
+        },
+        {
+          "Belegsatz": "a o̩ö̩de κhe̩wö(n)",
+          "Herkunftsort": "Weibern"
+        },
+        {
+          "Belegsatz": "Die Bairin is a faiⁿdsalige Kebin",
+          "Herkunftsort": "Rohr im Gebirge"
+        },
+        {
+          "Belegsatz": "oüdi Khēfün",
+          "Herkunftsort": "Kautzen"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "einer, der rülpst",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p3.2 mbair.ObStmk."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Mundwerk; Kiefer, Kinnlade, Mund stellvertretend für Sprache, Sprechen",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p3.3 WStmk.",
+        "p5.2 Hausrv.",
+        "p5.3 Traunv.",
+        "p6.2 Industriev.",
+        "p6.3 Waldv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Deaʳ håt a guata Keppl",
+          "Herkunftsort": "Stainz"
+        },
+        {
+          "Belegsatz": "ás geht eahm die Keppeln",
+          "Herkunftsort": "Natschbach-Loipersbach"
+        },
+        {
+          "Belegsatz": "sie lost a Kēpl gehn",
+          "Herkunftsort": "Waldkirchen an der Thaya"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Gericht aus Kohl",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p1A.2 mSTir."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

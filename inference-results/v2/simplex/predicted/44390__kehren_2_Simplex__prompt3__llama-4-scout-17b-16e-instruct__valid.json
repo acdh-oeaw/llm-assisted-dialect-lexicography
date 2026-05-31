@@ -1,0 +1,76 @@
+{
+    "Lemma": "keren",
+    "POS": "Verb",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "kehren; fegen",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.4 öSTir.",
+                "3.2 mbair.ObStmk.",
+                "6.4 Weinv.",
+                "5.1 Innv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k476_qdb-d1e9759",
+                    "Belegsatz": "trokχ kχȫrn",
+                    "Herkunftsort": "1A.4c01 Lüsen"
+                },
+                {
+                    "ID": "k476_qdb-d1e9009",
+                    "Belegsatz": "",
+                    "Herkunftsort": "3.2f02 Kapfenberg"
+                }
+            ],
+            "Belege": [
+                "k476_qdb-d1e9759",
+                "k476_qdb-d1e9009"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Ofen, Rauchfang kehren",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "differenzierte Bedeutung",
+            "Regionen": [
+                "5.1 Innv.",
+                "2.1 ObKtn."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k476_qdb-d1e10344",
+                    "Belegsatz": "in Ofn kȫrn",
+                    "Herkunftsort": "1A.1d03 Schlanders"
+                },
+                {
+                    "ID": "k476_qdb-d1e6872",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.1a02 Eggelsberg"
+                }
+            ],
+            "Belege": [
+                "k476_qdb-d1e10344",
+                "k476_qdb-d1e6872"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "wetterleuchten",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "weitere Bedeutung 1",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "k476_qdb-d1e8176",
+                    "Belegsatz": "himö kehn",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k476_qdb-d1e8176"
+            ]
+        }
+    ]
+}

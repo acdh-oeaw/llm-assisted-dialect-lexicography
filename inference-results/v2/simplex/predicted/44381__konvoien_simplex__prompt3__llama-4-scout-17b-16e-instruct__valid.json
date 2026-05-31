@@ -1,0 +1,120 @@
+{
+    "Lemma": "konfoien",
+    "POS": "Verb",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "jemanden schlagen oder prügeln",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.4 Weinviertel"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k504_qdb-d1e41763",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k504_qdb-d1e41282",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k504_qdb-d1e41763",
+                "k504_qdb-d1e41282"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "jemanden zurechtrichten oder strafen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "k504_qdb-d1e41763",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k504_qdb-d1e41702",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k504_qdb-d1e41763",
+                "k504_qdb-d1e41702"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "jemanden begleiten",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "2.2 MKtn.",
+                "2.1 ObKtn."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k504_qdb-d1e41645",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k504_qdb-d1e41387",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k504_qdb-d1e41645",
+                "k504_qdb-d1e41387"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "jemanden verjagen oder fortjagen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.2 mSTir.",
+                "2.1 ObKtn."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k504_qdb-d1e41581",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k504_qdb-d1e41387",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k504_qdb-d1e41581",
+                "k504_qdb-d1e41387"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Leute ohne Zweck da und dort hinschicken",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "weitere Bedeutung 1",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "k504_qdb-d1e41853",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k504_qdb-d1e41853"
+            ]
+        }
+    ]
+}

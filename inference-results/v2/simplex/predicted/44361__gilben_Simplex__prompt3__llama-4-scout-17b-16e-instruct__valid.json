@@ -1,0 +1,124 @@
+{
+    "Lemma": "gilben",
+    "POS": "Verb",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "gelb werden; vergilben",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.3 öNTir.",
+                "6.4 Weinv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g327_qdb-d1e51225",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.3b03 Thiersee"
+                },
+                {
+                    "ID": "g327_qdb-d1e51125",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "g327_qdb-d1e51401",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g327_qdb-d1e51225",
+                "g327_qdb-d1e51125",
+                "g327_qdb-d1e51401"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "gelbfärben",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.4 Weinv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g327_qdb-d1e51248",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.4e06 Hollabrunn"
+                }
+            ],
+            "Belege": [
+                "g327_qdb-d1e51248"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "mit der Gilbwurzel reiben (krankes Vieh)",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.1 Mostv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g327_qdb-d1e51479",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.1i01 Göstling an der Ybbs"
+                }
+            ],
+            "Belege": [
+                "g327_qdb-d1e51479"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "gegen die Gilbe mit Nieswurz behandeln",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.1 Mostv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g327_qdb-d1e51295",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.1d01 Allhartsberg"
+                }
+            ],
+            "Belege": [
+                "g327_qdb-d1e51295"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "gilben (ohne spezifische Bedeutung)",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "weitere Bedeutung 1",
+            "Regionen": [
+                "5.4 Mühlv.",
+                "7.1 NBgl."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g327_qdb-d1e51458",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.4b13 Ulrichsberg"
+                },
+                {
+                    "ID": "g327_qdb-d1e51272",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "g327_qdb-d1e51378",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g327_qdb-d1e51458",
+                "g327_qdb-d1e51272",
+                "g327_qdb-d1e51378"
+            ]
+        }
+    ]
+}

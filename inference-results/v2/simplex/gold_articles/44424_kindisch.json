@@ -1,0 +1,101 @@
+{
+  "Lemma": "kindisch",
+  "POS": "Adjektiv",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "kindlich; einem Kind ähnlich",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p2.1 ObKtn.",
+        "p2.3 MKtn.",
+        "p3.1 sbair.ObStmk.",
+        "p3.2 mbair.ObStmk.",
+        "p3.3 WStmk.",
+        "p3.5 OStmk.",
+        "p4.2 Pinzg.",
+        "p4.3 Pong.",
+        "p5 OÖ",
+        "p6 NÖ"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "a kindisches Tiᵃn Tun, Benehmen",
+          "Herkunftsort": "Fendels"
+        },
+        {
+          "Belegsatz": "a kinöschs Toᵃan hǫᵇm",
+          "Herkunftsort": "Kufstein"
+        },
+        {
+          "Belegsatz": "sai nē̇t sou kinasch",
+          "Herkunftsort": "Lobmingtal"
+        },
+        {
+          "Belegsatz": "Duɒ nėd so khindėšš!",
+          "Herkunftsort": "Mühlheim am Inn"
+        },
+        {
+          "Belegsatz": "kindisᶜʰi Sȧchan",
+          "Herkunftsort": "Sitzenberg-Reidling"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "ungeschickt",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "einfach; leicht",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A.4 öSTir."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "kχindiš laiχt",
+          "Herkunftsort": "Lüsen"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "greisenhaft; wunderlich; senil",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1C.1 wNTir.",
+        "p1C.3 öNTir.",
+        "p2.1 ObKtn.",
+        "p4.2 Pinzg.",
+        "p6.2 Industriev."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "kinésch weəʳn",
+          "Herkunftsort": "Thiersee"
+        },
+        {
+          "Belegsatz": "ęɒ wiɒd šąⁿ khindėšš",
+          "Herkunftsort": "Mühlheim am Inn"
+        },
+        {
+          "Belegsatz": "å͡iˡd und kindⁱsch",
+          "Herkunftsort": "Pottendorf"
+        }
+      ]
+    }
+  ]
+}

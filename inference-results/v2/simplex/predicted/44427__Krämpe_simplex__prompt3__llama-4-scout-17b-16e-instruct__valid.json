@@ -1,0 +1,78 @@
+{
+    "Lemma": "Grampe;",
+    "POS": "Subst",
+    "Genus": "Femininum",
+    "Kasus": "Nominativ",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Höckerweib; Obstlerin; Trödlerin; Bötin",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.2 mSTir.",
+                "1A.3b01 Sarntal",
+                "1A.4 öSTir.",
+                "1B.0 OTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g339_qdb-d1e32608",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "g339_qdb-d1e32348",
+                    "Belegsatz": "Obsthändlerin Kleinverkäuferin;",
+                    "Herkunftsort": "1A.4 öSTir.;1B.0 OTir."
+                }
+            ],
+            "Belege": [
+                "g339_qdb-d1e32608",
+                "g339_qdb-d1e32348",
+                "g339_qdb-d1e32714",
+                "g339_qdb-d1e32817",
+                "g339_qdb-d1e32958",
+                "g339_qdb-d1e32872",
+                "g339_qdb-d1e32846"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Eine weibl. Person, die auf den Bauernhöfen ländliche Produkte zusammenkauft und in die Stadt liefert; zugleich auch Produkte z.B. Brot aus der Stadt bringt",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.2 mSTir.",
+                "1A.3g07 Villanders"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g339_qdb-d1e32763",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1A.2 mSTir.;1A.3g07 Villanders"
+                }
+            ],
+            "Belege": [
+                "g339_qdb-d1e32763"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Eine Frau vom Lande, welche Butter, Eier u. dgl. in die Stadt handelt",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.2 mSTir.",
+                "1A.3a01 Jenesien"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g339_qdb-d1e32629",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1A.2 mSTir.;1A.3a01 Jenesien"
+                }
+            ],
+            "Belege": [
+                "g339_qdb-d1e32629"
+            ]
+        }
+    ]
+}

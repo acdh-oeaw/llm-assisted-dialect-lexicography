@@ -1,0 +1,207 @@
+{
+    "Lemma": "Knotzer",
+    "POS": "Subst.",
+    "Genus": "m.",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "untersetzter Mensch; kleiner Mensch",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.2 Hausrv.",
+                "5.3 Traunv.",
+                "6.3 Waldv.",
+                "6.4 Weinv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k501_qdb-d1e19716",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.2a29 Prambachkirchen"
+                },
+                {
+                    "ID": "k501_qdb-d1e19373",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.2b46 Weibern"
+                },
+                {
+                    "ID": "k501_qdb-d1e20040",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.1p12 Türnitz"
+                }
+            ],
+            "Belege": [
+                "k501_qdb-d1e19716",
+                "k501_qdb-d1e19373",
+                "k501_qdb-d1e20040"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "reicher Bauer",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.3 Waldv.",
+                "6.4 Weinv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k501_qdb-d1e20534",
+                    "Belegsatz": "deaʳ Bau is a rechta Gnōdza",
+                    "Herkunftsort": "6.3a07 Gastern"
+                },
+                {
+                    "ID": "k501_qdb-d1e20584",
+                    "Belegsatz": "a raicha Gnodza [m]",
+                    "Herkunftsort": "6.4a01 Retz"
+                }
+            ],
+            "Belege": [
+                "k501_qdb-d1e20534",
+                "k501_qdb-d1e20584"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Geizhals; Filz",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.4 Weinv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k501_qdb-d1e19397",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k501_qdb-d1e19415",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k501_qdb-d1e19397",
+                "k501_qdb-d1e19415"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Faulpelz; langsamer Mensch",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.2 Hausrv.",
+                "6.3 Waldv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k501_qdb-d1e20170",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k501_qdb-d1e20612",
+                    "Belegsatz": "",
+                    "Herkunftsort": "2.2d02 Reichenau"
+                }
+            ],
+            "Belege": [
+                "k501_qdb-d1e20170",
+                "k501_qdb-d1e20612"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Stubenhocker",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.5 Wien"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k501_qdb-d1e19871",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k501_qdb-d1e20489",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.5 Wien"
+                }
+            ],
+            "Belege": [
+                "k501_qdb-d1e19871",
+                "k501_qdb-d1e20489"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Fingermaß beim Kugerlscheiben",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.2 Hausrv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k501_qdb-d1e19466",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k501_qdb-d1e19466"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "erste, innerste Garbe im Kornmandel; unterste Garbe",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.4 Mühlv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k501_qdb-d1e19793",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k501_qdb-d1e20103",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k501_qdb-d1e19793",
+                "k501_qdb-d1e20103"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Arrest mit Pritsche",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "3.1 sbair.ObStmk."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k501_qdb-d1e20126",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k501_qdb-d1e20126"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "kleiner Bub",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [],
+            "Belege": []
+        }
+    ]
+}

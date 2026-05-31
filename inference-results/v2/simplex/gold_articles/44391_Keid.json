@@ -1,0 +1,110 @@
+{
+  "Lemma": "Keid",
+  "POS": "Substantiv",
+  "Genus": "Neutrum",
+  "Form": {
+    "form": "Keidel Keiderl Keid(e)lein Keidli",
+    "typ": "Diminutive",
+    "genus": ""
+  },
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "Spross; Pflanzentrieb; Keimling",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir.",
+        "p2.1 ObKtn."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "a kχaidl ȫdlwais",
+          "Herkunftsort": "Lüsen"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Getreidekorn; Samenkorn",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1C.1 wNTir.",
+        "p3.5 OStmk.",
+        "p6.2 Industriev.",
+        "p7.2 MBgl."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "ein wenig; ein bisschen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir.",
+        "p2 Ktn.",
+        "p5.3 Traunv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "a kchaidele brǫat",
+          "Herkunftsort": "Umg.Meran"
+        },
+        {
+          "Belegsatz": "dös ist a Höllnårrbet bė den lötzn Bödn: ålle Pfiffrling mueß ii n Pflug außarreißn, man kim̄t koa Keidėle fürwert",
+          "Herkunftsort": "Sarntal"
+        },
+        {
+          "Belegsatz": "I geə kχǫa kχaidl",
+          "Herkunftsort": "Lüsen"
+        },
+        {
+          "Belegsatz": "a Khaiᵈl Såöˡz",
+          "Herkunftsort": "Gmunden"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "kurze Zeit",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1A.4 öSTir.",
+        "p2.1 ObKtn."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Wårt a kaidl",
+          "Herkunftsort": "Lesachtal"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "dünnes, spärliches Haar",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1A.2 mSTir."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "(di sęl hǫt wol nər) öttliga kχaidlər",
+          "Herkunftsort": "Villanders"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Sache; Wirtschaft; Haushaltung",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p1A STir.",
+        "p1C.3 öNTir."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

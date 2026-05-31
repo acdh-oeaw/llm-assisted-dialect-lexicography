@@ -1,0 +1,161 @@
+{
+    "Lemma": "Furi",
+    "POS": "Subst",
+    "Genus": "Femininum",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Furie; böses Weib",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.4 Mühlv.",
+                "6.5 Wien",
+                "6.4 Weinv.",
+                "7.1 NBgl."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "f293_qdb-d1e56954",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.4b13 Ulrichsberg"
+                },
+                {
+                    "ID": "f293_qdb-d1e56977",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.5 Wien"
+                },
+                {
+                    "ID": "f293_qdb-d1e57001",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.4 Weinv."
+                }
+            ],
+            "Belege": [
+                "f293_qdb-d1e56954",
+                "f293_qdb-d1e56977",
+                "f293_qdb-d1e57001"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Wut; Ausbruch des Zorns",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "f293_qdb-d1e57070",
+                    "Belegsatz": "Wut Ausbruch des Zorns zorniges Weib;",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "f293_qdb-d1e57443",
+                    "Belegsatz": "in der fûrɛ;",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "f293_qdb-d1e57070",
+                "f293_qdb-d1e57443"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Raserei; Tollheit; in rasender Hast",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "f293_qdb-d1e57139",
+                    "Belegsatz": "in aller fûri;",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "f293_qdb-d1e57335",
+                    "Belegsatz": "Raserei Tollheit wildes oder zorniges Benehmen;",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "f293_qdb-d1e57139",
+                "f293_qdb-d1e57335"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "altes Weib",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.3 Waldv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "f293_qdb-d1e57045",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.3q03 St. Leonhard am Hornerwald"
+                }
+            ],
+            "Belege": [
+                "f293_qdb-d1e57045"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "ausgelassene Freude",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.3 Traunv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "f293_qdb-d1e57116",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.3c03 Steinbach am Ziehberg"
+                }
+            ],
+            "Belege": [
+                "f293_qdb-d1e57116"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Furie = ungezügelt wildes Weib",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.1 Mostv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "f293_qdb-d1e57196",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.1o01 Herzogenburg"
+                }
+            ],
+            "Belege": [
+                "f293_qdb-d1e57196"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "eine Xanthippe; zänkisches Weib",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                ""
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "f293_qdb-d1e57228",
+                    "Belegsatz": "a rechdi Furi;",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "f293_qdb-d1e57228"
+            ]
+        }
+    ]
+}

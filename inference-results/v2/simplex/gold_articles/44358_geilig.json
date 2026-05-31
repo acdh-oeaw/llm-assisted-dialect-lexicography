@@ -1,0 +1,170 @@
+{
+  "Lemma": "geilig",
+  "POS": "Adjektiv",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "begierig; wolllüstig",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "üppig gewachsen",
+      "Typ": "Variante",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p5.2 Hausrv.",
+        "p5.4 Mühlv.",
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "d' ə́sch'n wo̰xt go̰əlė",
+          "Herkunftsort": "Eidenberg"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "fruchtbar; fett; gut gedüngt",
+      "Typ": "Variante",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p2.1 ObKtn.",
+        "p2.2 MKtn.",
+        "p3 Stmk.",
+        "p5.1 Innv.",
+        "p5.2 Hausrv.",
+        "p5.4 Mühlv.",
+        "p6.2 Industriev.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "dər ɒ̊khər is går zə gālė",
+          "Herkunftsort": "Gitschtal"
+        },
+        {
+          "Belegsatz": "a gāligr ǫκxr",
+          "Herkunftsort": "Feldkirchen in Kärnten"
+        },
+        {
+          "Belegsatz": "ɒ κaö̩lėgɒ πãm ho̩k - kųɒdė e̊pfö",
+          "Herkunftsort": "Ungenach"
+        },
+        {
+          "Belegsatz": "gę̄ulichă Boᵈn",
+          "Herkunftsort": "Mauer"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "faulig; schlüpfrig",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1C.2 mNTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "weich; mürb (von Fleisch)",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p5 OÖ"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "ɒ κaölėκσ φla̩e̩š",
+          "Herkunftsort": "Weibern"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "zu weich gewachsen (von Holz)",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p4.3 Pong."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "fett; üppig",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p3 Stmk.",
+        "p5 OÖ"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "a gālicha Gschmōchn",
+          "Herkunftsort": "Poysdorf"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "schal; fad",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p1A.2 mSTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "süßlich",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p1A.4 öSTir.",
+        "p6.1 Mostv.",
+        "p6.3 Waldv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "s proẹt iš tsi gǫalẹ",
+          "Herkunftsort": "Kiens"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "bitter; herb",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p6.2 Industriev."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "rundlich; zart (vom Gesicht)",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p5.2 Hausrv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "ɒ κaölėκσ κσiχτ",
+          "Herkunftsort": "Weibern"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "unfruchtbar (von einer Kuh)",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "weitere Bedeutung 3",
+      "Regionen": [
+        "p3.3 WStmk."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

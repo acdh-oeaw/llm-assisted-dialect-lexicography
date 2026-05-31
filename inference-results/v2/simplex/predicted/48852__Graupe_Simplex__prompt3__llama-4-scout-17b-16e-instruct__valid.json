@@ -1,0 +1,125 @@
+{
+    "Lemma": "Graupe",
+    "POS": "Subst",
+    "Genus": "Femininum",
+    "Kasus": "Nominativ",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Speckgriebe, Grammel; Rückstand beim Einsieden von Schweinefett oder Speck",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.1 wSTir.",
+                "1A.2 mSTir.",
+                "1B.0 OTir.",
+                "2.1 ObKtn.",
+                "2.2 MKtn.",
+                "3.1 sbair.ObStmk.",
+                "4.1 Lung."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g339_qdb-d1e14131",
+                    "Belegsatz": "Speckgriebe, Grammel;",
+                    "Herkunftsort": "Weißpriach"
+                },
+                {
+                    "ID": "g343_qdb-d1e67066",
+                    "Belegsatz": "Hagelkorn;",
+                    "Herkunftsort": "Ulrichsberg"
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "Isländisches Moos (Cetraria islandica); eine Flechte, die als Heilmittel oder Schweinefutter verwendet wird",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "2.2 MKtn.",
+                "3.1 sbair.ObStmk.",
+                "4.1 Lung.",
+                "6.5 Wien"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g343_qdb-d1e67111",
+                    "Belegsatz": "isländisches Moos;",
+                    "Herkunftsort": "Feldkirchen in Kärnten"
+                },
+                {
+                    "ID": "g343_qdb-d1e70205",
+                    "Belegsatz": "Cetraria islandicaANMO: früher zu Schweinefutter;",
+                    "Herkunftsort": "Judenburg"
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "schwächliches Kind / Person; ein schwaches oder zurückgebliebenes Kind oder eine Person",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "2.2 MKtn.",
+                "6.1 Mostv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g343_qdb-d1e70746",
+                    "Belegsatz": "verkümmertes, schwächliches Kind;",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "g343_qdb-d1e80655",
+                    "Belegsatz": "Ach, Mein-Gott, ist das ein schwächliches Ding, Geschöpf!;",
+                    "Herkunftsort": "Straßburg"
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "Kleine Hagelkörner; Hagelkorn",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "2.1 ObKtn.",
+                "5.2 Hausrv.; Linz"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g343_qdb-d1e67020",
+                    "Belegsatz": "Graupen;",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "g343_qdb-d1e69595",
+                    "Belegsatz": "feine Hagelkörner;",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "Andere Bedeutungen; Grieben, Fettgraupe, Kamm der Weintraube",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "3.3 WStmk.; St. Peter im Sulmtal",
+                "1A.2 mSTir.; Kastelruth"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g343_qdb-d1e70050",
+                    "Belegsatz": "Graupe = Traubenkamm;",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "g345_qdb-d1e44196",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": []
+        }
+    ]
+}

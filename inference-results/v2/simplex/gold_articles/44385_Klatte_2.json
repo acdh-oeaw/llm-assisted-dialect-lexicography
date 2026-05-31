@@ -1,0 +1,58 @@
+{
+  "Lemma": "Klatte²",
+  "POS": "",
+  "Genus": null,
+  "Form": {
+    "form": "Klättel",
+    "typ": "Diminutive",
+    "genus": "Neutrum"
+  },
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "Schmutzfladen; Dreck; Schmutzballen im Haar von Nutztieren",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir.",
+        "p4.2 Pinzg.",
+        "p4.3 Pong."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Dö Khae is ja auf und auf voö Klăttln",
+          "Herkunftsort": "Hopfgarten im Brixental"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Zusammengepresstes",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1C.2 mNTir.",
+        "p1C.3 öNTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Kruste; etwas Verklebtes",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1C.2 mNTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Klette",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p4.2 Pinzg."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

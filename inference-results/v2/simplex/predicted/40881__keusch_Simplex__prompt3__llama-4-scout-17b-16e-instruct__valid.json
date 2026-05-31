@@ -1,0 +1,108 @@
+{
+    "Lemma": "käusch",
+    "POS": "Adj",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "dünn, schwach, fein",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "2.2 MKtn.",
+                "5.4 Mühlv.",
+                "6.1 Mostv.",
+                "6.3 Waldv.",
+                "6.4 Weinv.",
+                "1C.2 mNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k465_qdb-d1e11270",
+                    "Belegsatz": "ein Geschirr, ein Wagen, aber auch ein Haus kann kheisch gebaut sein, also leicht zerbrechlich",
+                    "Herkunftsort": "2.2c03 Trebesing"
+                },
+                {
+                    "ID": "k465_qdb-d1e11183",
+                    "Belegsatz": "kaischė [pl1,fl] H.;kaische pl1,fl H.",
+                    "Herkunftsort": "5.4h09 Schwertberg"
+                }
+            ],
+            "Belege": [
+                "Liste aller zugeordneten IDs"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "schlank, geschmeidig",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.2 mNTir.",
+                "5.1 Innv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k465_qdb-d1e9516",
+                    "Belegsatz": "schmal, schlank (von jungen Mädchen besonders)",
+                    "Herkunftsort": "5.1c07 Mühlheim am Inn"
+                }
+            ],
+            "Belege": [
+                "Liste aller zugeordneten IDs"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "zart, gebrechlich",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "3.2 mbair.ObStmk.",
+                "6.4 Weinv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k465_qdb-d1e12445",
+                    "Belegsatz": "ein zartes Uhrgehäuse",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "Liste aller zugeordneten IDs"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "schwach, dürftig",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.1 Mostv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k465_qdb-d1e8956",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.1r02 Sieghartskirchen"
+                }
+            ],
+            "Belege": [
+                "Liste aller zugeordneten IDs"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "keusch = mager",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "weitere Bedeutung 1",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "k465_qdb-d1e11600",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "Liste aller zugeordneten IDs"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,255 @@
+{
+    "Lemma": "keuen",
+    "POS": "Verb",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "kauen",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A",
+                "1B",
+                "1C",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k480_qdb-d1e32029",
+                    "Belegsatz": "Boaner kuien kennen;",
+                    "Herkunftsort": "1A.1 wSTir."
+                },
+                {
+                    "ID": "k480_qdb-d1e30730",
+                    "Belegsatz": "kauen;",
+                    "Herkunftsort": "1A.4 öSTir."
+                }
+            ],
+            "Belege": [
+                "k480_qdb-d1e32029",
+                "k480_qdb-d1e30730"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "wiederkäuen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "7.1 NBgl."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k480_qdb-d1e31974",
+                    "Belegsatz": "wiederkäuen;",
+                    "Herkunftsort": "7.1 NBgl."
+                }
+            ],
+            "Belege": [
+                "k480_qdb-d1e31974"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "beißen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "2.2 MKtn.",
+                "6.1 Mostv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k480_qdb-d1e38919",
+                    "Belegsatz": "beißen, kauen;",
+                    "Herkunftsort": "3.1 sbair.ObStmk."
+                },
+                {
+                    "ID": "k480_qdb-d1e38836",
+                    "Belegsatz": "für die Kinder tuat ma Semmel vor-koinan , in an Fleck einbintn u. als Zutzerle gebn;",
+                    "Herkunftsort": "2.2 MKtn."
+                }
+            ],
+            "Belege": [
+                "k480_qdb-d1e38919",
+                "k480_qdb-d1e38836"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Nägel beißen/abbeißen, an Nägeln kauen",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "differenzierte Bedeutung",
+            "Regionen": [
+                "6.5 Wien",
+                "1C.2 mNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k480_qdb-d1e35841",
+                    "Belegsatz": "dⁱ Nēgl̥n̥ khåᵘn [I];",
+                    "Herkunftsort": "6.5 Wien"
+                },
+                {
+                    "ID": "k480_qdb-d1e36076",
+                    "Belegsatz": "an den Nägeln kauen;",
+                    "Herkunftsort": "1A.1 wSTir."
+                }
+            ],
+            "Belege": [
+                "k480_qdb-d1e35841",
+                "k480_qdb-d1e36076"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Tabak kauen",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "differenzierte Bedeutung",
+            "Regionen": [
+                "6.3 Waldv.",
+                "6.4 Weinv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k480_qdb-d1e40053",
+                    "Belegsatz": "[Tabak kauen ];",
+                    "Herkunftsort": "6.3 Waldv."
+                },
+                {
+                    "ID": "k480_qdb-d1e40113",
+                    "Belegsatz": "[Tabak kauen ];",
+                    "Herkunftsort": "6.4 Weinv."
+                }
+            ],
+            "Belege": [
+                "k480_qdb-d1e40053",
+                "k480_qdb-d1e40113"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "gekautes Brot",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "weitere Bedeutung 1",
+            "Regionen": [
+                "5.3 Traunv.",
+                "6.1 Mostv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "e215_qdb-d1e89739",
+                    "Belegsatz": "gekautes Brot;",
+                    "Herkunftsort": "3.2 mbair.ObStmk."
+                },
+                {
+                    "ID": "k480_qdb-d1e34656",
+                    "Belegsatz": "Es isch schun gikoit [P2] , man braucht's lei zi schlinn, / A Schnittla, a Knofla, a Zwifl isch drinn;",
+                    "Herkunftsort": "1A.4 öSTir."
+                }
+            ],
+            "Belege": [
+                "e215_qdb-d1e89739",
+                "k480_qdb-d1e34656"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "essen mit Widerwillen und Brechreiz",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "weitere Bedeutung 2",
+            "Regionen": [
+                "1C.3 öNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k480_qdb-d1e36540",
+                    "Belegsatz": "essen mit Widerwillen und Brechreiz;",
+                    "Herkunftsort": "1C.3 öNTir."
+                }
+            ],
+            "Belege": [
+                "k480_qdb-d1e36540"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "mummeln",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "weitere Bedeutung 3",
+            "Regionen": [
+                "6.4 Weinv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k480_qdb-d1e39369",
+                    "Belegsatz": "orig: ich muß gerade gleich kauen, ich muß gerade gleich mummeln;",
+                    "Herkunftsort": "3.1 sbair.ObStmk."
+                }
+            ],
+            "Belege": [
+                "k480_qdb-d1e39369"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Kaupech beißen",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "weitere Bedeutung 4",
+            "Regionen": [
+                "2.1 ObKtn."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k480_qdb-d1e38969",
+                    "Belegsatz": "Fichtenpech beißen;",
+                    "Herkunftsort": "2.1 ObKtn."
+                }
+            ],
+            "Belege": [
+                "k480_qdb-d1e38969"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "häßlich kauen, häßlich beißen",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "weitere Bedeutung 5",
+            "Regionen": [
+                "2.1 ObKtn."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k480_qdb-d1e38784",
+                    "Belegsatz": "häßlich kauen, häßlich beißen;",
+                    "Herkunftsort": "2.1 ObKtn."
+                }
+            ],
+            "Belege": [
+                "k480_qdb-d1e38784"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Nägelkauen",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "weitere Bedeutung 6",
+            "Regionen": [
+                "1C.3 öNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k480_qdb-d1e44065",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.3 öNTir."
+                }
+            ],
+            "Belege": [
+                "k480_qdb-d1e44065"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "weitere Bedeutung 7",
+            "Regionen": [],
+            "Belegsaetze": [],
+            "Belege": []
+        }
+    ]
+}

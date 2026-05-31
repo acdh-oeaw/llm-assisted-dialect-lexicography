@@ -1,0 +1,157 @@
+{
+    "Lemma": "grob",
+    "POS": "Adj",
+    "Genus": "null",
+    "Kasus": "null",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "unfein, rau, häßlich",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.3 Traunv.",
+                "5.1 Innv.",
+                "6.4 Weinv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g347_qdb-d1e4353",
+                    "Belegsatz": "grob [P]   is d' Haud, wąn's fo Wimməʳl odəʳ wán's grötzö is",
+                    "Herkunftsort": "5.3b02 Gmunden"
+                },
+                {
+                    "ID": "g347_qdb-d1e6480",
+                    "Belegsatz": "i bi jǫ ts grob [P]",
+                    "Herkunftsort": "5.1c07 Mühlheim am Inn"
+                }
+            ],
+            "Belege": [
+                "g347_qdb-d1e4353",
+                "g347_qdb-d1e6480"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "geizig",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.1 Innv.",
+                "5.2 Hausrv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g347_qdb-d1e9197",
+                    "Belegsatz": "grob [P]   sein",
+                    "Herkunftsort": "5.1c07 Mühlheim am Inn"
+                },
+                {
+                    "ID": "g347_qdb-d1e23250",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.1c07 Mühlheim am Inn"
+                }
+            ],
+            "Belege": [
+                "g347_qdb-d1e9197",
+                "g347_qdb-d1e23250"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "groß, stark (Körperbau)",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                ""
+            ],
+            "Belegsaetze": [],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "schlecht, regnerisch (Wetter); Unwetter",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.1 Innv.",
+                "3.4 MStmk."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g347_qdb-d1e768",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.2b46 Weibern"
+                },
+                {
+                    "ID": "g347_qdb-d1e1933",
+                    "Belegsatz": "",
+                    "Herkunftsort": "3.4d01 Graz"
+                }
+            ],
+            "Belege": [
+                "g347_qdb-d1e768",
+                "g347_qdb-d1e1933"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "unordentlich, verwahrlost (Acker)",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.3 öNTir.",
+                "6.1 Mostv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g347_qdb-d1e1496",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.3 öNTir.; 1C.3f02 Hopfgarten im Brixental"
+                },
+                {
+                    "ID": "g347_qdb-d1e17C4a (F2)",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.1b01 Haag"
+                }
+            ],
+            "Belege": [
+                "g347_qdb-d1e1496",
+                "g347_qdb-d1e17C4a (F2)"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "grobknochig, eckig",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.3 öNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g347_qdb-d1e8577",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.3e12 Schwoich"
+                }
+            ],
+            "Belege": [
+                "g347_qdb-d1e8577"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "häßlich, ekelhaft, abscheulich; ungeschliffen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                ""
+            ],
+            "Belegsaetze": [],
+            "Belege": []
+        },
+        {
+            "Bedeutungsphrase": "stark, sehr (verstärkend)",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "weitere Bedeutung 1",
+            "Regionen": [
+                "5.2 Hausrv."
+            ],
+            "Belegsaetze": [],
+            "Belege": []
+        }
+    ]
+}

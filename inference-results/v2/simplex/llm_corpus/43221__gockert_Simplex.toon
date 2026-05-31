@@ -1,0 +1,69 @@
+Glossar:
+  Lemma: "'Lemma' beinhaltet sämtliche Einträge (inklusive Komposita und Wortbildungsvarianten), die einem bestimmten Lemma zugeordnet werden können. Zu diesem Zweck wurden alle Handzettel beziehungsweise die Einträge der Belegdatenbank lemmatisiert und nach historisch-etymologischen Gesichtspunkten - also linguistischen Prinzipien - einem Hauptlemma zugeordnet."
+  Fragebogennummer: "Auflistung von relevanten Fragebogennummern und Beschreibungen:\n* **26P32 (2):** gogget/goggig (zu Gogge \"Eiterkern\"); Bed.; Füg.\n* **26P32:** gogget/goggig (zu Gogge \"Eiterkern\"); Bed.; Füg.\n* **25N34:** Seuer(lein)/Sire(lein) \"Hautkrankh.\"; Ltg.; Bed.\n* **25N16:** pöppelicht/pöppelet (zu Poppe \"Hautwimmerl\")\n* **25N13 (1):** voll Wimmerln (wimmerig/-a-,); e. Wimmeriger\n* **1G24:** Pusteln (im Gesicht)\n* **25N14:** wimmerlet \"voll Wimmerln\"; e. Wimmerleter; Syn.\n* **25N13:** voll Wimmerln (wimmerig/-a-,); e. Wimmeriger\n* **26P32 (erg.):** gogget/goggig (zu Gogge \"Eiterkern\"); Bed.; Füg.\n* **26P32 (korr.):** gogget/goggig (zu Gogge \"Eiterkern\"); Bed.; Füg.\n* **12A18:** v. Pusteln/Hautwucherg entstellte Nase; -nasig; Nasenschwulst\n"
+  Part_of_Speech: Diese Angabe benennt die Wortart des jeweiligen Belegs.
+  Bedeutung_der_Lautung: Diese Information beschreibt die Bedeutung der Lautungsangabe auf dem Beleg.
+  Bedeutung_des_Belegsatzes: "Diese Information beschreibt die Bedeutung des in Spalte \"Belegsatz 1\", \"Belegsatz 2\" etc. angegebenen Belegsatzes. Es kann sich dabei um eine direkte standardsprachliche Übersetzung, eine standardsprachliche Periphrase oder um einen metasprachlichen Kommentar handeln."
+  Belegsatz_1: "Dieser Eintrag gibt einen Belegsatz, eine Redewendung oder eine Paraphrase wider, um die Bedeutung des Belegs exemplarisch darzustellen bzw. näher zu kontextualisieren. Der Belegsatz ist in der Regel im Dialekt angegeben und in der Lautschrift Teuthonista verschriftlicht."
+  Belegsatz_2: Belegsatz 2 weist dieselbe Funktionalität auf wie Belegsatz 1.
+  Sammlung: Eine Sammlung bündelt einzelne Einträge nach lexikographisch sinnvollen Gesichtspunkten. Alle Einträge der Sammlung teilen diese Gesichtspunkte.
+  Lautung_1: "Die angegebene Information umfasst die lautliche Transkription des vorliegenden Belegs. Die Transkription wurde auf der Grundlage eines Lautschriftsystems notiert, das jenem der Teuthonista gleicht oder zumindest ähnelt. Da die Datengrundlage des WBÖ auf unterschiedlichsten Quellen basiert und die Erhebungen der Fragebögen häufig von Laien-Sammlerinnen und -sammlern durchgeführt wurden, können sich Uneinheitlichkeiten bei der Transkription ergeben."
+  Lautung_2: Lautung 2 weist dieselbe Funktionalität auf wie Lautung 1.
+  Anmerkung: Zusätzliche Anmerkung über den Beleg.
+  Diverses: Zusätzliche undefinierte Anmerkung über den Beleg.
+  Substantiv: Dieser Beleg zählt zur Wortart Substantiv.
+  Verb: Dieser Beleg zählt zur Wortart Verb.
+  Adjektiv: Dieser Beleg zählt zur Wortart Adjektiv.
+  Adverb: Dieser Beleg zählt zur Wortart Adverb.
+  Praeposition: Dieser Beleg zählt zur Wortart Präposition.
+  Konjunktion: Dieser Beleg zählt zur Wortart Konjunktion.
+  Pronomen: Dieser Beleg zählt zur Wortart Pronomen.
+  Interjektion: Dieser Beleg zählt zur Wortart Interjektion.
+  Partikel: Dieser Beleg zählt zur Wortart Partikel.
+  Geschlecht: "Das grammatische Geschlecht eines Wortes wird in der Fachsprache als Genus bezeichnet. Im Deutschen gibt es drei Genera: Maskulinum (männlich), Femininum (weiblich) und Neutrum (sächlich). Das Genus eines Substantivs wird oft durch den Artikel (der, die, das) angezeigt."
+  Bedeutung: "Semantik, auch Bedeutungslehre genannt, ist die wissenschaftliche Beschäftigung mit Bedeutung und mit den verschiedenen Beziehungen zwischen einem Zeichen und dem Bezeichneten. In den Wörterbuchartikeln gehört die Angabe der Bedeutung bzw. Bedeutungen eines Wortes zu den zentralen Inhalten."
+  Belegsatz: "Ein Belegsatz1 oder Belegsatz2  wird verwendet, um die Bedeutung des Beleg in Form eines Satzes exemplarisch zu verdeutlichen. In den Daten wird statt der Bezeichnung \"Beispielsatz\" auch die Bezeichnung \"Belegsatz\" verwendet."
+  Wortvarianten: Unterschiedliche Varianten eines Wortes.
+  Woerterbuchartikel: "Eine strukturierte Beschreibung eines Lemmas, die Angaben zu Bedeutung (bzw. Bedeutungen), Aussprache, Grammatik, Verbreitung, Etymologie sowie ggfs. Wortbildungen und Redewendungen enthält."
+  Quelle_Datenbank: "Es handelt sich hierbei um eine formalisierte Angabe der geographischen Zuordnung des Belegs. Diese Besteht aus einer Sigle sowie einer in Abkürzungen formulierten und ggfs. hierarchisch (Gemeinde, Kleinregion, Großregion, Bundesland) gegliederten Verschriftlichung der geographischen Zuordnung."
+  CollectionCat: "Die CollectionCat (Abkürzung für Collection Categorizer) ist eine Software-Applikation, die zum Kategorisieren und Zusammenfassen von Belegen im Rahmen der lexikographischen Arbeit genutzt wird."
+  Simplex: "Ein Simplex ist ein einfaches Wort oder Lexem, das weder abgeleitet noch zusammengesetzt ist."
+  Kompositum: Ein Kompositum ist ein aus bereits vorhandenen Wörtern zusammengesetztes komplexes Wort. Der zugrunde liegende Wortbildungsprozess wird Komposition genannt.
+  Derivation: "Eine Derivation ist das Ergebnis eines Wortbildungsprozesses, bei dem durch Anhängen eines Affixes (Präfix, Suffix oder Zirkumfix) aus einem Wort ein neues Wort gebildet wird."
+  Grossregion: "Das Bearbeitungsgebiet (Großregion1 und Großregion2) des WBÖ ist regional untergliedert. Jeder regionalen Einheit ist eine eindeutige Sigle zugeordnet. Die größte regionale Einheit stellt dabei das \"Bundesland\" dar, welches folgendermaßen unterteilt ist: Südtirol (Sigle 1A), Osttirol (Sigle 1B), Nordtirol (Sigle 1C), Kärnten (Sigle 2), Steiermark (Sigle 3), Salzburg (Sigle 4), Oberösterreich (Sigle 5), Niederösterreich (Sigle 6), Wien (Sigle 6.5) sowie Burgenland (Sigle 7). \nDie zweitgrößte regionale Einheit ist die \"Großregion\", welche die Bundesländer in weitere Teilbereiche untergliedert. \nDie drittgrößte regionale Einheit ist die \"Kleinregion\", welche die Großregionen in weitere Teilbereiche untergliedert.\nDie viertgrößte regionale Einheit ist die \"Gemeinde\", welche die Kleinregionen in weitere Teilbereiche untergliedert."
+  Herkunftsort: "Geographische Lokation, aus der ein Beleg stammt. Die Angabe erfolgt auf der jeweils spezifischsten verfügbaren Ebene: Ist eine Gemeinde bekannt, wird diese angegeben; andernfalls eine Kleinregion, eine Großregion oder - als letzte Möglichkeit - das Bundesland."
+Belege[34]{ID,Fragebogennummer,Lemma,POS,Bedeutung_des_Belegsatzes,Bedeutung_der_Lautung,Belegsatz1,Belegsatz2,Lautung1,Lautung2,"Großregion",Herkunftsort,Diverses,Anmerkung}:
+  g335_qdb-d1e4792,26P32 (2);,gockecht;,Adj;,"Schade, daß die Marie so voll Goggen ist - O die vergehen schon wieder;","","s Moidele war schu recht, wen̄s la nöt sȯvl gȯgget [P]   war - O de Gȯggn vrgiehn̨ schuⁿ widr;s Moidele war schun recht, wens la nöt sovl gogget P war  O de Goggn vrgiehn schun widr;","","","",1A.2 mSTir.;,1A.3b01 Sarntal;,"",""
+  g335_qdb-d1e5037,26P32;,gockecht;,Adj;,"",voll Goggen sein;,"","","","",1A.1 wSTir.;,"","",""
+  g335_qdb-d1e4336,"",gockecht;,Adj;,"",mit kleinen Geschüren versehen;mit kleinen Geschüren versehen;,"","","","","","","",""
+  g335_qdb-d1e4359,25N34;,gockecht;,Adj;,"","","a goggats [P,n,fl]   Mensch;a goggats P,n,fl Mensch;","","","",1C.1 wNTir.;,1C.1m06 Nauders;,"",""
+  g335_qdb-d1e4414,25N16;,gockecht;,Adj;,"","","","","","",1C.3 öNTir.;1C.3 öNTir.;,1C.3f02 Hopfgarten im Brixental;1C.3i05 St. Johann in Tirol;,"",""
+  g335_qdb-d1e4437,25N13 (1);,gockecht;,Adj;,Na hat der Bub viele Wimmerl!;,wimmerig;Mensch mit Wimmerln;,"Na ist der Bua asoᵘ gȯggėt [P]   !;Na ist der Bua asou gogget P !;","","","",1A.2 mSTir.;,1A.3b01 Sarntal;,"",""
+  g335_qdb-d1e4504,1G24;,gockecht;,Adj;,"",voll Pusteln;,"","","","",1C.3 öNTir.;,1C.3i03 Kitzbühel;,"",""
+  g335_qdb-d1e4557,1G24;,gockecht;,Adj;,Gesicht mit Pusteln;,"","a goggəts [P,n,fl]   Gsicht;a goggets P,n,fl Gsicht;","","","",1C.3 öNTir.;,1C.3e12 Schwoich;,"",""
+  g335_qdb-d1e4529,1G24;,gockecht;,Adj;,"","","a sölla goggatr [P,m,fl]   Trak [\"Drache\"];a sölla goggatr P,m,fl Trak Drache;","","","",1C.1 wNTir.;,1C.1m06 Nauders;,"",""
+  g335_qdb-d1e4587,"",gockecht;,Adj;,"","voll Wimmerln, und Asschlag;","","","","",1C.1 wNTir.;,1C.1m06 Nauders;,"",""
+  g335_qdb-d1e4742,26P32;,gockecht;,Adj;,"",gogget;,"","","","",1A.4 öSTir.;,1A.4g01 Gsies;,"",""
+  g335_qdb-d1e4767,26P32;,gockecht;,Adj;,"",mit Wimmerln o.dgl. behaftet;,"","","","",1C.3 öNTir.;,1C.3e12 Schwoich;,"",""
+  g335_qdb-d1e4822,26P32;,gockecht;,Adj;,"","","","","","",1C.3 öNTir.;,1C.3b03 Thiersee;,"",""
+  g335_qdb-d1e4932,26P32;,gockecht;,Adj;,"","","","","","",4.2 Pinzg.;,4.2a03 Krimml;,"",""
+  g335_qdb-d1e4991,26P32;,gockecht;,Adj;,"","\"ggogget\" = mit vertrockneten Krätzen, Pusteln behaftet;ggogget = mit vertrockneten Krätzen, Pusteln behaftet;","","","","",2.2 MKtn.;2.2 MKtn.;2.2 MKtn.;2.2 MKtn.;,"","",""
+  g335_qdb-d1e5014,26P32;,gockecht;,Adj;,"","","","","","",2.1 ObKtn.;,2.1b04 Rangersdorf;,"",""
+  g335_qdb-d1e4479,25N14;,gockecht;,Adj;,"",ein Mensch mit Wimmerln;,"","","","",1C.3 öNTir.;,1C.3e12 Schwoich;,"",""
+  g335_qdb-d1e17790,25N13;,gǫckecht;gockecht;,Adj;,"","für: \"wimmerig\";für: wimmerig;","","","","",1C.3 öNTir.;,1C.3d02 Wildschönau;,"",""
+  g335_qdb-d1e4610,26P32;,gockecht;,Adj;,"","goggat;wenig entwickeltANMO: übertr.;wenig entwickelt ANM O: übertr.;","","","","",1A.4 öSTir.;,1A.4d02 Kiens;,"",""
+  g335_qdb-d1e4690,26P32;,gockecht;,Adj;,"",gogget;,"","","","",2.1 ObKtn.;,2.1b06 Winklern;,"",""
+  g335_qdb-d1e4717,26P32 (erg.);,gockecht;,Adj;,"",mit Eiterknötchen behaftet;mit Eiterknötchen behaftet;,"","","","",1A.1 wSTir.;,1A.1d03 Schlanders;,"",""
+  g335_qdb-d1e4640,26P32;,gockecht;,Adj;,"","mit vielen Goggen, Geschwüren behaftet;mit vielen Goggen, Geschwüren behaftet;","","","","",1C.3 öNTir.;,1C.3k01 Fieberbrunn;,"",""
+  g335_qdb-d1e4846,26P32;,gockecht;,Adj;,goggig sein;,"","gōggat [P]   seiⁿ;goggat P sein;","","","",1C.3 öNTir.;,1C.3e06 Kufstein;,"",""
+  g335_qdb-d1e5087,26P32 (korr.);,gockecht;,Adj;,"der mehre \"Goggen\" im Gesicht hat;","","A goggets [P,n,fl]   Gsicht;A goggets P,n,fl Gsicht;","","","",1C.3 öNTir.;1C.3 öNTir.;,1C.3f02 Hopfgarten im Brixental;1C.3i05 St. Johann in Tirol;,"",""
+  g335_qdb-d1e14773,1G24;,gǫckecht;gockecht;,Adj;,"","","","","","",1C.3 öNTir.;,1C.3i03 Kitzbühel;,"",""
+  g335_qdb-d1e14826,1G24;,gǫckecht;gockecht;,Adj;,"","","a sölla goggatr [P,m,fl]   Trak [\"Drache\"];a sölla goggatr P,m,fl Trak Drache;","","","",1C.1 wNTir.;,1C.1m06 Nauders;,"",""
+  k503_qdbn-d16e26902,25N34;,Kogen;,Subst;,gogiger Kerl;,"","goggătr Koga [m];goggatr Koga m;","","","",1C.1 wNTir.;,1C.1m06 Nauders;,"",""
+  g335_qdb-d1e5062,26P32;,gockecht;,Adj;,"",voll Wimmerln;,"","","","",2.1 ObKtn.;,2.1i01 Gitschtal;,"",""
+  k503_qdbn-d16e26931,25N34;,Mensch;,Subst;,"--;","",a goggăts Mensch;a goggats Mensch;,"","","",1C.1 wNTir.;,1C.1m06 Nauders;,"",""
+  g335_qdb-d1e5123,26P32;,gockecht;,Adj;,"","","a goggets [P,n,fl]   Ksicht;a goggets P,n,fl Ksicht;","","","",2.1 ObKtn.;,2.1b04 Rangersdorf;,"",""
+  g335_qdb-d1e5154,12A18;,gockecht;,Adj;,"","","gokətə [P,f,fl]   nọ̄sə;gokete P,f,fl nose;","","","",1C.2 mNTir.;,1C.2h02 Matrei am Brenner;,"",""
+  g335_qdb-d1e5215,12A18;,gockecht;,Adj;,"","","gōggătö [P,f,fl]   Nǫsn;goggatö P,f,fl Nosn;","","","",1C.3 öNTir.;,1C.3e06 Kufstein;,"",""
+  g335_qdb-d1e4955,26P32;,gockecht;,Adj;,"orig: Es wird gogget;translated: es bekommt einen Eiterkern;",gogget;,"S wĭard gŏggăd [P];S wiard googgad P;","","","",6.2 Industriev.;,6.2e04 Rohr im Gebirge;,"",""
+  g335_qdb-d1e4902,26P32;,gockecht;,Adj;,Er ist voll Goggen im Gesicht;,"","Er is ganz gogget [P]   ön Gsicht!;Er is ganz gogget P ön Gsicht!;","","","",4.5 Flachg.;,4.5d05 St. Gilgen;,"",""

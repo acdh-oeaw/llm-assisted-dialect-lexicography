@@ -1,0 +1,87 @@
+{
+    "Lemma": "giftig",
+    "POS": "Adj",
+    "Genus": "null",
+    "Kasus": "null",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "zornig, ärgerlich",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.4 Weinv.",
+                "6.3 Waldv.",
+                "5.1 Innv.",
+                "6.2 Industriev."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g327_qdb-d1e42753",
+                    "Belegsatz": "is ɒ giftėnė [P,f,fl] wuɒtsn",
+                    "Herkunftsort": "3.4 MStmk.; Graz"
+                }
+            ],
+            "Belege": [
+                "g327_qdb-d1e42753",
+                "g327_qdb-d1e42921",
+                "g327_qdb-d1e40161"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "giftig, schädlich",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.2 Industriev.",
+                "1C.2 mNTir.",
+                "4.2 Pinzg."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g327_qdb-d1e42042",
+                    "Belegsatz": "gīftĭgĭ [P,f,fl] W.",
+                    "Herkunftsort": "6.2 Industriev.; Rohr im Gebirge"
+                }
+            ],
+            "Belege": [
+                "g327_qdb-d1e42042",
+                "g327_qdb-d1e41916",
+                "g327_qdb-d1e41884"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "stechlustig, gereizt",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.4 Weinv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g327_qdb-d1e41769",
+                    "Belegsatz": "die Bienen sind giftig (gereizt)",
+                    "Herkunftsort": "6.4k01 Angern an der March"
+                }
+            ],
+            "Belege": [
+                "g327_qdb-d1e41769"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Tollkirsche",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "weitere Bedeutung 1",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "g327_qdb-d1e43801",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g327_qdb-d1e43801"
+            ]
+        }
+    ]
+}

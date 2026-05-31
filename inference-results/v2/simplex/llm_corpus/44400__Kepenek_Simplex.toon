@@ -1,0 +1,66 @@
+Glossar:
+  Lemma: "'Lemma' beinhaltet sämtliche Einträge (inklusive Komposita und Wortbildungsvarianten), die einem bestimmten Lemma zugeordnet werden können. Zu diesem Zweck wurden alle Handzettel beziehungsweise die Einträge der Belegdatenbank lemmatisiert und nach historisch-etymologischen Gesichtspunkten - also linguistischen Prinzipien - einem Hauptlemma zugeordnet."
+  Fragebogennummer: "Auflistung von relevanten Fragebogennummern und Beschreibungen:\n* **43A44:** gehn in Komp. (Gehschule, -werk, Gehwégtag,)\n* **1A1:** Kopf, Haupt; auch scherzh./übertr.\n* **41C34:** Mantel; M.Arten (Rad, Mentschikow, Überzieher,)\n* **EFb.5/41:** Wagenkorb b.Laub-/Holzkohlenführen (Flechte,)\n* **1A1 (F4):** Kopf, Haupt; auch scherzh./übertr.\n"
+  Part_of_Speech: Diese Angabe benennt die Wortart des jeweiligen Belegs.
+  Bedeutung_der_Lautung: Diese Information beschreibt die Bedeutung der Lautungsangabe auf dem Beleg.
+  Bedeutung_des_Belegsatzes: "Diese Information beschreibt die Bedeutung des in Spalte \"Belegsatz 1\", \"Belegsatz 2\" etc. angegebenen Belegsatzes. Es kann sich dabei um eine direkte standardsprachliche Übersetzung, eine standardsprachliche Periphrase oder um einen metasprachlichen Kommentar handeln."
+  Belegsatz_1: "Dieser Eintrag gibt einen Belegsatz, eine Redewendung oder eine Paraphrase wider, um die Bedeutung des Belegs exemplarisch darzustellen bzw. näher zu kontextualisieren. Der Belegsatz ist in der Regel im Dialekt angegeben und in der Lautschrift Teuthonista verschriftlicht."
+  Belegsatz_2: Belegsatz 2 weist dieselbe Funktionalität auf wie Belegsatz 1.
+  Sammlung: Eine Sammlung bündelt einzelne Einträge nach lexikographisch sinnvollen Gesichtspunkten. Alle Einträge der Sammlung teilen diese Gesichtspunkte.
+  Lautung_1: "Die angegebene Information umfasst die lautliche Transkription des vorliegenden Belegs. Die Transkription wurde auf der Grundlage eines Lautschriftsystems notiert, das jenem der Teuthonista gleicht oder zumindest ähnelt. Da die Datengrundlage des WBÖ auf unterschiedlichsten Quellen basiert und die Erhebungen der Fragebögen häufig von Laien-Sammlerinnen und -sammlern durchgeführt wurden, können sich Uneinheitlichkeiten bei der Transkription ergeben."
+  Lautung_2: Lautung 2 weist dieselbe Funktionalität auf wie Lautung 1.
+  Anmerkung: Zusätzliche Anmerkung über den Beleg.
+  Diverses: Zusätzliche undefinierte Anmerkung über den Beleg.
+  Substantiv: Dieser Beleg zählt zur Wortart Substantiv.
+  Verb: Dieser Beleg zählt zur Wortart Verb.
+  Adjektiv: Dieser Beleg zählt zur Wortart Adjektiv.
+  Adverb: Dieser Beleg zählt zur Wortart Adverb.
+  Praeposition: Dieser Beleg zählt zur Wortart Präposition.
+  Konjunktion: Dieser Beleg zählt zur Wortart Konjunktion.
+  Pronomen: Dieser Beleg zählt zur Wortart Pronomen.
+  Interjektion: Dieser Beleg zählt zur Wortart Interjektion.
+  Partikel: Dieser Beleg zählt zur Wortart Partikel.
+  Geschlecht: "Das grammatische Geschlecht eines Wortes wird in der Fachsprache als Genus bezeichnet. Im Deutschen gibt es drei Genera: Maskulinum (männlich), Femininum (weiblich) und Neutrum (sächlich). Das Genus eines Substantivs wird oft durch den Artikel (der, die, das) angezeigt."
+  Bedeutung: "Semantik, auch Bedeutungslehre genannt, ist die wissenschaftliche Beschäftigung mit Bedeutung und mit den verschiedenen Beziehungen zwischen einem Zeichen und dem Bezeichneten. In den Wörterbuchartikeln gehört die Angabe der Bedeutung bzw. Bedeutungen eines Wortes zu den zentralen Inhalten."
+  Belegsatz: "Ein Belegsatz1 oder Belegsatz2  wird verwendet, um die Bedeutung des Beleg in Form eines Satzes exemplarisch zu verdeutlichen. In den Daten wird statt der Bezeichnung \"Beispielsatz\" auch die Bezeichnung \"Belegsatz\" verwendet."
+  Wortvarianten: Unterschiedliche Varianten eines Wortes.
+  Woerterbuchartikel: "Eine strukturierte Beschreibung eines Lemmas, die Angaben zu Bedeutung (bzw. Bedeutungen), Aussprache, Grammatik, Verbreitung, Etymologie sowie ggfs. Wortbildungen und Redewendungen enthält."
+  Quelle_Datenbank: "Es handelt sich hierbei um eine formalisierte Angabe der geographischen Zuordnung des Belegs. Diese Besteht aus einer Sigle sowie einer in Abkürzungen formulierten und ggfs. hierarchisch (Gemeinde, Kleinregion, Großregion, Bundesland) gegliederten Verschriftlichung der geographischen Zuordnung."
+  CollectionCat: "Die CollectionCat (Abkürzung für Collection Categorizer) ist eine Software-Applikation, die zum Kategorisieren und Zusammenfassen von Belegen im Rahmen der lexikographischen Arbeit genutzt wird."
+  Simplex: "Ein Simplex ist ein einfaches Wort oder Lexem, das weder abgeleitet noch zusammengesetzt ist."
+  Kompositum: Ein Kompositum ist ein aus bereits vorhandenen Wörtern zusammengesetztes komplexes Wort. Der zugrunde liegende Wortbildungsprozess wird Komposition genannt.
+  Derivation: "Eine Derivation ist das Ergebnis eines Wortbildungsprozesses, bei dem durch Anhängen eines Affixes (Präfix, Suffix oder Zirkumfix) aus einem Wort ein neues Wort gebildet wird."
+  Grossregion: "Das Bearbeitungsgebiet (Großregion1 und Großregion2) des WBÖ ist regional untergliedert. Jeder regionalen Einheit ist eine eindeutige Sigle zugeordnet. Die größte regionale Einheit stellt dabei das \"Bundesland\" dar, welches folgendermaßen unterteilt ist: Südtirol (Sigle 1A), Osttirol (Sigle 1B), Nordtirol (Sigle 1C), Kärnten (Sigle 2), Steiermark (Sigle 3), Salzburg (Sigle 4), Oberösterreich (Sigle 5), Niederösterreich (Sigle 6), Wien (Sigle 6.5) sowie Burgenland (Sigle 7). \nDie zweitgrößte regionale Einheit ist die \"Großregion\", welche die Bundesländer in weitere Teilbereiche untergliedert. \nDie drittgrößte regionale Einheit ist die \"Kleinregion\", welche die Großregionen in weitere Teilbereiche untergliedert.\nDie viertgrößte regionale Einheit ist die \"Gemeinde\", welche die Kleinregionen in weitere Teilbereiche untergliedert."
+  Herkunftsort: "Geographische Lokation, aus der ein Beleg stammt. Die Angabe erfolgt auf der jeweils spezifischsten verfügbaren Ebene: Ist eine Gemeinde bekannt, wird diese angegeben; andernfalls eine Kleinregion, eine Großregion oder - als letzte Möglichkeit - das Bundesland."
+Belege[31]{ID,Fragebogennummer,Lemma,POS,Bedeutung_des_Belegsatzes,Bedeutung_der_Lautung,Belegsatz1,Belegsatz2,Lautung1,Lautung2,"Großregion",Herkunftsort,Diverses,Anmerkung}:
+  g323_qdb-d1e81915,"",Gepenek;,Subst;,"","weiter Männerüberrock, Art Mantel;weiter Männerüberrock, Art Mantel;","","","","","","","",""
+  g323_qdb-d1e81820,"",Gepenek;,Subst;,"",Männerüberrock; Reitmantel; Mantel;Männerüberrock Reitmantel Mantel;,"","","","","","","",""
+  g323_qdb-d1e81655,"",Gepenek;,Subst;,"",grober Mantel;,"","","","","","","",""
+  g323_qdb-d1e81487,43A44;,Gepenek;,Subst;,"","",Wos host du für an Gehbanek on?;Wos host du für an Gehbanek on?;,"","","",6.3 Waldv.;,6.3a24 Waldkirchen an der Thaya;,"",""
+  g323_qdb-d1e81940,"",Gepenek;,Subst;,"","",Wos hot denn der für an Gewanek on;Wos hot denn der für an Gewanek on;,"","","",6.3 Waldv.;,6.3a24 Waldkirchen an der Thaya;,"",""
+  g323_qdb-d1e81624,"",Gepenek;,Subst;,"",grober Mantel;,"","","","",6.5 Wien;,"","",""
+  g323_qdb-d1e81554,"",Gepenek;,Subst;,"",Überzieher;Überzieher;,"","","","",6.1 Mostv.;,6.1o01 Herzogenburg;,"",""
+  g323_qdb-d1e81726,"",Gepenek;,Subst;,"",langschössiger Rock bei Männern;langschössiger Rock bei Männern;,"","","","",6.4 Weinv.;,6.4d18 Poysdorf;,"",""
+  g323_qdb-d1e81963,1A1;,Gepenek;,Subst;,"",Kopf;,"","","","",3.2 mbair.ObStmk.;,3.2f02 Kapfenberg;,"",""
+  g323_qdb-d1e82662,"",Gepenek;,Subst;,"--;","","Olli meine Herrn, ihr wisst s' es eh, / I brauchat Feistling und an Kebaneh. / Des alloan is no nit gnua, / naucha Pudlhauben g'hert a dazua. / Hot neuni gschlogn;Olli meine Herrn, ihr wisst s es eh, / I brauchat Feistling und an Kebaneh. / Des alloan is no nit gnua, / naucha Pudlhauben ghert a dazua. / Hot neuni gschlogn;","","","","","","",""
+  g323_qdb-d1e82102,"",Gepenek;,Subst;,"",ein Winterrock mit ungarischer Verschnürung;ein Winterrock mit ungarischer Verschnürung;,"","","","",6.5 Wien;,"","",""
+  g323_qdb-d1e81865,41C34;,Gepenek;,Subst;,"",äußerst grober Wettermantel;äußerst grober Wettermantel;,"","","","","","","",""
+  g323_qdb-d1e82201,"",Gepenek;,Subst;,"","ein altes Kleidungsstück; ein alter, schäbiger Mantel oder Rock;ein altes Kleidungsstück ein alter, schäbiger Mantel oder Rock;",Wås håst denn heit' für an' ålt'n Ge̱wernek an?;Was hast denn heit für an altn Gewernek an?;,"","","",6.5 Wien;,"","",""
+  g323_qdb-d1e82373,"",Gepenek;,Subst;,"","",ain neuer weisser Göpenitz;ain neuer weisser Göpenitz;,"","","","","","",""
+  g323_qdb-d1e81380,"",Gepenek;,Subst;,"","ÜberrockANMO: scherzhaft;Überrock ANM O: scherzhaft;","","","","",6.3 Waldv.;,6.3c07 Weitra;,"",""
+  g323_qdb-d1e82235,"",Gepenek;,Subst;,"",Überrock;Überrock;,"","","","",6.5 Wien;,"","",""
+  g323_qdb-d1e82350,"",Gepenek;,Subst;,"","","","","","","","","",""
+  g323_qdb-d1e81533,"",Gepenek;,Subst;,"",Rock; Überrock;Rock Überrock;,"","","","",6.3 Waldv.;,6.3c07 Weitra;,"",""
+  g323_qdb-d1e81407,"",Gepenek;,Subst;,"",langer Überrock;langer Überrock;,"","","","","","","",""
+  g323_qdb-d1e81841,EFb.5/41;,Gepenek;,Subst;,"",Regenmantel;,"","","","",6.2 Industriev.;,6.2i28 Mannersdorf am Leithagebirge;,"",""
+  g323_qdb-d1e81993,1A1;,Gepenek;,Subst;,"",Gepanek;,"","","","",3.5 OStmk.;,3.5j04 Fehring;,"",""
+  g323_qdb-d1e82016,1A1 (F4);,Gepenek;,Subst;,"--;","KopfANMO: scherzhafte Koseform;",hǫuld her dein Gepaneg;hould her dein Gepaneg;,"","","",3.4 MStmk.;,3.4c14 Kirchbach-Zerlach;,"",""
+  g323_qdb-d1e82302,"",Gepenek;,Subst;,"","alter langer MännerrockANMO: scherzhaft DAFÜR;alter langer Männerrock ANM O: scherzhaft DAFÜR;","","","","",6.3 Waldv.;,6.3a04 Dobersberg;,"",""
+  g323_qdb-d1e81749,"",Gepenek;,Subst;,"",weiter Überrock;weiter Überrock;,"","","","",7.1 NBgl.;7.1 NBgl.;,"","",""
+  g323_qdb-d1e81582,"",Gepenek;,Subst;,"",Überrock; Mantel;Überrock Mantel;,Ziach do' nët den alt'n Gewernek an!;Ziach do net den altn Gewernek an!;,"","","",6.5 Wien;,"","",""
+  g323_qdb-d1e82398,"",Gepenek;,Subst;,"","","","","","","","","",""
+  g323_qdb-d1e81891,41C34;,Gepenek;,Subst;,"",äußerst grober Wettermantel;äußerst grober Wettermantel;,"","","","","","","",""
+  g323_qdb-d1e82596,"",Gepenek;,Subst;,"","langer, mit ungarischer Verschnürung versehener ÜberrockANMO: besonders Winterrock;langer, mit ungarischer Verschnürung versehener Überrock ANM O: besonders Winterrock;","","","","",6.5 Wien;,"","",""
+  g323_qdb-d1e82422,"",Gepenek;,Subst;,"","","","","","","","","",""
+  g323_qdb-d1e82637,"",Gepenek;,Subst;,"",Mantel;,"","","","",6.2 Industriev.;6.2 Industriev.;,6.2h28 Warth;6.2h28 Warth;,"",""
+  g323_qdb-d1e82697,"",Gepenek;,Subst;,"","","","","","","","","",""

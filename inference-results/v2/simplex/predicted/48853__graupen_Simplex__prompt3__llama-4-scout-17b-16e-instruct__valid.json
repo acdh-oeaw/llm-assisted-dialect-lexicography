@@ -1,0 +1,71 @@
+{
+    "Lemma": "graupen",
+    "POS": "Verb",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "sich breit machen oder ausbreiten",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.4 Mühlviertel",
+                "5.2 Hausruckviertel"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g343_qdb-d1e81908",
+                    "Belegsatz": "dəʳ Båöˡg graubd [sg3]   söᶜʰ;der Baölg graubd sg3 söch;",
+                    "Herkunftsort": "5.4a09 Niederkappel"
+                }
+            ],
+            "Belege": [
+                "g343_qdb-d1e81908",
+                "g343_qdb-d1e81782",
+                "g343_qdb-d1e81537",
+                "g343_qdb-d1e81579"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "sträuben (von Haaren oder Federn)",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.4 Mühlviertel",
+                "5.1 Innviertel",
+                "6.4 Weinviertel"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g343_qdb-d1e81654",
+                    "Belegsatz": "d Hen graupt [sg3]   sö;d Hen graupt sg3 sö;",
+                    "Herkunftsort": "5.4h06 Pabneukirchen"
+                }
+            ],
+            "Belege": [
+                "g343_qdb-d1e81654",
+                "g343_qdb-d1e81958",
+                "g343_qdb-d1e81629",
+                "g343_qdb-d1e79657"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "hageln",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "differenzierte Bedeutung",
+            "Regionen": [
+                "6.4 Weinviertel"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g343_qdb-d1e81558",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g343_qdb-d1e81558"
+            ]
+        }
+    ]
+}

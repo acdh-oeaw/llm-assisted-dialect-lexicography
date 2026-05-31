@@ -1,0 +1,54 @@
+Glossar:
+  Lemma: "'Lemma' beinhaltet sämtliche Einträge (inklusive Komposita und Wortbildungsvarianten), die einem bestimmten Lemma zugeordnet werden können. Zu diesem Zweck wurden alle Handzettel beziehungsweise die Einträge der Belegdatenbank lemmatisiert und nach historisch-etymologischen Gesichtspunkten - also linguistischen Prinzipien - einem Hauptlemma zugeordnet."
+  Fragebogennummer: "Auflistung von relevanten Fragebogennummern und Beschreibungen:\n* **52L27:** schlagen/hauen, Syn. (schneckern, pecken,); Abl\n"
+  Part_of_Speech: Diese Angabe benennt die Wortart des jeweiligen Belegs.
+  Bedeutung_der_Lautung: Diese Information beschreibt die Bedeutung der Lautungsangabe auf dem Beleg.
+  Bedeutung_des_Belegsatzes: "Diese Information beschreibt die Bedeutung des in Spalte \"Belegsatz 1\", \"Belegsatz 2\" etc. angegebenen Belegsatzes. Es kann sich dabei um eine direkte standardsprachliche Übersetzung, eine standardsprachliche Periphrase oder um einen metasprachlichen Kommentar handeln."
+  Belegsatz_1: "Dieser Eintrag gibt einen Belegsatz, eine Redewendung oder eine Paraphrase wider, um die Bedeutung des Belegs exemplarisch darzustellen bzw. näher zu kontextualisieren. Der Belegsatz ist in der Regel im Dialekt angegeben und in der Lautschrift Teuthonista verschriftlicht."
+  Belegsatz_2: Belegsatz 2 weist dieselbe Funktionalität auf wie Belegsatz 1.
+  Sammlung: Eine Sammlung bündelt einzelne Einträge nach lexikographisch sinnvollen Gesichtspunkten. Alle Einträge der Sammlung teilen diese Gesichtspunkte.
+  Lautung_1: "Die angegebene Information umfasst die lautliche Transkription des vorliegenden Belegs. Die Transkription wurde auf der Grundlage eines Lautschriftsystems notiert, das jenem der Teuthonista gleicht oder zumindest ähnelt. Da die Datengrundlage des WBÖ auf unterschiedlichsten Quellen basiert und die Erhebungen der Fragebögen häufig von Laien-Sammlerinnen und -sammlern durchgeführt wurden, können sich Uneinheitlichkeiten bei der Transkription ergeben."
+  Lautung_2: Lautung 2 weist dieselbe Funktionalität auf wie Lautung 1.
+  Anmerkung: Zusätzliche Anmerkung über den Beleg.
+  Diverses: Zusätzliche undefinierte Anmerkung über den Beleg.
+  Substantiv: Dieser Beleg zählt zur Wortart Substantiv.
+  Verb: Dieser Beleg zählt zur Wortart Verb.
+  Adjektiv: Dieser Beleg zählt zur Wortart Adjektiv.
+  Adverb: Dieser Beleg zählt zur Wortart Adverb.
+  Praeposition: Dieser Beleg zählt zur Wortart Präposition.
+  Konjunktion: Dieser Beleg zählt zur Wortart Konjunktion.
+  Pronomen: Dieser Beleg zählt zur Wortart Pronomen.
+  Interjektion: Dieser Beleg zählt zur Wortart Interjektion.
+  Partikel: Dieser Beleg zählt zur Wortart Partikel.
+  Geschlecht: "Das grammatische Geschlecht eines Wortes wird in der Fachsprache als Genus bezeichnet. Im Deutschen gibt es drei Genera: Maskulinum (männlich), Femininum (weiblich) und Neutrum (sächlich). Das Genus eines Substantivs wird oft durch den Artikel (der, die, das) angezeigt."
+  Bedeutung: "Semantik, auch Bedeutungslehre genannt, ist die wissenschaftliche Beschäftigung mit Bedeutung und mit den verschiedenen Beziehungen zwischen einem Zeichen und dem Bezeichneten. In den Wörterbuchartikeln gehört die Angabe der Bedeutung bzw. Bedeutungen eines Wortes zu den zentralen Inhalten."
+  Belegsatz: "Ein Belegsatz1 oder Belegsatz2  wird verwendet, um die Bedeutung des Beleg in Form eines Satzes exemplarisch zu verdeutlichen. In den Daten wird statt der Bezeichnung \"Beispielsatz\" auch die Bezeichnung \"Belegsatz\" verwendet."
+  Wortvarianten: Unterschiedliche Varianten eines Wortes.
+  Woerterbuchartikel: "Eine strukturierte Beschreibung eines Lemmas, die Angaben zu Bedeutung (bzw. Bedeutungen), Aussprache, Grammatik, Verbreitung, Etymologie sowie ggfs. Wortbildungen und Redewendungen enthält."
+  Quelle_Datenbank: "Es handelt sich hierbei um eine formalisierte Angabe der geographischen Zuordnung des Belegs. Diese Besteht aus einer Sigle sowie einer in Abkürzungen formulierten und ggfs. hierarchisch (Gemeinde, Kleinregion, Großregion, Bundesland) gegliederten Verschriftlichung der geographischen Zuordnung."
+  CollectionCat: "Die CollectionCat (Abkürzung für Collection Categorizer) ist eine Software-Applikation, die zum Kategorisieren und Zusammenfassen von Belegen im Rahmen der lexikographischen Arbeit genutzt wird."
+  Simplex: "Ein Simplex ist ein einfaches Wort oder Lexem, das weder abgeleitet noch zusammengesetzt ist."
+  Kompositum: Ein Kompositum ist ein aus bereits vorhandenen Wörtern zusammengesetztes komplexes Wort. Der zugrunde liegende Wortbildungsprozess wird Komposition genannt.
+  Derivation: "Eine Derivation ist das Ergebnis eines Wortbildungsprozesses, bei dem durch Anhängen eines Affixes (Präfix, Suffix oder Zirkumfix) aus einem Wort ein neues Wort gebildet wird."
+  Grossregion: "Das Bearbeitungsgebiet (Großregion1 und Großregion2) des WBÖ ist regional untergliedert. Jeder regionalen Einheit ist eine eindeutige Sigle zugeordnet. Die größte regionale Einheit stellt dabei das \"Bundesland\" dar, welches folgendermaßen unterteilt ist: Südtirol (Sigle 1A), Osttirol (Sigle 1B), Nordtirol (Sigle 1C), Kärnten (Sigle 2), Steiermark (Sigle 3), Salzburg (Sigle 4), Oberösterreich (Sigle 5), Niederösterreich (Sigle 6), Wien (Sigle 6.5) sowie Burgenland (Sigle 7). \nDie zweitgrößte regionale Einheit ist die \"Großregion\", welche die Bundesländer in weitere Teilbereiche untergliedert. \nDie drittgrößte regionale Einheit ist die \"Kleinregion\", welche die Großregionen in weitere Teilbereiche untergliedert.\nDie viertgrößte regionale Einheit ist die \"Gemeinde\", welche die Kleinregionen in weitere Teilbereiche untergliedert."
+  Herkunftsort: "Geographische Lokation, aus der ein Beleg stammt. Die Angabe erfolgt auf der jeweils spezifischsten verfügbaren Ebene: Ist eine Gemeinde bekannt, wird diese angegeben; andernfalls eine Kleinregion, eine Großregion oder - als letzte Möglichkeit - das Bundesland."
+Belege[19]{ID,Fragebogennummer,Lemma,POS,Bedeutung_des_Belegsatzes,Bedeutung_der_Lautung,Belegsatz1,Belegsatz2,Lautung1,Lautung2,"Großregion",Herkunftsort,Diverses,Anmerkung}:
+  k504_qdb-d1e41763,"",konfoien;,Verb;,"","zurechtrichten, durchprügeln;zurechtrichten, durchprügeln;","","","","","","","",""
+  k504_qdb-d1e41282,"",konfoien;,Verb;,"",prügeln;prügeln;,"","","","",6.4 Weinv.;,"","",""
+  k504_qdb-d1e41545,"",konfoien;,Verb;,"",prügeln;prügeln;,"","","","",6.4 Weinv.;,"","",""
+  k504_qdb-d1e41645,"",konfoien;,Verb;,"",begleiten;,"","","","",2.2 MKtn.;,"","",""
+  k504_qdb-d1e41317,"",konfoien;,Verb;,"",durchprügeln;durchprügeln;,"","","","",6.4 Weinv.;,6.4e09 Röschitz;,"",""
+  k504_qdb-d1e41343,"",konfoien;,Verb;,"",durchprügeln;durchprügeln;,"","","","","","","",""
+  k504_qdb-d1e41480,"",konfoien;,Verb;,"",prügeln;prügeln;,"","","","","","","",""
+  k504_qdb-d1e41581,"",konfoien;,Verb;,"",verjagen;,"","","","",1A.2 mSTir.;,1A.3i02 Kastelruth;,"",""
+  k504_qdb-d1e41676,"",konfoien;,Verb;,"","","","","","","","","",""
+  k504_qdb-d1e41790,"",konfoien;,Verb;,"",prügeln; verjagen; strafen;prügeln verjagen strafen;,"","","","","","","",""
+  k504_qdb-d1e41364,"",konfoien;,Verb;,"","prügeln, schlagen;prügeln, schlagen;","","","","",6.4 Weinv.;,"","",""
+  k504_qdb-d1e41387,"",konfoien;,Verb;,"",begleiten; fortjagen;begleiten fortjagen;,"","","","",2.1 ObKtn.;2.2 MKtn.;,"","",""
+  k504_qdb-d1e41444,52L27;,konfoien;,Verb;,jemand schlagen;,stärker schlagen;stärker schlagen;,"o͜an kumfoia [I];oan kumfoia I;","","","",6.4 Weinv.;,6.4a01 Retz;,"",""
+  k504_qdb-d1e41615,"",konfoien;,Verb;,"ich werde euch schon in Ordnung bringen, ICH WERDE EUCH SCHON strafen;","","î wear enk schon kumfoidn [I];i wear enk schon kumfoidn I;","","","",1A.2 mSTir.;,1A.3i02 Kastelruth;,"",""
+  k504_qdb-d1e41702,"",konfoien;,Verb;,"","zurechtrichten, prügeln;zurechtrichten, prügeln;","","","","","","","",""
+  k504_qdb-d1e41853,"",konfoien;,Verb;,"","(Leute) da und dort hinschicken, ohne ZweckANMB: Abk. aufgelöst;Leute da und dort hinschicken, ohne Zweck ANM B: Abk. aufgelöst;","","","","",5.1 Innv.;,"","",""
+  d191_qdb-d1e6243,"",konfóien;konfoien;,Verb;,"",vertreiben;,"","","","",1A.4 öSTir.;,1A.4d02 Kiens;,Etym. ebd.;,""
+  d191_qdb-d1e6275,"",konfóien;konfoien;,Verb;,"",hinausjagen;vertreiben;,"","","","",1A.4 öSTir.;,1A.4d02 Kiens;,"",""
+  k504_qdb-d1e41414,"",konfoien;,Verb;,"",jemanden prügeln und fortjagen;jemanden prügeln und fortjagen;,"","","","","","","",""

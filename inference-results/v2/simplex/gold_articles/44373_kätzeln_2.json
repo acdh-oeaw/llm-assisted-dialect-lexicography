@@ -1,0 +1,33 @@
+{
+  "Lemma": "kätzeln²",
+  "POS": "Verb",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "erbrechen; speien",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir.",
+        "p3 Stmk.",
+        "p5.2 Hausrv.",
+        "p6.2 Industriev."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "husten; sich räuspern",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p3 Stmk.",
+        "p5.2 Hausrv.",
+        "p6.2 Industriev."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

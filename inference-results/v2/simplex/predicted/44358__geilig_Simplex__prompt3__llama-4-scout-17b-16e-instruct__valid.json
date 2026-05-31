@@ -1,0 +1,157 @@
+{
+    "Lemma": "gēilig;geilig",
+    "POS": "Adj",
+    "Genus": "null",
+    "Kasus": "null",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "üppig, wässerig; überfett",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.4 Weinv.",
+                "5.2 Hausrv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g311_qdb-d1e82856",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.4f18 Spannberg"
+                },
+                {
+                    "ID": "g311_qdb-d1e48270",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.4e06 Hollabrunn"
+                }
+            ],
+            "Belege": [
+                "g311_qdb-d1e82856",
+                "g311_qdb-d1e48270"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "geil, üppig gewachsen (von Pflanzen)",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.4 Weinv.",
+                "5.1 Innv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g311_qdb-d1e83019",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.4i13 Stetten"
+                },
+                {
+                    "ID": "g297_qdb-d1e85206",
+                    "Belegsatz": "d' ə́sch'n wo̰xt go̰əlė",
+                    "Herkunftsort": "5.4c01 Eidenberg"
+                }
+            ],
+            "Belege": [
+                "g311_qdb-d1e83019",
+                "g297_qdb-d1e85206"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "fett, kräftig; fleischig, weich, zart",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.2 Hausrv.",
+                "6.4 Weinv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g311_qdb-d1e48436",
+                    "Belegsatz": "ein geiliger Baum hat gute Äpfel; ein gut gedüngter Baum trägt auch gute Früchte",
+                    "Herkunftsort": "5.2b44 Ungenach"
+                },
+                {
+                    "ID": "g311_qdb-d1e47186",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.2b46 Weibern"
+                }
+            ],
+            "Belege": [
+                "g311_qdb-d1e48436",
+                "g311_qdb-d1e47186"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "widerlich fett, geil; überfruchtbar",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.1 Innv.",
+                "6.2 Industriev."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g311_qdb-d1e47907",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.2a21 Natternbach"
+                },
+                {
+                    "ID": "g311_qdb-d1e48472",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.1e11 Suben"
+                }
+            ],
+            "Belege": [
+                "g311_qdb-d1e47907",
+                "g311_qdb-d1e48472"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "bitter, herb; wollüstig",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.2 Industriev.",
+                "6.5 Wien"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g311_qdb-d1e47813",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.2h03 Aspangberg-St. Peter"
+                },
+                {
+                    "ID": "g311_qdb-d1e47842",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g311_qdb-d1e47813",
+                "g311_qdb-d1e47842"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "sechuell überempfindlich, mannstoll; zu fett, üppig (von Speisen)",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.4 Weinv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g311_qdb-d1e48320",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "g311_qdb-d1e48497",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.1e11 Suben"
+                }
+            ],
+            "Belege": [
+                "g311_qdb-d1e48320",
+                "g311_qdb-d1e48497"
+            ]
+        }
+    ]
+}

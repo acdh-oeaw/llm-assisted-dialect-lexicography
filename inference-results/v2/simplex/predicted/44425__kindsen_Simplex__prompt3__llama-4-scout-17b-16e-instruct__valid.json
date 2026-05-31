@@ -1,0 +1,65 @@
+{
+    "Lemma": "kindsen",
+    "POS": "Verb",
+    "Genus": "Neutrum",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "ein Kind oder einen Säugling auf dem Arm tragen ",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.2 mNTir.",
+                "1C.3 öNTir.",
+                "4.5 Flachg."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k483_qdb-d1e44688",
+                    "Belegsatz": "den Säugling auf dem Arme tragen",
+                    "Herkunftsort": "Schwaz"
+                },
+                {
+                    "ID": "k483_qdb-d1e44763",
+                    "Belegsatz": "den Säugling auf dem Arm tragen",
+                    "Herkunftsort": "Eben am Achensee"
+                }
+            ],
+            "Belege": [
+                "k483_qdb-d1e43655",
+                "k483_qdb-d1e44080",
+                "k483_qdb-d1e44688",
+                "k483_qdb-d1e44763",
+                "k483_qdb-d1e44336"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Kinder betreuen oder beaufsichtigen ",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.1 wNTir.",
+                "1C.2 mNTir.",
+                "1A.4 öSTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k483_qdb-d1e43705",
+                    "Belegsatz": "kleine Kinder hüten, betreuen ",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k483_qdb-d1e44988",
+                    "Belegsatz": "Kinder warten, hüten",
+                    "Herkunftsort": "Kufstein"
+                }
+            ],
+            "Belege": [
+                "k483_qdb-d1e43705",
+                "k483_qdb-d1e43550",
+                "k483_qdb-d1e44988",
+                "k483_qdb-d1e45024"
+            ]
+        }
+    ]
+}

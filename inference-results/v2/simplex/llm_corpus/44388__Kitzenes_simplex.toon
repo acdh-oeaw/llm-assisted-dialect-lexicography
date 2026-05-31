@@ -1,0 +1,54 @@
+Glossar:
+  Lemma: "'Lemma' beinhaltet sämtliche Einträge (inklusive Komposita und Wortbildungsvarianten), die einem bestimmten Lemma zugeordnet werden können. Zu diesem Zweck wurden alle Handzettel beziehungsweise die Einträge der Belegdatenbank lemmatisiert und nach historisch-etymologischen Gesichtspunkten - also linguistischen Prinzipien - einem Hauptlemma zugeordnet."
+  Fragebogennummer: "Auflistung von relevanten Fragebogennummern und Beschreibungen:\n* **21C8:** Fleisch best.Lebewesen (Heiden-, Hirsch-,)\n* **3E7b:** Fleisch f. Osterweihe (Weihfleisch, Osterschinken)\n* **70O12:** Schlachtzeit f. Ziegen/junge Kitze (Osterso.)\n"
+  Part_of_Speech: Diese Angabe benennt die Wortart des jeweiligen Belegs.
+  Bedeutung_der_Lautung: Diese Information beschreibt die Bedeutung der Lautungsangabe auf dem Beleg.
+  Bedeutung_des_Belegsatzes: "Diese Information beschreibt die Bedeutung des in Spalte \"Belegsatz 1\", \"Belegsatz 2\" etc. angegebenen Belegsatzes. Es kann sich dabei um eine direkte standardsprachliche Übersetzung, eine standardsprachliche Periphrase oder um einen metasprachlichen Kommentar handeln."
+  Belegsatz_1: "Dieser Eintrag gibt einen Belegsatz, eine Redewendung oder eine Paraphrase wider, um die Bedeutung des Belegs exemplarisch darzustellen bzw. näher zu kontextualisieren. Der Belegsatz ist in der Regel im Dialekt angegeben und in der Lautschrift Teuthonista verschriftlicht."
+  Belegsatz_2: Belegsatz 2 weist dieselbe Funktionalität auf wie Belegsatz 1.
+  Sammlung: Eine Sammlung bündelt einzelne Einträge nach lexikographisch sinnvollen Gesichtspunkten. Alle Einträge der Sammlung teilen diese Gesichtspunkte.
+  Lautung_1: "Die angegebene Information umfasst die lautliche Transkription des vorliegenden Belegs. Die Transkription wurde auf der Grundlage eines Lautschriftsystems notiert, das jenem der Teuthonista gleicht oder zumindest ähnelt. Da die Datengrundlage des WBÖ auf unterschiedlichsten Quellen basiert und die Erhebungen der Fragebögen häufig von Laien-Sammlerinnen und -sammlern durchgeführt wurden, können sich Uneinheitlichkeiten bei der Transkription ergeben."
+  Lautung_2: Lautung 2 weist dieselbe Funktionalität auf wie Lautung 1.
+  Anmerkung: Zusätzliche Anmerkung über den Beleg.
+  Diverses: Zusätzliche undefinierte Anmerkung über den Beleg.
+  Substantiv: Dieser Beleg zählt zur Wortart Substantiv.
+  Verb: Dieser Beleg zählt zur Wortart Verb.
+  Adjektiv: Dieser Beleg zählt zur Wortart Adjektiv.
+  Adverb: Dieser Beleg zählt zur Wortart Adverb.
+  Praeposition: Dieser Beleg zählt zur Wortart Präposition.
+  Konjunktion: Dieser Beleg zählt zur Wortart Konjunktion.
+  Pronomen: Dieser Beleg zählt zur Wortart Pronomen.
+  Interjektion: Dieser Beleg zählt zur Wortart Interjektion.
+  Partikel: Dieser Beleg zählt zur Wortart Partikel.
+  Geschlecht: "Das grammatische Geschlecht eines Wortes wird in der Fachsprache als Genus bezeichnet. Im Deutschen gibt es drei Genera: Maskulinum (männlich), Femininum (weiblich) und Neutrum (sächlich). Das Genus eines Substantivs wird oft durch den Artikel (der, die, das) angezeigt."
+  Bedeutung: "Semantik, auch Bedeutungslehre genannt, ist die wissenschaftliche Beschäftigung mit Bedeutung und mit den verschiedenen Beziehungen zwischen einem Zeichen und dem Bezeichneten. In den Wörterbuchartikeln gehört die Angabe der Bedeutung bzw. Bedeutungen eines Wortes zu den zentralen Inhalten."
+  Belegsatz: "Ein Belegsatz1 oder Belegsatz2  wird verwendet, um die Bedeutung des Beleg in Form eines Satzes exemplarisch zu verdeutlichen. In den Daten wird statt der Bezeichnung \"Beispielsatz\" auch die Bezeichnung \"Belegsatz\" verwendet."
+  Wortvarianten: Unterschiedliche Varianten eines Wortes.
+  Woerterbuchartikel: "Eine strukturierte Beschreibung eines Lemmas, die Angaben zu Bedeutung (bzw. Bedeutungen), Aussprache, Grammatik, Verbreitung, Etymologie sowie ggfs. Wortbildungen und Redewendungen enthält."
+  Quelle_Datenbank: "Es handelt sich hierbei um eine formalisierte Angabe der geographischen Zuordnung des Belegs. Diese Besteht aus einer Sigle sowie einer in Abkürzungen formulierten und ggfs. hierarchisch (Gemeinde, Kleinregion, Großregion, Bundesland) gegliederten Verschriftlichung der geographischen Zuordnung."
+  CollectionCat: "Die CollectionCat (Abkürzung für Collection Categorizer) ist eine Software-Applikation, die zum Kategorisieren und Zusammenfassen von Belegen im Rahmen der lexikographischen Arbeit genutzt wird."
+  Simplex: "Ein Simplex ist ein einfaches Wort oder Lexem, das weder abgeleitet noch zusammengesetzt ist."
+  Kompositum: Ein Kompositum ist ein aus bereits vorhandenen Wörtern zusammengesetztes komplexes Wort. Der zugrunde liegende Wortbildungsprozess wird Komposition genannt.
+  Derivation: "Eine Derivation ist das Ergebnis eines Wortbildungsprozesses, bei dem durch Anhängen eines Affixes (Präfix, Suffix oder Zirkumfix) aus einem Wort ein neues Wort gebildet wird."
+  Grossregion: "Das Bearbeitungsgebiet (Großregion1 und Großregion2) des WBÖ ist regional untergliedert. Jeder regionalen Einheit ist eine eindeutige Sigle zugeordnet. Die größte regionale Einheit stellt dabei das \"Bundesland\" dar, welches folgendermaßen unterteilt ist: Südtirol (Sigle 1A), Osttirol (Sigle 1B), Nordtirol (Sigle 1C), Kärnten (Sigle 2), Steiermark (Sigle 3), Salzburg (Sigle 4), Oberösterreich (Sigle 5), Niederösterreich (Sigle 6), Wien (Sigle 6.5) sowie Burgenland (Sigle 7). \nDie zweitgrößte regionale Einheit ist die \"Großregion\", welche die Bundesländer in weitere Teilbereiche untergliedert. \nDie drittgrößte regionale Einheit ist die \"Kleinregion\", welche die Großregionen in weitere Teilbereiche untergliedert.\nDie viertgrößte regionale Einheit ist die \"Gemeinde\", welche die Kleinregionen in weitere Teilbereiche untergliedert."
+  Herkunftsort: "Geographische Lokation, aus der ein Beleg stammt. Die Angabe erfolgt auf der jeweils spezifischsten verfügbaren Ebene: Ist eine Gemeinde bekannt, wird diese angegeben; andernfalls eine Kleinregion, eine Großregion oder - als letzte Möglichkeit - das Bundesland."
+Belege[19]{ID,Fragebogennummer,Lemma,POS,Bedeutung_des_Belegsatzes,Bedeutung_der_Lautung,Belegsatz1,Belegsatz2,Lautung1,Lautung2,"Großregion",Herkunftsort,Diverses,Anmerkung}:
+  k485_qdb-d1e17833,"",Kitzenes;,Subst;,"",Ziegenfleisch;,"","","","","","","",""
+  k485_qdb-d1e19063,21C8;,Kitzenes;,Subst;,"","","","","","",3.2 mbair.ObStmk.;,3.2b05 Wald am Schoberpaß;,"",""
+  k485_qdb-d1e19549,"70L19: kitzenes Fleisch;",Kitzenes;,Subst;,"","","","","","",2.1 ObKtn.;,2.1b04 Rangersdorf;,"",""
+  k485_qdb-d1e19621,"70L19: kitzenes Fleisch;",Kitzenes;,Subst;,"","","","","","",6.4 Weinv.;,6.4d18 Poysdorf;,"",""
+  k485_qdb-d1e19134,21C8;,Kitzenes;,Subst;,"","","","","","","","","",""
+  k485_qdb-d1e19184,21C8;,Kitzenes;,Subst;,"",Kitzfleisch;,"","","","",1C.3 öNTir.;,1C.3e12 Schwoich;,"",""
+  k485_qdb-d1e19271,3E7b;,Kitzenes;,Subst;,"",Fleisch von Ziegen = Kitzen;,"","","","",5.3 Traunv.;,5.3n02 Hinterstoder;,"",""
+  k485_qdbn-d16e16655,"70L19: kitzenes Fleisch;",Kitzenes;,Subst;,"","","","","","",5.1 Innv.;,5.1a02 Eggelsberg;,"",""
+  k485_qdb-d1e19501,"70L19: kitzenes Fleisch;",Kitzenes;,Subst;,"",Kitzenes;,"","","","",3.1 sbair.ObStmk.;,3.1d03 Lobmingtal;,"",""
+  k485_qdb-d1e19526,"70L19: kitzenes Fleisch;",Kitzenes;,Subst;,"","","","","","",4.2 Pinzg.;,4.2c01 Fusch an der Großglocknerstraße;,"",""
+  k485_qdb-d1e19086,21C8;,Kitzenes;,Subst;,"",Kitzfleisch;,"","","","",4.5 Flachg.;,4.5d05 St. Gilgen;,"",""
+  k485_qdb-d1e19111,21C8;,Kitzenes;,Subst;,"","","","","","",5.1 Innv.;,5.1c07 Mühlheim am Inn;,"",""
+  k485_qdb-d1e19236,21C8;,Kitzenes;,Subst;,"",Fleisch von Zicklein;,"","","","",2.2 MKtn.;,2.3b05 Straßburg;,"",""
+  k485_qdb-d1e19345,"5F1c: gebackene Kitzchen als Pfingstspeise;",Kitzenes;,Subst;,"","",gebochns Kitzanas;,"","","",2.4 UKtn.;,2.4c01 Frantschach-St. Gertraud;,"",""
+  k485_qdb-d1e19404,70O12;,Kitzenes;,Subst;,"","","Auf ɔ̨stan kriagn ma a Kitzanas' [sg4]   , då štech ma a Be̊ckl ā̊;Auf ostan kriagn ma a Kitzanas sg4 , da stech ma a Beckl a;","","","",6.4 Weinv.;,6.4d18 Poysdorf;,"",""
+  k485_qdb-d1e19598,"70L19: kitzenes Fleisch;",Kitzenes;,Subst;,"","","","","","",4.3 Pong.;,"","",""
+  k485_qdbn-d16e76102,"70L19: kitzenes Fleisch;",Kitzenes;,Subst;,"","","","","","",5.1 Innv.;,5.1c07 Mühlheim am Inn;,"",""
+  k485_qdb-d1e19664,"70L19: kitzenes Fleisch;","Kitzenes:2  kopiert;","",kitzenes Fleisch;,"","kitzans [P,fl]   Fleisch;kitzans P,fl Fleisch;","","","",3.1 sbair.ObStmk.;,3.1a05 Stadl-Predlitz;,"",""
+  k485_qdb-d1e19644,"70L19: kitzenes Fleisch;","Kitzenes:2  kopiert;","","","","a Kitzas [P,fl]   Bratl;a Kitzas P,fl Bratl;","","","",4.5 Flachg.;,4.5d05 St. Gilgen;,"",""

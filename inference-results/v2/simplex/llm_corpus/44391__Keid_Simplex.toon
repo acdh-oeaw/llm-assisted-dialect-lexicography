@@ -1,0 +1,92 @@
+Glossar:
+  Lemma: "'Lemma' beinhaltet sämtliche Einträge (inklusive Komposita und Wortbildungsvarianten), die einem bestimmten Lemma zugeordnet werden können. Zu diesem Zweck wurden alle Handzettel beziehungsweise die Einträge der Belegdatenbank lemmatisiert und nach historisch-etymologischen Gesichtspunkten - also linguistischen Prinzipien - einem Hauptlemma zugeordnet."
+  Fragebogennummer: "Auflistung von relevanten Fragebogennummern und Beschreibungen:\n* **30C23:** gr./kl. Brotstück (Reankn, Bröckel,); Ra.; Komp.\n* **6C4:** dünnes/spärliches Haar; dünnhaarig; entspr.Mensch\n* **85A2:** Blütenpflanze (Blume, Blümel); Pl./Dem.; Füg.\n* **68C8:** e. unbest. Zeitspanne (Weile, Eicht, Pois); Füg.\n* **49G18a:** Naige; Dem.; Komp. (Salznaigel)\n* **EFb.3/2:** ein wenig (a weng, wengerl, bißl, a klin)\n* **100C2:** der/das Keim \"Getreidekeim\" (Kein); Pl./Dem.; Ra.\n"
+  Part_of_Speech: Diese Angabe benennt die Wortart des jeweiligen Belegs.
+  Bedeutung_der_Lautung: Diese Information beschreibt die Bedeutung der Lautungsangabe auf dem Beleg.
+  Bedeutung_des_Belegsatzes: "Diese Information beschreibt die Bedeutung des in Spalte \"Belegsatz 1\", \"Belegsatz 2\" etc. angegebenen Belegsatzes. Es kann sich dabei um eine direkte standardsprachliche Übersetzung, eine standardsprachliche Periphrase oder um einen metasprachlichen Kommentar handeln."
+  Belegsatz_1: "Dieser Eintrag gibt einen Belegsatz, eine Redewendung oder eine Paraphrase wider, um die Bedeutung des Belegs exemplarisch darzustellen bzw. näher zu kontextualisieren. Der Belegsatz ist in der Regel im Dialekt angegeben und in der Lautschrift Teuthonista verschriftlicht."
+  Belegsatz_2: Belegsatz 2 weist dieselbe Funktionalität auf wie Belegsatz 1.
+  Sammlung: Eine Sammlung bündelt einzelne Einträge nach lexikographisch sinnvollen Gesichtspunkten. Alle Einträge der Sammlung teilen diese Gesichtspunkte.
+  Lautung_1: "Die angegebene Information umfasst die lautliche Transkription des vorliegenden Belegs. Die Transkription wurde auf der Grundlage eines Lautschriftsystems notiert, das jenem der Teuthonista gleicht oder zumindest ähnelt. Da die Datengrundlage des WBÖ auf unterschiedlichsten Quellen basiert und die Erhebungen der Fragebögen häufig von Laien-Sammlerinnen und -sammlern durchgeführt wurden, können sich Uneinheitlichkeiten bei der Transkription ergeben."
+  Lautung_2: Lautung 2 weist dieselbe Funktionalität auf wie Lautung 1.
+  Anmerkung: Zusätzliche Anmerkung über den Beleg.
+  Diverses: Zusätzliche undefinierte Anmerkung über den Beleg.
+  Substantiv: Dieser Beleg zählt zur Wortart Substantiv.
+  Verb: Dieser Beleg zählt zur Wortart Verb.
+  Adjektiv: Dieser Beleg zählt zur Wortart Adjektiv.
+  Adverb: Dieser Beleg zählt zur Wortart Adverb.
+  Praeposition: Dieser Beleg zählt zur Wortart Präposition.
+  Konjunktion: Dieser Beleg zählt zur Wortart Konjunktion.
+  Pronomen: Dieser Beleg zählt zur Wortart Pronomen.
+  Interjektion: Dieser Beleg zählt zur Wortart Interjektion.
+  Partikel: Dieser Beleg zählt zur Wortart Partikel.
+  Geschlecht: "Das grammatische Geschlecht eines Wortes wird in der Fachsprache als Genus bezeichnet. Im Deutschen gibt es drei Genera: Maskulinum (männlich), Femininum (weiblich) und Neutrum (sächlich). Das Genus eines Substantivs wird oft durch den Artikel (der, die, das) angezeigt."
+  Bedeutung: "Semantik, auch Bedeutungslehre genannt, ist die wissenschaftliche Beschäftigung mit Bedeutung und mit den verschiedenen Beziehungen zwischen einem Zeichen und dem Bezeichneten. In den Wörterbuchartikeln gehört die Angabe der Bedeutung bzw. Bedeutungen eines Wortes zu den zentralen Inhalten."
+  Belegsatz: "Ein Belegsatz1 oder Belegsatz2  wird verwendet, um die Bedeutung des Beleg in Form eines Satzes exemplarisch zu verdeutlichen. In den Daten wird statt der Bezeichnung \"Beispielsatz\" auch die Bezeichnung \"Belegsatz\" verwendet."
+  Wortvarianten: Unterschiedliche Varianten eines Wortes.
+  Woerterbuchartikel: "Eine strukturierte Beschreibung eines Lemmas, die Angaben zu Bedeutung (bzw. Bedeutungen), Aussprache, Grammatik, Verbreitung, Etymologie sowie ggfs. Wortbildungen und Redewendungen enthält."
+  Quelle_Datenbank: "Es handelt sich hierbei um eine formalisierte Angabe der geographischen Zuordnung des Belegs. Diese Besteht aus einer Sigle sowie einer in Abkürzungen formulierten und ggfs. hierarchisch (Gemeinde, Kleinregion, Großregion, Bundesland) gegliederten Verschriftlichung der geographischen Zuordnung."
+  CollectionCat: "Die CollectionCat (Abkürzung für Collection Categorizer) ist eine Software-Applikation, die zum Kategorisieren und Zusammenfassen von Belegen im Rahmen der lexikographischen Arbeit genutzt wird."
+  Simplex: "Ein Simplex ist ein einfaches Wort oder Lexem, das weder abgeleitet noch zusammengesetzt ist."
+  Kompositum: Ein Kompositum ist ein aus bereits vorhandenen Wörtern zusammengesetztes komplexes Wort. Der zugrunde liegende Wortbildungsprozess wird Komposition genannt.
+  Derivation: "Eine Derivation ist das Ergebnis eines Wortbildungsprozesses, bei dem durch Anhängen eines Affixes (Präfix, Suffix oder Zirkumfix) aus einem Wort ein neues Wort gebildet wird."
+  Grossregion: "Das Bearbeitungsgebiet (Großregion1 und Großregion2) des WBÖ ist regional untergliedert. Jeder regionalen Einheit ist eine eindeutige Sigle zugeordnet. Die größte regionale Einheit stellt dabei das \"Bundesland\" dar, welches folgendermaßen unterteilt ist: Südtirol (Sigle 1A), Osttirol (Sigle 1B), Nordtirol (Sigle 1C), Kärnten (Sigle 2), Steiermark (Sigle 3), Salzburg (Sigle 4), Oberösterreich (Sigle 5), Niederösterreich (Sigle 6), Wien (Sigle 6.5) sowie Burgenland (Sigle 7). \nDie zweitgrößte regionale Einheit ist die \"Großregion\", welche die Bundesländer in weitere Teilbereiche untergliedert. \nDie drittgrößte regionale Einheit ist die \"Kleinregion\", welche die Großregionen in weitere Teilbereiche untergliedert.\nDie viertgrößte regionale Einheit ist die \"Gemeinde\", welche die Kleinregionen in weitere Teilbereiche untergliedert."
+  Herkunftsort: "Geographische Lokation, aus der ein Beleg stammt. Die Angabe erfolgt auf der jeweils spezifischsten verfügbaren Ebene: Ist eine Gemeinde bekannt, wird diese angegeben; andernfalls eine Kleinregion, eine Großregion oder - als letzte Möglichkeit - das Bundesland."
+Belege[57]{ID,Fragebogennummer,Lemma,POS,Bedeutung_des_Belegsatzes,Bedeutung_der_Lautung,Belegsatz1,Belegsatz2,Lautung1,Lautung2,"Großregion",Herkunftsort,Diverses,Anmerkung}:
+  k467_qdb-d1e32198,"",Keid;,Subst;,"","ein ganz kleines Gewächs; ein Nebenzweiglein von einer Pflanze; ein bißchen;ein ganz kleines Gewächs ein Nebenzweiglein von einer Pflanze ein bißchen;eine KleinigkeitANMO: überhaupt DIES;eine Kleinigkeit ANM O: überhaupt DIES;","","","","",1A.2 mSTir.;1A.2 mSTir.;,"","",""
+  k467_qdb-d1e31424,30C23;,Keid;,Subst;,ein bißchen Brot;,"","a kchaidele [D2,fl]   brǫat;a kchaidele D2,fl broat;","","","",1A.1 wSTir.;,"","",""
+  k467_qdb-d1e32672,6C4;,Keidel;,Subst;,"","",(di sęl hǫt wol nər) öttliga kχaidlər;di sel hot wol ner öttliga kchaidler;,"","","",1A.2 mSTir.;,1A.3g07 Villanders;,"",""
+  k467_qdb-d1e32568,"",Keidel;,Subst;,"",Sprößling;Sprößling;,"","","","",1C.2 mNTir.;1C.2 mNTir.;1C.2 mNTir.;1C.2 mNTir.;1C.2 mNTir.;1C.2 mNTir.;1C.2 mNTir.;1C.2 mNTir.;1C.2 mNTir.;,"","",""
+  k467_qdb-d1e32624,"",Keidel;,Subst;,"",Pflanzenstengel;,"","","","",2.1 ObKtn.;,2.1h03 Kirchbach;,"",""
+  k467_qdb-d1e30956,"",Keid;,Subst;,"",ein Bißchen; ganz wenig;ein Bißchen ganz wenig;,"","","","","","","",""
+  k467_qdb-d1e31605,"",Keid;,Subst;,"",ein bißchen;ein bißchen;,"","","","",1B.0 OTir.;,1B.0b01 Außervillgraten;,"",""
+  k467_qdb-d1e30732,"",Keid;,Subst;,"",Kartoffeltriebe im Frühjahr;Kartoffeltriebe im Frühjahr;,"","","","",1C.1 wNTir.;1C.1 wNTir.;,1C.1m04 Fließ;1C.1m04 Fließ;,"",""
+  k467_qdb-d1e31133,"",Keid;,Subst;,"",Korn; Samenkorn;Korn Samenkorn;,"","","","",7.2 MBgl.;,7.2b08 Pilgersdorf;,"",""
+  k467_qdb-d1e32441,"",Keid;,Subst;,"","","7 Tag lang hat er kein Keidele [D2,sg4]   nicht gfreßen;7 Tag lang hat er kein Keidele D2,sg4 nicht gfreßen;","","","",1A.2 mSTir.;1A.2 mSTir.;,"","",""
+  k467_qdb-d1e30555,"",Keid;,Subst;,"",Keim; Sproß;Keim Sproß;,"","","","","","","",""
+  k467_qdb-d1e30624,"",Keid;,Subst;,"",ein bißchen;ein bißchen;,"","","","","","","",""
+  k467_qdb-d1e31335,"",Keid;,Subst;,"orig: Keidel;translated: Bißchen;","","ka keidl [D1];ka keidl D1;","","","","","","",""
+  k467_qdb-d1e32289,"",Keid;,Subst;,Kind und Kegel;,"",kχintuŋ kχait;kchintung kchait;,"","","",1A.4 öSTir.;,"","",""
+  k467_qdb-d1e30981,"",Keid;,Subst;,in Ruhe lassen;,"","en Keid [sg3]   låß'n;en Keid sg3 laßn;","","","","","","",""
+  k467_qdb-d1e31212,85A2;,Keid;,Subst;,kein Keidel; durchaus nicht;ich weiche nicht;,"","kχoa kχaidl [D1];kchoa kchaidl D1;","I geə kχǫa kχaidl [D1];I gee kchoa kchaidl D1;","","",1A.4 öSTir.;,1A.4c01 Lüsen;,"",""
+  k467_qdb-d1e30703,"",Keid;,Subst;,"",Kartoffeltrieb;,"","","","",1C.1 wNTir.;1C.1 wNTir.;,1C.1n05 Landeck;1C.1v02 Tarrenz;,"",""
+  k467_qdb-d1e32232,"",Keid;,Subst;,"",ein wenig;,"","","","",1A.4 öSTir.;,"",Pause XXXV (uncertain value);ANM Pause XXXV;,""
+  k467_qdb-d1e32258,"",Keid;,Subst;,"","ein bißchen; ein wenig;ein bißchen ein wenig;die Zeitangabe: kurze ZeitANMO: ab und zu auch DAFÜR;die Zeitangabe: kurze Zeit ANM O: ab und zu auch DAFÜR;","","","","",1A.4 öSTir.;,"","",""
+  k467_qdb-d1e32318,"",Keid;,Subst;,"",ein bißchen;ein bißchen;,"","","","",1A.4 öSTir.;,"","",""
+  k467_qdb-d1e31076,"",Keid;,Subst;,"",Wirtschaft; Haushaltung;Wirtschaft Haushaltung;,"","","","",1C.3 öNTir.;1C.3 öNTir.;,"","",""
+  k467_qdb-d1e30475,"",Keid;,Subst;,"",ein wenig;,"","","","",1B.0 OTir.;,1B.0a04 Kartitsch;,"",""
+  k467_qdb-d1e31628,"",Keid;,Subst;,"",ein wenig;,"","","","",1C.2 mNTir.;,1C.2j04 Tux;,"",""
+  k467_qdb-d1e31008,"",Keid;,Subst;,"",die Sachen; die Wirtschaft; die Haushaltung;die Sachen die Wirtschaft die Haushaltung;,"","","","","","","",""
+  k467_qdb-d1e31103,68C8;,Keid;,Subst;,Wart ein wenig;,"","Wårt a kaidl [D1];Wart a kaidl D1;","","","",2.1 ObKtn.;,2.1f01 Lesachtal;,"",""
+  k467_qdb-d1e32038,"19F24b: Herauswerfen d. Pfluges b. hartem Untergrund;",Keid;,Subst;,"","","dös ist a Höllnårrbet bė den lötzn Bödn: ålle Pfiffrling mueß ii n Pflug außarreißn, man kim̄t koa Keidėle fürwert;dös ist a Höllnarrbet be den lötzn Bödn: alle Pfiffrling mueß ii n Pflug außarreißn, man kimt koa Keidele fürwert;","","","",1A.2 mSTir.;,1A.3b01 Sarntal;,"",""
+  k467_qdb-d1e31156,85A2;,Keid;,Subst;,ein einzelnes Edelweiß;ein einzelnes Edelweiß;,(das) Keidel; Einzelne Blütenpflanze;das Keidel Einzelne Blütenpflanze;,"a kχaidl [D1]   ȫdlwais;a kchaidl D1 ödlwais;","an ȫdlwais kχaidl [D1];an ödlwais kchaidl D1;","","",1A.4 öSTir.;,1A.4c01 Lüsen;,"",""
+  k467_qdb-d1e30678,"",Keid;,Subst;,gar nichts;,"","kuaⁿ kaidɛlɛ [D2];kuan kaidele D2;","","","","","","",""
+  k467_qdb-d1e31390,30C23;,Keid;,Subst;,ein bißchen Brot;,"","a kχaidilẹ [D2]   proė̱t;a kchaidile D2 proet;","","","",1A.4 öSTir.;,1A.4d02 Kiens;,"",""
+  k467_qdb-d1e31780,49G18a;,Keid;,Subst;,"","","a Khaiᵈl [D1,n]   Dowāg;a Khaidl D1,n Dowag;","a Khai-l [D]   Dowāg;a Khail D Dowag;","","",5.3 Traunv.;,5.3b02 Gmunden;,"",""
+  k467_qdb-d1e31828,49G18a;,Keidl;,Subst;,"","","a Khaiᵈl [D1,n]   Såöˡz;a Khaidl D1,n Saölz;","a Khai-l [D]   Såöˡz;a Khail D Saölz;","","",5.3 Traunv.;,5.3b02 Gmunden;,"",""
+  k467_qdb-d1e32175,"",Keid;,Subst;,"",einzelnes Korn;,"","","","",3.5 OStmk.;,3.5d20 Vorau;,"",""
+  k467_qdb-d1e31896,49G18a;,"Keidl:1  kopiert;","","","","","","","",5.3 Traunv.;,5.3b02 Gmunden;,"",""
+  k467_qdb-d1e31916,49G18a;,"Keidl:1  kopiert;","","","","","","","",5.3 Traunv.;,5.3b02 Gmunden;,"",""
+  k467_qdb-d1e31936,49G18a;,"Keidl:1  kopiert;","","","","","","","",5.3 Traunv.;,5.3b02 Gmunden;,"",""
+  k467_qdb-d1e31956,49G18a;,"Keidl:1  kopiert;","","","","","","","",5.3 Traunv.;,5.3b02 Gmunden;,"",""
+  k467_qdb-d1e30501,"",Keid;,Subst;,"",ein wenig;,"","","","",1B.0 OTir.;,"","",""
+  k467_qdb-d1e30782,"",Keid;,Subst;,"",ein wenig;,"","","","",1B.0 OTir.;,"","",""
+  k467_qdb-d1e30922,"EFb.4/10: Korn, Bed.;",Keid;,Subst;,"",Getreidekorn;,"","","","",3.5 OStmk.;,3.5h13 Rohr bei Hartberg;,"",""
+  k467_qdb-d1e31545,"",Keid;,Subst;,"","","","","","",6.2 Industriev.;,6.2h28 Warth;,"",""
+  k467_qdb-d1e31718,49G18a;,Keid;,Subst;,"","","a Khaiᵈl [D1,n]   Dę̄;a Khaidl D1,n De;","a Khai-l [D]   Dę̄;a Khail D De;","","",5.3 Traunv.;,5.3b02 Gmunden;,"",""
+  k467_qdb-d1e32063,EFb.3/2;,Keid;,Subst;,"",ein wenig;,"","","","",1B.0 OTir.;,1B.0b01 Außervillgraten;,"a keidl, a bißl;ANM a keidl, a bißl;",""
+  k467_qdb-d1e32092,EFb.3/2;,Keid;,Subst;,"",ein wenig;,"","","","",1B.0 OTir.;,1B.0b01 Außervillgraten;,"a kaddl, a bißl;ANM a kaddl, a bißl;",""
+  k467_qdb-d1e30599,"",Keid;,Subst;,mit allem;,"","mit kind und kaid [sg3];mit kind und kaid sg3;","","","","","","",""
+  k467_qdb-d1e30655,"",Keid;,Subst;,"",ein bißchen;ein bißchen;,"","","","","","","",""
+  k467_qdb-d1e30757,"",Keid;,Subst;,"",ein wenig;,"","","","",1B.0 OTir.;,1B.0a04 Kartitsch;,"",""
+  k467_qdb-d1e30808,"",Keid;,Subst;,"",ein wenig;,"","","","",1B.0 OTir.;,"","",""
+  k467_qdb-d1e30838,"",Keid;,Subst;,"",ein wenig;,"","","","",1B.0 OTir.;,1B.0a04 Kartitsch;,"",""
+  k467_qdb-d1e30868,"",Keid;,Subst;,"",ein bißchen;ein bißchen;,"","","","","","","",""
+  k467_qdb-d1e30893,"",Keid;,Subst;,"","1 GetreidekornANMO: das Korn als solches;","","","","",6.2 Industriev.;,6.2h15 Krumbach;,"",""
+  k467_qdb-d1e31039,"",Keid;,Subst;,"","","schau auf Kind und Keit [sg4];schau auf Kind und Keit sg4;","","","",1A.4 öSTir.;1B.0 OTir.;1A.4 öSTir.;1B.0 OTir.;1A.4 öSTir.;1A.4 öSTir.;,"","",""
+  k467_qdb-d1e31250,100C2;,Keid;,Subst;,"","","","","","",1C.1 wNTir.;,1C.1n01 Imst;,"",""
+  k467_qdb-d1e31582,"",Keid;,Subst;,"",bißchen;bißchen;,"","","","","","","",""
+  k467_qdb-d1e31367,"",Keid;,Subst;,"",ein bißchen; ein wenig;ein bißchen ein wenig;,"","","","",1B.0 OTir.;,"","",""
+  k467_qdb-d1e31653,"",Keid;,Subst;,"","","","","","","","","",""
+  k467_qdb-d1e32120,EFb.3/2;,Keid;,Subst;,"",ein wenig;,"","","","",1B.0 OTir.;,1B.0b01 Außervillgraten;,"",""
+  k467_qdb-d1e31564,"","Keid:1  kopiert;","","",Haferkorn;,"","","","",6.2 Industriev.;,6.2h28 Warth;,"",""

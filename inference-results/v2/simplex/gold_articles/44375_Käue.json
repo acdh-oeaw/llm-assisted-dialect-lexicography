@@ -1,0 +1,298 @@
+{
+  "Lemma": "Käue Käu",
+  "POS": "Substantiv",
+  "Genus": "Femininum, Neutrum, Maskulinum",
+  "Form": {
+    "form": "Käuerl, Käuertel, Käuntel, Käueri",
+    "typ": "Diminutive",
+    "genus": "Neutrum"
+  },
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "Kauapparat; Gebiss; Gesamtheit der Kauwerkzeuge",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A.1 wSTir.",
+        "p1A.4 öSTir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p2.1 ObKtn.",
+        "p6.2 Industriev.",
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Mund; Maul; gesamte Mundpartie",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1C.1 wNTir.",
+        "p1C.2 mNTir.",
+        "p2.3 MKtn.",
+        "p2.4 UKtn.",
+        "p3 Stmk."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "miər tuət die kchui węa",
+          "Herkunftsort": "Umg.Meran"
+        },
+        {
+          "Belegsatz": "Thuat diar nit båld die Kui weah von viel'n röd'n",
+          "Herkunftsort": "Hall in Tirol"
+        },
+        {
+          "Belegsatz": "Putz diaʳ die Kai åh",
+          "Herkunftsort": "Stainz"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Kiefer (von Tieren und Menschen)",
+      "Typ": [
+        "I",
+        "1",
+        "c",
+        "α",
+        ""
+      ],
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p2 Ktn.",
+        "p3.1 sbair.ObStmk.",
+        "p3.2 mbair.ObStmk.",
+        "p3.3 WStmk.",
+        "p3.5 OStmk.",
+        "p4 Sbg.",
+        "p5 OÖ",
+        "p6.2 Industriev.",
+        "p6.4 Weinv.",
+        "p7.1 NBgl.",
+        "p7.2 MBgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "die untere Kui-e",
+          "Herkunftsort": "Prutz"
+        },
+        {
+          "Belegsatz": "das obəri kai",
+          "Herkunftsort": "Judenburg"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Kiefer (von großen Tieren wie Rindern, Pferden oder Wild)",
+      "Typ": [
+        "I",
+        "1",
+        "c",
+        "β",
+        ""
+      ],
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1C.1 wNTir.",
+        "p1C.3 öNTir.",
+        "p2.2 MKtn.",
+        "p6 NÖ"
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Unterkiefer; Kinnlade",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A.1 wSTir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p2 Ktn.",
+        "p3.1 sbair.ObStmk.",
+        "p3.2 mbair.ObStmk.",
+        "p3.3 WStmk.",
+        "p3.5 OStmk.",
+        "p4 Sbg.",
+        "p5 OÖ",
+        "p6.1 Mostv.",
+        "p6.2 Industriev.",
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "er reisst di Kui auf",
+          "Herkunftsort": "Mals"
+        },
+        {
+          "Belegsatz": "die Kui-e ausgraᵒnkt",
+          "Herkunftsort": "Prutz"
+        },
+        {
+          "Belegsatz": "fua lauta Beißn tuit ma schõñ 's Koi wē",
+          "Herkunftsort": "Poysdorf"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Kinn",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p2 Ktn.",
+        "p3 Stmk.",
+        "p4 Sbg.",
+        "p5 OÖ",
+        "p6 NÖ",
+        "p6.5 Wien",
+        "p7 Bgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Fette Kuja",
+          "Herkunftsort": "Stanz bei Landeck"
+        },
+        {
+          "Belegsatz": "i hau dr oas a dai kuia",
+          "Herkunftsort": "Sölden"
+        },
+        {
+          "Belegsatz": "a da Kui auskrassiascht ausrasiert",
+          "Herkunftsort": "Kufstein"
+        },
+        {
+          "Belegsatz": "ɒ κσ̌πįtßtß khɛ̨i",
+          "Herkunftsort": "Gleisdorf"
+        },
+        {
+          "Belegsatz": "dė mīd de langaⁿ Koi schwėfėn geaʳn",
+          "Herkunftsort": "Salzburg"
+        },
+        {
+          "Belegsatz": "a Haut håt a undan Koi wie'ra Oks",
+          "Herkunftsort": "Feldkirchen bei Mattighofen"
+        },
+        {
+          "Belegsatz": "i hab ma's Koil aufgschunden",
+          "Herkunftsort": "Gmunden"
+        },
+        {
+          "Belegsatz": "håb Koü i d'Hę",
+          "Herkunftsort": "Bad Hall"
+        },
+        {
+          "Belegsatz": "oaⁿn bai da Khoiˡ kråzzn",
+          "Herkunftsort": "Freistadt"
+        },
+        {
+          "Belegsatz": "Lickeʳl kleine Lücke; Grübchen ön Kö͡i",
+          "Herkunftsort": "Waidhofen an der Ybbs"
+        },
+        {
+          "Belegsatz": "A gschpitzts Kui und a bogni Nåsn is a Hexngsicht",
+          "Herkunftsort": "Trattenbach"
+        },
+        {
+          "Belegsatz": "s Koiˡ håd eam gschębaʳd foaʳ Köˡdn",
+          "Herkunftsort": "Schwarzau im Gebirge"
+        },
+        {
+          "Belegsatz": "Boad aum Koë̩",
+          "Herkunftsort": "Parndorf"
+        },
+        {
+          "Belegsatz": "i bin näu də lǟiŋsd fīɒri gfōln, und hōᵇmɒ di khūi sāuwɒ tšuntn",
+          "Herkunftsort": "Neckenmarkt"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Doppelkinn",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1C.2 mNTir.",
+        "p5.4 Mühlv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "a griəbl in dər kchuiə",
+          "Herkunftsort": "Matrei am Brenner"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Kopfpartie unter dem Kinn; Unterkinn",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A.2 mSTir.",
+        "p1C.1 wNTir.",
+        "p1C.3 öNTir.",
+        "p4.2 Pinzg.",
+        "p4.5 Flachg.",
+        "p5.2 Hausrv.",
+        "p5.4 Mühlv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Kehle",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p5.1 Innv.",
+        "p6.1 Mostv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "eine Portion Kautabak oder Kaupech",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1A.4 öSTir.",
+        "p1B OTir.",
+        "p1C.2 mNTir.",
+        "p4.2 Pinzg."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "a koiatl Pöch",
+          "Herkunftsort": "Zell am Ziller"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "saftige Lüge",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p5.2 Hausrv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Håst ma åwa an Koö varzölt",
+          "Herkunftsort": "St. Georgen bei Grieskirchen"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Kesselkette beim offenen Herd",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p5.4 Mühlv."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

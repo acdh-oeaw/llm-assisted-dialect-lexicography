@@ -1,0 +1,68 @@
+Glossar:
+  Lemma: "'Lemma' beinhaltet sämtliche Einträge (inklusive Komposita und Wortbildungsvarianten), die einem bestimmten Lemma zugeordnet werden können. Zu diesem Zweck wurden alle Handzettel beziehungsweise die Einträge der Belegdatenbank lemmatisiert und nach historisch-etymologischen Gesichtspunkten - also linguistischen Prinzipien - einem Hauptlemma zugeordnet."
+  Fragebogennummer: "Auflistung von relevanten Fragebogennummern und Beschreibungen:\n* **11I5b (F):** Ehefrau, scheltend (Zange, Beißzange)\n* **11I5b:** Ehefrau, scheltend (Zange, Beißzange)\n* **63G10:** Schimpfname\n* **82A26:** viel u. bedeutungsloses Zeug sprechen ()\n* **1H2:** großer, breiter Mund; entspr.Adj./Mensch; Ra.\n* **1H1:** Mund/Maul; Füg./Ra.\n* **14B2a:** Bauer/Bäurin, scherzh./spött./scheltend (Hach,)\n* **82A44:** tadeln, zurechtweisen (ausschimpfen, ausmachen,)\n* **1F2:** Kinnlade\n* **1H1 (a):** Mund/Maul; Füg./Ra.\n"
+  Part_of_Speech: Diese Angabe benennt die Wortart des jeweiligen Belegs.
+  Bedeutung_der_Lautung: Diese Information beschreibt die Bedeutung der Lautungsangabe auf dem Beleg.
+  Bedeutung_des_Belegsatzes: "Diese Information beschreibt die Bedeutung des in Spalte \"Belegsatz 1\", \"Belegsatz 2\" etc. angegebenen Belegsatzes. Es kann sich dabei um eine direkte standardsprachliche Übersetzung, eine standardsprachliche Periphrase oder um einen metasprachlichen Kommentar handeln."
+  Belegsatz_1: "Dieser Eintrag gibt einen Belegsatz, eine Redewendung oder eine Paraphrase wider, um die Bedeutung des Belegs exemplarisch darzustellen bzw. näher zu kontextualisieren. Der Belegsatz ist in der Regel im Dialekt angegeben und in der Lautschrift Teuthonista verschriftlicht."
+  Belegsatz_2: Belegsatz 2 weist dieselbe Funktionalität auf wie Belegsatz 1.
+  Sammlung: Eine Sammlung bündelt einzelne Einträge nach lexikographisch sinnvollen Gesichtspunkten. Alle Einträge der Sammlung teilen diese Gesichtspunkte.
+  Lautung_1: "Die angegebene Information umfasst die lautliche Transkription des vorliegenden Belegs. Die Transkription wurde auf der Grundlage eines Lautschriftsystems notiert, das jenem der Teuthonista gleicht oder zumindest ähnelt. Da die Datengrundlage des WBÖ auf unterschiedlichsten Quellen basiert und die Erhebungen der Fragebögen häufig von Laien-Sammlerinnen und -sammlern durchgeführt wurden, können sich Uneinheitlichkeiten bei der Transkription ergeben."
+  Lautung_2: Lautung 2 weist dieselbe Funktionalität auf wie Lautung 1.
+  Anmerkung: Zusätzliche Anmerkung über den Beleg.
+  Diverses: Zusätzliche undefinierte Anmerkung über den Beleg.
+  Substantiv: Dieser Beleg zählt zur Wortart Substantiv.
+  Verb: Dieser Beleg zählt zur Wortart Verb.
+  Adjektiv: Dieser Beleg zählt zur Wortart Adjektiv.
+  Adverb: Dieser Beleg zählt zur Wortart Adverb.
+  Praeposition: Dieser Beleg zählt zur Wortart Präposition.
+  Konjunktion: Dieser Beleg zählt zur Wortart Konjunktion.
+  Pronomen: Dieser Beleg zählt zur Wortart Pronomen.
+  Interjektion: Dieser Beleg zählt zur Wortart Interjektion.
+  Partikel: Dieser Beleg zählt zur Wortart Partikel.
+  Geschlecht: "Das grammatische Geschlecht eines Wortes wird in der Fachsprache als Genus bezeichnet. Im Deutschen gibt es drei Genera: Maskulinum (männlich), Femininum (weiblich) und Neutrum (sächlich). Das Genus eines Substantivs wird oft durch den Artikel (der, die, das) angezeigt."
+  Bedeutung: "Semantik, auch Bedeutungslehre genannt, ist die wissenschaftliche Beschäftigung mit Bedeutung und mit den verschiedenen Beziehungen zwischen einem Zeichen und dem Bezeichneten. In den Wörterbuchartikeln gehört die Angabe der Bedeutung bzw. Bedeutungen eines Wortes zu den zentralen Inhalten."
+  Belegsatz: "Ein Belegsatz1 oder Belegsatz2  wird verwendet, um die Bedeutung des Beleg in Form eines Satzes exemplarisch zu verdeutlichen. In den Daten wird statt der Bezeichnung \"Beispielsatz\" auch die Bezeichnung \"Belegsatz\" verwendet."
+  Wortvarianten: Unterschiedliche Varianten eines Wortes.
+  Woerterbuchartikel: "Eine strukturierte Beschreibung eines Lemmas, die Angaben zu Bedeutung (bzw. Bedeutungen), Aussprache, Grammatik, Verbreitung, Etymologie sowie ggfs. Wortbildungen und Redewendungen enthält."
+  Quelle_Datenbank: "Es handelt sich hierbei um eine formalisierte Angabe der geographischen Zuordnung des Belegs. Diese Besteht aus einer Sigle sowie einer in Abkürzungen formulierten und ggfs. hierarchisch (Gemeinde, Kleinregion, Großregion, Bundesland) gegliederten Verschriftlichung der geographischen Zuordnung."
+  CollectionCat: "Die CollectionCat (Abkürzung für Collection Categorizer) ist eine Software-Applikation, die zum Kategorisieren und Zusammenfassen von Belegen im Rahmen der lexikographischen Arbeit genutzt wird."
+  Simplex: "Ein Simplex ist ein einfaches Wort oder Lexem, das weder abgeleitet noch zusammengesetzt ist."
+  Kompositum: Ein Kompositum ist ein aus bereits vorhandenen Wörtern zusammengesetztes komplexes Wort. Der zugrunde liegende Wortbildungsprozess wird Komposition genannt.
+  Derivation: "Eine Derivation ist das Ergebnis eines Wortbildungsprozesses, bei dem durch Anhängen eines Affixes (Präfix, Suffix oder Zirkumfix) aus einem Wort ein neues Wort gebildet wird."
+  Grossregion: "Das Bearbeitungsgebiet (Großregion1 und Großregion2) des WBÖ ist regional untergliedert. Jeder regionalen Einheit ist eine eindeutige Sigle zugeordnet. Die größte regionale Einheit stellt dabei das \"Bundesland\" dar, welches folgendermaßen unterteilt ist: Südtirol (Sigle 1A), Osttirol (Sigle 1B), Nordtirol (Sigle 1C), Kärnten (Sigle 2), Steiermark (Sigle 3), Salzburg (Sigle 4), Oberösterreich (Sigle 5), Niederösterreich (Sigle 6), Wien (Sigle 6.5) sowie Burgenland (Sigle 7). \nDie zweitgrößte regionale Einheit ist die \"Großregion\", welche die Bundesländer in weitere Teilbereiche untergliedert. \nDie drittgrößte regionale Einheit ist die \"Kleinregion\", welche die Großregionen in weitere Teilbereiche untergliedert.\nDie viertgrößte regionale Einheit ist die \"Gemeinde\", welche die Kleinregionen in weitere Teilbereiche untergliedert."
+  Herkunftsort: "Geographische Lokation, aus der ein Beleg stammt. Die Angabe erfolgt auf der jeweils spezifischsten verfügbaren Ebene: Ist eine Gemeinde bekannt, wird diese angegeben; andernfalls eine Kleinregion, eine Großregion oder - als letzte Möglichkeit - das Bundesland."
+Belege[33]{ID,Fragebogennummer,Lemma,POS,Bedeutung_des_Belegsatzes,Bedeutung_der_Lautung,Belegsatz1,Belegsatz2,Lautung1,Lautung2,"Großregion",Herkunftsort,Diverses,Anmerkung}:
+  k474_qdb-d1e67853,"",Këppel;Keppel;,Subst;,"","","ás geht eahm die Keppeln [f];as geht eahm die Keppeln f;","","","",6.2 Industriev.;,6.2j13 Natschbach-Loipersbach;,"",""
+  k474_qdb-d1e69045,"",Këppel;Keppel;,Subst;,"",Plaudertasche; Tratschweib;Plaudertasche Tratschweib;,"","","","",6.3 Waldv.;,6.3a18 Reingers;,"",""
+  k474_qdb-d1e66720,"",Këppel;Keppel;,Subst;,"","","Warum die Weiba kan Schnuaʳbårscht håbn? - weil sie der Frisär nött rasiern kän̄t, da sie im̄a die Keppl [f,sg4]   offn håbn;Warum die Weiba kan Schnuarbarscht habn?  weil sie der Frisär nött rasiern känt, da sie ima die Keppl f,sg4 offn habn;","","","",3.3 WStmk.;,3.3c08 Stainz;,"",""
+  k474_qdb-d1e67828,11I5b (F);,Këppel;Keppel;,Subst;,"","","","","","",5.4 Mühlv.;,5.4c01 Eidenberg;,"",""
+  k474_qdb-d1e67652,"",Keppel;,Subst;,"","einer, der Aufstoßen im Magen, \"Schnakerlstoßen\" hat, rülpst;einer, der Aufstoßen im Magen, Schnakerlstoßen hat, rülpst;","Kėippüˡ, stīch s Rous ō;Keippül, stich s Rous o;","","","",3.2 mbair.ObStmk.;,3.2f02 Kapfenberg;,"",""
+  k474_qdb-d1e67725,"EFb.9/35: Kohl;",Keppel;,Subst;,"",ein Gericht aus Kohl;,"","","","",1A.2 mSTir.;,1A.3d02 Sterzing;,"",""
+  z868_qdb-d1e22820,11I5b;,Keppel;,Subst;,"","","","","","",5.2 Hausrv.;,5.2a39 Traun;,"",""
+  k474_qdb-d1e66893,"",Këppel;Keppel;,Subst;,"",ein kebelndes d.h. tratschendes Weib;,"","","","",6.2 Industriev.;,6.2h28 Warth;,"",""
+  k474_qdb-d1e67022,"",Këppel;Keppel;,Subst;,"",zänkisches Weib;zänkisches Weib;,"","","","",5.1 Innv.;,"","",""
+  k474_qdb-d1e67047,"",Këppel;Keppel;,Subst;,"","","","","","",5.1 Innv.;,"","",""
+  k474_qdb-d1e67424,"4L1: Kiefer;",Këppel;Keppel;,Subst;,"","","","","","",6.3 Waldv.;,6.3q03 St. Leonhard am Hornerwald;,"",""
+  k474_qdb-d1e66823,63G10;,Këppel;Keppel;,Subst;,"","","Deaʳ håt a guata Keppl [f,sg4];Dear hat a guata Keppl f,sg4;","","","",3.3 WStmk.;,3.3c08 Stainz;,"",""
+  k474_qdb-d1e66855,82A26;,Këppel;Keppel;,Subst;,altes zänkisches Weib;,"eine \"KEFEL\";eine KEFEL;","oüdi Khēfün [f];oüdi Khefün f;","","","",6.3 Waldv.;,6.3a15 Kautzen;,"",""
+  k474_qdb-d1e66914,"",Këppel;Keppel;,Subst;,"",böses Weib;böses Weib;,"","","","",5.4 Mühlv.;,"","",""
+  k474_qdb-d1e66970,"",Këppel;Keppel;,Subst;,"",Kepelweib;,"","","","",5.1 Innv.;,"","",""
+  k474_qdb-d1e67130,"",Këppel;Keppel;,Subst;,"keifendes, alles bekrittelndes Weib;","","a o̩ö̩de κhe̩wö(n) [f];a oöde khewön f;","","","",5.2 Hausrv.;,5.2b46 Weibern;,"",""
+  k474_qdb-d1e67155,"",Këppel;Keppel;,Subst;,"ein keifendes Frauenzimmer, ein Zankteufel, Giftzahn;","","an oldi / oÿdi Keppüˡ [f];an oldi / oydi Keppül f;","","","",3.2 mbair.ObStmk.;,3.2f02 Kapfenberg;,"",""
+  k474_qdb-d1e67242,1H2;,Këppel;Keppel;,Subst;,"",schwatzhafter Mensch;,"","","","",3.2 mbair.ObStmk.;,"","",""
+  k474_qdb-d1e67267,1H1;,Këppel;Keppel;,Subst;,"","auch für: geschwätzige Leute;auch für: geschwätzige Leute;","","","","","","","",""
+  k474_qdb-d1e67774,"",Këppel;Keppel;,Subst;,"","","","","","","","","",""
+  k474_qdb-d1e67623,14B2a;,Këppel;Keppel;,Subst;,Die Bäurin ist eine feindselige Kepeler (uncertain value)  (böse Zunge);,"","Die Bairin is a faiⁿdsalige Kebin [f];Die Bairin is a faindsalige Kebin f;","","","",6.2 Industriev.;,6.2e04 Rohr im Gebirge;,"",""
+  k474_qdb-d1e66697,"",Këppel;Keppel;,Subst;,"","\"Gebel, Gepel\" = Mund;Gebel, Gepel = Mund;","","","","",3.3 WStmk.;,"","",""
+  k474_qdb-d1e71468,"",Këppel;Keppel;,Subst;,"",Kiefer sc. Unterkiefer;,"","","","",5.3 Traunv.;,5.3i08 Thalheim bei Wels;,"",""
+  k474_qdb-d1e66746,"",Këppel;Keppel;,Subst;,"",Kinnbacken;,"","","","",5.3 Traunv.;,5.3i08 Thalheim bei Wels;,"",""
+  k474_qdb-d1e67076,82A44;,Këppel;Keppel;,Subst;,"","weibliche Person, die gerne KEPPELT;","","","","",5.3 Traunv.;,5.3b02 Gmunden;,"",""
+  k474_qdb-d1e67542,"1F7: vorgeschobenes Kinn;",Këppel;Keppel;,Subst;,"","","","","","",5.2 Hausrv.;,5.2b42 St. Georgen bei Grieskirchen;,"",""
+  k474_qdb-d1e72467,"",Këppel;Keppel;,Subst;,"",Kinn;,"","","","",5.3 Traunv.;,5.3i08 Thalheim bei Wels;,"",""
+  k474_qdb-d1e66941,"",Këppel;Keppel;,Subst;,"böses, zänkisches Weib;","","ɒn ǫėˡde Khę̄fė [f];an oelde Khefe f;","","","",5.1 Innv.;,5.1a02 Eggelsberg;,"",""
+  k474_qdb-d1e67312,1F2;,Këppel;Keppel;,Subst;,das ist eine klatschsüchtige Frau;,"",dės is a Kewöˡ;des is a Kewöl;,"","","",5.3 Traunv.;,5.3b02 Gmunden;,"",""
+  k474_qdb-d1e67569,1H1 (a);,Këppel;Keppel;,Subst;,"","","sie lost a Kēpl [sg4]   gehn;sie lost a Kepl sg4 gehn;","","","",6.3 Waldv.;,6.3a24 Waldkirchen an der Thaya;,"",""
+  k474_qdb-d1e67384,"4L1: Kiefer;",Këppel;Keppel;,Subst;,"","statt: KieferANMB: Kinnlade, Kinn, Mund;","","","","",5.2 Hausrv.;,5.2b42 St. Georgen bei Grieskirchen;,"",""
+  k474_qdb-d1e67799,"",Këppel;Keppel;,Subst;,"",Keppelweib;,"","","","","","","",""
+  k474_qdb-d1e67292,"",Këppel;Keppel;,Subst;,"",eine zanksüchtige Weibsperson;eine zanksüchtige Weibsperson;,"","","","","","","",""

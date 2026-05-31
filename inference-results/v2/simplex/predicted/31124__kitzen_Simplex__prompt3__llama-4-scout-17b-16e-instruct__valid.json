@@ -1,0 +1,52 @@
+{
+    "Lemma": "kitzen",
+    "POS": "Verb",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Junge werfen (von Ziegen, Gemsen, Rehen)",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.2 mNTir.",
+                "1C.3 öNTir.",
+                "3.1 sbair.ObStmk.",
+                "3.2 mbair.ObStmk.",
+                "4.2 Pinzg."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k485_qdb-d1e19296",
+                    "Belegsatz": "Dort ob'n auf dar Alm, Hat a Gamsgoas kitzt",
+                    "Herkunftsort": "3.2 mbair.ObStmk."
+                },
+                {
+                    "ID": "k485_qdb-d1e18100",
+                    "Belegsatz": "dö Gåas hǫd kitzt",
+                    "Herkunftsort": "1C.3 öNTir."
+                }
+            ],
+            "Belege": [
+                "k485_qdb-d1e19296",
+                "k485_qdb-d1e17901",
+                "k485_qdb-d1e18263",
+                "k485_qdb-d1e18100",
+                "k485_qdb-d1e18384",
+                "k485_qdb-d1e89421"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Sich mutwillig, kindisch benehmen",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1A.1 wSTir."
+            ],
+            "Belegsaetze": [],
+            "Belege": [
+                "k485_qdb-d1e18887"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+  "Lemma": "knappen gnappen",
+  "POS": "Verb",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "balzen; den Paarungstrieb durch das Hervorbringen von bestimmten Tönen zu erkennen geben (von Wildvögeln)",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1C.1 wNTir.",
+        "p2.2 MKtn.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "bohren; bergwerken",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "in der nǫs knåppm",
+          "Herkunftsort": "Umg.Meran"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "stemmen; herausstemmen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1A.1 wSTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "nicken",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p1C.1 wNTir."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "er knoᵃppet zu oalln joᵃ",
+          "Herkunftsort": "Fendels"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "einnicken; einschlafen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p1C.1 wNTir."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

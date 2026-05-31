@@ -1,0 +1,77 @@
+{
+  "Lemma": "Garretzer Karretzer",
+  "POS": "Substantiv",
+  "Genus": "Maskulinum",
+  "Form": {
+    "form": "Garretzerin",
+    "typ": "Movierung",
+    "genus": "Femininum"
+  },
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "jammernde, nörgelnde Person",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1C.3 öNTir.",
+        "p4.2 Pinzg.",
+        "p4.3 Pong.",
+        "p4.5 Flachg."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "kǫɒn Gårėtzər ǫgöᵇm keinen Garretzer abgeben",
+          "Herkunftsort": "Thiersee"
+        },
+        {
+          "Belegsatz": "a ewiga Gåritza",
+          "Herkunftsort": "Oberndorf bei Salzburg"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "schreiendes Wiegenkind",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1B OTir.",
+        "p1C.3 öNTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Kreischen von Hühnern",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1C.3 öNTir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "knarrendes Geräusch, das durch das Reiben harter Gegenstände entsteht",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1C.3 öNTir.",
+        "p5 OÖ",
+        "p6.3 Waldv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Klage; Jammern",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p1C.3 öNTir."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "kǫan Gårėza tat i",
+          "Herkunftsort": "Thiersee"
+        }
+      ]
+    }
+  ]
+}

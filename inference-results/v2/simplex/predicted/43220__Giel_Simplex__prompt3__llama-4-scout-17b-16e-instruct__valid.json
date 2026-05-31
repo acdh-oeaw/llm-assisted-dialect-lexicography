@@ -1,0 +1,255 @@
+{
+    "Lemma": "Giel",
+    "POS": "Subst.",
+    "Genus": "Femininum",
+    "Kasus": "Nominativ",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Rachen; Schlund",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.1 wNTir.",
+                "1B.0 OTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g326_qdb-d1e41782",
+                    "Belegsatz": "Rachen Schlund;",
+                    "Herkunftsort": "1C.1 wNTir."
+                },
+                {
+                    "ID": "g326_qdb-d1e41327",
+                    "Belegsatz": "der Rachen;",
+                    "Herkunftsort": "1B.0 OTir."
+                }
+            ],
+            "Belege": [
+                "g326_qdb-d1e41782",
+                "g326_qdb-d1e41327"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Kehle",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "g326_qdb-d1e41348",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "g326_qdb-d1e41373",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g326_qdb-d1e41348",
+                "g326_qdb-d1e41373"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Schnabel an einem Gefäß (zum Ausguß)",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "3.3 WStmk."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g326_qdb-d1e41463",
+                    "Belegsatz": "",
+                    "Herkunftsort": "3.3b05 Köflach"
+                },
+                {
+                    "ID": "g326_qdb-d1e43107",
+                    "Belegsatz": "",
+                    "Herkunftsort": "3.3e12 St. Peter im Sulmtal"
+                }
+            ],
+            "Belege": [
+                "g326_qdb-d1e41463",
+                "g326_qdb-d1e43107"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Tümpel",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.2 mNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g326_qdb-d1e41803",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.2j04 Tux"
+                },
+                {
+                    "ID": "g326_qdb-d1e41898",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.2j04 Tux BD/;1A.1m01 Ulten BD/[2]"
+                }
+            ],
+            "Belege": [
+                "g326_qdb-d1e41803",
+                "g326_qdb-d1e41898"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Zorn; Ärger",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.1 Mostv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g326_qdb-d1e41925",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.1o01 Herzogenburg"
+                }
+            ],
+            "Belege": [
+                "g326_qdb-d1e41925"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Schnabel bei einem Häferl",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "3.3 WStmk."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g326_qdb-d1e41512",
+                    "Belegsatz": "A Flaschl mit an Gi͡alerl [D2,sg3];",
+                    "Herkunftsort": "3.3c08 Stainz"
+                }
+            ],
+            "Belege": [
+                "g326_qdb-d1e41512"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Schnabel eines Hafens, Topfs",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "g326_qdb-d1e41575",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g326_qdb-d1e41575"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Giel = dicke Lippe",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "d180_qdb-d1e41100",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "d180_qdb-d1e41100"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Kücheneimer",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "7.3 SBgl."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g326_qdb-d1e41394",
+                    "Belegsatz": "hǖldsɒnɒ gīəl [m];",
+                    "Herkunftsort": "7.3 SBgl."
+                }
+            ],
+            "Belege": [
+                "g326_qdb-d1e41394"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Rüssel; vorstehender Mund",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "g326_qdb-d1e41644",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g326_qdb-d1e41644"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Tropfvorrichtung bei einem Tropfglas",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "3.3 WStmk."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g326_qdb-d1e41736",
+                    "Belegsatz": "",
+                    "Herkunftsort": "3.3c08 Stainz"
+                }
+            ],
+            "Belege": [
+                "g326_qdb-d1e41736"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Ausgußrohr bei Brunnen und Gefäßen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "g326_qdb-d1e41673",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g326_qdb-d1e41673"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Kücheneimer",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                ""
+            ]
+        }
+    ]
+}

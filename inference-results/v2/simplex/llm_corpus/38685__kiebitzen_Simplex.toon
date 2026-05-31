@@ -1,0 +1,61 @@
+Glossar:
+  Lemma: "'Lemma' beinhaltet sämtliche Einträge (inklusive Komposita und Wortbildungsvarianten), die einem bestimmten Lemma zugeordnet werden können. Zu diesem Zweck wurden alle Handzettel beziehungsweise die Einträge der Belegdatenbank lemmatisiert und nach historisch-etymologischen Gesichtspunkten - also linguistischen Prinzipien - einem Hauptlemma zugeordnet."
+  Fragebogennummer: "Auflistung von relevanten Fragebogennummern und Beschreibungen:\n* **58G38 (f):** Kiebitz\n* **82A82:** stichelnd reden (sticheln, beißen, tratzen,)\n* **82A82 (erg.):** stichelnd reden (sticheln, beißen, tratzen,)\n* **58G38 (F):** Kiebitz\n"
+  Part_of_Speech: Diese Angabe benennt die Wortart des jeweiligen Belegs.
+  Bedeutung_der_Lautung: Diese Information beschreibt die Bedeutung der Lautungsangabe auf dem Beleg.
+  Bedeutung_des_Belegsatzes: "Diese Information beschreibt die Bedeutung des in Spalte \"Belegsatz 1\", \"Belegsatz 2\" etc. angegebenen Belegsatzes. Es kann sich dabei um eine direkte standardsprachliche Übersetzung, eine standardsprachliche Periphrase oder um einen metasprachlichen Kommentar handeln."
+  Belegsatz_1: "Dieser Eintrag gibt einen Belegsatz, eine Redewendung oder eine Paraphrase wider, um die Bedeutung des Belegs exemplarisch darzustellen bzw. näher zu kontextualisieren. Der Belegsatz ist in der Regel im Dialekt angegeben und in der Lautschrift Teuthonista verschriftlicht."
+  Belegsatz_2: Belegsatz 2 weist dieselbe Funktionalität auf wie Belegsatz 1.
+  Sammlung: Eine Sammlung bündelt einzelne Einträge nach lexikographisch sinnvollen Gesichtspunkten. Alle Einträge der Sammlung teilen diese Gesichtspunkte.
+  Lautung_1: "Die angegebene Information umfasst die lautliche Transkription des vorliegenden Belegs. Die Transkription wurde auf der Grundlage eines Lautschriftsystems notiert, das jenem der Teuthonista gleicht oder zumindest ähnelt. Da die Datengrundlage des WBÖ auf unterschiedlichsten Quellen basiert und die Erhebungen der Fragebögen häufig von Laien-Sammlerinnen und -sammlern durchgeführt wurden, können sich Uneinheitlichkeiten bei der Transkription ergeben."
+  Lautung_2: Lautung 2 weist dieselbe Funktionalität auf wie Lautung 1.
+  Anmerkung: Zusätzliche Anmerkung über den Beleg.
+  Diverses: Zusätzliche undefinierte Anmerkung über den Beleg.
+  Substantiv: Dieser Beleg zählt zur Wortart Substantiv.
+  Verb: Dieser Beleg zählt zur Wortart Verb.
+  Adjektiv: Dieser Beleg zählt zur Wortart Adjektiv.
+  Adverb: Dieser Beleg zählt zur Wortart Adverb.
+  Praeposition: Dieser Beleg zählt zur Wortart Präposition.
+  Konjunktion: Dieser Beleg zählt zur Wortart Konjunktion.
+  Pronomen: Dieser Beleg zählt zur Wortart Pronomen.
+  Interjektion: Dieser Beleg zählt zur Wortart Interjektion.
+  Partikel: Dieser Beleg zählt zur Wortart Partikel.
+  Geschlecht: "Das grammatische Geschlecht eines Wortes wird in der Fachsprache als Genus bezeichnet. Im Deutschen gibt es drei Genera: Maskulinum (männlich), Femininum (weiblich) und Neutrum (sächlich). Das Genus eines Substantivs wird oft durch den Artikel (der, die, das) angezeigt."
+  Bedeutung: "Semantik, auch Bedeutungslehre genannt, ist die wissenschaftliche Beschäftigung mit Bedeutung und mit den verschiedenen Beziehungen zwischen einem Zeichen und dem Bezeichneten. In den Wörterbuchartikeln gehört die Angabe der Bedeutung bzw. Bedeutungen eines Wortes zu den zentralen Inhalten."
+  Belegsatz: "Ein Belegsatz1 oder Belegsatz2  wird verwendet, um die Bedeutung des Beleg in Form eines Satzes exemplarisch zu verdeutlichen. In den Daten wird statt der Bezeichnung \"Beispielsatz\" auch die Bezeichnung \"Belegsatz\" verwendet."
+  Wortvarianten: Unterschiedliche Varianten eines Wortes.
+  Woerterbuchartikel: "Eine strukturierte Beschreibung eines Lemmas, die Angaben zu Bedeutung (bzw. Bedeutungen), Aussprache, Grammatik, Verbreitung, Etymologie sowie ggfs. Wortbildungen und Redewendungen enthält."
+  Quelle_Datenbank: "Es handelt sich hierbei um eine formalisierte Angabe der geographischen Zuordnung des Belegs. Diese Besteht aus einer Sigle sowie einer in Abkürzungen formulierten und ggfs. hierarchisch (Gemeinde, Kleinregion, Großregion, Bundesland) gegliederten Verschriftlichung der geographischen Zuordnung."
+  CollectionCat: "Die CollectionCat (Abkürzung für Collection Categorizer) ist eine Software-Applikation, die zum Kategorisieren und Zusammenfassen von Belegen im Rahmen der lexikographischen Arbeit genutzt wird."
+  Simplex: "Ein Simplex ist ein einfaches Wort oder Lexem, das weder abgeleitet noch zusammengesetzt ist."
+  Kompositum: Ein Kompositum ist ein aus bereits vorhandenen Wörtern zusammengesetztes komplexes Wort. Der zugrunde liegende Wortbildungsprozess wird Komposition genannt.
+  Derivation: "Eine Derivation ist das Ergebnis eines Wortbildungsprozesses, bei dem durch Anhängen eines Affixes (Präfix, Suffix oder Zirkumfix) aus einem Wort ein neues Wort gebildet wird."
+  Grossregion: "Das Bearbeitungsgebiet (Großregion1 und Großregion2) des WBÖ ist regional untergliedert. Jeder regionalen Einheit ist eine eindeutige Sigle zugeordnet. Die größte regionale Einheit stellt dabei das \"Bundesland\" dar, welches folgendermaßen unterteilt ist: Südtirol (Sigle 1A), Osttirol (Sigle 1B), Nordtirol (Sigle 1C), Kärnten (Sigle 2), Steiermark (Sigle 3), Salzburg (Sigle 4), Oberösterreich (Sigle 5), Niederösterreich (Sigle 6), Wien (Sigle 6.5) sowie Burgenland (Sigle 7). \nDie zweitgrößte regionale Einheit ist die \"Großregion\", welche die Bundesländer in weitere Teilbereiche untergliedert. \nDie drittgrößte regionale Einheit ist die \"Kleinregion\", welche die Großregionen in weitere Teilbereiche untergliedert.\nDie viertgrößte regionale Einheit ist die \"Gemeinde\", welche die Kleinregionen in weitere Teilbereiche untergliedert."
+  Herkunftsort: "Geographische Lokation, aus der ein Beleg stammt. Die Angabe erfolgt auf der jeweils spezifischsten verfügbaren Ebene: Ist eine Gemeinde bekannt, wird diese angegeben; andernfalls eine Kleinregion, eine Großregion oder - als letzte Möglichkeit - das Bundesland."
+Belege[26]{ID,Fragebogennummer,Lemma,POS,Bedeutung_des_Belegsatzes,Bedeutung_der_Lautung,Belegsatz1,Belegsatz2,Lautung1,Lautung2,"Großregion",Herkunftsort,Diverses,Anmerkung}:
+  k481_qdb-d1e3354,58G38 (f);,kibitzen;,Verb;,"",kiebitzen = in etwas unberufen sich einmengen;,"","","","",2.2 MKtn.;2.2 MKtn.;2.2 MKtn.;2.2 MKtn.;,"","",""
+  k481_qdb-d1e4064,"",kibitzen;,Verb;,"","durch stichelnde Worte reizen; beim Kartenspiel zusehen, mitreden und mitraten;durch stichelnde Worte reizen beim Kartenspiel zusehen, mitreden und mitraten;","","","","",6.1 Mostv.;,6.1d01 Allhartsberg;,"",""
+  k481_qdb-d1e4111,82A82;,kibitzen;,Verb;,"",kibitzen;,"","","","",3.1 sbair.ObStmk.;,3.1d03 Lobmingtal;,"",""
+  k481_qdb-d1e4331,"",kibitzen;,Verb;,"","","Owar a Schaond is 's oft schao(n), Daß da Koplao(n) Gor so kibitzt [sg3]   hi(n)dao(n)-;Owar a Schaond is s oft schaon, Daß da Koplaon Gor so kibitzt sg3 hindaon;","","","",6.3 Waldv.;,"","",""
+  k481_qdb-d1e3997,"",kibitzen;,Verb;,"","einen leichten und raschen Gang habenANMO: bes.v.Mädchen;einen leichten und raschen Gang haben ANM O: bes.v.Mädchen;","","","","","","","",""
+  k481_qdb-d1e4622,"",kibitzen;,Verb;,"",necken;,"","","","",5.4 Mühlv.;,5.4e04 Gallneukirchen;,"",""
+  k481_qdb-d1e4403,"",kibitzen;,Verb;,"","neugierig schauen, vorwitzig etwas zu erspähen suchenANMO: insbesondere beim Essen anderer, daß man einem den gluscht  (uncertain value)  ansieht;neugierig schauen, vorwitzig etwas zu erspähen suchen ANM O: insbesondere beim Essen anderer, daß man einem den gluscht ansieht;","","","","",1A.2 mSTir.;,1A.3b01 Sarntal;,"",""
+  k481_qdb-d1e4041,"",kibitzen;,Verb;,"","verstohlen zuschauen, um etwas zu lernen;","","","","",5.4 Mühlv.;,5.4b13 Ulrichsberg;,"",""
+  k481_qdb-d1e4487,"",kibitzen;,Verb;,"",beim Kartenspiel zuschauen und dreinreden;,"","","","","","","",""
+  k481_qdb-d1e4519,"",kibitzen;,Verb;,"","","Ganz einfach, die Kugel kriegt, tönte \"Ironimus\" und warf bei einem \"Festspielzeichen\" mit seinen Kollegen Luis Murschetz, Helmut Hütter und Rudolf Ferch, wobei Saluburgs Bürgermeister Josef Reschen über die Schulter kiebitzte [pt,sg3];Ganz einfach, die Kugel kriegt, tönte Ironimus und warf bei einem Festspielzeichen mit seinen Kollegen Luis Murschetz, Helmut Hütter und Rudolf Ferch, wobei Saluburgs Bürgermeister Josef Reschen über die Schulter kiebitzte pt,sg3;","","","","","","",""
+  k481_qdb-d1e4544,"",kibitzen;,Verb;,"","","Zuvor hatte Happel beim Training der Österreicher gekiebitzt [P2];Zuvor hatte Happel beim Training der Österreicher gekiebitzt P2;","","","","","","",""
+  k481_qdb-d1e4668,82A82 (erg.);,kibitzen;,Verb;,"","dreinredenANMO: wird oft bei Kartenspiel angewendet, wenn ein Zuschauer immer dreinredet;","dẽs giwazn [I/1]   kõ i nit lein;des giwazn I/1 ko i nit lein;","","","",6.1 Mostv.;,6.1d10 Neuhofen an der Ybbs;,"",""
+  k481_qdb-d1e4733,"",kibitzen;,Verb;,neckt ihn;,"","Eaʳ gíbitznt [sg3]   im̄a;Ear gibitznt sg3 ima;","","","",3.3 WStmk.;,3.3c08 Stainz;,"",""
+  k481_qdb-d1e4565,"",kibitzen;,Verb;,"","beim Kartenspielen als Zuschauer dreinreden, Ratschläge erteilen etc.;beim Kartenspielen als Zuschauer dreinreden, Ratschläge erteilen etc.;\"zusehen\"ANMO: auch bloß;zusehen ANM O: auch bloß;","\"I' tua'r añ bißl kiebitz'n„;I tuar an bißl kiebitzn„;","","","",6.5 Wien;,"","",""
+  k481_qdb-d1e3974,"",kibitzen;,Verb;,"",beim Spiel zusehen;,"","","","",6.5 Wien;,"","",""
+  k481_qdb-d1e4137,"",kibitzen;,Verb;,"",beim Spiel zusehen;,"","","","",6.5 Wien;,"","",""
+  k481_qdb-d1e4304,"",kibitzen;,Verb;,"","bei einem Spiel (Karten, Brett) zusehen;bei einem Spiel Karten, Brett zusehen;","","","","",6.1 Mostv.;,6.1o01 Herzogenburg;,"",""
+  k481_qdb-d1e4233,"58G38: Kiebitz;",kibitzen;,Verb;,"","das Spiel beobachten;umsonst Vorträge besuchenANMO: auch;umsonst Vorträge besuchen ANM O: auch;","","","","",6.5 Wien;,6.5r01 Gersthof;,"",""
+  k481_qdb-d1e4377,82A82a;,kibitzen;,Verb;,"",kiwitzen;,"","","","",6.1 Mostv.;,6.1n02 Dunkelsteinerwald;,"",""
+  k481_qdb-d1e4354,"",kibitzen;,Verb;,"",aufhetzen (zum Raufen);aufhetzen zum Raufen;,"","","","",6.5 Wien;,"","",""
+  k481_qdb-d1e4595,58G38 (F);,kibitzen;,Verb;,"","BEIM Kartenspiel DEN Kibitz machenANMB: teilw.stenogr.;","","","","",6.2 Industriev.;,6.2j15 Pottendorf;,"",""
+  k481_qdb-d1e4643,"",kibitzen;,Verb;,wenn doch der mit seinem Dreinreden aufhören würde;,"","Wǫn dȏ der mit sẽĩn Giwazn [I/1,sg3]   aufherad;Won do der mit sein Giwazn I/1,sg3 aufherad;","","","",6.1 Mostv.;,6.1d21 Ybbs an der Donau;,"",""
+  k481_qdb-d1e4462,"",kibitzen;,Verb;,"","\"(beim Kartenspiel) zusehen\";beim Kartenspiel zusehen;","","","","",6.5 Wien;,"","",""
+  k481_qdb-d1e4020,"",kibitzen;,Verb;,"",beim Kartenspiel zuschauen;,"","","","","","","",""
+  k481_qdb-d1e4262,"",kibitzen;,Verb;,"","","","","","",7.3 SBgl.;,7.3e02 Rechnitz;,"",""
+  k481_qdb-d1e4443,"","kibitzen:  kopiert;","","","","","","","",1A.2 mSTir.;,1A.3b01 Sarntal;,"",""

@@ -1,0 +1,110 @@
+{
+  "Lemma": "Kaluppe",
+  "POS": "Substantiv",
+  "Genus": "Femininum",
+  "Form": {
+    "form": "Kalupperl",
+    "typ": "Diminutive",
+    "genus": "Neutrum"
+  },
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "minderwertige, armselige Behausung; kleines, ärmliches Anwesen",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p2 Ktn.",
+        "p3 Stmk.",
+        "p4 Sbg.",
+        "p5.1 Innv.",
+        "p5.2 Hausrv.",
+        "p5.4 Mühlv.",
+        "p6 NÖ",
+        "p6.5 Wien",
+        "p7.1 NBgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "so a alte Kaluppn!",
+          "Herkunftsort": "Sbg."
+        },
+        {
+          "Belegsatz": "an ålte Kaluppen",
+          "Herkunftsort": "Warth"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "minderwertige Wohnung; Substandardwohnung",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p3.2 mbair.ObStmk."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "baufälliges, verfallenes, verwahrlostes (Wohn-)Gebäude",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1C.3 öNTir.",
+        "p2 Ktn.",
+        "p3 Stmk.",
+        "p4 Sbg.",
+        "p5 OÖ",
+        "p6.1 Mostv.",
+        "p6.3 Waldv.",
+        "p6.4 Weinv.",
+        "p6.5 Wien",
+        "p7.1 NBgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "dös is a gånzö Kaluppn",
+          "Herkunftsort": "Hopfgarten im Brixental"
+        },
+        {
+          "Belegsatz": "Deē Kalupbm es a scho zən zomfolln",
+          "Herkunftsort": "Söding-St. Johann"
+        },
+        {
+          "Belegsatz": "s Kaloppal schraufm",
+          "Herkunftsort": "Kirchberg-Thening"
+        },
+        {
+          "Belegsatz": "a rechti Kalupn",
+          "Herkunftsort": "Dimbach"
+        },
+        {
+          "Belegsatz": "a so a Kalupm",
+          "Herkunftsort": "St. Anton an der Jeßnitz"
+        },
+        {
+          "Belegsatz": "d Khalūbm is nit mę̄a wę̄acht oüs dăs mas nīdabrē̇nth",
+          "Herkunftsort": "Kautzen"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "altes (Wohn-)Gebäude; altes Haus; alte Hütte",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1C.3 öNTir.",
+        "p2.1 ObKtn.",
+        "p2.2 MKtn.",
+        "p3.2 mbair.ObStmk.",
+        "p3.3 WStmk.",
+        "p4.1 Lung.",
+        "p5.4 Mühlv.",
+        "p6.1 Mostv.",
+        "p6.3 Waldv.",
+        "p6.4 Weinv.",
+        "p6.5 Wien",
+        "p7.1 NBgl."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

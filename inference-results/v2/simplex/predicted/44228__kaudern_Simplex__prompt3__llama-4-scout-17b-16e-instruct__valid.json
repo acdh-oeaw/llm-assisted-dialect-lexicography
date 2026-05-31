@@ -1,0 +1,163 @@
+{
+    "Lemma": "kaudern",
+    "POS": "Verb",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "viel und verworren reden",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "7.1 NBgl.",
+                "6.3 Waldv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k464_qdb-d1e1396",
+                    "Belegsatz": "",
+                    "Herkunftsort": "7.1 NBgl."
+                },
+                {
+                    "ID": "k464_qdb-d1e1073",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k464_qdb-d1e1473",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.3a18 Reingers"
+                }
+            ],
+            "Belege": [
+                "k464_qdb-d1e1396",
+                "k464_qdb-d1e1073",
+                "k464_qdb-d1e1473"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "plaudern",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.5 Wien",
+                "7.1 NBgl.",
+                "6.4 Weinv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k464_qdb-d1e1048",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.5 Wien"
+                },
+                {
+                    "ID": "k464_qdb-d1e1448",
+                    "Belegsatz": "",
+                    "Herkunftsort": "7.1d16 Pöttsching"
+                },
+                {
+                    "ID": "k464_qdb-d1e1166",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.4e09 Röschitz"
+                }
+            ],
+            "Belege": [
+                "k464_qdb-d1e1048",
+                "k464_qdb-d1e1448",
+                "k464_qdb-d1e1166"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "hausieren",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "k464_qdb-d1e1143",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k464_qdb-d1e1023",
+                    "Belegsatz": "hausieren, handeln schwätzen",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k464_qdb-d1e1143",
+                "k464_qdb-d1e1023"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "mäkeln; hausieren",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "differenzierte Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "k464_qdb-d1e1217",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k464_qdb-d1e1217"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "kuttern = lachen (oft)",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "weitere Bedeutung 1",
+            "Regionen": [
+                "2.2 MKtn."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k464_qdb-d1e1503",
+                    "Belegsatz": "",
+                    "Herkunftsort": "2.2d02 Reichenau"
+                }
+            ],
+            "Belege": [
+                "k464_qdb-d1e1503"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "überhastet reden und deshalb stottern",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "weitere Bedeutung 2",
+            "Regionen": [
+                "6.3 Waldv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k464_qdb-d1e1119",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.3s04 Langenlois"
+                }
+            ],
+            "Belege": [
+                "k464_qdb-d1e1119"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "eine besondere Art des Kauens",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "weitere Bedeutung 3",
+            "Regionen": [
+                "5.3 Traunv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k464_qdb-d1e1555",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.3b02 Gmunden"
+                }
+            ],
+            "Belege": [
+                "k464_qdb-d1e1555"
+            ]
+        }
+    ]
+}

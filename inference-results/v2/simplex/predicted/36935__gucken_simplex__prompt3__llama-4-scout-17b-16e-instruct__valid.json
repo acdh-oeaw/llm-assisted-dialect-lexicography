@@ -1,0 +1,140 @@
+{
+    "Lemma": "gucken",
+    "POS": "Verb",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "schauen, sehen",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.1 wNTir.",
+                "5.1 Innv.",
+                "6.1 Mostv.",
+                "7.2 MBgl."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g353_qdb-d1e16223",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "g353_qdb-d1e15360",
+                    "Belegsatz": "",
+                    "Herkunftsort": "Kufstein"
+                }
+            ],
+            "Belege": [
+                "g353_qdb-d1e16223",
+                "g353_qdb-d1e15360",
+                "g353_qdb-d1e15417",
+                "g353_qdb-d1e15602",
+                "g353_qdb-d1e16634"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "durch eine Öffnung schauen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.3 öNTir.",
+                "5.1 Innv.",
+                "7.2 MBgl."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g353_qdb-d1e12582",
+                    "Belegsatz": "",
+                    "Herkunftsort": "Thiersee"
+                },
+                {
+                    "ID": "g353_qdb-d1e15494",
+                    "Belegsatz": "[i hąⁿ durės šlissllō gukt]",
+                    "Herkunftsort": "Mühlheim am Inn"
+                }
+            ],
+            "Belege": [
+                "g353_qdb-d1e12582",
+                "g353_qdb-d1e15494",
+                "g353_qdb-d1e15995",
+                "g353_qdb-d1e15160"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "neugierig umhersehen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.1 Innv.",
+                "6.4 Weinv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g353_qdb-d1e15467",
+                    "Belegsatz": "",
+                    "Herkunftsort": "Mühlheim am Inn"
+                },
+                {
+                    "ID": "g353_qdb-d1e16670",
+                    "Belegsatz": "[guggȇr und šau;gugger I und sau]",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g353_qdb-d1e15467",
+                "g353_qdb-d1e16670"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "verstohlen, blinzelnd schauen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.1 Mostv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g353_qdb-d1e15085",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g353_qdb-d1e15085"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "zu tief ins Glasl guggn; schreien wie ein Kuckuck; Brauch am Thomasabend",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "weitere Bedeutung 1",
+            "Regionen": [
+                "6.1 Mostv.",
+                "2.2 MKtn."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g353_qdb-d1e16611",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "g353_qdb-d1e14770",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "g353_qdb-d1e36141",
+                    "Belegsatz": "[Haferl gucken]",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g353_qdb-d1e16611",
+                "g353_qdb-d1e14770",
+                "g353_qdb-d1e36141"
+            ]
+        }
+    ]
+}

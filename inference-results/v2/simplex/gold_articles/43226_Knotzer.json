@@ -1,0 +1,129 @@
+{
+  "Lemma": "Knotzer",
+  "POS": "Substantiv",
+  "Genus": "Maskulinum",
+  "Form": {
+    "form": "Knotzerl",
+    "typ": "Diminutive",
+    "genus": "Neutrum"
+  },
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "gedrungener, untersetzter, kleiner Mensch",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p5 OÖ",
+        "p6.1 Mostv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "ɒ κlǫ̃ɒ̃nɒ ʾnoτσɒ",
+          "Herkunftsort": "Weibern"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "kleiner Bub",
+      "Typ": "Variante",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p5.2 Hausrv.",
+        "p5.3 Traunv.",
+        "p5.4 Mühlv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "bist åwəʳ a Gŋozəʳ, a zwídanə lästiger",
+          "Herkunftsort": "Gmunden"
+        },
+        {
+          "Belegsatz": "wia ė hoöd nu a so a Knodsa gwėn bi",
+          "Herkunftsort": "Gramastetten"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "träger, schwerfälliger, langsamer Mensch; Faulpelz; Stubenhocker; Mensch ohne Ambitionen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p2 Ktn.",
+        "p3 Stmk.",
+        "p5 OÖ",
+        "p6.3 Waldv.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Du bist a rechta Knóutzer",
+          "Herkunftsort": "Reichenau"
+        },
+        {
+          "Belegsatz": "deaʳ Bau Bauer is a rechta Gnōdza",
+          "Herkunftsort": "Gastern"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "reicher, aber geiziger Mensch",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p6.3 Waldv.",
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "a raicha Gnodza",
+          "Herkunftsort": "Retz"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Schimpfname für einen Stier oder ein Pferd",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p5.2 Hausrv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "gekrümmte, aber nicht geballte Hand",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p5.3 Traunv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Fingermaß beim Kugerlscheiben; Abstand von der Größe der Knöchel des gekrümmten Mittel- und Zeigefingers zusammen",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p5.2 Hausrv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Arrest mit Pritsche",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p3.1 sbair.ObStmk."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Stützgarbe eines Garbenmännchens",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "weitere Bedeutung 3",
+      "Regionen": [
+        "p5 OÖ"
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

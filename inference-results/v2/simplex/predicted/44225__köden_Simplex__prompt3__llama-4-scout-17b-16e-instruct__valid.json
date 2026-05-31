@@ -1,0 +1,34 @@
+{
+    "Lemma": "köden",
+    "POS": "Verb",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "sagen, sprechen",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1B.0 OTir.",
+                "1C.2 mNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k502_qdb-d1e74117",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1B.0 OTir."
+                },
+                {
+                    "ID": "k502_qdb-d1e79360",
+                    "Belegsatz": "das öippas köit [P2] isch",
+                    "Herkunftsort": "1C.2a19 Schwaz"
+                }
+            ],
+            "Belege": [
+                "k502_qdb-d1e76851",
+                "k502_qdb-d1e74117",
+                "k502_qdb-d1e79360"
+            ]
+        }
+    ]
+}

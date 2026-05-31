@@ -1,0 +1,34 @@
+{
+  "Lemma": "Galfe",
+  "POS": "Substantiv",
+  "Genus": "Femininum, Neutrum",
+  "Form": {
+    "form": "Galfei, Galfa",
+    "typ": "Diminutive Nebenform",
+    "genus": "Neutrum"
+  },
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "Trockenmaß, Hohlmaß",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1C NTir.",
+        "p1B OTir.",
+        "p1A STir."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Getreidemaß",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1B OTir.",
+        "p1A STir.",
+        "p3 Stmk."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

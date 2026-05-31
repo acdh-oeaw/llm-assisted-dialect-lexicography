@@ -1,0 +1,97 @@
+{
+    "Lemma": "Kimme",
+    "POS": "Subst",
+    "Genus": "Femininum",
+    "Kasus": "Nominativ",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Einschnitt in der Faßdaube zum Einsetzen des Bodens oder Deckels",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "3.3 WStmk.",
+                "1C.3 öNTir.",
+                "6.4 Weinv.",
+                "5.2 Hausrv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k481_qdb-d1e47834",
+                    "Belegsatz": "",
+                    "Herkunftsort": "(Boding)"
+                },
+                {
+                    "ID": "k481_qdb-d1e47916",
+                    "Belegsatz": "Kimme = der Falz, in dem der Faßboden steckt;",
+                    "Herkunftsort": "6.1l02 Hofstetten-Grünau"
+                },
+                {
+                    "ID": "k481_qdb-d1e48288",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.3c08 Kundl"
+                }
+            ],
+            "Belege": [
+                "k481_qdb-d1e47834",
+                "k481_qdb-d1e47916",
+                "k481_qdb-d1e48288",
+                "k481_qdb-d1e48040",
+                "k481_qdb-d1e48240"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Seiteneinfassung beim Faß oder Schaff",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.4 Weinv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k481_qdb-d1e47893",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k481_qdb-d1e47893"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Kerbe der Faßdaube",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "3.4 MStmk."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k481_qdb-d1e47939",
+                    "Belegsatz": "",
+                    "Herkunftsort": "3.4d01 Graz"
+                }
+            ],
+            "Belege": [
+                "k481_qdb-d1e47939"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Faßrunsen (uncertain value), der Falz, in dem der Faßboden steckt, Zarge",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.1 Mostv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "z869_qdb-d1e57659",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.1l02 Hofstetten-Grünau"
+                }
+            ],
+            "Belege": [
+                "z869_qdb-d1e57659"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "Lemma": "Gibel",
+    "POS": "Subst.",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "Giebel, Dachgiebel",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.1 wNTir.",
+                "1C.2 mNTir.",
+                "1C.3 öNTir.",
+                "2.1 ObKtn.",
+                "2.2 MKtn.",
+                "3.1 sbair.ObStmk.",
+                "5.2 Hausrv.",
+                "5.3 Traunv.",
+                "5.4 Mühlv.",
+                "6.1 Mostv.",
+                "6.2 Industriev.",
+                "6.3 Waldv.",
+                "7.2 MBgl."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g326_qdb-d1e1571",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.2e03 Puchberg am Schneeberg"
+                },
+                {
+                    "ID": "g326_qdb-d1e450",
+                    "Belegsatz": "a schlechda Gibü [m]; sieachds glai; an Gibü m,sg4 sieachds glai;",
+                    "Herkunftsort": "6.3a15 Kautzen"
+                },
+                {
+                    "ID": "g326_qdb-d1e891",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.3c03 Bad Großpertholz"
+                }
+            ],
+            "Belege": [
+                "g326_qdb-d1e1571",
+                "g326_qdb-d1e546",
+                "g326_qdb-d1e308",
+                "g326_qdb-d1e450",
+                "g326_qdb-d1e565",
+                "g326_qdb-d1e627",
+                "g326_qdb-d1e891",
+                "g326_qdb-d1e1319",
+                "g326_qdb-d1e1383",
+                "g326_qdb-d1e1483",
+                "g326_qdb-d1e1506",
+                "g326_qdb-d1e1527",
+                "g326_qdb-d1e329",
+                "g326_qdb-d1e587",
+                "g326_qdb-d1e774",
+                "g326_qdb-d1e1051",
+                "g326_qdb-d1e965",
+                "g326_qdb-d1e1003",
+                "g326_qdb-d1e1156",
+                "g326_qdb-d1e1200",
+                "g326_qdb-d1e1548"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Hochfenster im Stadel",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "3.1 sbair.ObStmk."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g326_qdb-d1e1749",
+                    "Belegsatz": "",
+                    "Herkunftsort": "3.1b01 Neumarkt in der Steiermark"
+                }
+            ],
+            "Belege": [
+                "g326_qdb-d1e1749"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "ein zu den Cyprinoiden gehöriger Weißfisch",
+            "Typ": "Bedeutungsvariante",
+            "Gruppierung": "weitere Bedeutung 1",
+            "Regionen": [
+                ""
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g326_qdb-d1e267",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g326_qdb-d1e267"
+            ]
+        }
+    ]
+}

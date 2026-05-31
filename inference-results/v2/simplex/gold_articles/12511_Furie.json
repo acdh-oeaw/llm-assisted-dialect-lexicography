@@ -1,0 +1,79 @@
+{
+  "Lemma": "Furie",
+  "POS": "Substantiv",
+  "Genus": "Femininum",
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "Wut; Zorn",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p2.1 ObKtn.",
+        "p3 Stmk."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "in der fûrɛ",
+          "Herkunftsort": "NTir."
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Hast; Eile",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "in aller fûri",
+          "Herkunftsort": "OTir."
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "ausgelassene Freude",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p5.3 Traunv."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "wütende, rasende Frau; böse Frau",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B OTir.",
+        "p1C NTir.",
+        "p6.1 Mostv.",
+        "p6.4 Weinv.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "eine wilde fûri",
+          "Herkunftsort": "NTir."
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "alte Frau",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p6.3 Waldv."
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}

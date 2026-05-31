@@ -1,0 +1,159 @@
+{
+  "Lemma": "klieben",
+  "POS": "Verb",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "zusammenhängende Teile eines festen Gegenstandes gewaltsam voneinander trennen; spalten (z. B. Holz, Steine, Obst, Zähne)",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir.",
+        "p2 Ktn.",
+        "p3 Stmk.",
+        "p4 Sbg.",
+        "p5 OÖ",
+        "p6 NÖ",
+        "p6.5 Wien",
+        "p7 Bgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Schindl kliᵃbe",
+          "Herkunftsort": "Pfunds"
+        },
+        {
+          "Belegsatz": "in tsant kχliẹwm̥",
+          "Herkunftsort": "Kiens"
+        },
+        {
+          "Belegsatz": "Prigl kliᵃbn moᵃcht woᵃrm",
+          "Herkunftsort": "Fendels"
+        },
+        {
+          "Belegsatz": "dös hǫt a kliaᵇm kina!",
+          "Herkunftsort": "Kufstein"
+        },
+        {
+          "Belegsatz": "Öpfl kliᵃbm",
+          "Herkunftsort": "uGurkt."
+        },
+        {
+          "Belegsatz": "Brötta gəklobm",
+          "Herkunftsort": "Trebesing"
+        },
+        {
+          "Belegsatz": "lost si so schēaⁿ kliəm",
+          "Herkunftsort": "Lobmingtal"
+        },
+        {
+          "Belegsatz": "Spaⁿ kli͡abn",
+          "Herkunftsort": "Stainz"
+        },
+        {
+          "Belegsatz": "dea gėt håʳscht zun kliaᵇm",
+          "Herkunftsort": "Fusch an der Großglocknerstraße"
+        },
+        {
+          "Belegsatz": "s hoiz kliȇm",
+          "Herkunftsort": "nördl.obInnv."
+        },
+        {
+          "Belegsatz": "dę Šdąm̄ (dö Faichtn) dgloöbt",
+          "Herkunftsort": "Gmunden"
+        },
+        {
+          "Belegsatz": "dö faichtəʳn håd maⁿ nöd dglōm, - nęta ausgschnidn",
+          "Herkunftsort": "Gmunden"
+        },
+        {
+          "Belegsatz": "losdsi schlechd gluim",
+          "Herkunftsort": "Kautzen"
+        },
+        {
+          "Belegsatz": "Schtua glouim",
+          "Herkunftsort": "Kautzen"
+        },
+        {
+          "Belegsatz": "Der kluibt nit gean schwari Scheidln",
+          "Herkunftsort": "Waldv."
+        },
+        {
+          "Belegsatz": "i håb kliabt",
+          "Herkunftsort": "Poysdorf"
+        },
+        {
+          "Belegsatz": "Deəʳ Hund kliəbt gåəʳ net",
+          "Herkunftsort": "Gersthof"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "sich aufspalten; brüchig werden",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A.2 mSTir.",
+        "p1A.4 öSTir.",
+        "p1C NTir.",
+        "p3.2 mbair.ObStmk.",
+        "p3.4 MStmk.",
+        "p5.1 Innv.",
+        "p5.4 Mühlv.",
+        "p6 NÖ",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "S Bǫan ischt gekloubn",
+          "Herkunftsort": "Pass."
+        },
+        {
+          "Belegsatz": "die Rebm sein klobm, muaß tamisch kolt gwesn sein",
+          "Herkunftsort": "Salurn"
+        },
+        {
+          "Belegsatz": "s lerχanẹ holts kχloip an laiχtištn; s tsirmanẹ an hörtištn",
+          "Herkunftsort": "Lüsen"
+        },
+        {
+          "Belegsatz": "s pröit išt kχlouwə",
+          "Herkunftsort": "Imst"
+        },
+        {
+          "Belegsatz": "s Hoɫz kliəp noch da Feicht oda noch da Frerk",
+          "Herkunftsort": "Thiersee"
+        },
+        {
+          "Belegsatz": "d Hǫa kliaᵇm si",
+          "Herkunftsort": "Kapfenberg"
+        },
+        {
+          "Belegsatz": "d Hǭaʳ gloiᵇmd",
+          "Herkunftsort": "Allhartsberg"
+        },
+        {
+          "Belegsatz": "dǫs hoids gloipt guid",
+          "Herkunftsort": "Spannberg"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "Geschlechtsverkehr ausüben",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p2.2 MKtn."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "o͜anₑ kliᵃbm",
+          "Herkunftsort": "obstGurkt."
+        }
+      ]
+    }
+  ]
+}

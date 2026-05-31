@@ -1,0 +1,339 @@
+{
+  "Lemma": "kommod",
+  "POS": "Adjektiv",
+  "Genus": null,
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "bequem; gemütlich; behaglich",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir.",
+        "p2.2 MKtn.",
+        "p3 Stmk.",
+        "p5 OÖ",
+        "p6 NÖ",
+        "p6.5 Wien",
+        "p7.1 NBgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "s Hewet Hemd wåchsche mr a wia kåmot",
+          "Herkunftsort": "Sarntal"
+        },
+        {
+          "Belegsatz": "an kom̄otn Jangger",
+          "Herkunftsort": "Fendels"
+        },
+        {
+          "Belegsatz": "Maᵒchts es Enk kamott derweil!",
+          "Herkunftsort": "Prutz"
+        },
+        {
+          "Belegsatz": "Måch m'r an kₐmotn, an kreimpm Krågn!",
+          "Herkunftsort": "Straßburg"
+        },
+        {
+          "Belegsatz": "dos is a komoder Stuhl",
+          "Herkunftsort": "Judenburg"
+        },
+        {
+          "Belegsatz": "Dō hōd-a kamout lousn",
+          "Herkunftsort": "Kapfenberg"
+        },
+        {
+          "Belegsatz": "nid kumodd",
+          "Herkunftsort": "söMarchfd."
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "geräumig",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p3.5 OStmk."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "handlich; praktisch",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1B.0 OTir.",
+        "p1C.1 wNTir.",
+        "p1C.3 öNTir.",
+        "p2.2 MKtn.",
+        "p3 Stmk.",
+        "p4 Sbg.",
+        "p5.2 Hausrv.",
+        "p6.2 Industriev.",
+        "p6.3 Waldv.",
+        "p6.4 Weinv.",
+        "p7 Bgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "kχǫmott iss woll wemmin glai ǫlls pi dər hǫnt hǫtt",
+          "Herkunftsort": "St. Jakob in Defereggen"
+        },
+        {
+          "Belegsatz": "kₐmoz Schreib'ᵣlₑ",
+          "Herkunftsort": "Straßburg"
+        },
+        {
+          "Belegsatz": "dös is was Kommods",
+          "Herkunftsort": "Sbg."
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "leicht erreichbar",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1C.3 öNTir.",
+        "p2.1 ObKtn.",
+        "p3.2 mbair.ObStmk.",
+        "p3.5 OStmk.",
+        "p5 OÖ",
+        "p6.1 Mostv.",
+        "p6.2 Industriev.",
+        "p6.3 Waldv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "der ɒ̊cker is kumot",
+          "Herkunftsort": "Traun"
+        },
+        {
+          "Belegsatz": "d Wīsn is kammó ba da Hånd",
+          "Herkunftsort": "Buckl.Wt."
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "gemächlich",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p2.2 MKtn.",
+        "p4 Sbg."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "kamot ₐh­erfo͜arn",
+          "Herkunftsort": "Straßburg"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "ununterbrochen; gleichmäßig",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p2.2 MKtn."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "kommod regnen",
+          "Herkunftsort": "Reichenau"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "unkompliziert; auf leichte Weise",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p3.4 MStmk."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "i biⁿ kəmót dráuskęmə mid dė wǫ́fmiwuŋən Waffenübungen",
+          "Herkunftsort": "Kainbach bei Graz"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "leicht zu bearbeiten; leicht herzurichten",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p5.4 Mühlv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "kamaóddö Haare",
+          "Herkunftsort": "Steyregg"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "gesellig; leutselig",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p1A.2 mSTir.",
+        "p1C NTir.",
+        "p2.1 ObKtn.",
+        "p3 Stmk.",
+        "p4 Sbg.",
+        "p5.1 Innv.",
+        "p5.2 Hausrv.",
+        "p5.3 Traunv.",
+        "p6.1 Mostv.",
+        "p6.2 Industriev."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "der noi Gstantār Gendarm is a kommoter Mann",
+          "Herkunftsort": "Sbg."
+        },
+        {
+          "Belegsatz": "a kamouz Lait",
+          "Herkunftsort": "Lobmingtal"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "freundlich; entgegenkommend; hilfsbereit; gutmütig; umgänglich; nachgiebig; gemütlich",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir.",
+        "p2.2 MKtn.",
+        "p3 Stmk.",
+        "p4 Sbg.",
+        "p6.2 Industriev.",
+        "p5.2 Hausrv.",
+        "p5.3 Traunv.",
+        "p6.1 Mostv.",
+        "p6.2 Industriev.",
+        "p6.3 Waldv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "a kamods Weibəs",
+          "Herkunftsort": "Schwoich"
+        },
+        {
+          "Belegsatz": "a khmōts dirndle",
+          "Herkunftsort": "Frauenstein"
+        },
+        {
+          "Belegsatz": "A Kaᵒmmoter Bauer",
+          "Herkunftsort": "Kappel am Krappfeld"
+        },
+        {
+          "Belegsatz": "a khmōts dirndle",
+          "Herkunftsort": "Kapfenberg"
+        },
+        {
+          "Belegsatz": "wann er net so kommod gwesn waar",
+          "Herkunftsort": "Eibiswald"
+        },
+        {
+          "Belegsatz": "ráušėgė sand gąns wę́nė Kąmót",
+          "Herkunftsort": "Kainbach bei Graz"
+        },
+        {
+          "Belegsatz": "miɒ hąm a naēė ōwɒrėn Oberin , ɒ ręxt ɒ khamótė",
+          "Herkunftsort": "Graz"
+        },
+        {
+          "Belegsatz": "er is so viel a kamotter Herr",
+          "Herkunftsort": "Gnas"
+        },
+        {
+          "Belegsatz": "a khumōtəʳ Mensch",
+          "Herkunftsort": "Gmunden"
+        },
+        {
+          "Belegsatz": "kǫmȯda Schneida",
+          "Herkunftsort": "Neuhofen an der Ybbs"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "dienstwillig",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p2.2 MKtn."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "a kₐmot'r Knecht",
+          "Herkunftsort": "Straßburg"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "ordentlich",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p6.2 Industriev."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "ein Khamoᵘta Mensch",
+          "Herkunftsort": "Buckl.Wt."
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "faul; nachlässig",
+      "Typ": "Variante",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p2.2 MKtn.",
+        "p5.1 Innv.",
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "er is zu kommot dazu",
+          "Herkunftsort": "Reichenau"
+        },
+        {
+          "Belegsatz": "dås is a Kₐmotr",
+          "Herkunftsort": "Straßburg"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "folgsam; nachgiebig; brav",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p2.1 ObKtn.",
+        "p2.2 MKtn.",
+        "p3.3 WStmk.",
+        "p5.1 Innv.",
+        "p6.1 Mostv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "ɒ khɒ̃mōte khūɒ",
+          "Herkunftsort": "Malta"
+        },
+        {
+          "Belegsatz": "Dös san komōde Fadli",
+          "Herkunftsort": "Stainz"
+        },
+        {
+          "Belegsatz": "dēs̄ fiχ is sạ šę̃ῖ κhamōd!",
+          "Herkunftsort": "Allhartsberg"
+        }
+      ]
+    }
+  ]
+}

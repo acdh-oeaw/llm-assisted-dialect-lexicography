@@ -1,0 +1,146 @@
+{
+    "Lemma": "kindeln",
+    "POS": "Verb",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "keimen (vom Körndl)",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.3 Waldviertel"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k483_qdb-d1e37302",
+                    "Belegsatz": "S Kheandl khindlt [sg3] schaou;",
+                    "Herkunftsort": "6.3a15 Kautzen"
+                },
+                {
+                    "ID": "k483_qdb-d1e37329",
+                    "Belegsatz": "Dgearschte khindlth [sg3];",
+                    "Herkunftsort": "6.3a15 Kautzen"
+                }
+            ],
+            "Belege": [
+                "k483_qdb-d1e37302",
+                "k483_qdb-d1e37329"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "gebären, entbinden",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.4 Weinviertel",
+                "2.2 MKtn."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k483_qdb-d1e37126",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.4d18 Poysdorf"
+                },
+                {
+                    "ID": "k483_qdb-d1e37248",
+                    "Belegsatz": "Du håst Holz ha dʳ Wōnd, werst leicht kindln;",
+                    "Herkunftsort": "2.3b04 Gurk"
+                }
+            ],
+            "Belege": [
+                "k483_qdb-d1e37126",
+                "k483_qdb-d1e37248"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "kindisch benehmen; sich wie ein Kind betragen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.3 öNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k483_qdb-d1e37198",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.3b03 Thiersee"
+                },
+                {
+                    "ID": "k483_qdb-d1e37275",
+                    "Belegsatz": "kindisch benehmen ANM O: in der Regel mit abträglichen Beigeschmack;",
+                    "Herkunftsort": "1C.3b03 Thiersee"
+                }
+            ],
+            "Belege": [
+                "k483_qdb-d1e37198",
+                "k483_qdb-d1e37275"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Kindereien machen im Liebesverhalten",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.3 öNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k483_qdb-d1e37223",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.3b03 Thiersee"
+                }
+            ],
+            "Belege": [
+                "k483_qdb-d1e37223"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "ein Kinderspiel treiben",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "3.4 MStmk.",
+                "1B.0 OTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k483_qdb-d1e37150",
+                    "Belegsatz": "",
+                    "Herkunftsort": "3.4d01 Graz"
+                },
+                {
+                    "ID": "k483_qdb-d1e37052",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k483_qdb-d1e37150",
+                "k483_qdb-d1e37052"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "im Wochenbett liegen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [],
+            "Belegsaetze": [
+                {
+                    "ID": "k483_qdb-d1e37103",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k483_qdb-d1e36947",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k483_qdb-d1e37103",
+                "k483_qdb-d1e36947"
+            ]
+        }
+    ]
+}

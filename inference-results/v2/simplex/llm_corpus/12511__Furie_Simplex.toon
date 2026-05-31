@@ -1,0 +1,52 @@
+Glossar:
+  Lemma: 'Lemma' beinhaltet sämtliche Einträge (inklusive Komposita und Wortbildungsvarianten), die einem bestimmten Lemma zugeordnet werden können. Zu diesem Zweck wurden alle Handzettel beziehungsweise die Einträge der Belegdatenbank lemmatisiert und nach historisch-etymologischen Gesichtspunkten - also linguistischen Prinzipien - einem Hauptlemma zugeordnet.
+  Fragebogennummer: Auflistung von relevanten Fragebogennummern und Beschreibungen:\n
+  Part_of_Speech: Diese Angabe benennt die Wortart des jeweiligen Belegs.
+  Bedeutung_der_Lautung: Diese Information beschreibt die Bedeutung der Lautungsangabe auf dem Beleg.
+  Bedeutung_des_Belegsatzes: Diese Information beschreibt die Bedeutung des in Spalte \Belegsatz 1\, \Belegsatz 2\ etc. angegebenen Belegsatzes. Es kann sich dabei um eine direkte standardsprachliche Übersetzung, eine standardsprachliche Periphrase oder um einen metasprachlichen Kommentar handeln.
+  Belegsatz_1: Dieser Eintrag gibt einen Belegsatz, eine Redewendung oder eine Paraphrase wider, um die Bedeutung des Belegs exemplarisch darzustellen bzw. näher zu kontextualisieren. Der Belegsatz ist in der Regel im Dialekt angegeben und in der Lautschrift Teuthonista verschriftlicht.
+  Belegsatz_2: Belegsatz 2 weist dieselbe Funktionalität auf wie Belegsatz 1.
+  Sammlung: Eine Sammlung bündelt einzelne Einträge nach lexikographisch sinnvollen Gesichtspunkten. Alle Einträge der Sammlung teilen diese Gesichtspunkte.
+  Lautung_1: Die angegebene Information umfasst die lautliche Transkription des vorliegenden Belegs. Die Transkription wurde auf der Grundlage eines Lautschriftsystems notiert, das jenem der Teuthonista gleicht oder zumindest ähnelt. Da die Datengrundlage des WBÖ auf unterschiedlichsten Quellen basiert und die Erhebungen der Fragebögen häufig von Laien-Sammlerinnen und -sammlern durchgeführt wurden, können sich Uneinheitlichkeiten bei der Transkription ergeben.
+  Lautung_2: Lautung 2 weist dieselbe Funktionalität auf wie Lautung 1.
+  Anmerkung: Zusätzliche Anmerkung über den Beleg.
+  Diverses: Zusätzliche undefinierte Anmerkung über den Beleg.
+  Substantiv: Dieser Beleg zählt zur Wortart Substantiv.
+  Verb: Dieser Beleg zählt zur Wortart Verb.
+  Adjektiv: Dieser Beleg zählt zur Wortart Adjektiv.
+  Adverb: Dieser Beleg zählt zur Wortart Adverb.
+  Praeposition: Dieser Beleg zählt zur Wortart Präposition.
+  Konjunktion: Dieser Beleg zählt zur Wortart Konjunktion.
+  Pronomen: Dieser Beleg zählt zur Wortart Pronomen.
+  Interjektion: Dieser Beleg zählt zur Wortart Interjektion.
+  Partikel: Dieser Beleg zählt zur Wortart Partikel.
+  Geschlecht: Das grammatische Geschlecht eines Wortes wird in der Fachsprache als Genus bezeichnet. Im Deutschen gibt es drei Genera: Maskulinum (männlich), Femininum (weiblich) und Neutrum (sächlich). Das Genus eines Substantivs wird oft durch den Artikel (der, die, das) angezeigt.
+  Bedeutung: Semantik, auch Bedeutungslehre genannt, ist die wissenschaftliche Beschäftigung mit Bedeutung und mit den verschiedenen Beziehungen zwischen einem Zeichen und dem Bezeichneten. In den Wörterbuchartikeln gehört die Angabe der Bedeutung bzw. Bedeutungen eines Wortes zu den zentralen Inhalten.
+  Belegsatz: Ein Belegsatz1 oder Belegsatz2  wird verwendet, um die Bedeutung des Beleg in Form eines Satzes exemplarisch zu verdeutlichen. In den Daten wird statt der Bezeichnung \Beispielsatz\ auch die Bezeichnung \Belegsatz\ verwendet.
+  Wortvarianten: Unterschiedliche Varianten eines Wortes.
+  Woerterbuchartikel: Eine strukturierte Beschreibung eines Lemmas, die Angaben zu Bedeutung (bzw. Bedeutungen), Aussprache, Grammatik, Verbreitung, Etymologie sowie ggfs. Wortbildungen und Redewendungen enthält.
+  Quelle_Datenbank: Es handelt sich hierbei um eine formalisierte Angabe der geographischen Zuordnung des Belegs. Diese Besteht aus einer Sigle sowie einer in Abkürzungen formulierten und ggfs. hierarchisch (Gemeinde, Kleinregion, Großregion, Bundesland) gegliederten Verschriftlichung der geographischen Zuordnung.
+  CollectionCat: Die CollectionCat (Abkürzung für Collection Categorizer) ist eine Software-Applikation, die zum Kategorisieren und Zusammenfassen von Belegen im Rahmen der lexikographischen Arbeit genutzt wird.
+  Simplex: Ein Simplex ist ein einfaches Wort oder Lexem, das weder abgeleitet noch zusammengesetzt ist.
+  Kompositum: Ein Kompositum ist ein aus bereits vorhandenen Wörtern zusammengesetztes komplexes Wort. Der zugrunde liegende Wortbildungsprozess wird Komposition genannt.
+  Derivation: Eine Derivation ist das Ergebnis eines Wortbildungsprozesses, bei dem durch Anhängen eines Affixes (Präfix, Suffix oder Zirkumfix) aus einem Wort ein neues Wort gebildet wird.
+  Grossregion: Das Bearbeitungsgebiet (Großregion1 und Großregion2) des WBÖ ist regional untergliedert. Jeder regionalen Einheit ist eine eindeutige Sigle zugeordnet. Die größte regionale Einheit stellt dabei das \Bundesland\ dar, welches folgendermaßen unterteilt ist: Südtirol (Sigle 1A), Osttirol (Sigle 1B), Nordtirol (Sigle 1C), Kärnten (Sigle 2), Steiermark (Sigle 3), Salzburg (Sigle 4), Oberösterreich (Sigle 5), Niederösterreich (Sigle 6), Wien (Sigle 6.5) sowie Burgenland (Sigle 7). \nDie zweitgrößte regionale Einheit ist die \Großregion\, welche die Bundesländer in weitere Teilbereiche untergliedert. \nDie drittgrößte regionale Einheit ist die \Kleinregion\, welche die Großregionen in weitere Teilbereiche untergliedert.\nDie viertgrößte regionale Einheit ist die \Gemeinde\, welche die Kleinregionen in weitere Teilbereiche untergliedert.
+  Herkunftsort: Geographische Lokation, aus der ein Beleg stammt. Die Angabe erfolgt auf der jeweils spezifischsten verfügbaren Ebene: Ist eine Gemeinde bekannt, wird diese angegeben; andernfalls eine Kleinregion, eine Großregion oder - als letzte Möglichkeit - das Bundesland.
+Belege[17]{ID,Fragebogennummer,Lemma,POS,Bedeutung_des_Belegsatzes,Bedeutung_der_Lautung,Belegsatz1,Belegsatz2,Lautung1,Lautung2,Großregion,Herkunftsort,Diverses,Anmerkung}:
+  f293_qdb-d1e56954,,Furi;,Subst;,,Furie;,,,,,5.4 Mühlv.;,5.4b13 Ulrichsberg;,,
+  f293_qdb-d1e56977,,Furi;,Subst;,,Schimpfwort für böses Weib;Schimpfwort für böses Weib;,,,,,6.5 Wien;,,,
+  f293_qdb-d1e57001,,Furi;,Subst;,,Furie, böses Weib;Furie, böses Weib;,,,,,6.4 Weinv.;6.4 Weinv.;6.4 Weinv.;6.4 Weinv.;6.4 Weinv.;6.4 Weinv.;,,,
+  f293_qdb-d1e57022,,Furi;,Subst;,,böses Weib, Furie;böses Weib, Furie;,,,,,,,,
+  f293_qdb-d1e57045,,Furi;,Subst;,,altes Weib;,,,,,6.3 Waldv.;,6.3q03 St. Leonhard am Hornerwald;,,
+  f293_qdb-d1e57070,,Furi;,Subst;,,Wut; Ausbruch des Zorns; zorniges Weib;Wut Ausbruch des Zorns zorniges Weib;,,,,,,,,
+  f293_qdb-d1e57093,,Furi;,Subst;,,Furie;,,,,,7.1 NBgl.;,7.1e07 Mattersburg;,,
+  f293_qdb-d1e57116,,Furi;,Subst;,,ausgelassene Freude;,,,,,5.3 Traunv.;,5.3c03 Steinbach am Ziehberg;,,
+  f293_qdb-d1e57139,,Furi;,Subst;,in rasender Hast;,,in aller fûri;in aller furi;,einen in die fûri bringen;einen in die furi bringen;,,,,,,
+  f293_qdb-d1e57196,,Furi;,Subst;,,Furie = ungezügelt wildes Weib;Furie = ungezügelt wildes Weib;,,,,,6.1 Mostv.;,6.1o01 Herzogenburg;,,
+  f293_qdb-d1e57228,,Furi;,Subst;,orig: eine Xanthippe;translated: zänkisches Weib;,,a rechdi Furi;,,,,,,,
+  f293_qdb-d1e57276,,Furi;,Subst;,,Wut, Zorn;,,,,,,,Wortart 502, 506, Wortbildung 522, Entl. 579;,
+  f293_qdb-d1e57310,,Furi;,Subst;,,wildzorniges Weib, Furie;,,,,,,,,
+  f293_qdb-d1e57335,,Furi;,Subst;,,Raserei; Tollheit; wildes oder zorniges Benehmen;Raserei Tollheit wildes oder zorniges Benehmen;,,,,,,,,
+  f293_qdb-d1e57358,,Furi;,Subst;,,Furie;,,,,,6.5 Wien;,,,
+  f293_qdb-d1e57418,,Furi;,Subst;,,Wut;,,,,,2.1 ObKtn.;,2.1h02 Hermagor-Pressegger See;,,
+  f293_qdb-d1e57443,,Furi;,Subst;,in wilder Erregung;,Wut, Zorn;,in der fûrɛ;in der fure;,,,,,,,

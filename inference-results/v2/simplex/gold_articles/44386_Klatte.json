@@ -1,0 +1,35 @@
+{
+  "Lemma": "Klatte¹",
+  "POS": "Substantiv",
+  "Genus": "Femininum",
+  "Form": null,
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "Klaue; Kralle; Tatze",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir.",
+        "p3 Stmk."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "große, unförmige, grobe Hand",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A.1 wSTir.",
+        "p1C.1 wNTir."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "Nim̄'s it in deini Klā̊tn",
+          "Herkunftsort": "Mals"
+        }
+      ]
+    }
+  ]
+}

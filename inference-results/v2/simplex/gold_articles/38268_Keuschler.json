@@ -1,0 +1,48 @@
+{
+  "Lemma": "Keuschler",
+  "POS": "Substantiv",
+  "Genus": "Maskulinum",
+  "Form": {
+    "form": "Keuschlerin",
+    "typ": "Movierung",
+    "genus": "Femininum"
+  },
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "Person, die ein kleines (bäuerliches) Anwesen/Haus bewohnt oder besitzt; Kleinbauer",
+      "Typ": "Unterbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p1A STir.",
+        "p1B.0 OTir.",
+        "p1C NTir.",
+        "p2 Ktn.",
+        "p3 Stmk.",
+        "p4.1 Lung.",
+        "p4.2 Pinzg.",
+        "p4.3 Pong.",
+        "p4.5 Flachg.",
+        "p5.1 Innv.",
+        "p5.3 Traunv.",
+        "p5.4 Mühlv.",
+        "p6 NÖ",
+        "p6.5 Wien",
+        "p7 Bgl."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "a Hallb(a)r Gkeischlar",
+          "Herkunftsort": "Hermagor-Pressegger See"
+        },
+        {
+          "Belegsatz": "wie a fleißige Geischlerin ging sie nia larer zan Haus",
+          "Herkunftsort": "Bad Kleinkirchheim"
+        },
+        {
+          "Belegsatz": "I bi a orma Käuschla holt",
+          "Herkunftsort": "SBgl."
+        }
+      ]
+    }
+  ]
+}

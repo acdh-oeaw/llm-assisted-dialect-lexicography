@@ -1,0 +1,154 @@
+{
+    "Lemma": "graupecht",
+    "POS": "Adj.",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "unordentlich; zerrauft",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.3 Waldv.",
+                "6.5 Wien"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g343_qdb-d1e73085",
+                    "Belegsatz": "grauperta [P,fl]   Hund!",
+                    "Herkunftsort": "6.3a15 Kautzen"
+                },
+                {
+                    "ID": "g343_qdb-d1e77010",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.3 Waldv."
+                },
+                {
+                    "ID": "g343_qdb-d1e76919",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g343_qdb-d1e73085",
+                "g343_qdb-d1e77010",
+                "g343_qdb-d1e76919"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "struppig; zottig",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.4 Weinv.",
+                "6.2 Industriev."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g343_qdb-d1e76963",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.4f12 Kreuttal"
+                },
+                {
+                    "ID": "g343_qdb-d1e76869",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.2h15 Krumbach"
+                }
+            ],
+            "Belege": [
+                "g343_qdb-d1e76963",
+                "g343_qdb-d1e76869"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "stark behaart",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "5.2 Hausrv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g343_qdb-d1e77115",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.2a39 Traun"
+                }
+            ],
+            "Belege": [
+                "g343_qdb-d1e77115"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "klein; unansehnlich",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "2.2 MKtn."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g343_qdb-d1e72866",
+                    "Belegsatz": "",
+                    "Herkunftsort": "2.2d02 Reichenau"
+                }
+            ],
+            "Belege": [
+                "g343_qdb-d1e72866"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "traubig; körnig; borstig; ruppig",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                ""
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g343_qdb-d1e78488",
+                    "Belegsatz": "O: ein Vöglein mach sich SO, bevor es stirbt",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g343_qdb-d1e78488"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "aufgeregt",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "3.3 WStmk."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g343_qdb-d1e83137",
+                    "Belegsatz": "",
+                    "Herkunftsort": "3.3c08 Stainz"
+                }
+            ],
+            "Belege": [
+                "g343_qdb-d1e83137"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "verächtliche Person; schwächliche Person",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                ""
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "g343_qdb-d1e72534",
+                    "Belegsatz": "grauperts [P,fl]   Mensch",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "g343_qdb-d1e72534"
+            ]
+        }
+    ]
+}

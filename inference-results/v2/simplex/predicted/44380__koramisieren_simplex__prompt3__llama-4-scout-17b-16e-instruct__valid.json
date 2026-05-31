@@ -1,0 +1,109 @@
+{
+    "Lemma": "koramisieren",
+    "POS": "Verb",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "jemanden zurechtweisen oder maßregeln",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.4 Weinv.",
+                "6.3 Waldv.",
+                "5.4 Mühlv.",
+                "6.5 Wien"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k508_qdb-d1e37467",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k508_qdb-d1e37067",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k508_qdb-d1e37252",
+                    "Belegsatz": "",
+                    "Herkunftsort": "5.4b13 Ulrichsberg"
+                }
+            ],
+            "Belege": [
+                "k508_qdb-d1e37467",
+                "k508_qdb-d1e37067",
+                "k508_qdb-d1e37252"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "jemanden peinigen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.4 Weinv.",
+                "6.4i13 Stetten"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k508_qdb-d1e37136",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.4e09 Röschitz"
+                },
+                {
+                    "ID": "k508_qdb-d1e37198",
+                    "Belegsatz": "",
+                    "Herkunftsort": "6.4i13 Stetten"
+                }
+            ],
+            "Belege": [
+                "k508_qdb-d1e37136",
+                "k508_qdb-d1e37198"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "jemanden zur Rede stellen oder einen Verweis erteilen",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.5 Wien",
+                "6.3 Waldv."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k508_qdb-d1e37374",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                },
+                {
+                    "ID": "k508_qdb-d1e37113",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k508_qdb-d1e37374",
+                "k508_qdb-d1e37113"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "Ordnung machen oder dreinfahren",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "6.5 Wien"
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k508_qdb-d1e37401",
+                    "Belegsatz": "",
+                    "Herkunftsort": ""
+                }
+            ],
+            "Belege": [
+                "k508_qdb-d1e37401"
+            ]
+        }
+    ]
+}

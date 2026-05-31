@@ -1,0 +1,50 @@
+{
+    "Lemma": "keiden",
+    "POS": "Verb",
+    "Genus": "",
+    "Kasus": "",
+    "Bedeutungen": [
+        {
+            "Bedeutungsphrase": "keimen",
+            "Typ": "Hauptbedeutung",
+            "Gruppierung": "Bedeutung",
+            "Regionen": [
+                "1C.1 wNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k467_qdb-d1e33060",
+                    "Belegsatz": "əs tuːt kχaidə;",
+                    "Herkunftsort": "1C.1n01 Imst"
+                },
+                {
+                    "ID": "k467_qdb-d1e32925",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.1m10 Serfaus"
+                }
+            ],
+            "Belege": [
+                "k467_qdb-d1e33060",
+                "k467_qdb-d1e32925"
+            ]
+        },
+        {
+            "Bedeutungsphrase": "treiben (von Kartoffeln im Keller)",
+            "Typ": "Unterbedeutung",
+            "Gruppierung": "differenzierte Bedeutung",
+            "Regionen": [
+                "1C.1 wNTir."
+            ],
+            "Belegsaetze": [
+                {
+                    "ID": "k467_qdb-d1e32975",
+                    "Belegsatz": "",
+                    "Herkunftsort": "1C.1g02 St. Anton am Arlberg"
+                }
+            ],
+            "Belege": [
+                "k467_qdb-d1e32975"
+            ]
+        }
+    ]
+}

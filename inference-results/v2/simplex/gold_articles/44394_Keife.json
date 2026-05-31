@@ -1,0 +1,68 @@
+{
+  "Lemma": "Keife",
+  "POS": "Substantiv",
+  "Genus": "Femininum",
+  "Form": {
+    "form": "Keifel Keifelein",
+    "typ": "Diminutive",
+    "genus": "Neutrum"
+  },
+  "Bedeutungen": [
+    {
+      "Bedeutungsphrase": "abwertende (Schimpf-)Bezeichnung für einen (weiblichen) Hund",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "Bedeutung",
+      "Regionen": [
+        "p2 Ktn.",
+        "p3.1 sbair.ObStmk.",
+        "p3.2 mbair.ObStmk.",
+        "p3.3 WStmk.",
+        "p5.3 Traunv.",
+        "p6.1 Mostv.",
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "ɒ kx̩lā̰s kấif̩įlḙ",
+          "Herkunftsort": "Lesachtal"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "abwertende Bezeichnung für eine böse scheltende, ständig nörgelnde Frau",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "differezierte Bedeutung",
+      "Regionen": [
+        "p1C.2 mNTir.",
+        "p2.2 MKtn.",
+        "p3.3 WStmk.",
+        "p5.4 Mühlv.",
+        "p6.4 Weinv."
+      ],
+      "Belegsaetze": [
+        {
+          "Belegsatz": "die ålte Keifen",
+          "Herkunftsort": "Innsbruck"
+        }
+      ]
+    },
+    {
+      "Bedeutungsphrase": "alter, abgenützter Hut",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "weitere Bedeutung 1",
+      "Regionen": [
+        "p2 Ktn."
+      ],
+      "Belegsaetze": null
+    },
+    {
+      "Bedeutungsphrase": "Schnittkurve eines Gefäßmantels",
+      "Typ": "Hauptbedeutung",
+      "Gruppierung": "weitere Bedeutung 2",
+      "Regionen": [
+        "p6.5 Wien"
+      ],
+      "Belegsaetze": null
+    }
+  ]
+}
